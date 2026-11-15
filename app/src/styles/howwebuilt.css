@@ -33,7 +33,7 @@
 
 /* Main column: header, hero, pipeline — no page scroll at 1920×1080 */
 .main.hwb { gap: 0; padding: 10px var(--tz-page-pad) 10px; }
-.hero { display: grid; grid-template-columns: 1fr 320px; gap: 20px; flex: 1; min-height: 0; }
+.hwb-page .hero { display: grid; grid-template-columns: 1fr 320px; gap: 20px; flex: 1; min-height: 0; }
 .hwb-page.state-fan .hero { grid-template-columns: 1fr; }
 .hwb-page.state-fan .rail { display: none; }
 
@@ -253,7 +253,7 @@ mark.hl {
 .rail { display: flex; flex-direction: column; gap: 16px; min-height: 0; }
 .rail .card { padding: 16px 18px; display: flex; flex-direction: column; min-height: 0; }
 .rail h2 { font: 600 15px/1.3 var(--tz-font-ui); margin: 0; }
-.legend { display: flex; flex-direction: column; gap: 7px; margin-top: 4px; }
+.hwb-page .legend { display: flex; flex-direction: column; gap: 7px; margin-top: 4px; }
 .leg {
   display: flex; align-items: center; gap: 10px;
   font: 500 11.5px/1 var(--tz-font-mono); color: var(--tz-ink);
@@ -264,7 +264,7 @@ mark.hl {
 }
 .leg.unused { opacity: .42; }
 .evlist { display: flex; flex-direction: column; gap: 6px; margin-top: 4px; overflow: hidden; }
-.ev {
+.hwb-page .ev {
   display: grid;
   grid-template-columns: 16px 1fr auto;
   gap: 8px;
@@ -274,18 +274,18 @@ mark.hl {
   padding: 6px 0;
   border-bottom: 1px solid var(--tz-line-2);
 }
-.ev:last-child { border-bottom: 0; }
-.ev i { width: 16px; height: 16px; border-radius: 3px; margin-top: 1px; box-shadow: inset 0 0 0 1px rgba(22,35,63,.08); }
-.ev .d { color: var(--tz-navy); font-weight: 600; font-variant-numeric: tabular-nums; }
-.ev .t { color: var(--tz-ink-2); }
-.ev small { display:block; color: var(--tz-ink-4); font-weight:500; font-size:10px; margin-top:1px; }
+.hwb-page .ev:last-child { border-bottom: 0; }
+.hwb-page .ev i { width: 16px; height: 16px; border-radius: 3px; margin-top: 1px; box-shadow: inset 0 0 0 1px rgba(22,35,63,.08); }
+.hwb-page .ev .d { color: var(--tz-navy); font-weight: 600; font-variant-numeric: tabular-nums; }
+.hwb-page .ev .t { color: var(--tz-ink-2); }
+.hwb-page .ev small { display:block; color: var(--tz-ink-4); font-weight:500; font-size:10px; margin-top:1px; }
 .note-sm { font: 500 11px/1.4 var(--tz-font-ui); color: var(--tz-ink-3); margin-top: 8px; }
 
 /* Mini clock */
 .clockbox { display: flex; align-items: center; gap: 16px; }
 .clockbox .who { font: 500 12px/1.4 var(--tz-font-mono); color: var(--tz-ink-2); }
 .clockbox .who b { display: block; font: 700 14px/1.2 var(--tz-font-mono); color: var(--tz-navy); margin-bottom: 4px; }
-.dchip { display: inline-flex; align-items: center; height: 22px; padding: 0 8px; border-radius: 999px;
+.hwb-page .dchip { display: inline-flex; align-items: center; height: 22px; padding: 0 8px; border-radius: 999px;
   font: 700 10.5px/1 var(--tz-font-ui); letter-spacing: .06em; text-transform: uppercase; }
 
 /* ---- Pipeline ---- */
@@ -382,7 +382,7 @@ mark.hl {
 }
 .hwb-page.capture .rail { animation: none !important; opacity: 1; transform: none; }
 
-.ev .diff {
+.hwb-page .ev .diff {
   display: inline-block;
   margin-left: 6px;
   font: 700 9.5px/1 var(--tz-font-ui);

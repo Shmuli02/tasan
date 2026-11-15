@@ -557,7 +557,7 @@ export function TasanLive({ lang }: { lang: "en" | "fi" }) {
           </div>
         </div>
 
-        <div className="dcard blocks" style={{ gridColumn: 1, gridRow: 3 }}>
+        <div className="dcard blocks">
           <div className="dcard">
             <div className="hd">
               <h3>{fi ? "Esteet nyt" : "Blockers now"}</h3>
@@ -582,7 +582,7 @@ export function TasanLive({ lang }: { lang: "en" | "fi" }) {
           </div>
         </div>
 
-        <div className="dcard trend" style={{ gridColumn: 2, gridRow: 3 }}>
+        <div className="dcard trend">
           <div className="hd">
             <h3>{fi ? "Missä aika kuluu" : "Where time is lost"}</h3>
             <span className="mut">{fi ? "ESIMERKKI" : "EXAMPLE"} · {fi ? "mediaanipäivät" : "median days"}</span>

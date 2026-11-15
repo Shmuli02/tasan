@@ -3,6 +3,8 @@
 @import "./styles/overview.css";
 @import "./styles/live.css";
 @import "./styles/howwebuilt.css";
+@import "./styles/pilot.css";
+@import "./styles/responsive.css";
 @import "tailwindcss";
 
 @theme {
