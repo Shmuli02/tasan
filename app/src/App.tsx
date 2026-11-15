@@ -1,6 +1,5 @@
 import { useEffect, useState, type ReactNode } from "react";
 import { Overview } from "./components/Overview";
-import { AskPanel } from "./components/AskPanel";
 import { TasanLive } from "./components/TasanLive";
 import { PilotView } from "./components/PilotView";
 import { HowWeBuilt } from "./components/HowWeBuilt";
@@ -8,7 +7,6 @@ import { PilotBriefModal } from "./components/PilotBriefModal";
 import { PolkuSwitch } from "./components/PolkuLink";
 import type { PilotBriefDraft } from "./lib/briefDraft";
 import { isExampleApp } from "./lib/data";
-import { shortName } from "./lib/chartData";
 
 export type Lang = "en" | "fi";
 export type TabId = "overview" | "live" | "pilot" | "built";
@@ -20,16 +18,10 @@ const TABS: { id: TabId; en: string; fi: string; sv?: string; example?: boolean;
   { id: "built", en: "How we built it", fi: "Näin teimme tämän", sv: "Så här byggde vi det", icon: "layers" },
 ];
 
-function isNarrowScreen(): boolean {
-  return typeof window !== "undefined" && window.matchMedia("(max-width: 1600px)").matches;
-}
-
 export function App() {
   const [lang, setLang] = useState<Lang>("en");
   const [tab, setTab] = useState<TabId>("overview");
   const [selectedId, setSelectedId] = useState<string | null>("21");
-  const [narrow, setNarrow] = useState(isNarrowScreen);
-  const [askOpen, setAskOpen] = useState(() => !isNarrowScreen());
   const [sourcesOn, setSourcesOn] = useState(true);
   const [briefOpen, setBriefOpen] = useState(false);
   const [briefDraft, setBriefDraft] = useState<PilotBriefDraft | null>(null);
@@ -66,23 +58,6 @@ export function App() {
     if (tabQ === "live" || tabQ === "overview" || tabQ === "pilot" || tabQ === "built") setTab(tabQ);
   }, []);
 
-  useEffect(() => {
-    const mq = window.matchMedia("(max-width: 1600px)");
-    const apply = () => {
-      setNarrow(mq.matches);
-      setAskOpen(!mq.matches);
-    };
-    mq.addEventListener("change", apply);
-    return () => mq.removeEventListener("change", apply);
-  }, []);
-
-  const countyLabel = selectedId ? shortName(selectedId, lang) : fi ? "Suomi" : "Finland";
-  const tabLabel = TABS.find((t) => t.id === tab);
-  const context =
-    tab === "built"
-      ? (fi ? "Näin teimme tämän" : "How we built it")
-      : `${tab === "overview" ? (fi ? "Suomi" : "Finland") : tab === "live" ? (fi ? "Lappi" : "Lapland") : countyLabel} · ${fi ? tabLabel?.fi : tabLabel?.en}`;
-
   return (
     <div className={`app-root${tab === "live" ? " theme-live" : ""}`}>
       <header className="topbar">
@@ -111,18 +86,9 @@ export function App() {
               EN
             </button>
           </div>
-          <button
-            type="button"
-            className={`btn-ask-header${askOpen ? " on" : ""}`}
-            onClick={() => setAskOpen((v) => !v)}
-            aria-expanded={askOpen}
-            aria-controls="ask-tasan"
-          >
-            Ask Tasan
-          </button>
         </div>
       </header>
-      <div className={`shell${askOpen && !narrow ? "" : " shell-collapsed"}`}>
+      <div className="shell shell-collapsed">
         <main className={`main${tab === "live" ? " console" : ""}`}>
           {tab === "overview" ? (
             <Overview
@@ -141,21 +107,7 @@ export function App() {
             <PilotView lang={lang} onOpenBrief={openBrief} />
           )}
         </main>
-        {askOpen ? (
-          <AskPanel
-            lang={lang}
-            context={context}
-            open={askOpen}
-            onClose={() => setAskOpen(false)}
-            onOpenBrief={openBrief}
-            dark={tab === "live"}
-            tab={tab}
-            countyId={selectedId}
-            countyLabel={countyLabel}
-          />
-        ) : null}
       </div>
-      {askOpen && narrow ? <div className="ask-backdrop" onClick={() => setAskOpen(false)} /> : null}
       {briefOpen ? <PilotBriefModal lang={lang} draft={briefDraft} drafting={briefDrafting} onClose={() => { setBriefOpen(false); setBriefDraft(null); setBriefDrafting(false); }} /> : null}
     </div>
   );

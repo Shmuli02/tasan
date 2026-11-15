@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Tasan pitch video — storyboard (draft, not rendered)</title>
+<style>
+  body { margin:0; background:#F4F1EA; color:#141B2B; font:16px/1.5 Inter, system-ui, sans-serif; }
+  header { background:#16233F; color:#F4F1EA; padding:28px 40px; }
+  header h1 { margin:0 0 6px; font:800 30px/1.2 Nunito, Inter, sans-serif; }
+  header p { margin:0; color:#C9D3E3; }
+  .meta { display:flex; gap:12px; flex-wrap:wrap; margin-top:14px; }
+  .chip { background:#1D2D4F; border:1px solid #2A3B60; border-radius:999px; padding:4px 12px; font-size:14px; }
+  main { padding:24px 40px 60px; max-width:1300px; }
+  .scene { display:grid; grid-template-columns:420px 1fr; gap:24px; background:#fff; border:1px solid #E4DFD4; border-radius:16px; padding:18px; margin-bottom:16px; }
+  .scene img { width:420px; border-radius:10px; border:1px solid #E4DFD4; }
+  .t { font:700 13px/1 Inter; letter-spacing:.08em; text-transform:uppercase; color:#2A7676; }
+  h2 { margin:6px 0 8px; font:700 22px/1.2 Nunito, Inter, sans-serif; color:#16233F; }
+  .row { margin:6px 0; }
+  .lbl { display:inline-block; width:92px; font-weight:600; color:#5A6274; vertical-align:top; }
+  .val { display:inline-block; width:calc(100% - 100px); }
+  .vo { font-style:italic; color:#16233F; }
+  .note { background:#FCE9D6; color:#8A4A0E; border-radius:10px; padding:12px 16px; margin:0 0 20px; }
+  table { border-collapse:collapse; margin:8px 0 24px; } td,th { text-align:left; padding:6px 14px 6px 0; }
+</style></head>
+<body>
+<header>
+  <h1>Tasan pitch video — storyboard</h1>
+  <p>Draft for review. Nothing is rendered yet. Total ≈ 2:45 · 1920×1080 · 30 fps · MP4 (H.264 + AAC)</p>
+  <div class="meta"><span class="chip">11 scenes from the deck</span><span class="chip">Slow push-in on each still</span><span class="chip">0.6 s crossfades</span><span class="chip">Burned-in captions</span><span class="chip">Voice-over: your choice</span></div>
+</header>
+<main>
+<p class="note">Narration is the locked wording from <code>pitch/PITCH_SCRIPT.md</code>. The live demo minute is replaced by two app screens (scenes 6–7), because a video can’t run the live app. If you’d rather drop in a screen recording of the demo, it goes between scenes 5 and 8.</p>
+
+<table>
+<tr><th>Choice to make</th><th>Options</th></tr>
+<tr><td>Voice-over</td><td>(a) macOS built-in voice, rendered here · (b) you record it; I cut to your audio · (c) captions only, quiet music bed</td></tr>
+<tr><td>Captions</td><td>Burned in (default) or a separate .srt</td></tr>
+<tr><td>Length</td><td>≈ 2:45 full, or ≈ 1:30 cut (scenes 1, 2, 4, 5, 9, 11)</td></tr>
+</table>
+
+<div class="scene"><img src="frames/01_cover.png" alt="Cover slide"><div>
+<div class="t">Scene 1 · 0:00–0:06 · 6 s</div><h2>Cover: Same cancer, different postcode.</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">Fade in from navy. Title rises in, then the subtitle. Slow 3% push-in.</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">(silent — title holds on screen)</span></div>
+</div></div>
+
+<div class="scene"><img src="frames/02_people.png" alt="About 65 a year slide"><div>
+<div class="t">Scene 2 · 0:06–0:26 · 20 s</div><h2>≈ 65 a year · Lapland ≈ 12</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">“≈ 65” counts up from 0 over 1.5 s; the Lapland card slides in at 0:18.</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">“Same cancer, different postcode. About 65 more lung cancer patients a year would get curative treatment if every below-average county reached the national rate. That’s Cancer Registry counts for 2019 to 2023. It’s illustrative, and it isn’t stage-adjusted. About 12 of them a year are in Lapland.”</span></div>
+</div></div>
+
+<div class="scene"><img src="frames/03_proof.png" alt="Age-adjusted interval chart"><div>
+<div class="t">Scene 3 · 0:26–0:46 · 20 s</div><h2>Age-adjusted, the gap stays</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">Interval rows draw in one by one (men, then women).</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">“And it isn’t just age. Age-adjusted, about 16 in 100 men with lung cancer in Lapland have a curative-treatment record within a year, against about 30 in 100 in Vantaa-Kerava. That’s a chart estimate from the 2026 Cancer Registry report. The intervals don’t overlap. Women show the same gap. It’s not survival.”</span></div>
+</div></div>
+
+<div class="scene"><img src="frames/04_gap.png" alt="Goal 3 quote and zero public reports"><div>
+<div class="t">Scene 4 · 0:46–1:00 · 14 s</div><h2>Goal 3: the missing clock</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">Quote fades in; “0” lands at 0:52; last line in teal at 0:56.</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">“Goal 3 of Finland’s cancer strategy says patients must start treatment within the target times. Today no county can see that clock for its own patients. Tasan is that clock.”</span></div>
+</div></div>
+
+<div class="scene"><img src="frames/05_clock.png" alt="Four dates, one alert, one owner"><div>
+<div class="t">Scene 5 · 1:00–1:12 · 12 s</div><h2>Four dates, one alert, one owner</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">The bar fills left to right like a clock; at day 28 it turns amber and the alert text appears.</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">“Every lung patient’s clock starts when the referral arrives. On day 28 with no treatment decision, the nurse navigator gets an alert and owns that patient.”</span></div>
+</div></div>
+
+<div class="scene"><img src="frames/06_overview.png" alt="App overview screen"><div>
+<div class="t">Scene 6 · 1:12–1:24 · 12 s</div><h2>The app: every number shows its source</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">Push in from full slide to the map and the “No sourced answer” card.</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">“Every number in Tasan shows its source. Ask it something nobody in Finland can answer, and it says so. That missing number is the pilot.”</span></div>
+</div></div>
+
+<div class="scene"><img src="frames/07_live.png" alt="Tasan Live console"><div>
+<div class="t">Scene 7 · 1:24–1:36 · 12 s</div><h2>Tasan Live: the navigator’s console</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">Push in to the D28 alert card. “Simulated patients” label stays on screen.</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">“This is what the navigator sees: every open pathway, sorted by risk, with the blocker named. These patients are simulated.”</span></div>
+</div></div>
+
+<div class="scene"><img src="frames/08_extract.png" alt="Tasan Extract on Verda"><div>
+<div class="t">Scene 8 · 1:36–1:48 · 12 s</div><h2>Tasan Extract on Finnish GPUs</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">The three cards rise in turn.</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">“To fill the clock from clinical notes, we ran an open model on a Verda GPU in Finland. The notes never leave the country, and the dates go straight into the clock.”</span></div>
+</div></div>
+
+<div class="scene"><img src="frames/09_pilot.png" alt="Lapland pilot timeline and cost"><div>
+<div class="t">Scene 9 · 1:48–2:16 · 28 s</div><h2>Lapland can start on Monday</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">Timeline cards appear in step with the voice; team line last.</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">“Lapland can start on Monday. The chief medical officer signs a 90-day pilot: one nurse navigator and half an analyst. In the first month we measure Lapland’s own baseline and check the registry against the hospital’s records. After that, every patient with no treatment decision by day 28 goes to the navigator. On day 90 the county decides go or stop.”</span></div>
+</div></div>
+
+<div class="scene"><img src="frames/10_honest.png" alt="What we show and what we don't claim"><div>
+<div class="t">Scene 10 · 2:16–2:24 · 8 s</div><h2>What we don’t claim</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">Table rows reveal top to bottom. Held long enough to read.</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">(silent — on-screen only)</span></div>
+</div></div>
+
+<div class="scene"><img src="frames/11_ask.png" alt="The ask"><div>
+<div class="t">Scene 11 · 2:24–2:44 · 20 s</div><h2>The ask</h2>
+<div class="row"><span class="lbl">Motion</span><span class="val">Teal wipe in; lines appear with the voice; ends on the logo and demo URL for 3 s.</span></div>
+<div class="row"><span class="lbl">Voice</span><span class="val vo">“Your challenge asks for a follow-up with a Finnish wellbeing services county. Our ask: help us put this brief in front of Lapland’s chief medical officer. Ninety days, one clock, one nurse. Tasan, koska hoito ei saa riippua postinumerosta.”</span></div>
+</div></div>
+</main>
+</body></html>

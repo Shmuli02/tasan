@@ -1,0 +1,422 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>tasan — Level it out (preview)</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800&family=Inter:wght@400;600;700&display=swap">
+<style>
+  html,body { margin:0; height:100%; background:#0B1220; color:#E7ECF5; font:14px Inter, system-ui, sans-serif; }
+  #wrap { display:flex; flex-direction:column; height:100%; }
+  #stage { flex:1; display:flex; align-items:center; justify-content:center; min-height:0; padding:12px; }
+  canvas { max-width:100%; max-height:100%; aspect-ratio:16/9; background:#16233F; border-radius:6px; box-shadow:0 10px 40px rgba(0,0,0,.4); }
+  #bar { display:flex; gap:12px; align-items:center; padding:10px 16px 14px; }
+  button { background:#3A9A9A; color:#0B1220; border:0; border-radius:999px; padding:8px 18px; font:700 14px Inter; cursor:pointer; }
+  input[type=range] { flex:1; accent-color:#3A9A9A; }
+  #time { font-variant-numeric:tabular-nums; width:110px; text-align:right; color:#A9B4C8; }
+  #scene { width:120px; color:#5CC4C4; font-weight:600; }
+  body.render #bar { display:none; } body.render #stage { padding:0; } body.render canvas { border-radius:0; box-shadow:none; }
+</style></head>
+<body>
+<div id="wrap">
+  <div id="stage"><canvas id="c" width="1920" height="1080"></canvas></div>
+  <div id="bar"><button id="play">▶ Play</button><span id="scene"></span><input id="scrub" type="range" min="0" max="60" step="0.01" value="0"><span id="time">0.00 / 60.00</span></div>
+</div>
+<audio id="aud" src="audio/mix.wav" preload="auto"></audio>
+<script>
+const W = 1920, H = 1080;
+const C = { navy:'#16233F', paper:'#F4F1EA', teal:'#3A9A9A', tealInk:'#2A7676', amber:'#D9822B', light:'#5CC4C4',
+            dark:'#0E1628', ink2:'#3E4759', mute:'#5A6274', soft:'#C9D3E3', line:'#E4DFD4', navy2:'#22325A', navy3:'#3B4C74' };
+const VOICE_LEN = { 'v1.wav':4.758, 'v2.wav':4.844, 'v3.wav':9.907, 'v4.wav':6.502, 'v5.wav':9.181, 'v6.wav':5.852, 'v7.wav':3.369 };
+const cv = document.getElementById('c'); let ctx = cv.getContext('2d'); const MAIN = ctx;
+let TL, MAP, PATHS = {}, LAP = {x:0,y:0}, CAPS = [];
+
+// ---------- helpers ----------
+const clamp = (x,a=0,b=1) => Math.min(b, Math.max(a, x));
+const prog = (u,a,b) => clamp((u-a)/(b-a));
+const lerp = (a,b,p) => a + (b-a)*p;
+const eo = p => 1 - Math.pow(1-p, 3);
+const eio = p => p < .5 ? 4*p*p*p : 1 - Math.pow(-2*p+2, 3)/2;
+const back = p => { const c1 = 1.70158, c3 = c1+1; return 1 + c3*Math.pow(p-1,3) + c1*Math.pow(p-1,2); };
+const spring = s => s <= 0 ? 0 : 1 - Math.exp(-5*s) * Math.cos(13*s);
+const hash = i => { const x = Math.sin(i*127.1 + 311.7) * 43758.5453; return x - Math.floor(x); };
+
+function rr(x, y, w, h, r) { ctx.beginPath(); ctx.roundRect(x, y, w, h, r); }
+function text(s, x, y, font, color, align='left', alpha=1) {
+  ctx.save(); ctx.globalAlpha *= alpha; ctx.font = font; ctx.fillStyle = color; ctx.textAlign = align; ctx.textBaseline = 'alphabetic'; ctx.fillText(s, x, y); ctx.restore();
+}
+function bg(color) { ctx.fillStyle = color; ctx.fillRect(0, 0, W, H); }
+
+// ---------- characters ----------
+function bubbleFace(r, mood, blink, look=0) {
+  // mood: 1 happy, 0 neutral, -1 worried
+  ctx.save(); ctx.fillStyle = C.navy; ctx.strokeStyle = C.navy; ctx.lineCap = 'round';
+  const ex = r*0.32, ey = -r*0.12, er = r*0.12;
+  for (const s of [-1, 1]) {
+    ctx.beginPath(); ctx.ellipse(s*ex + look*r*0.08, ey, er, er*Math.max(0.12, 1-blink), 0, 0, Math.PI*2); ctx.fill();
+  }
+  ctx.lineWidth = r*0.09; ctx.beginPath();
+  if (mood >= 0) ctx.arc(0, r*0.12, r*0.32, Math.PI*0.15, Math.PI*0.85);
+  else ctx.arc(0, r*0.52, r*0.26, Math.PI*1.2, Math.PI*1.8);
+  if (mood !== 0) ctx.stroke(); else { ctx.beginPath(); ctx.moveTo(-r*0.18, r*0.3); ctx.lineTo(r*0.18, r*0.3); ctx.stroke(); }
+  if (mood < 0) { // sweat drop
+    ctx.fillStyle = '#BFE3F2'; ctx.beginPath(); ctx.ellipse(r*0.78, -r*0.45, r*0.1, r*0.16, 0, 0, Math.PI*2); ctx.fill();
+  }
+  ctx.restore();
+}
+function level(cx, cy, w, h, off, bScale, mood, blink, look=0, face=true) {
+  ctx.save(); ctx.translate(cx, cy);
+  rr(-w/2, -h/2, w, h, h/2); ctx.fillStyle = C.paper; ctx.fill();
+  const bw = w*0.72, bh = Math.max(4, h*0.09);
+  rr(-bw/2, -bh/2, bw, bh, bh/2); ctx.fillStyle = C.navy; ctx.fill();
+  const br = h*0.27;
+  ctx.fillStyle = C.navy; for (const s of [-1,1]) { rr(s*br*1.55 - bh*0.3, -h*0.3, bh*0.6, h*0.6, bh*0.3); ctx.fill(); }
+  if (bScale > 0) {
+    ctx.save(); ctx.translate(off, 0); ctx.scale(bScale, bScale);
+    ctx.beginPath(); ctx.arc(0, 0, br, 0, Math.PI*2); ctx.fillStyle = C.teal; ctx.fill();
+    ctx.beginPath(); ctx.arc(-br*0.35, -br*0.4, br*0.18, 0, Math.PI*2); ctx.fillStyle = 'rgba(255,255,255,.35)'; ctx.fill();
+    if (face && br > 24) bubbleFace(br, mood, blink, look);
+    ctx.restore();
+  }
+  ctx.restore();
+}
+function person(x, y, s, color, alpha=1) {
+  ctx.save(); ctx.globalAlpha *= alpha; ctx.fillStyle = color; ctx.translate(x, y); ctx.scale(s, s);
+  ctx.beginPath(); ctx.arc(0, -14, 8, 0, Math.PI*2); ctx.fill();
+  rr(-11, -3, 22, 19, [10,10,3,3]); ctx.fill();
+  ctx.restore();
+}
+function pin(x, y, color) {
+  ctx.save(); ctx.translate(x, y); ctx.fillStyle = color;
+  ctx.beginPath(); ctx.arc(0, -36, 20, Math.PI*0.85, Math.PI*2.15); ctx.lineTo(0, 0); ctx.closePath(); ctx.fill();
+  ctx.beginPath(); ctx.arc(0, -36, 8, 0, Math.PI*2); ctx.fillStyle = C.navy; ctx.fill();
+  ctx.restore();
+}
+function nurse(x, y, s) {
+  ctx.save(); ctx.translate(x, y); ctx.scale(s, s);
+  rr(-48, 10, 96, 110, [40,40,10,10]); ctx.fillStyle = C.tealInk; ctx.fill();          // scrubs
+  rr(-14, 10, 28, 26, 6); ctx.fillStyle = '#FBE3CF'; ctx.fill();                         // neck
+  ctx.beginPath(); ctx.arc(0, -30, 42, 0, Math.PI*2); ctx.fillStyle = '#FBE3CF'; ctx.fill(); // head
+  ctx.beginPath(); ctx.arc(0, -42, 44, Math.PI*1.05, Math.PI*1.95); ctx.fillStyle = '#5B3A29'; ctx.fill(); // hair
+  rr(-30, -86, 60, 26, 8); ctx.fillStyle = '#FFFFFF'; ctx.fill();                          // cap
+  ctx.fillStyle = C.teal; rr(-4, -82, 8, 18, 2); ctx.fill(); rr(-9, -77, 18, 8, 2); ctx.fill();
+  ctx.fillStyle = C.navy; for (const s of [-1,1]) { ctx.beginPath(); ctx.arc(s*15, -30, 5, 0, Math.PI*2); ctx.fill(); }
+  ctx.strokeStyle = C.navy; ctx.lineWidth = 4; ctx.lineCap = 'round'; ctx.beginPath(); ctx.arc(0, -18, 14, Math.PI*0.2, Math.PI*0.8); ctx.stroke();
+  ctx.restore();
+}
+function reindeer(x, y, s, phase) {
+  ctx.save(); ctx.translate(x, y); ctx.scale(s, s); ctx.fillStyle = 'rgba(244,241,234,.92)'; ctx.strokeStyle = 'rgba(244,241,234,.92)'; ctx.lineCap = 'round';
+  ctx.lineWidth = 9;
+  const legs = [[-40, 0], [-25, Math.PI], [30, Math.PI*0.5], [45, Math.PI*1.5]];
+  for (const [lx, ph] of legs) { const a = Math.sin(phase + ph) * 0.45; ctx.beginPath(); ctx.moveTo(lx, 10); ctx.lineTo(lx + Math.sin(a)*48, 10 + Math.cos(a)*48); ctx.stroke(); }
+  ctx.beginPath(); ctx.ellipse(0, 0, 66, 30, 0, 0, Math.PI*2); ctx.fill();
+  ctx.lineWidth = 16; ctx.beginPath(); ctx.moveTo(48, -10); ctx.lineTo(74, -46); ctx.stroke();
+  ctx.beginPath(); ctx.ellipse(88, -52, 24, 14, 0.35, 0, Math.PI*2); ctx.fill();
+  ctx.lineWidth = 5; ctx.beginPath();
+  ctx.moveTo(78, -62); ctx.lineTo(64, -104); ctx.moveTo(70, -86); ctx.lineTo(52, -94); ctx.moveTo(66, -98); ctx.lineTo(76, -116);
+  ctx.moveTo(88, -64); ctx.lineTo(96, -104); ctx.moveTo(93, -86); ctx.lineTo(110, -96); ctx.stroke();
+  ctx.lineWidth = 6; ctx.beginPath(); ctx.moveTo(-64, -6); ctx.lineTo(-78, -18); ctx.stroke();
+  ctx.restore();
+}
+function drawMap(cx, cy, mh, opt={}) {
+  const mw = MAP.w * mh;
+  ctx.save(); ctx.translate(cx - mw/2, cy - mh/2); ctx.scale(mh, mh);
+  ctx.lineJoin = 'round'; ctx.lineWidth = (opt.lw || 2) / mh;
+  for (const f of MAP.features) {
+    const p = PATHS[f.id];
+    ctx.fillStyle = (opt.hi && opt.hi[f.id]) || opt.fill || C.navy2; ctx.globalAlpha = opt.alpha ?? 1; ctx.fill(p);
+    ctx.strokeStyle = opt.stroke || C.navy3; ctx.stroke(p);
+  }
+  ctx.restore();
+  return { x: cx - mw/2, y: cy - mh/2, s: mh };
+}
+function check(x, y, r, p, color=C.teal, glyph='check') {
+  ctx.save(); ctx.translate(x, y); const s = back(clamp(p)); ctx.scale(s, s);
+  ctx.beginPath(); ctx.arc(0, 0, r, 0, Math.PI*2); ctx.fillStyle = color; ctx.fill();
+  ctx.strokeStyle = C.navy; ctx.lineWidth = r*0.18; ctx.lineCap = 'round'; ctx.lineJoin = 'round'; ctx.beginPath();
+  if (glyph === 'check') { ctx.moveTo(-r*0.42, 0); ctx.lineTo(-r*0.1, r*0.32); ctx.lineTo(r*0.45, -r*0.32); }
+  else { ctx.moveTo(-r*0.4, 0); ctx.lineTo(r*0.4, 0); ctx.moveTo(r*0.1, -r*0.3); ctx.lineTo(r*0.42, 0); ctx.lineTo(r*0.1, r*0.3); }
+  ctx.stroke(); ctx.restore();
+}
+
+// ---------- scenes (u = seconds into scene) ----------
+const S = {};
+S.meet = u => {
+  bg(C.navy);
+  const drop = spring(u - 0.05);
+  const y = lerp(-300, 520, clamp(drop, 0, 1.2));
+  const pop = spring((u - 0.75) * 1.1);
+  const settle = u < 0.75 ? 160 : 160 * Math.exp(-2.2*(u-0.75)) * Math.cos(7*(u-0.75));
+  const blink = (u > 3.4 && u < 3.55) ? 1 : 0;
+  level(960, y, 760, 200, settle, clamp(pop, 0, 1.15), u > 1.8 ? 1 : 0, blink, settle < -10 ? -1 : settle > 10 ? 1 : 0);
+  const a = eo(prog(u, 3.6, 4.2));
+  text('Level.', 960, 300 - 20*(1-a), '800 96px Nunito', C.paper, 'center', a);
+};
+S.tilt = u => {
+  bg(C.navy);
+  const reveal = eo(prog(u, 0, 1.1));
+  const ang = -0.17 * eio(prog(u, 0.25, 1.1));
+  ctx.save(); ctx.translate(1290, 540); ctx.rotate(ang); ctx.translate(-1290, -540);
+  ctx.globalAlpha = reveal; drawMap(1290, 520, 840 * lerp(0.9, 1, reveal), { fill: C.navy2, stroke: C.navy3 }); ctx.globalAlpha = 1;
+  const slide = eio(prog(u, 0.9, 1.6));
+  const wob = u > 1.6 ? 10 * Math.exp(-4*(u-1.6)) * Math.sin(16*(u-1.6)) : 0;
+  level(1290, 540, 560, 150, lerp(0, -190, slide) + wob, 1, u > 1.25 ? -1 : 0, (u > 4.5 && u < 4.62) ? 1 : 0, -1);
+  ctx.restore();
+  const a1 = eo(prog(u, 3.0, 3.5)), a2 = eo(prog(u, 3.6, 4.1));
+  text('Same cancer,', 140, 470 - 24*(1-a1), '800 92px Nunito', C.paper, 'left', a1);
+  text('different postcode.', 140, 580 - 24*(1-a2), '800 92px Nunito', C.light, 'left', a2);
+};
+S.people = u => {
+  bg(C.paper);
+  const shown = Math.round(65 * clamp((u - 0.8) / 4.2));
+  const big = shown;
+  const a0 = eo(prog(u, 0, 0.5));
+  text('≈ ' + big, 140, 520, '800 250px Nunito', C.navy, 'left', a0);
+  text('more patients a year', 150, 600, '700 46px Nunito', C.tealInk, 'left', a0);
+  text('could get curative treatment', 150, 656, '700 46px Nunito', C.tealInk, 'left', a0);
+  text('Illustrative · crude · not stage-adjusted · Cancer Registry counts 2019–2023', 150, 900, '600 26px Inter', C.mute, 'left', eo(prog(u, 1.0, 1.6)));
+  // map
+  const m = drawMap(1610, 500, 760, { fill: '#DCE7E4', stroke: '#FFFFFF', lw: 2, hi: u > 8.2 ? { '21': '#BCDCD6' } : null });
+  const lapX = m.x + LAP.x * m.s, lapY = m.y + LAP.y * m.s;
+  // grid of 65
+  const cols = 13, gx = 860, gy = 380, cell = 42;
+  for (let i = 0; i < 65; i++) {
+    const r = Math.floor(i / cols), c = i % cols;
+    const appear = 0.8 + 4.2 * i / 65;
+    const s = clamp(spring((u - appear) * 1.3), 0, 1.2);
+    if (s <= 0) continue;
+    let x = gx + c * cell, y = gy + r * cell * 1.15;
+    const isLap = c >= 10 && r >= 1;
+    let col = C.navy;
+    if (isLap && u > 8.2) {
+      const k = (r - 1) * 3 + (c - 10); const hp = eio(prog(u, 8.3 + k*0.05, 9.3 + k*0.05));
+      const tx = lapX + ((k % 4) - 1.5) * 30, ty = lapY - 40 + Math.floor(k / 4) * 34;
+      x = lerp(x, tx, hp); y = lerp(y, ty, hp) - Math.sin(hp * Math.PI) * 120;
+      col = C.teal;
+    }
+    person(x, y, s * (isLap && u > 8.2 ? 1.1 : 1), col, isLap && u > 8.2 ? 1 : 0.88);
+  }
+  const la = eo(prog(u, 9.4, 9.9));
+  if (la > 0) {
+    rr(lapX - 120, lapY + 92, 240, 64, 32); ctx.fillStyle = C.navy; ctx.globalAlpha = la; ctx.fill(); ctx.globalAlpha = 1;
+    text('Lapland ≈ 12', lapX, lapY + 136, '800 34px Nunito', C.paper, 'center', la);
+  }
+};
+S.clock = u => {
+  bg(C.navy);
+  const cx = 960, cy = 470, R = 230;
+  const a = spring(u * 1.2);
+  ctx.save(); ctx.translate(cx, cy); ctx.scale(clamp(a, 0, 1.1), clamp(a, 0, 1.1));
+  ctx.beginPath(); ctx.arc(0, 0, R, 0, Math.PI*2); ctx.fillStyle = C.paper; ctx.fill();
+  ctx.lineWidth = 18; ctx.strokeStyle = C.teal; ctx.stroke();
+  for (let i = 0; i < 12; i++) { ctx.save(); ctx.rotate(i * Math.PI / 6); rr(-4, -R + 26, 8, i % 3 ? 18 : 34, 4); ctx.fillStyle = C.navy; ctx.fill(); ctx.restore(); }
+  const spin = prog(u, 0.3, 2.2);
+  if (spin < 1) {
+    const ang = eo(spin) * Math.PI * 14;
+    ctx.globalAlpha = 1 - prog(u, 1.9, 2.2);
+    ctx.save(); ctx.rotate(ang); rr(-6, -R*0.62, 12, R*0.62, 6); ctx.fillStyle = C.navy; ctx.fill(); ctx.restore();
+    ctx.save(); ctx.rotate(-ang * 0.7); rr(-8, -R*0.42, 16, R*0.42, 8); ctx.fillStyle = C.navy; ctx.fill(); ctx.restore();
+    ctx.globalAlpha = 1;
+  }
+  const q = spring((u - 2.2) * 1.2);
+  if (q > 0) { ctx.save(); ctx.scale(q, q); ctx.rotate(Math.sin(u * 3) * 0.08); text('?', 0, 80, '800 240px Nunito', C.navy, 'center'); ctx.restore(); }
+  ctx.restore();
+  // shrugging county pins
+  const pins = [[380, 330], [470, 690], [620, 820], [1300, 820], [1450, 690], [1540, 330]];
+  pins.forEach(([x, y], i) => {
+    const s = spring((u - 2.8 - i * 0.15) * 1.4); if (s <= 0) return;
+    const hop = Math.max(0, Math.sin((u - 3.4 - i * 0.2) * 5)) * 18;
+    ctx.save(); ctx.translate(x, y - hop); ctx.scale(clamp(s, 0, 1.1), clamp(s, 0, 1.1)); pin(0, 0, C.light);
+    ctx.beginPath(); ctx.arc(34, -78, 22, 0, Math.PI*2); ctx.fillStyle = C.paper; ctx.fill();
+    text('?', 34, -66, '800 32px Nunito', C.navy, 'center'); ctx.restore();
+  });
+  const ta = eo(prog(u, 3.6, 4.2));
+  text('Treated within the target time? No public data, in any county.', 960, 140, '700 40px Nunito', C.light, 'center', ta);
+};
+S.tasan = u => {
+  bg(C.paper);
+  // header: the clock gets its hands — this is tasan
+  const hp = clamp(spring((u - 0.2) * 1.2), 0, 1.1);
+  ctx.save(); ctx.translate(210, 180); ctx.scale(hp, hp);
+  ctx.beginPath(); ctx.arc(0, 0, 70, 0, Math.PI*2); ctx.fillStyle = '#FFFFFF'; ctx.fill(); ctx.lineWidth = 9; ctx.strokeStyle = C.teal; ctx.stroke();
+  ctx.save(); ctx.rotate(u * 0.9); rr(-3, -48, 6, 48, 3); ctx.fillStyle = C.navy; ctx.fill(); ctx.restore();
+  ctx.save(); ctx.rotate(-0.9); rr(-4, -32, 8, 32, 4); ctx.fillStyle = C.navy; ctx.fill(); ctx.restore();
+  ctx.restore();
+  text('tasan', 310, 205, '600 76px Nunito', C.navy, 'left', eo(prog(u, 0.4, 0.9)));
+  text('the county’s clock', 316, 250, '700 30px Inter', C.tealInk, 'left', eo(prog(u, 0.6, 1.1)));
+  // track
+  const x0 = 200, x1 = 1720, ty = 600, dx = d => x0 + d * (x1 - x0) / 42;
+  const tr = eo(prog(u, 0.3, 1.0));
+  rr(x0, ty - 9, (x1 - x0) * tr, 18, 9); ctx.fillStyle = C.line; ctx.fill();
+  // patient day as a function of time
+  const keys = [[0.6, 0], [2.4, 10], [3.0, 10], [4.2, 20], [4.6, 20], [5.8, 28], [8.4, 28], [9.8, 34]];
+  let day = 0; for (let i = 0; i < keys.length - 1; i++) { const [ta, da] = keys[i], [tb, db] = keys[i+1]; if (u >= ta) day = lerp(da, db, eio(prog(u, ta, tb))); }
+  if (u < 0.6) day = 0;
+  const alert = u >= 5.8;
+  const fillTo = dx(day);
+  rr(x0, ty - 9, Math.max(0, Math.min(fillTo, dx(28)) - x0), 18, 9); ctx.fillStyle = C.teal; ctx.globalAlpha = tr; ctx.fill(); ctx.globalAlpha = 1;
+  if (day > 28) { rr(dx(28), ty - 9, fillTo - dx(28), 18, 9); ctx.fillStyle = C.amber; ctx.fill(); }
+  // stops
+  const stops = [[0, 'Referral'], [10, 'Visit'], [20, 'Diagnosis'], [34, 'Treatment']];
+  stops.forEach(([d, label], i) => {
+    const sa = eo(prog(u, 0.6 + i * 0.15, 1.1 + i * 0.15));
+    const reached = day >= d - 0.01 && u > 0.6;
+    ctx.beginPath(); ctx.arc(dx(d), ty, 22, 0, Math.PI*2); ctx.fillStyle = reached ? (d === 34 ? C.teal : C.navy) : '#FFFFFF'; ctx.globalAlpha = sa; ctx.fill();
+    ctx.lineWidth = 6; ctx.strokeStyle = C.navy; ctx.stroke(); ctx.globalAlpha = 1;
+    text(label, dx(d), ty + 80, '700 36px Nunito', C.navy, 'center', sa);
+  });
+  // day-28 marker
+  const ma = eo(prog(u, 1.2, 1.7));
+  ctx.globalAlpha = ma; rr(dx(28) - 3, ty - 120, 6, 240, 3); ctx.fillStyle = alert ? C.amber : '#C9C3B6'; ctx.fill(); ctx.globalAlpha = 1;
+  text('Day 28', dx(28), ty - 140, '800 34px Nunito', alert ? '#A75A12' : C.mute, 'center', ma);
+  if (alert) {
+    const ring = (u - 5.8) * 1.6;
+    if (ring < 1.5) { ctx.beginPath(); ctx.arc(dx(28), ty, 30 + ring * 90, 0, Math.PI*2); ctx.strokeStyle = `rgba(217,130,43,${Math.max(0, 0.7 - ring*0.5)})`; ctx.lineWidth = 8; ctx.stroke(); }
+    const aa = eo(prog(u, 5.9, 6.3));
+    rr(dx(28) + 30, ty - 300, 470, 96, 20); ctx.fillStyle = '#FCE9D6'; ctx.globalAlpha = aa; ctx.fill(); ctx.globalAlpha = 1;
+    text('No treatment decision yet', dx(28) + 265, ty - 263, '700 32px Inter', '#8A4A0E', 'center', aa);
+    text('→ alert to the nurse navigator', dx(28) + 265, ty - 222, '600 28px Inter', '#8A4A0E', 'center', aa);
+  }
+  // patient dot with a tiny face
+  if (u > 0.5) {
+    const px = dx(day), bounce = Math.abs(Math.sin(u * 9)) * (day > 0 && day < 34 && !(u > 5.8 && u < 8.4) ? 10 : 0);
+    ctx.save(); ctx.translate(px, ty - 62 - bounce);
+    ctx.beginPath(); ctx.arc(0, 0, 34, 0, Math.PI*2); ctx.fillStyle = day >= 33.9 ? C.teal : C.navy; ctx.fill();
+    ctx.fillStyle = '#FFFFFF'; for (const s of [-1,1]) { ctx.beginPath(); ctx.arc(s*11, -5, 5, 0, Math.PI*2); ctx.fill(); }
+    ctx.strokeStyle = '#FFFFFF'; ctx.lineWidth = 4; ctx.lineCap = 'round'; ctx.beginPath();
+    if (u > 5.8 && u < 8.4) { ctx.moveTo(-9, 14); ctx.lineTo(9, 14); } else ctx.arc(0, 6, 11, Math.PI*0.2, Math.PI*0.8);
+    ctx.stroke(); ctx.restore();
+    text('Day ' + Math.floor(day), px, ty - 118 - bounce, '800 30px Nunito', C.navy, 'center', Math.abs(day - 28) < 4 ? 0 : 1);
+  }
+  // nurse pops up and pulls the patient on
+  const np = spring((u - 7.6) * 1.2);
+  if (np > 0) {
+    const nx = lerp(dx(28) - 180, dx(day) - 150, prog(u, 8.4, 9.8));
+    nurse(nx, 860 - 40 * clamp(np, 0, 1.1), 0.9);
+    const ba = eo(prog(u, 7.8, 8.1)) * (1 - prog(u, 9.6, 10.0));
+    rr(nx - 250, 740, 190, 84, 26); ctx.fillStyle = '#FFFFFF'; ctx.globalAlpha = ba; ctx.fill(); ctx.strokeStyle = C.navy; ctx.lineWidth = 4; ctx.stroke(); ctx.globalAlpha = 1;
+    text('On it!', nx - 155, 797, '800 44px Nunito', C.navy, 'center', ba);
+  }
+};
+S.pilot = u => {
+  bg(C.navy);
+  for (let i = 0; i < 90; i++) {
+    const sp = 40 + hash(i) * 70, x = (hash(i + 99) * W + Math.sin(u * 0.8 + i) * 20) % W, y = (hash(i + 7) * H + u * sp) % H;
+    ctx.beginPath(); ctx.arc(x, y, 2 + hash(i + 3) * 3, 0, Math.PI*2); ctx.fillStyle = `rgba(244,241,234,${0.25 + hash(i+5)*0.4})`; ctx.fill();
+  }
+  const ha = eo(prog(u, 0, 0.5));
+  text('Lapland · 90-day pilot', 140, 190, '800 72px Nunito', C.paper, 'left', ha);
+  rr(140, 220, 300, 46, 23); ctx.fillStyle = '#FCE9D6'; ctx.globalAlpha = ha; ctx.fill(); ctx.globalAlpha = 1;
+  text('Proposed · draft', 290, 252, '700 24px Inter', '#8A4A0E', 'center', ha);
+  // calendar
+  const cp = clamp(spring((u - 0.4) * 1.2), 0, 1.1);
+  const day = Math.max(1, Math.round(1 + 89 * eio(prog(u, 1.4, 5.8))));
+  const flipK = (u - 1.4) / 4.4 * 12; const flip = u > 1.4 && u < 5.8 ? 1 - Math.abs(Math.sin((flipK % 1) * Math.PI)) * 0.25 : 1;
+  ctx.save(); ctx.translate(410, 560); ctx.scale(cp, cp);
+  rr(-210, -190, 420, 400, 30); ctx.fillStyle = C.paper; ctx.fill();
+  rr(-210, -190, 420, 90, [30,30,0,0]); ctx.fillStyle = C.teal; ctx.fill();
+  for (const s of [-1,1]) { rr(s*110 - 10, -215, 20, 60, 10); ctx.fillStyle = C.navy3; ctx.fill(); }
+  text('DAY', 0, -130, '800 34px Nunito', C.navy, 'center');
+  ctx.save(); ctx.translate(0, 70); ctx.scale(1, flip); text(String(day), 0, 60, '800 190px Nunito', C.navy, 'center'); ctx.restore();
+  ctx.restore();
+  // checkpoints
+  const items = [['Sign', 'Chief medical officer', 2.0], ['Baseline', 'Registry checked in the first month', 3.3], ['Alerts live', 'Day-28 alerts go to the navigator', 4.6], ['Go or stop', 'Day 90: the county decides', 5.9]];
+  items.forEach(([h, sub, at], i) => {
+    const y = 380 + i * 130, p = prog(u, at, at + 0.35);
+    if (p <= 0) return;
+    check(800, y, 38, p, i === 3 ? C.amber : C.teal, i === 3 ? 'arrow' : 'check');
+    text(h, 870, y + 4, '800 56px Nunito', C.paper, 'left', eo(p));
+    text(sub, 872, y + 46, '600 28px Inter', C.soft, 'left', eo(p));
+  });
+  const rx = lerp(-260, W + 260, prog(u, 0.3, 7.8));
+  reindeer(rx, 880, 0.9, u * 11);
+};
+S.level = u => {
+  bg(C.navy);
+  const ang = -0.17 * (1 - eio(prog(u, 0.2, 1.1)));
+  const mapA = 1 - eo(prog(u, 1.7, 2.3));
+  const lift = eio(prog(u, 1.7, 2.5));
+  ctx.save(); ctx.translate(960, 540); ctx.rotate(ang); ctx.translate(-960, -540);
+  if (mapA > 0) { ctx.globalAlpha = mapA * 0.9; drawMap(960, 520, 800, { fill: C.navy2, stroke: C.navy3 }); ctx.globalAlpha = 1; }
+  const off = lerp(-190, 0, eio(prog(u, 0.7, 1.5)));
+  const wob = u > 1.5 ? 14 * Math.exp(-4*(u-1.5)) * Math.sin(18*(u-1.5)) : 0;
+  const lw = lerp(560, 440, lift), lh = lerp(150, 116, lift), lx = lerp(960, 960 - 190, lift), ly = lerp(540, 450, lift);
+  level(lx, ly, lw, lh, off + wob, 1, u > 1.4 ? 1 : -1, 0, 0, lift < 0.6);
+  ctx.restore();
+  const wa = eo(prog(u, 2.1, 2.6));
+  text('tasan', 1010, 488, '600 130px Nunito', C.paper, 'left', wa);
+  text('koska hoito ei saa riippua postinumerosta.', 960, 650, '600 46px Nunito', C.soft, 'center', eo(prog(u, 2.6, 3.1)));
+  text('Same cancer, different postcode — let’s level it out.', 960, 720, '600 32px Inter', C.light, 'center', eo(prog(u, 3.3, 3.8)));
+  text('petaled-trowel-90.beacon.host', 960, 860, '600 28px Inter', '#A9B4C8', 'center', eo(prog(u, 4.0, 4.5)));
+};
+
+// ---------- captions ----------
+function buildCaps() {
+  CAPS = [];
+  for (const v of TL.voice) {
+    const d = VOICE_LEN[v.file], words = v.text.map(s => s.split(' ').length), tot = words.reduce((a,b)=>a+b, 0);
+    let t = v.at;
+    v.text.forEach((s, i) => { const len = d * words[i] / tot; CAPS.push({ a: t, b: t + len, s }); t += len; });
+  }
+}
+function captions(t) {
+  const c = CAPS.find(c => t >= c.a && t < c.b + 0.15); if (!c) return;
+  ctx.save(); ctx.font = '600 38px Inter';
+  const w = ctx.measureText(c.s).width + 60, x = 960 - w/2, y = 978;
+  rr(x, y, w, 64, 32); ctx.fillStyle = 'rgba(14,22,40,.86)'; ctx.fill();
+  ctx.fillStyle = '#F4F1EA'; ctx.textAlign = 'center'; ctx.fillText(c.s, 960, y + 45); ctx.restore();
+}
+
+// ---------- frame ----------
+const off = document.createElement('canvas'); off.width = W; off.height = H;
+function render(t) {
+  const sc = TL.scenes; let i = sc.findIndex(s => t >= s.start && t < s.end); if (i < 0) i = sc.length - 1;
+  const s = sc[i];
+  ctx = MAIN; ctx.save(); S[s.id](t - s.start); ctx.restore();
+  const XF = 0.45, next = sc[i + 1];
+  if (next && t > s.end - XF) {
+    const octx = off.getContext('2d'); octx.clearRect(0, 0, W, H);
+    ctx = octx; ctx.save(); S[next.id](t - next.start); ctx.restore(); ctx = MAIN;
+    ctx.save(); ctx.globalAlpha = eio(prog(t, s.end - XF, s.end)); ctx.drawImage(off, 0, 0); ctx.restore();
+  }
+  if (t < 0.3) { ctx.fillStyle = `rgba(22,35,63,${1 - t/0.3})`; ctx.fillRect(0, 0, W, H); }
+  if (t > TL.duration - 0.8) { ctx.fillStyle = `rgba(14,22,40,${prog(t, TL.duration - 0.8, TL.duration)})`; ctx.fillRect(0, 0, W, H); }
+  captions(t);
+  const el = document.getElementById('scene'); if (el) el.textContent = s.id;
+}
+
+// ---------- boot ----------
+async function boot() {
+  [TL, MAP] = await Promise.all([fetch('timeline.json').then(r => r.json()), fetch('map.json').then(r => r.json())]);
+  for (const f of MAP.features) {
+    const p = new Path2D();
+    for (const r of f.rings) { r.forEach(([x, y], k) => k ? p.lineTo(x, y) : p.moveTo(x, y)); p.closePath(); }
+    PATHS[f.id] = p;
+    if (f.id === '21') { let sx = 0, sy = 0, n = 0; for (const r of f.rings) for (const [x, y] of r) { sx += x; sy += y; n++; } LAP = { x: sx/n, y: sy/n }; }
+  }
+  buildCaps();
+  await Promise.all(['800 40px Nunito', '700 40px Nunito', '600 40px Nunito', '600 40px Inter', '700 40px Inter'].map(f => document.fonts.load(f)));
+  const params = new URLSearchParams(location.search);
+  if (params.has('render')) return renderMode(params);
+  const aud = document.getElementById('aud'), btn = document.getElementById('play'), scrub = document.getElementById('scrub'), tm = document.getElementById('time');
+  let playing = false;
+  const tick = () => { const t = aud.currentTime; render(Math.min(t, TL.duration - 0.001)); scrub.value = t; tm.textContent = t.toFixed(2) + ' / 60.00'; if (playing) requestAnimationFrame(tick); };
+  btn.onclick = () => { if (playing) { aud.pause(); playing = false; btn.textContent = '▶ Play'; } else { if (aud.ended) aud.currentTime = 0; aud.play(); playing = true; btn.textContent = '❚❚ Pause'; tick(); } };
+  aud.onended = () => { playing = false; btn.textContent = '▶ Play'; };
+  scrub.oninput = () => { aud.currentTime = +scrub.value; if (!playing) tick(); };
+  window.seek = t => { aud.currentTime = t; render(t); };
+  render(0.6);
+}
+async function renderMode(params) {
+  document.body.classList.add('render');
+  const fps = TL.fps, n = Math.round(TL.duration * fps), from = +(params.get('from') || 0), to = Math.min(n, +(params.get('to') || n));
+  const list = params.has('times') ? params.get('times').split(',').map(x => Math.round(+x * fps)) : null;
+  const frames = list || Array.from({ length: to - from }, (_, k) => from + k);
+  for (const f of frames) {
+    render(f / fps);
+    const blob = await new Promise(r => cv.toBlob(r, 'image/png'));
+    await fetch('/frame?i=' + f, { method: 'POST', body: blob });
+  }
+  await fetch('/done?from=' + from, { method: 'POST' });
+  document.title = 'done';
+}
+boot();
+</script>
+</body></html>
