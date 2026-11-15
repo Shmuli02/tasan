@@ -1,0 +1,42 @@
+{
+  "duration": 60.0,
+  "fps": 30,
+  "scenes": [
+    {"id": "meet",   "start": 0.0,  "end": 6.8},
+    {"id": "tilt",   "start": 6.8,  "end": 13.4},
+    {"id": "people", "start": 13.4, "end": 25.0},
+    {"id": "clock",  "start": 25.0, "end": 32.8},
+    {"id": "tasan",  "start": 32.8, "end": 44.6},
+    {"id": "pilot",  "start": 44.6, "end": 52.6},
+    {"id": "level",  "start": 52.6, "end": 60.0}
+  ],
+  "voice": [
+    {"file": "v1.wav", "at": 1.2,  "text": ["This is a spirit level.", "When things are even, the bubble sits right in the middle."]},
+    {"file": "v2.wav", "at": 7.6,  "text": ["But lung cancer care in Finland isn’t level.", "Same cancer, different postcode."]},
+    {"file": "v3.wav", "at": 14.0, "text": ["About 65 more lung cancer patients a year would get curative treatment,", "if every below-average county reached the national rate.", "About 12 of them are in Lapland."]},
+    {"file": "v4.wav", "at": 25.6, "text": ["The trouble is, no county can see the clock.", "Nobody publishes whether patients start treatment in time."]},
+    {"file": "v5.wav", "at": 33.4, "text": ["Tasan starts a clock the day the referral arrives.", "No treatment decision by day 28?", "The nurse navigator gets an alert, and takes it from there."]},
+    {"file": "v6.wav", "at": 45.4, "text": ["The pilot is ninety days, one clock, and one nurse.", "Lapland could start on Monday."]},
+    {"file": "v7.wav", "at": 54.6, "text": ["Tasan — koska hoito ei saa riippua postinumerosta."]}
+  ],
+  "sfx": [
+    {"t": 0.35, "kind": "thump"},
+    {"t": 0.75, "kind": "boing"},
+    {"t": 7.0,  "kind": "whoosh"},
+    {"t": 8.1,  "kind": "uhoh"},
+    {"t": 14.2, "kind": "ticks", "count": 33, "span": 4.2},
+    {"t": 21.7, "kind": "hop"},
+    {"t": 25.3, "kind": "whirr"},
+    {"t": 33.0, "kind": "pop"},
+    {"t": 38.6, "kind": "ding"},
+    {"t": 40.4, "kind": "pop"},
+    {"t": 46.0, "kind": "flips", "count": 12, "span": 4.4},
+    {"t": 46.6, "kind": "blip"},
+    {"t": 47.9, "kind": "blip"},
+    {"t": 49.2, "kind": "blip"},
+    {"t": 50.5, "kind": "blip"},
+    {"t": 53.2, "kind": "whoosh"},
+    {"t": 53.9, "kind": "boing"},
+    {"t": 54.4, "kind": "chime"}
+  ]
+}

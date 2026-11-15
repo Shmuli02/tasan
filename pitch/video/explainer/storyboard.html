@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Tasan explainer — storyboard (draft, not rendered)</title>
+<style>
+  body { margin:0; background:#F4F1EA; color:#141B2B; font:16px/1.5 Inter, system-ui, sans-serif; }
+  header { background:#16233F; color:#F4F1EA; padding:28px 40px; }
+  header h1 { margin:0 0 6px; font:800 30px/1.2 Nunito, Inter, sans-serif; }
+  header p { margin:0; color:#C9D3E3; }
+  .chips { display:flex; gap:10px; flex-wrap:wrap; margin-top:14px; }
+  .chip { background:#1D2D4F; border:1px solid #2A3B60; border-radius:999px; padding:4px 12px; font-size:14px; }
+  main { padding:24px 40px 60px; max-width:1200px; }
+  .scene { display:grid; grid-template-columns:340px 1fr; gap:24px; background:#fff; border:1px solid #E4DFD4; border-radius:16px; padding:18px; margin-bottom:16px; }
+  .sketch { width:340px; height:191px; border-radius:10px; position:relative; overflow:hidden; background:#16233F; }
+  .paper { background:#F4F1EA; border:1px solid #E4DFD4; }
+  .t { font:700 13px/1 Inter; letter-spacing:.08em; text-transform:uppercase; color:#2A7676; }
+  h2 { margin:6px 0 8px; font:700 22px/1.2 Nunito, Inter, sans-serif; color:#16233F; }
+  .row { margin:6px 0; } .lbl { display:inline-block; width:92px; font-weight:600; color:#5A6274; vertical-align:top; }
+  .val { display:inline-block; width:calc(100% - 100px); } .vo { font-style:italic; color:#16233F; }
+  .note { background:#DDEFEE; color:#16233F; border-radius:10px; padding:12px 16px; margin:0 0 20px; }
+  /* tiny sketch primitives */
+  .pill { position:absolute; background:#F4F1EA; border-radius:40px; }
+  .bar { position:absolute; background:#16233F; height:6px; border-radius:3px; }
+  .dot { position:absolute; background:#3A9A9A; border-radius:50%; }
+  .txt { position:absolute; font:800 22px/1.1 Nunito, Inter, sans-serif; color:#F4F1EA; }
+  .txtd { position:absolute; font:800 22px/1.1 Nunito, Inter, sans-serif; color:#16233F; }
+  .small { position:absolute; font:600 11px/1.2 Inter; color:#A9B4C8; }
+  .smalld { position:absolute; font:600 11px/1.2 Inter; color:#5A6274; }
+</style></head>
+<body>
+<header>
+  <h1>“Level it out” — Tasan animated explainer</h1>
+  <p>Draft storyboard for review. Nothing is rendered yet. Separate from the pitch slides.</p>
+  <div class="chips"><span class="chip">≈ 60 s</span><span class="chip">1920×1080 · 30 fps · MP4</span><span class="chip">Motion graphics, brand colours</span><span class="chip">Narrator + upbeat music bed</span><span class="chip">Captions burned in</span></div>
+</header>
+<main>
+<p class="note"><b>The idea:</b> the Tasan logo is a spirit level, so the level is the star. Its teal bubble is our character, “Bubble”. Care in Finland is tilted, Bubble slides off-centre, and Tasan is how a county levels it out again. The tone is playful, but every number keeps its “about” and its caveat, and nothing says “lives saved”.</p>
+
+<div class="scene"><div class="sketch">
+  <div class="pill" style="left:70px;top:70px;width:200px;height:52px;"></div><div class="bar" style="left:90px;top:93px;width:160px;"></div><div class="dot" style="left:154px;top:83px;width:26px;height:26px;"></div>
+  <div class="small" style="left:16px;top:160px;">bubble boings in, settles dead centre</div>
+</div><div>
+  <div class="t">1 · 0:00–0:06</div><h2>Meet Bubble</h2>
+  <div class="row"><span class="lbl">Visual</span><span class="val">Navy screen. The level pill drops in with a bounce, and the teal bubble pops in and wobbles to the centre with a little “boing”.</span></div>
+  <div class="row"><span class="lbl">Voice</span><span class="val vo">“This is a spirit level. When things are even, the bubble sits right in the middle.”</span></div>
+</div></div>
+
+<div class="scene"><div class="sketch">
+  <div class="txt" style="left:18px;top:18px;font-size:18px;">Same cancer,<br>different postcode.</div>
+  <div class="pill" style="left:80px;top:100px;width:200px;height:46px;transform:rotate(-12deg);"></div><div class="dot" style="left:96px;top:124px;width:22px;height:22px;"></div>
+  <div class="small" style="left:16px;top:165px;">Finland map tilts north · bubble slides away</div>
+</div><div>
+  <div class="t">2 · 0:06–0:14</div><h2>Finland tilts</h2>
+  <div class="row"><span class="lbl">Visual</span><span class="val">The bar becomes the outline of Finland, drawn in counties. The map tilts toward the north and Bubble slides off-centre with a worried “uh-oh”.</span></div>
+  <div class="row"><span class="lbl">Voice</span><span class="val vo">“But lung cancer care in Finland isn’t level. Same cancer, different postcode.”</span></div>
+</div></div>
+
+<div class="scene"><div class="sketch paper">
+  <div class="txtd" style="left:20px;top:22px;font-size:46px;">≈ 65</div><div class="smalld" style="left:22px;top:78px;">a year</div>
+  <div class="smalld" style="left:150px;top:30px;width:170px;">rows of little people icons fill in; 12 glow in Lapland</div>
+  <div class="smalld" style="left:20px;top:165px;">illustrative · not stage-adjusted · Cancer Registry 2019–2023</div>
+</div><div>
+  <div class="t">3 · 0:14–0:24</div><h2>About 65 people a year</h2>
+  <div class="row"><span class="lbl">Visual</span><span class="val">Paper background. Little people icons pop in row by row while a counter ticks up to ≈ 65. Then 12 of them light up teal and hop over to Lapland on the map. The caveat stays on screen in small type.</span></div>
+  <div class="row"><span class="lbl">Voice</span><span class="val vo">“About 65 more lung cancer patients a year would get curative treatment if every below-average county reached the national rate. About 12 of them are in Lapland.”</span></div>
+</div></div>
+
+<div class="scene"><div class="sketch">
+  <div class="txt" style="left:120px;top:50px;font-size:60px;">?</div>
+  <div class="small" style="left:16px;top:150px;width:300px;">a clock with no hands spins; county pins shrug</div>
+</div><div>
+  <div class="t">4 · 0:24–0:31</div><h2>The missing clock</h2>
+  <div class="row"><span class="lbl">Visual</span><span class="val">A big wall clock appears with no hands, spinning in confusion. County pins on the map shrug (a tiny bounce with “?” bubbles).</span></div>
+  <div class="row"><span class="lbl">Voice</span><span class="val vo">“The trouble is, no county can see the clock. Nobody publishes whether patients start treatment in time.”</span></div>
+</div></div>
+
+<div class="scene"><div class="sketch paper">
+  <div class="bar" style="left:20px;top:100px;width:200px;background:#3A9A9A;"></div><div class="bar" style="left:222px;top:100px;width:100px;background:#D9822B;"></div>
+  <div class="dot" style="left:208px;top:90px;width:26px;height:26px;background:#16233F;"></div>
+  <div class="smalld" style="left:20px;top:70px;">D0</div><div class="smalld" style="left:200px;top:70px;">D28 · ding!</div>
+  <div class="smalld" style="left:20px;top:150px;width:300px;">patient dot travels: Referral → Visit → Diagnosis → Treatment; nurse pops up “On it!”</div>
+</div><div>
+  <div class="t">5 · 0:31–0:44</div><h2>Tasan starts the clock</h2>
+  <div class="row"><span class="lbl">Visual</span><span class="val">The clock gets its hands: it’s Tasan. A patient dot rides a track through four stops: Referral, Visit, Diagnosis, Treatment. At day 28 the track turns amber, a bell dings, and a nurse navigator pops up with an “On it!” speech bubble and pulls the dot to Treatment.</span></div>
+  <div class="row"><span class="lbl">Voice</span><span class="val vo">“Tasan starts a clock the day the referral arrives. No treatment decision by day 28? The nurse navigator gets an alert, and takes it from there.”</span></div>
+</div></div>
+
+<div class="scene"><div class="sketch">
+  <div class="txt" style="left:20px;top:22px;font-size:20px;">90 days in Lapland</div>
+  <div class="small" style="left:20px;top:70px;width:300px;font-size:13px;color:#F4F1EA;">✓ Sign &nbsp; ✓ Baseline &nbsp; ✓ Alerts &nbsp; → Go / stop</div>
+  <div class="small" style="left:20px;top:150px;">calendar pages flip · checks tick in</div>
+</div><div>
+  <div class="t">6 · 0:44–0:53</div><h2>The Lapland pilot</h2>
+  <div class="row"><span class="lbl">Visual</span><span class="val">Zoom to Lapland (snow particles, a reindeer silhouette trots past). Calendar pages flip from day 1 to day 90 while four checkpoints tick in: Sign, Baseline, Alerts live, Go or stop. A small “Proposed pilot · draft” tag stays on screen.</span></div>
+  <div class="row"><span class="lbl">Voice</span><span class="val vo">“The pilot is ninety days, one clock and one nurse. Lapland could start on Monday.”</span></div>
+</div></div>
+
+<div class="scene"><div class="sketch">
+  <div class="pill" style="left:70px;top:46px;width:200px;height:52px;"></div><div class="bar" style="left:90px;top:69px;width:160px;"></div><div class="dot" style="left:154px;top:59px;width:26px;height:26px;"></div>
+  <div class="txt" style="left:120px;top:112px;font-size:26px;font-weight:600;">tasan</div>
+  <div class="small" style="left:40px;top:155px;">koska hoito ei saa riippua postinumerosta.</div>
+</div><div>
+  <div class="t">7 · 0:53–1:00</div><h2>Level again</h2>
+  <div class="row"><span class="lbl">Visual</span><span class="val">The map levels out and Bubble glides back to the centre with a happy bounce. It morphs into the tasan logo lockup with the Finnish tagline and the demo URL.</span></div>
+  <div class="row"><span class="lbl">Voice</span><span class="val vo">(Finnish voice) “Tasan — koska hoito ei saa riippua postinumerosta.”</span></div>
+</div></div>
+
+<h2 style="margin-top:28px;">Audio</h2>
+<p><b>Narrator:</b> macOS “Daniel” (British English), with “Satu” for the Finnish line. <b>Music:</b> a light, upbeat bed synthesised here (plucky marimba-style loop, about 110 bpm), so there are no licensing questions. Small sound effects: a boing, a whoosh on the tilt, a ding at day 28.</p>
+<h2>How you’ll see it before rendering</h2>
+<p>I’ll build the animation as a web page that plays in the browser pane with the voice and music. You watch it, ask for changes, and only then do I render it to MP4.</p>
+</main>
+</body></html>
