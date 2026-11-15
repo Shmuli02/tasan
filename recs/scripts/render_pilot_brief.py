@@ -3,9 +3,10 @@
 that follows recs/pilot_brief_template.json.
 
 Usage: render_pilot_brief.py <brief.json> [--pdf]
-Writes <brief>.md next to the JSON; with --pdf also <brief>.pdf (needs weasyprint + markdown).
+Writes <brief>.md next to the JSON; with --pdf also <brief>.pdf (designed A4 layout, page 2 = appendix if set; needs Google Chrome/Chromium).
 """
 import json, sys, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 def eur(x): return f"€{x:,.0f}"
 
@@ -42,19 +43,21 @@ def render(d):
     L.append(f"*{d['status_label']}* Prepared {d['date_prepared']} by the Tasan team (Junction 2026).")
     return "\n".join(L) + "\n"
 
-CSS = """@page{size:A4;margin:11mm 12mm}
-body{font-family:'DejaVu Sans',Arial,sans-serif;font-size:8.6pt;line-height:1.25;color:#111}
-h1{font-size:14pt;margin:2px 0 4px}
-p{margin:0 0 3.5px} ul{margin:0 0 3px 13px;padding:0} li{margin:0}
-table{border-collapse:collapse;width:100%;margin:1px 0 3px}
-td,th{border:1px solid #999;padding:1px 3px;text-align:left;vertical-align:top}
-th{background:#eee} a{color:#111;text-decoration:none}"""
-
-def to_pdf(md_text, out):
-    import markdown
-    from weasyprint import HTML
-    html = markdown.markdown(md_text, extensions=["tables"])
-    HTML(string=f"<html><head><meta charset='utf-8'><style>{CSS}</style></head><body>{html}</body></html>").write_pdf(out)
+def to_pdf(d, base, src_dir):
+    """Designed A4 PDF via brief_pdf (headless Chrome). """
+    from brief_pdf import to_html, html_to_pdf
+    appendix = None
+    if d.get("appendix"):
+        ap = os.path.join(src_dir, d["appendix"])
+        if os.path.exists(ap):
+            appendix = open(ap, encoding="utf-8").read()
+    import tempfile
+    with tempfile.NamedTemporaryFile("w", suffix=".html", encoding="utf-8", delete=False) as f:
+        f.write(to_html(d, appendix))
+    try:
+        html_to_pdf(f.name, base + ".pdf")
+    finally:
+        os.unlink(f.name)
 
 if __name__ == "__main__":
     src = sys.argv[1]
@@ -66,4 +69,4 @@ if __name__ == "__main__":
     open(base + ".md", "w", encoding="utf-8").write(md)
     print("wrote", base + ".md")
     if "--pdf" in sys.argv:
-        to_pdf(md, base + ".pdf"); print("wrote", base + ".pdf")
+        to_pdf(d, base, os.path.dirname(os.path.abspath(src))); print("wrote", base + ".pdf")
