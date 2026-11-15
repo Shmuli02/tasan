@@ -3,6 +3,7 @@ import heroDoc from "../content/hero.json";
 import { FinlandMap, HelsinkiInset } from "./FinlandMap";
 import { FactChip } from "./FactChip";
 import { TheAskCard } from "./TheAskCard";
+import { PolkuLink } from "./PolkuLink";
 import {
   allCountyProfiles,
   agestdFor,
@@ -203,6 +204,9 @@ export function Overview({
           <div className="foot">
             <span className="badge b-nodata">{fi ? "Tietokatko" : "Data gap"}</span>
             <FactChip id="nodata_regional_target_compliance" lang={lang} sourcesOn={sourcesOn} />
+            <PolkuLink page="demo" className="polku-fix" title={fi ? "Polku kirjaa jokaisen vaiheen kellon" : "Polku records each step's clock"}>
+              {fi ? "Polku mittaa" : "Polku measures it"}
+            </PolkuLink>
           </div>
         </div>
       </section>

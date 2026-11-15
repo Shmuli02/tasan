@@ -19,6 +19,7 @@ import {
   type ExPatient,
 } from "../lib/exampleCohort";
 import { ExampleClock } from "./ExampleClock";
+import { PolkuLink } from "./PolkuLink";
 
 const MS_1X = 480;
 const ALERT_COPY = {
@@ -355,6 +356,9 @@ export function TasanLive({ lang }: { lang: "en" | "fi" }) {
             <b>{WITH_ON_TIME}/14</b>
             <span> {fi ? "aloitti hoidon 6 viikossa (havainnollistava)" : "started within 6 weeks (illustrative)"}</span>
           </div>
+          <PolkuLink page="demo" className="polku-end">
+            {fi ? "Simuloidut kellot. Polku ajaa ne oikeasti" : "Simulated clocks. Polku runs them for real"}
+          </PolkuLink>
           <button type="button" onClick={resetAndPlay}>{fi ? "Toista" : "Replay"}</button>
         </div>
       ) : null}

@@ -6,6 +6,8 @@ Tasan is a lung-cancer pathway clock for Finland's 22 wellbeing services countie
 
 **Live demo:** https://petaled-trowel-90.beacon.host/
 
+**Two sides, one project:** Tasan is the county and leadership view: where the gap is and what to do. [Polku](https://polku.ender.fi) is the care-team view: it runs each lung pathway step by phone and records the step clocks that no county publishes today. Tasan links to Polku where that missing data shows up (topbar, the "Not measured" tile, the end of Tasan Live, and Ask Tasan).
+
 Clinical notes and extract evaluation data in this repository are **synthetic** (`SYN-*` / `SYN2-*`). No real patient data is included.
 
 ## What's in this repository

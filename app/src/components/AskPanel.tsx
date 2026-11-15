@@ -5,10 +5,11 @@ import { briefLooksLikeLapland, briefTarget } from "../lib/countyBrief";
 import { isTreatmentChoiceQuestion, matchingRefusalFact } from "../lib/facts";
 import { isForcedOffline, proxyBaseUrl, streamAsk } from "../lib/askLlm";
 import type { PilotBriefDraft } from "../lib/briefDraft";
+import { isPolkuQuestion, polkuAnswer, type PolkuLinkSpec } from "../lib/polku";
 
 type Msg =
   | { kind: "me"; text: string }
-  | { kind: "ai"; text: string; cites: string[]; meta?: string }
+  | { kind: "ai"; text: string; cites: string[]; meta?: string; link?: PolkuLinkSpec }
   | { kind: "refuse"; text: string; cites: string[]; meta?: string };
 
 export function AskPanel({
@@ -58,12 +59,14 @@ export function AskPanel({
         { id: "alerts", label: fi ? "Tiivistä tämän päivän hälytykset" : "Summarise today's alerts" },
         { id: "nav", label: fi ? "Kuka tarvitsee navigatorin?" : "Who needs a navigator?" },
         { id: "cmo", label: fi ? "Luonnos: viikoittainen CMO-muistio" : "Draft weekly CMO note" },
+        { id: "polku", label: fi ? "Kuka kirjaa oikeat kellot?" : "Who records the real clocks?" },
       ];
     }
     return [
       { id: "brief", label: fi ? "Luonnos: Lapin pilottimuistio" : "Draft Lapland pilot brief" },
       { id: "dark", label: fi ? "Missä tieto pimenee?" : "Where does data go dark?" },
       { id: "kym", label: fi ? "Vertaa Kymenlaaksoa" : "Compare Kymenlaakso" },
+      { id: "polku", label: fi ? "Mistä oikea data tulisi?" : "Where would real data come from?" },
     ];
   }, [fi, tab]);
 
@@ -89,6 +92,12 @@ export function AskPanel({
       },
     ]);
     const replaceLast = (msg: Msg) => setMsgs((m) => [...m.slice(0, -1), msg]);
+
+    if (!mustRefuse && !briefQ && isPolkuQuestion(q)) {
+      const pa = polkuAnswer(qLang);
+      replaceLast({ kind: "ai", text: pa.text, cites: [], meta: fi ? "Projektin oma kuvaus" : "Project description", link: pa.link });
+      return;
+    }
 
     if (wantLlm) {
       setBusy(true);
@@ -235,6 +244,16 @@ function Bubble({ msg, lang }: { msg: Msg; lang: "en" | "fi" }) {
   return (
     <div className="bubble ai">
       {msg.text} <Cites ids={msg.cites} lang={lang} />
+      {msg.link ? (
+        <div>
+          <a className="polku-link polku-answer" href={msg.link.href} target="_blank" rel="noopener noreferrer">
+            {msg.link.label}
+            <svg className="i polku-ext" viewBox="0 0 24 24" aria-hidden>
+              <path d="M15 3h6v6M10 14 21 3M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+            </svg>
+          </a>
+        </div>
+      ) : null}
       {msg.meta ? (
         <div className="meta">
           <svg className="i" viewBox="0 0 24 24">

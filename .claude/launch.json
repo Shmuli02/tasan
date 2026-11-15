@@ -4,8 +4,27 @@
     {
       "name": "tasan-app",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["--prefix", "app", "vite", "app"],
+      "runtimeArgs": [
+        "--prefix",
+        "app",
+        "vite",
+        "app"
+      ],
       "port": 5173
+    },
+    {
+      "name": "tasan-app-5174",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "--prefix",
+        "app",
+        "vite",
+        "app",
+        "--port",
+        "5174",
+        "--strictPort"
+      ],
+      "port": 5174
     }
   ]
 }

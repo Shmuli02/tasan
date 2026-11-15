@@ -426,3 +426,18 @@ svg.i { fill: none; stroke: currentColor; stroke-width: 1.75; stroke-linecap: ro
   .topbar { gap: 16px; }
   .tab { padding: 0 10px; font-size: 13px; }
 }
+
+/* Polku: the care-team side of the project. Links open in a new tab. */
+.polku-link { display: inline-flex; align-items: center; gap: 4px; color: var(--tz-teal-700); font: 700 12px/1 var(--tz-font-ui); text-decoration: none; white-space: nowrap; }
+.polku-link:hover { text-decoration: underline; }
+.polku-link .polku-ext { width: 12px; height: 12px; }
+.polku-switch { display: flex; align-items: center; background: var(--tz-sunk); border-radius: 999px; padding: 3px; }
+.polku-switch > span, .polku-switch .polku-link { font: 700 12px/1 var(--tz-font-ui); padding: 6px 11px; border-radius: 999px; }
+.polku-switch > span.on { background: var(--tz-navy); color: #fff; }
+.polku-switch .polku-link { color: var(--tz-ink-2); }
+.polku-switch .polku-link:hover { background: #fff; text-decoration: none; }
+.kpi .foot .polku-fix { margin-left: auto; }
+.end-banner .polku-end { margin-left: auto; color: var(--tz-console-teal, #5CC4C4); font-size: 13px; }
+.bubble .polku-answer { display: inline-flex; margin-top: 8px; }
+.panel.dark .bubble .polku-answer { color: var(--tz-console-teal, #5CC4C4); }
+@media (max-width: 1000px) { .polku-switch > span { display: none; } .polku-switch { background: transparent; } }
