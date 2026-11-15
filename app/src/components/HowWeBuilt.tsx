@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import samples from "../content/extract/howwebuilt_notes.json";
 import numbersPack from "../content/extract/HOW_WE_BUILT_NUMBERS.json";
 
@@ -60,6 +60,16 @@ const HL: Record<string, { bg: string; fg: string }> = {
   treatment_start: { bg: "#E8C5D8", fg: "#6A2450" },
 };
 
+const EV_LABEL: Record<string, { en: string; fi: string }> = {
+  referral_received: { en: "Referral received", fi: "Lähete saapui" },
+  ct_done: { en: "CT / imaging", fi: "TT / kuvantaminen" },
+  biopsy_done: { en: "Biopsy", fi: "Biopsia" },
+  pathology_result: { en: "Pathology result", fi: "Patologian tulos" },
+  mdt_decision: { en: "MDT decision", fi: "MDT-päätös" },
+  treatment_decision: { en: "Treatment decision", fi: "Hoitopäätös" },
+  treatment_start: { en: "Treatment start", fi: "Hoito alkoi" },
+};
+
 function extractedEvents(note: Note): Ev[] {
   if (note.model_events && note.model_events.length) return note.model_events;
   return note.gold_events ?? note.events ?? [];
@@ -101,6 +111,37 @@ function extractLabel(sourceNow?: string, modelName?: string) {
   if (raw.includes("regex")) return "regex_baseline";
   const s = (sourceNow || modelName || "").trim();
   return s || "regex_baseline";
+}
+
+const SHEET_W = 248;
+const FEATURE_W = 280;
+const FEATURE_H = 372;
+
+type Pose = { x: number; y: number; rot: number; z: number };
+
+/** Fan layout sized to the stage: the featured note sits centred, upright and on top,
+ *  the rest fan out symmetrically behind it. Coordinates are in design px; `scale`
+ *  maps them onto the real stage so the featured sheet is always fully visible. */
+function fanLayout(nOthers: number, w: number, h: number): { scale: number; cx: number; featured: Pose; others: Pose[] } {
+  const scale = Math.max(0.5, Math.min(1, (h - 32) / (FEATURE_H + 28), (w - 24) / (FEATURE_W + 20)));
+  const wd = w / scale;
+  const hd = h / scale;
+  const cx = wd / 2;
+  const fy = Math.max(12, (hd - FEATURE_H) / 2 - 4);
+  const featured: Pose = { x: Math.round(cx - FEATURE_W / 2), y: Math.round(fy), rot: 0, z: 50 };
+  const half = Math.max(60, Math.min(wd / 2 - SHEET_W / 2 - 12, 440));
+  const left = Math.ceil(nOthers / 2);
+  const right = nOthers - left;
+  const ts: number[] = [];
+  for (let j = left - 1; j >= 0; j--) ts.push(-(0.22 + (0.78 * j) / Math.max(left - 1, 1)));
+  for (let j = 0; j < right; j++) ts.push(0.22 + (0.78 * j) / Math.max(right - 1, 1));
+  const others = ts.map((t) => ({
+    x: Math.round(cx + t * half - SHEET_W / 2),
+    y: Math.round(fy + 26 + t * t * 34),
+    rot: Math.round(t * 24 * 10) / 10,
+    z: 40 - Math.round(Math.abs(t) * 30),
+  }));
+  return { scale, cx, featured, others };
 }
 
 function fanPositions(n: number, mode: "fan" | "open"): { x: number; y: number; rot: number }[] {
@@ -327,6 +368,18 @@ export function HowWeBuilt({ lang }: { lang: Lang }) {
   const [mode, setMode] = useState<"fan" | "open">("fan");
   const [openId, setOpenId] = useState(OPEN_DEFAULT);
   const [anim, setAnim] = useState(true);
+  const stageRef = useRef<HTMLDivElement | null>(null);
+  const [stage, setStage] = useState({ w: 1100, h: 560 });
+  useEffect(() => {
+    const el = stageRef.current;
+    if (!el) return;
+    const ro = new ResizeObserver(([e]) => {
+      const { width, height } = e.contentRect;
+      if (width > 0 && height > 0) setStage({ w: width, h: height });
+    });
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
   const open = NOTES.find((n) => n.note_id === openId) ?? NOTES[0];
   const events = useMemo(() => extractedEvents(open), [open]);
   const present = useMemo(() => new Set(events.map((e) => e.type)), [events]);
@@ -351,7 +404,11 @@ export function HowWeBuilt({ lang }: { lang: Lang }) {
 
   const others = NOTES.filter((n) => n.note_id !== open.note_id);
   const fanOrder = mode === "fan" ? [...others, open] : others;
-  const positions = fanPositions(mode === "fan" ? fanOrder.length : NOTES.length, mode);
+  const fan = fanLayout(others.length, stage.w, stage.h);
+  const positions: Pose[] =
+    mode === "fan"
+      ? [...fan.others, fan.featured]
+      : fanPositions(NOTES.length, mode).map((p, i) => ({ ...p, z: i + 1 }));
 
   const header = parseHeader(open.text);
   const bp = bodyPos(open.text);
@@ -372,11 +429,14 @@ export function HowWeBuilt({ lang }: { lang: Lang }) {
       </header>
 
       <div className="hero">
-        <div className="stage">
+        <div className="stage" ref={stageRef}>
           <div className="stage-floor" />
-          <div className={`sheets${anim ? " anim" : ""}`}>
+          <div
+            className={`sheets${anim ? " anim" : ""}`}
+            style={mode === "fan" ? { transform: `scale(${fan.scale})`, transformOrigin: "0 0" } : undefined}
+          >
             {fanOrder.map((note, i) => {
-              const pos = positions[i] ?? { x: 0, y: 0, rot: 0 };
+              const pos = positions[i] ?? { x: 0, y: 0, rot: 0, z: i + 1 };
               const isOpenish = mode === "fan" && note.note_id === open.note_id;
               const text = note.text;
               const from = bodyPos(text);
@@ -389,11 +449,11 @@ export function HowWeBuilt({ lang }: { lang: Lang }) {
                     ["--x" as string]: `${pos.x}px`,
                     ["--y" as string]: `${pos.y}px`,
                     ["--rot" as string]: `${pos.rot}deg`,
-                    ["--from-x" as string]: "210px",
-                    ["--from-y" as string]: "90px",
+                    ["--from-x" as string]: mode === "fan" ? `${Math.round(fan.cx - SHEET_W / 2)}px` : "210px",
+                    ["--from-y" as string]: mode === "fan" ? `${fan.featured.y + 40}px` : "90px",
                     ["--from-rot" as string]: "-2deg",
                     ["--stagger" as string]: `${(i + 1) * 45}ms`,
-                    zIndex: i + 1,
+                    zIndex: pos.z,
                     left: 0,
                     top: 0,
                     transform: `translate(${pos.x}px, ${pos.y}px) rotate(${pos.rot}deg)`,
@@ -416,7 +476,7 @@ export function HowWeBuilt({ lang }: { lang: Lang }) {
                     </span>
                     {isV2(note) ? <span className="v2">v2</span> : null}
                   </div>
-                  <div className="body">{body}</div>
+                  {isOpenish ? <HighlightedBody text={text} events={events} from={from} /> : <div className="body">{body}</div>}
                   <Stamp />
                   <div className="nid">{note.note_id}</div>
                 </article>
@@ -464,6 +524,25 @@ export function HowWeBuilt({ lang }: { lang: Lang }) {
             ) : null}
           </div>
         </div>
+
+        {mode === "fan" && events.length ? (
+          <div className="xstrip" aria-label={fi ? "Poimitut tapahtumat" : "Extracted events"}>
+            <div className="xstrip-hd">
+              <b>{fi ? "Mallin poimimat tapahtumat" : "What the model pulled out"}</b>
+              <span>
+                {modelShort} · {open.note_id} · {fi ? "klikkaa muistiota nähdäksesi kaikki" : "click the note for offsets"}
+              </span>
+            </div>
+            <ol className="xchips">
+              {[...events].sort((a, b) => String(a.date ?? "").localeCompare(String(b.date ?? ""))).map((e) => (
+                <li key={`${e.type}-${e.date}-${e.start}`} style={{ ["--c" as string]: HL[e.type]?.bg, ["--f" as string]: HL[e.type]?.fg }}>
+                  <span className="k">{EV_LABEL[e.type]?.[fi ? "fi" : "en"] ?? e.type}</span>
+                  <span className="d">{e.date}</span>
+                </li>
+              ))}
+            </ol>
+          </div>
+        ) : null}
 
         {mode === "open" ? (
           <aside className="rail">

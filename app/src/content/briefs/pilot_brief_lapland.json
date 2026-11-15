@@ -16,7 +16,49 @@
     "metric": "Age-standardised share of lung-cancer patients receiving curative treatment, 2019–2023, men: Lapland ≈16.2% (95% CI 12.7–20.4) vs Vantaa-Kerava ≈29.8% (24.2–36.1). Women: 23.1% vs 39.7%.",
     "source": "Finnish Cancer Registry/THL/FICAN, Keuhkosyöpä Suomessa 2019–2023 (23.4.2026), Kuva 16 – https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
     "caveat": "Values read from the chart by the Tasan data team (±1 pp); not published numbers.",
-    "people_estimate": "About 12 more lung cancer patients a year in Lapland would have had a curative-treatment record if Lapland matched the national share [Tasan arithmetic from crude Cancer Registry counts, both sexes, diagnosed 2019–2023: (27.0% − 18.5%) × 710 patients ÷ 5 years; not age- or stage-adjusted; illustrative, not a causal or lives-saved estimate]. Source: Keuhkosyöpä Suomessa 2019–2023, Taulukko 11."
+    "people_estimate": "About 12 more lung cancer patients a year in Lapland would have had a curative-treatment record if Lapland matched the national share [Tasan arithmetic from crude Cancer Registry counts, both sexes, diagnosed 2019–2023: (27.0% − 18.5%) × 710 patients ÷ 5 years; not age- or stage-adjusted; illustrative, not a causal or lives-saved estimate]. Source: Keuhkosyöpä Suomessa 2019–2023, Taulukko 11.",
+    "comparison": {
+      "measure": "Age-standardised share receiving curative treatment, 2019–2023",
+      "focus": "Lapland",
+      "reference": "Vantaa-Kerava",
+      "groups": [
+        {
+          "label": "Men",
+          "values": {
+            "Lapland": {
+              "value": 16.2,
+              "ci": [
+                12.7,
+                20.4
+              ]
+            },
+            "Vantaa-Kerava": {
+              "value": 29.8,
+              "ci": [
+                24.2,
+                36.1
+              ]
+            }
+          }
+        },
+        {
+          "label": "Women",
+          "values": {
+            "Lapland": {
+              "value": 23.1
+            },
+            "Vantaa-Kerava": {
+              "value": 39.7
+            }
+          }
+        }
+      ]
+    },
+    "people_headline": {
+      "value": "≈12",
+      "unit": "patients a year",
+      "label": "more Lapland lung-cancer patients would have a curative-treatment record at the national share (illustrative)"
+    }
   },
   "action": {
     "summary": "T3 pathway clock: measure each suspected lung cancer from referral to first treatment, raise an alert on day 28 with no treatment decision, and give every patient a named nurse navigator.",
