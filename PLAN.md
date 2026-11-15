@@ -72,3 +72,6 @@ Every number keeps a source pop-over. Brand: level logo, navy/teal/off-white.
 - Only high-value work from here. Verda: finish the existing work (Extract v1 results, Pathway Twin, Ask proxy, VERDA.md, Discord draft); no LoRA or further expansion.
 - Builder's final queue: any-county brief, the How-we-built page, caveat link, answer-source tags, presenter Continue; then freeze.
 - 22:41 amendment (user): Verda phase 2 continues (LoRA, sweep, live endpoint), within the $50 Extract cap. Everything else is in wind-down.
+
+## DECISION 7 (Sun 15.11): Tasan and Polku are one project, two audiences
+Tasan = county/leadership view. Polku (https://polku.ender.fi) = care-team view that records the step clocks. Tasan links out to Polku (no shared code): topbar switch, "Not measured" tile, Tasan Live end banner, Ask Tasan answer. Supersedes the "no reuse of Polku" note in the header for linking.

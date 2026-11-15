@@ -11,13 +11,13 @@
     "counties": "example"
   },
   "files": {
-    "regions": "/workspace/junction-new/app/src/content/regions.json",
-    "sources": "/workspace/junction-new/app/src/content/sources.json",
-    "key_message": "/workspace/junction-new/app/src/content/key_message.json",
-    "recommendations": "/workspace/junction-new/app/src/content/recommendations.json",
-    "counties": "/workspace/junction-new/app/src/content/counties.json"
+    "regions": "/Users/samuli/koodaus/junction-2026-2/tasan/app/src/content/regions.json",
+    "sources": "/Users/samuli/koodaus/junction-2026-2/tasan/app/src/content/sources.json",
+    "key_message": "/Users/samuli/koodaus/junction-2026-2/tasan/app/src/content/key_message.json",
+    "recommendations": "/Users/samuli/koodaus/junction-2026-2/tasan/app/src/content/recommendations.json",
+    "counties": "/Users/samuli/koodaus/junction-2026-2/tasan/app/src/content/counties.json"
   },
-  "synced_at": "2026-11-14T21:16:28.757Z",
+  "synced_at": "2026-11-15T07:17:32.556Z",
   "recs_are_example": false,
   "key_message_is_example": false
 }

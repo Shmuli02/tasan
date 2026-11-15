@@ -5,6 +5,7 @@ import { TasanLive } from "./components/TasanLive";
 import { PilotView } from "./components/PilotView";
 import { HowWeBuilt } from "./components/HowWeBuilt";
 import { PilotBriefModal } from "./components/PilotBriefModal";
+import { PolkuSwitch } from "./components/PolkuLink";
 import type { PilotBriefDraft } from "./lib/briefDraft";
 import { isExampleApp } from "./lib/data";
 import { shortName } from "./lib/chartData";
@@ -101,6 +102,7 @@ export function App() {
           ))}
         </nav>
         <div className="right">
+          <PolkuSwitch lang={lang} />
           <div className="lang" role="group" aria-label={fi ? "Kieli" : "Language"}>
             <button type="button" className={lang === "fi" ? "on" : ""} onClick={() => setLang("fi")}>
               FI
