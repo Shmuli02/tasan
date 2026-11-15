@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0040
+document_id: SYN-P0040-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-06-12
+display_name: Kari Keinotekoinen SYN-P0040 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 12.6.2026. Potilas: Kari Keinotekoinen SYN-P0040 (SYN-P0040), s. 4.12.1950.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 20/5/2026.
+Esitiedot: tietokonetomografia (TT) suoritettiin 2026-05-28.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Edellinen keuhkokuume hoidettu 24.2.2013.
+Sappirakon poisto tehty 21.8.2020 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

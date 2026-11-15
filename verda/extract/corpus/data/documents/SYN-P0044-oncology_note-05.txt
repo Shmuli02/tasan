@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0044
+document_id: SYN-P0044-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-02-15
+display_name: Nils Fiktiv SYN-P0044 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 15.2.2026. Potilas: Nil Fiktiv SYN-P0044 (SYN-P0044), s. 23.3.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 21.1.2026.
+Tietokonetomografia (TT) soritettiin 29.1.
+EBUS-bronkoskopia suoritettu 8.2; biopsiat otettu.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Syntymäaika 23.3.1946 tarkistettu väestöttiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

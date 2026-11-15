@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0093
+document_id: SYN-P0093-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-05-10
+display_name: Sari Sijaisnimi SYN-P0093 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 10.5.2026. Patient: Sari Sijaisnimi SYN-P0093 (SYN-P0093), f. 12.6.1946.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 10.5.2026.
+MDK flyttas till nästa vecka; ingen konferens hölls idag.
+DT planerad 19.5.2026 (ännu inte utförd).
+Höftprotes opererad 1.9.2013.
+Föregående pneumoni behandlad 13.8.2022.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

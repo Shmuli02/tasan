@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0100
+document_id: SYN-P0100-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-08-05
+display_name: Nils Fiktiv SYN-P0100 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 5.8.2026. Potilas: Nils Fiktiv SYN-P0100 (SYN-P0100), s. 27.10.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 7/7/2026.
+Esitiedot: thoraxin TT tehty 12/7.
+Esitiedot: bronkoskopia 21.7.2026, näytteet otettu.
+Patologin lausunto 2.8.2026: NSCLC, ei tarkemmin luokiteltu.
+Moniammatillinen kokous (MDT) 4.8.26: suositellaan etenemistä hoitoon.
+Linjaus 5.8.2026: kuratiivinen lobektomia.
+TT suunniteltu 19.8.2026 (ei vielä tehty).
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Edellinen keuhkokuume hoidettu 1.6.2021.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,1003 @@
+{
+ "areas": {
+  "YTA-ETELA": {
+   "name_en": "South Finland collaborative area (YTA)",
+   "name_fi": "Etelä-Suomi",
+   "cohort": "diagnosed 1/2018-6/2022",
+   "n_patients": 4972,
+   "n_patients_source": {
+    "file": "data/csv/lung_report2024_treatment_6m_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa 2024, Taulukko 3.3 (PDF p.18)",
+    "column": "denominator"
+   },
+   "cum_first_event_pct": {
+    "none": [
+     100.0,
+     59.0,
+     37.8,
+     28.0,
+     22.4,
+     18.8,
+     16.8
+    ],
+    "surgery": [
+     0.0,
+     4.8,
+     8.1,
+     10.0,
+     11.1,
+     11.6,
+     11.8
+    ],
+    "radiotherapy": [
+     0.0,
+     10.4,
+     15.9,
+     18.5,
+     20.1,
+     21.2,
+     21.9
+    ],
+    "drug": [
+     0.0,
+     5.9,
+     8.9,
+     10.2,
+     10.9,
+     11.4,
+     11.7
+    ],
+    "palliative": [
+     0.0,
+     5.0,
+     7.3,
+     8.3,
+     8.8,
+     9.1,
+     9.3
+    ],
+    "death": [
+     0.0,
+     14.9,
+     22.0,
+     25.0,
+     26.7,
+     27.9,
+     28.6
+    ]
+   },
+   "cum_source": {
+    "file": "data/csv/lung_report2024_first_event_cumulative_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa – Katsaus keuhkosyövän hoidon laadusta (Syöpärekisteri/FICAN, 12/2024), Taulukko 4.5 (month 6 surgery/drug/RT columns = Taulukko 4.6, PDF p.35), PDF p.34 (printed p.33)",
+    "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf"
+   },
+   "quantiles_days": {
+    "surgery": {
+     "q1": 33.0,
+     "median": 46.0,
+     "q3": 63.0
+    },
+    "radiotherapy": {
+     "q1": 18.0,
+     "median": 39.0,
+     "q3": 56.0
+    },
+    "drug": {
+     "q1": 24.0,
+     "median": 36.0,
+     "q3": 54.0
+    }
+   },
+   "quantiles_source": {
+    "file": "data/csv/lung_report2024_days_dx_to_first_treatment_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa 2024, Taulukko 4.1 (PDF p.28)",
+    "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf",
+    "population": "patients whose first treatment within 6 months was this modality; days from Cancer Registry diagnosis date"
+   },
+   "derived_first_active_pct": {
+    "1": {
+     "value": 21.1,
+     "ci95_low": 20.0,
+     "ci95_high": 22.3
+    },
+    "2": {
+     "value": 32.9,
+     "ci95_low": 31.6,
+     "ci95_high": 34.2
+    },
+    "3": {
+     "value": 38.7,
+     "ci95_low": 37.4,
+     "ci95_high": 40.1
+    },
+    "4": {
+     "value": 42.1,
+     "ci95_low": 40.7,
+     "ci95_high": 43.5
+    },
+    "5": {
+     "value": 44.2,
+     "ci95_low": 42.8,
+     "ci95_high": 45.6
+    },
+    "6": {
+     "value": 45.4,
+     "ci95_low": 44.0,
+     "ci95_high": 46.8
+    }
+   },
+   "derived_source": {
+    "file": "data/csv/lung_derived_first_active_treatment_by_month_yta.csv",
+    "table": "derived by team from Taulukko 4.5 + 3.3 (Wilson 95% CI)"
+   },
+   "month6_sum_pct": 100.1
+  },
+  "YTA-ITA": {
+   "name_en": "East Finland collaborative area (YTA)",
+   "name_fi": "Itä-Suomi",
+   "cohort": "diagnosed 1/2018-6/2022",
+   "n_patients": 2019,
+   "n_patients_source": {
+    "file": "data/csv/lung_report2024_treatment_6m_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa 2024, Taulukko 3.3 (PDF p.18)",
+    "column": "denominator"
+   },
+   "cum_first_event_pct": {
+    "none": [
+     100.0,
+     51.8,
+     30.8,
+     22.1,
+     17.3,
+     14.0,
+     12.1
+    ],
+    "surgery": [
+     0.0,
+     7.4,
+     10.0,
+     10.8,
+     11.2,
+     11.4,
+     11.5
+    ],
+    "radiotherapy": [
+     0.0,
+     9.2,
+     13.2,
+     14.7,
+     15.6,
+     16.1,
+     16.4
+    ],
+    "drug": [
+     0.0,
+     9.7,
+     14.8,
+     17.2,
+     18.8,
+     20.0,
+     20.8
+    ],
+    "palliative": [
+     0.0,
+     9.1,
+     12.8,
+     14.2,
+     14.9,
+     15.4,
+     15.6
+    ],
+    "death": [
+     0.0,
+     12.9,
+     18.6,
+     20.9,
+     22.2,
+     23.1,
+     23.6
+    ]
+   },
+   "cum_source": {
+    "file": "data/csv/lung_report2024_first_event_cumulative_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa – Katsaus keuhkosyövän hoidon laadusta (Syöpärekisteri/FICAN, 12/2024), Taulukko 4.5 (month 6 surgery/drug/RT columns = Taulukko 4.6, PDF p.35), PDF p.34 (printed p.33)",
+    "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf"
+   },
+   "quantiles_days": {
+    "surgery": {
+     "q1": 0.0,
+     "median": 27.0,
+     "q3": 43.5
+    },
+    "radiotherapy": {
+     "q1": 11.0,
+     "median": 25.0,
+     "q3": 47.0
+    },
+    "drug": {
+     "q1": 22.0,
+     "median": 36.0,
+     "q3": 56.0
+    }
+   },
+   "quantiles_source": {
+    "file": "data/csv/lung_report2024_days_dx_to_first_treatment_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa 2024, Taulukko 4.1 (PDF p.28)",
+    "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf",
+    "population": "patients whose first treatment within 6 months was this modality; days from Cancer Registry diagnosis date"
+   },
+   "derived_first_active_pct": {
+    "1": {
+     "value": 26.3,
+     "ci95_low": 24.4,
+     "ci95_high": 28.3
+    },
+    "2": {
+     "value": 38.0,
+     "ci95_low": 35.9,
+     "ci95_high": 40.1
+    },
+    "3": {
+     "value": 42.7,
+     "ci95_low": 40.6,
+     "ci95_high": 44.9
+    },
+    "4": {
+     "value": 45.6,
+     "ci95_low": 43.4,
+     "ci95_high": 47.8
+    },
+    "5": {
+     "value": 47.5,
+     "ci95_low": 45.3,
+     "ci95_high": 49.7
+    },
+    "6": {
+     "value": 48.7,
+     "ci95_low": 46.5,
+     "ci95_high": 50.9
+    }
+   },
+   "derived_source": {
+    "file": "data/csv/lung_derived_first_active_treatment_by_month_yta.csv",
+    "table": "derived by team from Taulukko 4.5 + 3.3 (Wilson 95% CI)"
+   },
+   "month6_sum_pct": 100.0
+  },
+  "YTA-LANSI": {
+   "name_en": "West Finland collaborative area (YTA)",
+   "name_fi": "Länsi-Suomi",
+   "cohort": "diagnosed 1/2018-6/2022",
+   "n_patients": 2284,
+   "n_patients_source": {
+    "file": "data/csv/lung_report2024_treatment_6m_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa 2024, Taulukko 3.3 (PDF p.18)",
+    "column": "denominator"
+   },
+   "cum_first_event_pct": {
+    "none": [
+     100.0,
+     65.8,
+     43.5,
+     33.2,
+     27.3,
+     22.9,
+     20.2
+    ],
+    "surgery": [
+     0.0,
+     3.7,
+     8.2,
+     9.8,
+     10.1,
+     10.1,
+     10.2
+    ],
+    "radiotherapy": [
+     0.0,
+     6.2,
+     10.2,
+     12.3,
+     13.7,
+     14.9,
+     15.6
+    ],
+    "drug": [
+     0.0,
+     6.1,
+     9.3,
+     10.7,
+     11.4,
+     11.9,
+     12.2
+    ],
+    "palliative": [
+     0.0,
+     3.5,
+     5.9,
+     7.2,
+     8.2,
+     9.0,
+     9.6
+    ],
+    "death": [
+     0.0,
+     14.6,
+     22.9,
+     26.8,
+     29.3,
+     31.1,
+     32.3
+    ]
+   },
+   "cum_source": {
+    "file": "data/csv/lung_report2024_first_event_cumulative_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa – Katsaus keuhkosyövän hoidon laadusta (Syöpärekisteri/FICAN, 12/2024), Taulukko 4.5 (month 6 surgery/drug/RT columns = Taulukko 4.6, PDF p.35), PDF p.34 (printed p.33)",
+    "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf"
+   },
+   "quantiles_days": {
+    "surgery": {
+     "q1": 28.0,
+     "median": 42.0,
+     "q3": 55.0
+    },
+    "radiotherapy": {
+     "q1": 26.0,
+     "median": 45.0,
+     "q3": 74.5
+    },
+    "drug": {
+     "q1": 23.0,
+     "median": 34.5,
+     "q3": 48.2
+    }
+   },
+   "quantiles_source": {
+    "file": "data/csv/lung_report2024_days_dx_to_first_treatment_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa 2024, Taulukko 4.1 (PDF p.28)",
+    "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf",
+    "population": "patients whose first treatment within 6 months was this modality; days from Cancer Registry diagnosis date"
+   },
+   "derived_first_active_pct": {
+    "1": {
+     "value": 16.0,
+     "ci95_low": 14.6,
+     "ci95_high": 17.6
+    },
+    "2": {
+     "value": 27.7,
+     "ci95_low": 25.9,
+     "ci95_high": 29.6
+    },
+    "3": {
+     "value": 32.8,
+     "ci95_low": 30.9,
+     "ci95_high": 34.8
+    },
+    "4": {
+     "value": 35.2,
+     "ci95_low": 33.3,
+     "ci95_high": 37.2
+    },
+    "5": {
+     "value": 36.9,
+     "ci95_low": 34.9,
+     "ci95_high": 38.9
+    },
+    "6": {
+     "value": 38.0,
+     "ci95_low": 36.0,
+     "ci95_high": 40.0
+    }
+   },
+   "derived_source": {
+    "file": "data/csv/lung_derived_first_active_treatment_by_month_yta.csv",
+    "table": "derived by team from Taulukko 4.5 + 3.3 (Wilson 95% CI)"
+   },
+   "month6_sum_pct": 100.1
+  },
+  "YTA-POHJOIS": {
+   "name_en": "North Finland collaborative area (YTA)",
+   "name_fi": "Pohjois-Suomi",
+   "cohort": "diagnosed 1/2018-6/2022",
+   "n_patients": 1930,
+   "n_patients_source": {
+    "file": "data/csv/lung_report2024_treatment_6m_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa 2024, Taulukko 3.3 (PDF p.18)",
+    "column": "denominator"
+   },
+   "cum_first_event_pct": {
+    "none": [
+     100.0,
+     58.0,
+     37.8,
+     28.9,
+     23.6,
+     19.9,
+     17.8
+    ],
+    "surgery": [
+     0.0,
+     6.5,
+     8.5,
+     9.1,
+     9.3,
+     9.4,
+     9.5
+    ],
+    "radiotherapy": [
+     0.0,
+     6.4,
+     9.7,
+     11.2,
+     12.2,
+     12.9,
+     13.3
+    ],
+    "drug": [
+     0.0,
+     7.9,
+     12.3,
+     14.5,
+     15.9,
+     16.8,
+     17.4
+    ],
+    "palliative": [
+     0.0,
+     6.6,
+     9.7,
+     11.1,
+     11.9,
+     12.5,
+     12.8
+    ],
+    "death": [
+     0.0,
+     14.8,
+     22.0,
+     25.3,
+     27.2,
+     28.5,
+     29.4
+    ]
+   },
+   "cum_source": {
+    "file": "data/csv/lung_report2024_first_event_cumulative_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa – Katsaus keuhkosyövän hoidon laadusta (Syöpärekisteri/FICAN, 12/2024), Taulukko 4.5 (month 6 surgery/drug/RT columns = Taulukko 4.6, PDF p.35), PDF p.34 (printed p.33)",
+    "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf"
+   },
+   "quantiles_days": {
+    "surgery": {
+     "q1": 0.0,
+     "median": 13.5,
+     "q3": 44.0
+    },
+    "radiotherapy": {
+     "q1": 14.0,
+     "median": 31.0,
+     "q3": 54.0
+    },
+    "drug": {
+     "q1": 28.2,
+     "median": 42.0,
+     "q3": 57.0
+    }
+   },
+   "quantiles_source": {
+    "file": "data/csv/lung_report2024_days_dx_to_first_treatment_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa 2024, Taulukko 4.1 (PDF p.28)",
+    "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf",
+    "population": "patients whose first treatment within 6 months was this modality; days from Cancer Registry diagnosis date"
+   },
+   "derived_first_active_pct": {
+    "1": {
+     "value": 20.8,
+     "ci95_low": 19.0,
+     "ci95_high": 22.7
+    },
+    "2": {
+     "value": 30.5,
+     "ci95_low": 28.5,
+     "ci95_high": 32.6
+    },
+    "3": {
+     "value": 34.8,
+     "ci95_low": 32.7,
+     "ci95_high": 37.0
+    },
+    "4": {
+     "value": 37.4,
+     "ci95_low": 35.3,
+     "ci95_high": 39.6
+    },
+    "5": {
+     "value": 39.1,
+     "ci95_low": 36.9,
+     "ci95_high": 41.3
+    },
+    "6": {
+     "value": 40.2,
+     "ci95_low": 38.0,
+     "ci95_high": 42.4
+    }
+   },
+   "derived_source": {
+    "file": "data/csv/lung_derived_first_active_treatment_by_month_yta.csv",
+    "table": "derived by team from Taulukko 4.5 + 3.3 (Wilson 95% CI)"
+   },
+   "month6_sum_pct": 100.2
+  },
+  "YTA-SISA": {
+   "name_en": "Inland Finland collaborative area (YTA)",
+   "name_fi": "Sisä-Suomi",
+   "cohort": "diagnosed 1/2018-6/2022",
+   "n_patients": 2033,
+   "n_patients_source": {
+    "file": "data/csv/lung_report2024_treatment_6m_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa 2024, Taulukko 3.3 (PDF p.18)",
+    "column": "denominator"
+   },
+   "cum_first_event_pct": {
+    "none": [
+     100.0,
+     54.3,
+     31.1,
+     20.8,
+     15.0,
+     11.2,
+     9.2
+    ],
+    "surgery": [
+     0.0,
+     8.7,
+     12.5,
+     13.8,
+     14.4,
+     14.7,
+     14.8
+    ],
+    "radiotherapy": [
+     0.0,
+     7.1,
+     11.0,
+     12.8,
+     13.8,
+     14.5,
+     14.9
+    ],
+    "drug": [
+     0.0,
+     9.3,
+     15.2,
+     18.4,
+     20.3,
+     21.7,
+     22.4
+    ],
+    "palliative": [
+     0.0,
+     6.7,
+     10.2,
+     11.8,
+     12.8,
+     13.4,
+     13.8
+    ],
+    "death": [
+     0.0,
+     13.9,
+     20.0,
+     22.5,
+     23.7,
+     24.5,
+     24.9
+    ]
+   },
+   "cum_source": {
+    "file": "data/csv/lung_report2024_first_event_cumulative_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa – Katsaus keuhkosyövän hoidon laadusta (Syöpärekisteri/FICAN, 12/2024), Taulukko 4.5 (month 6 surgery/drug/RT columns = Taulukko 4.6, PDF p.35), PDF p.34 (printed p.33)",
+    "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf"
+   },
+   "quantiles_days": {
+    "surgery": {
+     "q1": 0.0,
+     "median": 29.0,
+     "q3": 51.0
+    },
+    "radiotherapy": {
+     "q1": 21.0,
+     "median": 40.0,
+     "q3": 57.8
+    },
+    "drug": {
+     "q1": 28.0,
+     "median": 43.0,
+     "q3": 61.0
+    }
+   },
+   "quantiles_source": {
+    "file": "data/csv/lung_report2024_days_dx_to_first_treatment_by_yta.csv",
+    "table": "Keuhkosyöpä Suomessa 2024, Taulukko 4.1 (PDF p.28)",
+    "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf",
+    "population": "patients whose first treatment within 6 months was this modality; days from Cancer Registry diagnosis date"
+   },
+   "derived_first_active_pct": {
+    "1": {
+     "value": 25.1,
+     "ci95_low": 23.3,
+     "ci95_high": 27.0
+    },
+    "2": {
+     "value": 38.7,
+     "ci95_low": 36.6,
+     "ci95_high": 40.8
+    },
+    "3": {
+     "value": 45.0,
+     "ci95_low": 42.8,
+     "ci95_high": 47.2
+    },
+    "4": {
+     "value": 48.5,
+     "ci95_low": 46.3,
+     "ci95_high": 50.7
+    },
+    "5": {
+     "value": 50.9,
+     "ci95_low": 48.7,
+     "ci95_high": 53.1
+    },
+    "6": {
+     "value": 52.1,
+     "ci95_low": 49.9,
+     "ci95_high": 54.3
+    }
+   },
+   "derived_source": {
+    "file": "data/csv/lung_derived_first_active_treatment_by_month_yta.csv",
+    "table": "derived by team from Taulukko 4.5 + 3.3 (Wilson 95% CI)"
+   },
+   "month6_sum_pct": 100.0
+  }
+ },
+ "counties": [
+  {
+   "code": "01",
+   "name_en": "East Uusimaa wellbeing services county",
+   "name_fi": "Itä-Uudenmaan hyvinvointialue",
+   "area": "YTA-ETELA",
+   "n_patients_5y": 272,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 54.4,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "02",
+   "name_en": "Central Uusimaa wellbeing services county",
+   "name_fi": "Keski-Uudenmaan hyvinvointialue",
+   "area": "YTA-ETELA",
+   "n_patients_5y": 481,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 96.2,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "03",
+   "name_en": "West Uusimaa wellbeing services county",
+   "name_fi": "Länsi-Uudenmaan hyvinvointialue",
+   "area": "YTA-ETELA",
+   "n_patients_5y": 1058,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 211.6,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "04",
+   "name_en": "Vantaa and Kerava wellbeing services county",
+   "name_fi": "Vantaan ja Keravan hyvinvointialue",
+   "area": "YTA-ETELA",
+   "n_patients_5y": 595,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 119.0,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "05",
+   "name_en": "Southwest Finland wellbeing services county",
+   "name_fi": "Varsinais-Suomen hyvinvointialue",
+   "area": "YTA-LANSI",
+   "n_patients_5y": 1437,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 287.4,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "06",
+   "name_en": "Satakunta wellbeing services county",
+   "name_fi": "Satakunnan hyvinvointialue",
+   "area": "YTA-LANSI",
+   "n_patients_5y": 682,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 136.4,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "07",
+   "name_en": "Kanta-Häme wellbeing services county",
+   "name_fi": "Kanta-Hämeen hyvinvointialue",
+   "area": "YTA-SISA",
+   "n_patients_5y": 546,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 109.2,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "08",
+   "name_en": "Pirkanmaa wellbeing services county",
+   "name_fi": "Pirkanmaan hyvinvointialue",
+   "area": "YTA-SISA",
+   "n_patients_5y": 1253,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 250.6,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "09",
+   "name_en": "Päijät-Häme wellbeing services county",
+   "name_fi": "Päijät-Hämeen hyvinvointialue",
+   "area": "YTA-ETELA",
+   "n_patients_5y": 659,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 131.8,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "10",
+   "name_en": "Kymenlaakso wellbeing services county",
+   "name_fi": "Kymenlaakson hyvinvointialue",
+   "area": "YTA-ETELA",
+   "n_patients_5y": 591,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 118.2,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "11",
+   "name_en": "South Karelia wellbeing services county",
+   "name_fi": "Etelä-Karjalan hyvinvointialue",
+   "area": "YTA-ETELA",
+   "n_patients_5y": 355,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 71.0,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "12",
+   "name_en": "South Savo wellbeing services county",
+   "name_fi": "Etelä-Savon hyvinvointialue",
+   "area": "YTA-ITA",
+   "n_patients_5y": 448,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 89.6,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "13",
+   "name_en": "North Savo wellbeing services county",
+   "name_fi": "Pohjois-Savon hyvinvointialue",
+   "area": "YTA-ITA",
+   "n_patients_5y": 641,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 128.2,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "14",
+   "name_en": "North Karelia wellbeing services county",
+   "name_fi": "Pohjois-Karjalan hyvinvointialue",
+   "area": "YTA-ITA",
+   "n_patients_5y": 510,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 102.0,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "15",
+   "name_en": "Central Finland wellbeing services county",
+   "name_fi": "Keski-Suomen hyvinvointialue",
+   "area": "YTA-ITA",
+   "n_patients_5y": 637,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 127.4,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "16",
+   "name_en": "South Ostrobothnia wellbeing services county",
+   "name_fi": "Etelä-Pohjanmaan hyvinvointialue",
+   "area": "YTA-SISA",
+   "n_patients_5y": 540,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 108.0,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "17",
+   "name_en": "Ostrobothnia wellbeing services county",
+   "name_fi": "Pohjanmaan hyvinvointialue",
+   "area": "YTA-LANSI",
+   "n_patients_5y": 449,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 89.8,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "18",
+   "name_en": "Central Ostrobothnia wellbeing services county",
+   "name_fi": "Keski-Pohjanmaan hyvinvointialue",
+   "area": "YTA-POHJOIS",
+   "n_patients_5y": 148,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 29.6,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "19",
+   "name_en": "North Ostrobothnia wellbeing services county",
+   "name_fi": "Pohjois-Pohjanmaan hyvinvointialue",
+   "area": "YTA-POHJOIS",
+   "n_patients_5y": 1050,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 210.0,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "20",
+   "name_en": "Kainuu wellbeing services county",
+   "name_fi": "Kainuun hyvinvointialue",
+   "area": "YTA-POHJOIS",
+   "n_patients_5y": 226,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 45.2,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "21",
+   "name_en": "Lapland wellbeing services county",
+   "name_fi": "Lapin hyvinvointialue",
+   "area": "YTA-POHJOIS",
+   "n_patients_5y": 710,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 142.0,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  },
+  {
+   "code": "90",
+   "name_en": "City of Helsinki",
+   "name_fi": "Helsingin kaupunki",
+   "area": "YTA-ETELA",
+   "n_patients_5y": 1486,
+   "years": "2019-2023 (diagnosis years; 12-month follow-up)",
+   "annual_volume": 297.2,
+   "source": {
+    "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+    "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+    "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+    "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+   }
+  }
+ ],
+ "input_files_sha256": {
+  "data/csv/lung_report2024_first_event_cumulative_by_yta.csv": "b96b249b544504050345e2ca2cafa7b09daa23b27cbd8dae7d171f6de8a9b9bf",
+  "data/csv/lung_derived_first_active_treatment_by_month_yta.csv": "60c2d51f4967db84d657747002a80eda14a6793635ed6ad1476f0d90f599e50d",
+  "data/csv/lung_report2024_days_dx_to_first_treatment_by_yta.csv": "a7c07047c6d76d77cce91e2339e51dcdcf245511f79263a17d6379df6863148e",
+  "data/csv/lung_report2024_treatment_6m_by_yta.csv": "b60d88f2d510a9d163382f711dde7d7ce2807c3b11eee22405adbe50b07d188b",
+  "data/csv/lung_report2026_treatment_by_wsc.csv": "d20f3c59b44a6a4cf17d02f8491a4dd5ec5fe84fe84f71962ab688aa5233d0a9"
+ }
+}

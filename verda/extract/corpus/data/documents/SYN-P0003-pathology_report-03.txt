@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0003
+document_id: SYN-P0003-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-05-17
+display_name: Eeva Esimerkki SYN-P0003 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 17.5.2026. Potilas: Eeva Esimerkki SYN-P0003 (SYN-P0003), s. 26.8.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 20.4.2026.
+Thoraxin TT tehty 24.4.2026.
+EBUS-bronkoskopia suoritettu 5/5; biopsiat otettu.
+Histologinen vastaus saapui 2026-05-15 (pienisoluinen keuhkosyöpä).
+Edellinen keuhkokuume hoidettu 1.8.2021.
+Lonkkaproteesi operoitu 17.2.2015.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

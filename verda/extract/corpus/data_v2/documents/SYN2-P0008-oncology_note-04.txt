@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0008
+document_id: SYN2-P0008-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-05-18
+display_name: Hannu Harjoitus SYN2-P0008 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 18.5.2026. Potilas: Ha nnu Harjo itus SYN2-P0008 (SYN2-P0008), s. 11.11.1958.
+SYNTEETTINEN poti-laskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkin tä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Leikekuvaus 0n suoritettu 25-04-2026.
+Sovittiin hoitomuodosta 16. toukokuuta 2026 (kiilaresektio).
+Asiakirja merkittiin saapuneeksi keuhko yksikköön 19-04-2026.
+— ote vanhasta kirjauksesta 21.9.2016: syntymäaika 11.11.1958; sappirakon poisto 21.9.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettin-en testikäyttäjä. Tämä ei ole oikea potilaskertomus.

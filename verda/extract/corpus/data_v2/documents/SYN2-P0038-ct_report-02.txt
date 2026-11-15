@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0038
+document_id: SYN2-P0038-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-09-10
+display_name: Olli Oletettu SYN2-P0038 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjau-späivä 10.9.2026. Potilas: Olli Oletettu SYN2-P0038 (SYN2-P0038), s. 24.9.1962.
+SYNTEETTINE N potilaskertomu s, ei oikeaa hen-kilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoituste ksti).
+Tutkimus käytiin kuvaamassa 10. syyskuuta 2026.
+Pyyntö tuli perille viikolla 35 torstaina (2026).
+Kuvissa erottui vasemman a-lalohkon 2,4 cm muutos.
+Aktiivista hoitoa ei ole aloit ettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 9.8.2019: syntymäaika 24.9.1962; sappirakon poisto 9.8.2019; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole o-ikea potilaskertomus.

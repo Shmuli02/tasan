@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0079
+document_id: SYNTR-P0079-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-02-16
+display_name: Aino Harjoitus SYNTR-P0079 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Keksitty keuhkoyksikkö
+Kirjauspäivä 16.2.2026. Potilas: Aino Harjoitus SYNTR-P0079, s. 1.1.1950.
+SYNTEETTINEN record, not a real person.
+
+Yksikkö otti läheteen käsittelyyn 17.1.2026.
+TT-sarja tallennettiin 23.1.2026.
+Kudospala irrotettiin toimenpiteessä pe 30.1.2026.
+Patologian tulos kirjattiin su 8.2.2026 (levyepiteelikarsinooma).
+Hoitoryhmä kokoontui 2026-02-12.
+Linja lukittiin 14.2.2026 (lobektomia).
+
+Kirjaaja: synteettinen testikäyttäjä.

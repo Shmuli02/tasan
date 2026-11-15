@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0068
+document_id: SYN2-P0068-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-05-30
+display_name: Kari Keinotekoinen SYN2-P0068 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Maallikylän keuhkoklinikka
+Kirjauspäivä 30.5.2026. Potilas: Kari Keino-ttekoinen SYN2-P0068 (SYN2-P0068), s. 4.6.1947.
+SYNTEETTINEN potilasker tomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkose lvittelystä (synteettinen harjoitusteksti).
+Kokoontuminen 28. toukokuuta 2026: eri erikoisalojen yhteinen kanta merrkitty.
+Toimenpide varattiin keskiviikkona, mutta näyte otettiin vasta 30. toukokuuta 2026.
+Leikekuvaus on suo ritettu 22-05-2026.
+Lähete saapui toimistoon 18. toukokuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Kliininen valinta ethtiin vi-ikolla 22 torstaina (2026): sytostaatti.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0080
+document_id: SYN-P0080-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-07-11
+display_name: John Placeholder SYN-P0080 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 11.7.2026. Patient: John Placeholder SYN-P0080 (SYN-P0080), DOB 6.4.1965.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+CT thorax was carried out on 10.7. Imaging showed a 2.4 cm lesion in the left lower lobe.
+Treatment has not been started.
+Laboratory tests have been ordered; results are not in this note.
+Hip replacement on 11.8.2020.
+
+Entered by: synthetic test user. This is not a real clinical record.

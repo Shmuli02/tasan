@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0104
+document_id: SYN-P0104-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-08-25
+display_name: Johan Testdata SYN-P0104 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 25.8.2026. Potilas: Johan Testdata SYN-P0104 (SYN-P0104), s. 16.9.1952.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 26.7.2026.
+Esitiedot: tietokonetomografia (TT) suoritettiin 2.8.
+Biopsiat otettu bronkoskopiassa 13.8.2026.
+Esitiedot: histologinen vastaus saapui viikko sitten (pienisoluinen keuhkosyöpä).
+Moniammatillinen kokous (MDT) 21.8.2026: suositellaan etenemistä hoitoon.
+Päätettiin toissapäivänä aloittaa solunsalpaaja.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+Sappirakon poisto tehty 7.3.2014 (ei liity nykyiseen selvittelyyn).
+Edellinen keuhkokuume hoidettu 6.12.2016.
+Lonkkaproteesi operoitu 7.3.2014.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

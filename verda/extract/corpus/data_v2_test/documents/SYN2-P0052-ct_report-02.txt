@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0052
+document_id: SYN2-P0052-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-04-03
+display_name: John Placeholder SYN2-P0052 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 3.4.2026. Potilas: John Placeholder SYN2-P0052 (SYN2-P0052), s. 23.10.1950.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvausaika merkittiin k alenteriin viikolla 13 sunnuntaina (2026); itse tutkimus toteutettiin 2. huhtikuuta 2026.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön maaliskuun 22. päivänä 2026.
+Kuvissa erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+— ote vanhasta kirjauksesta 21.2.2018: syntymä aika 23.10.1950; sappirakon poisto 21.2.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontro-llissa; tarkkaa päivää ei o le tässä.
+
+Kirjaaja: synteettinen testikäy-ttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0067
+document_id: SYN-P0067-biopsy_note-04
+document_type: biopsy_note
+language: fi
+note_date: 2026-08-28
+display_name: Tuula Testinen SYN-P0067 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 28.8.2026. Potilas: Tuula Testinen SYN-P0067 (SYN-P0067), s. 23.12.1947.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 3.8.
+Esitiedot: pET-TT tehty 2026-08-17.
+MDT kaksi viikkoa sitten: hoitolinja vahvistettu.
+Esitiedot: linjaus kaksi viikkoa sitten: kuratiivinen lobektomia.
+Esitiedot: leikkaus (lobektomia) tehty 21.8.2026.
+EBUS-bronkoskopia suoritettu 2026-08-27; biopsiat otettu.
+Lonkkaproteesi operoitu 17.11.2024.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

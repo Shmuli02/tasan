@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0037
+document_id: SYN2-P0037-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-06-09
+display_name: Sari Sijaisnimi SYN2-P0037 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 9.6.2026. Patient: Sari Sijaisnimi SYN2-P0037 (SYN2-P0037), DOB 13.10.1949.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the l-ung work-up (synthetic training text).
+The scan slot was put in the calendar on 5 June 2026; the examination itself was carried out on June the 9, 2026.
+The consultation request was written on 23-05-2026, but was only logged as having arrived on 28 May 2026.
+The pictures showed a 3.1 cm tumour in the right upper lobe.
+The endoscopy was called off at short notice and no sample was obtained.
+— excerpt from an older note dated 6.2.2020: date of birth 13.10.1949; cholecystectomy 6.2.2020; unrelated to the present lung work-up. —
+Previously, sometime in early January, there was a follow-up visit; the exact day is not in this no te.
+
+Entered by: sy ntheti c test user. This is not a real clinical r-ecord.

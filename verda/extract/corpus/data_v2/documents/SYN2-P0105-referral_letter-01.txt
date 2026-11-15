@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0105
+document_id: SYN2-P0105-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-05-26
+display_name: Karin Konstruerad SYN2-P0105 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Påhittade lun-gkliniken
+Anteckningsdatum 26.5.2026. Patient: Karin Konstruerad SYN2-P0105 (SYN2-P0105), f. 2.10.1952.
+SYNTETISK pa tientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Konsultationsbegäran skrevs vec-ka 21 på torsdagen (2026), men registrerades som inkommen först maj den 24 år 2026.
+— utdrag ur äldre anteckning 18.8.2020: födelsedatum 2.10.1952; galloperation 18.8.2020; hör inte till den aktuel1a lungutredningen. —
+Tidigare, någon gång i början av januari, hade hen ett kontrol-lbesök; exakt dag sa-knas här.
+Födelsedatum 2.10.1952 kontrollerat i befolkningsuppgifterna.
+Föregående pneumoni behandlad 4.12.2012.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en ve rklig journal.

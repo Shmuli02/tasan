@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0043
+document_id: SYN2-P0043-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-03-14
+display_name: Anna Anonyymi SYN2-P0043 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 14.3.2026. Patient: Anna Anonyymi SYN2-P0043 (SYN2-P0043), DOB 2.4.1962.
+SYNTHETIC record, not a real person.
+
+Dictated entry frorn the lung work-up (synthetic training text).
+The consultation request was written on March the 10, 2026, but was only logged as having arrived on in week 11 on Saturday (2026).
+The endoscopy was called off at short notice and no sample w as obtained.
+— excerpt from an older note dated 7.2.2014: date of birth 2.4.1962; cholecystectomy 7.2.2014; unrelated to the present lung work-up. —
+Previously, sometime in early January, there was a follow-up visit; the exact day is not in thi s note.
+
+Entered by: synthetic test user. This is not a real clinical record.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0109
+document_id: SYN-P0109-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-05-12
+display_name: Mary Fictitious SYN-P0109 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 12.5.2026. Patient: Mary Fictitious SYN-P0109 (SYN-P0109), f. 14.4.1949.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 25.4.26.
+DT torax utförd 2026-05-11. Bildfynd: en 1,8 cm knuta i vänster övre lob och mediastinala lymfkörtlar.
+DT planerad 23.5.2026 (ännu inte utförd).
+Gallblåsan opererades bort 12.4.2014 (ej relaterat till nuvarande utredning).
+Höftprotes opererad 12.4.2014.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

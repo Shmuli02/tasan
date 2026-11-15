@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0115
+document_id: SYN-P0115-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-09-18
+display_name: Eeva Esimerkki SYN-P0115 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 18.9.2026. Potilas: Eeva Esimerkki SYN-P0115 (SYN-P0115), s. 22.9.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 28.8.2026.
+PET-TT tehty 2026-09-01.
+Bronkoskopia 8.9.2026, näytteet otettu.
+Histologinen vastaus saapui 12.9.2026 (levyepiteelikarsinooma).
+Hoitokokous 18.9.2026: moniammatillinen suositus kirjattu.
+Kontrollilabooratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Syntymäaika 22.9.1946 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

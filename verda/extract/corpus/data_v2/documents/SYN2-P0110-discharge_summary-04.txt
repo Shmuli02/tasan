@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0110
+document_id: SYN2-P0110-discharge_summary-04
+document_type: discharge_summary
+language: fi
+note_date: 2026-03-13
+display_name: Alan Invented SYN2-P0110 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 13.3.2026. Potilas: Alan Invented SYN2-P0110 (SYN2-P0110), s. 8.1.1938.
+SYNTEETTINEN poti1a skertomus, ei oikeaa henkilöä.
+
+Dikt oitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Sovittiin hoitomuodosta viikolla 8 sunnun taina (2026) (solunsalpaaja).
+To-imenpide varattiin 5. helmikuuta 2026, mutta näyte otettiin vasta 11. helmikuuta 2026.
+Yhteispalaveri järjestettiin viikolla 8 torstaina (2026); linja muodostettiin siellä.
+Laboratorio ilmoitti histologian 14. helmikuuta 2026: levyepiteelikarsinooma.
+Ensimmäinen hoitokerta oli viikolla 11 torstaina (2026).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön viikolla 5 keskiviikkona (2026).
+Kerroskuvaus toteutettiin 3. helmikuuta 2026.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+Kontrollilaboratoriokokeet tilattu, vastaukset e ivät ole t ässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "is_example": true,
+    "updated": "2026-11-14",
+    "disclaimer": "These recommendations are EXAMPLE placeholders that show the data shape and UI. Wording is illustrative. Effect sizes, costs and coverage assumptions are not evaluated impact estimates. The care strategist should replace this file."
+  },
+  "goal3_indicators": [
+    {
+      "id": "g3-treatment-within-target",
+      "label": "Patients start treatment within target timeframes",
+      "label_fi": "Potilaat pääsevät hoitoon tavoiteaikojen puitteissa",
+      "strategy_ref": "National Cancer Strategy 2026–2035, Goal 3 (Varmistetaan yhdenvertainen ja vaikuttava syövänhoito)",
+      "source_id": "src-strategy-2026"
+    },
+    {
+      "id": "g3-pathways-3-1",
+      "label": "National guidelines and care pathways guide equal, timely and effective care",
+      "label_fi": "Kansalliset hoitosuositukset ja hoitoketjut ohjaavat yhdenvertaista, viiveetöntä ja vaikuttavaa hoitoa",
+      "strategy_ref": "National Cancer Strategy 2026–2035, Goal 3, objective 3.1",
+      "source_id": "src-strategy-2026"
+    },
+    {
+      "id": "g3-quality-registry-3-2",
+      "label": "National cancer-care quality register and systematic review of results",
+      "label_fi": "Kansallinen syövänhoidon laaturekisteri ja systemaattinen tulosten tarkastelu",
+      "strategy_ref": "National Cancer Strategy 2026–2035, Goal 3, objective 3.2",
+      "source_id": "src-strategy-2026"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-treatment-clock",
+      "title": "Treatment-start clock and weekly pathway huddle",
+      "stage": "treatment",
+      "what": "Each wellbeing services county names a cancer pathway coordinator and runs a weekly 30-minute huddle covering every new cancer diagnosis that has not started treatment by day 14. The county publishes a monthly figure for the share of patients who started treatment within the THL target window.",
+      "who_implements": "Wellbeing services county (healthcare director / johtajaylilääkäri), specialty leads, and health-centre liaisons.",
+      "owner": "County director of healthcare (johtajaylilääkäri) or nominated pathway owner.",
+      "cost": {
+        "label": "EXAMPLE €85,000–140,000 per county per year",
+        "amount": 110000,
+        "currency": "EUR",
+        "basis": "per county per year; 0.5–1.0 FTE coordinator plus huddle time. EXAMPLE only.",
+        "source_id": "src-example-synthetic",
+        "is_example": true
+      },
+      "kpi": {
+        "name": "Share of patients starting treatment within target timeframes",
+        "indicator_id": "treatment_within_target_share",
+        "unit": "%",
+        "target": "Move each county toward the (example) 80% on-time start mark, and shrink the regional spread."
+      },
+      "goal3_indicator": "g3-treatment-within-target",
+      "evidence": "EXAMPLE rationale: Goal 3 of the National Cancer Strategy requires that patients start treatment within target timeframes (THL Ohjaus 21/2016). A named owner, a visible clock, and a short recurring review are a concrete county-level way to act on that indicator. Effect size below is illustrative, not an evaluated estimate.",
+      "evidence_source_ids": [
+        "src-strategy-2026",
+        "src-thl-2016",
+        "src-roadmap-2026",
+        "src-example-synthetic"
+      ],
+      "expected_effect": {
+        "indicator_id": "treatment_within_target_share",
+        "direction": "increase",
+        "delta": 8,
+        "unit": "percentage points",
+        "horizon": "18 months",
+        "source_id": "src-example-synthetic",
+        "assumptions": "EXAMPLE: at 100% coverage, the on-time treatment share rises by 8 percentage points over 18 months, additive with other interventions, capped at 100%. Not an evaluated impact estimate.",
+        "is_example": true
+      },
+      "effect_params": {
+        "type": "linear",
+        "applies_to_indicator": "treatment_within_target_share",
+        "effect_at_full_coverage": 8,
+        "max_coverage": 1.0,
+        "applicable_regions": [
+          "*"
+        ],
+        "clamp_min": 0,
+        "clamp_max": 100
+      }
+    },
+    {
+      "id": "rec-referral-sla",
+      "title": "Cancer-suspicion e-referral SLA and chase coordinator",
+      "stage": "referral",
+      "what": "Adopt a 5-working-day SLA for accepting or returning cancer-suspicion e-referrals from health centres. Automatically flag referrals with no decision on day 3 and assign a coordinator to chase them so they are not lost between primary and specialist care.",
+      "who_implements": "Wellbeing services county specialist units together with health centres (perusterveydenhuolto).",
+      "owner": "County chief of specialist care / referral centre lead.",
+      "cost": {
+        "label": "EXAMPLE €60,000–95,000 per county per year",
+        "amount": 78000,
+        "currency": "EUR",
+        "basis": "per county per year; 0.5 FTE plus modest e-referral configuration. EXAMPLE only.",
+        "source_id": "src-example-synthetic",
+        "is_example": true
+      },
+      "kpi": {
+        "name": "Share of cancer-suspicion referrals completed within the agreed time",
+        "indicator_id": "referral_within_target_share",
+        "unit": "%",
+        "target": "EXAMPLE: 80% of cancer-suspicion referrals accepted or returned within 5 working days."
+      },
+      "goal3_indicator": "g3-pathways-3-1",
+      "evidence": "EXAMPLE rationale: Strategy objective 3.1 calls for care pathways that guide equal, timely care. The challenge text highlights the primary-to-specialist transition as a known bottleneck. Effect size is illustrative.",
+      "evidence_source_ids": [
+        "src-strategy-2026",
+        "src-roadmap-2026",
+        "src-example-synthetic"
+      ],
+      "expected_effect": {
+        "indicator_id": "referral_within_target_share",
+        "direction": "increase",
+        "delta": 7,
+        "unit": "percentage points",
+        "horizon": "12 months",
+        "source_id": "src-example-synthetic",
+        "assumptions": "EXAMPLE: +7 pp at full coverage over 12 months, additive, capped at 100%.",
+        "is_example": true
+      },
+      "effect_params": {
+        "type": "linear",
+        "applies_to_indicator": "referral_within_target_share",
+        "effect_at_full_coverage": 7,
+        "max_coverage": 1.0,
+        "applicable_regions": [
+          "*"
+        ],
+        "clamp_min": 0,
+        "clamp_max": 100
+      }
+    },
+    {
+      "id": "rec-one-stop-dx",
+      "title": "One-stop diagnostic clinic days for common tumour types",
+      "stage": "diagnosis",
+      "what": "Organise weekly one-stop clinic days (imaging, biopsy, specialist review in a single visit) for the most common solid tumours, starting with the tumour types that currently wait longest in the county.",
+      "who_implements": "Hospital / specialist unit in the wellbeing services county, with diagnostic services (radiology, pathology).",
+      "owner": "County diagnostic and oncology leads jointly.",
+      "cost": {
+        "label": "EXAMPLE €150,000–250,000 per county per year",
+        "amount": 200000,
+        "currency": "EUR",
+        "basis": "per county per year; session capacity, coordinator, and extended diagnostics slots. EXAMPLE only.",
+        "source_id": "src-example-synthetic",
+        "is_example": true
+      },
+      "kpi": {
+        "name": "Share of patients diagnosed within the target time from referral",
+        "indicator_id": "diagnosis_within_target_share",
+        "unit": "%",
+        "target": "EXAMPLE: 80% diagnosed within the locally agreed target time."
+      },
+      "goal3_indicator": "g3-pathways-3-1",
+      "evidence": "EXAMPLE rationale: bundling diagnostic visits is a standard pathway redesign used to cut time-to-diagnosis. Included here as a concrete, county-implementable action. Effect size is illustrative.",
+      "evidence_source_ids": [
+        "src-example-synthetic",
+        "src-roadmap-2026"
+      ],
+      "expected_effect": {
+        "indicator_id": "diagnosis_within_target_share",
+        "direction": "increase",
+        "delta": 6,
+        "unit": "percentage points",
+        "horizon": "12 months",
+        "source_id": "src-example-synthetic",
+        "assumptions": "EXAMPLE: +6 pp at full coverage over 12 months, additive, capped at 100%.",
+        "is_example": true
+      },
+      "effect_params": {
+        "type": "linear",
+        "applies_to_indicator": "diagnosis_within_target_share",
+        "effect_at_full_coverage": 6,
+        "max_coverage": 1.0,
+        "applicable_regions": [
+          "*"
+        ],
+        "clamp_min": 0,
+        "clamp_max": 100
+      }
+    },
+    {
+      "id": "rec-primary-fasttrack",
+      "title": "Primary-care cancer-suspicion checklist and reserved imaging slots",
+      "stage": "detection",
+      "what": "Give every health centre a short cancer-suspicion checklist (aligned with national guidance) and reserve a weekly quota of fast-track imaging slots that primary-care doctors can book directly when the checklist is positive.",
+      "who_implements": "Health centres in the wellbeing services county, with the county imaging service.",
+      "owner": "County primary-care medical lead.",
+      "cost": {
+        "label": "EXAMPLE €40,000–80,000 per county per year plus reserved imaging capacity",
+        "amount": 60000,
+        "currency": "EUR",
+        "basis": "per county per year for training, checklist rollout and coordination; imaging capacity priced separately. EXAMPLE only.",
+        "source_id": "src-example-synthetic",
+        "is_example": true
+      },
+      "kpi": {
+        "name": "Share of cancers diagnosed at stage I–II",
+        "indicator_id": "early_stage_share",
+        "unit": "%",
+        "target": "National strategy Goal 2 follow-up metric: at least 70% diagnosed at stages I–II."
+      },
+      "goal3_indicator": null,
+      "goal": "2",
+      "evidence": "EXAMPLE rationale: Strategy objective 2.5 is that cancers are detected early throughout the health system. This action is included so the simulator can show a detection-stage lever. It supports Goal 3 indirectly by bringing patients into the pathway earlier. Effect size is illustrative. The 70% target is an official Goal 2 metric.",
+      "evidence_source_ids": [
+        "src-strategy-2026",
+        "src-example-synthetic"
+      ],
+      "expected_effect": {
+        "indicator_id": "early_stage_share",
+        "direction": "increase",
+        "delta": 3,
+        "unit": "percentage points",
+        "horizon": "24 months",
+        "source_id": "src-example-synthetic",
+        "assumptions": "EXAMPLE: +3 pp at full coverage over 24 months, additive, capped at 100%. Early-stage share moves slowly; this is a modest illustrative effect.",
+        "is_example": true
+      },
+      "effect_params": {
+        "type": "linear",
+        "applies_to_indicator": "early_stage_share",
+        "effect_at_full_coverage": 3,
+        "max_coverage": 1.0,
+        "applicable_regions": [
+          "*"
+        ],
+        "clamp_min": 0,
+        "clamp_max": 100
+      }
+    }
+  ]
+}

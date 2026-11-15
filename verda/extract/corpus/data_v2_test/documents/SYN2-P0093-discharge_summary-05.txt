@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0093
+document_id: SYN2-P0093-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-08
+display_name: Sari Sijaisnimi SYN2-P0093 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Kek-sityn yliopistollinen sair aala
+Kirjauspäivä 8.5.2026. Potilas: Sari Sijaisnimi SYN2-P0093 (SYN2-P0093), s. 26.6.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+P yyntö tuli perille viikolla 11 maanantaina (2026).
+Toimenpide toteutui 06-05-2026 (kiilaresektio).
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 5.11.2017: syntymäaika 26.6.1943; sappirakon poisto 5.11.2017; e-i liity nykyiseen keuh koselvittelyyn. —
+Syntymäaika 26.6.1943 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

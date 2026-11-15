@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0055
+document_id: SYN-P0055-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-06-12
+display_name: Helen Mockpatient SYN-P0055 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 12.6.2026. Potilas: Helen Mockpatient SYN-P0055 (SYN-P0055), s. 19.2.1960.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 3.5.2026.
+Tietokonetomografia (TT) suoritettiin 9.5.2026.
+Esitiedot: bronkoskopia ja biopsia tehty 21.5.2026.
+Histologinen vastaus saapui 28.5.26 (adenokarsinooma).
+Moniammatillinen kokous (MDT) 2026-05-30: suositellaan etenemistä hoitoon.
+Hoitopäätös 2/6: kiilaresektio.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Lonkkaproteesi operoitu 24.6.2015.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0115
+document_id: SYN-P0115-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-09-26
+display_name: Eeva Esimerkki SYN-P0115 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 26.9.2026. Potilas: Eeva Esimerkki SYN-P0115 (SYN-P0115), s. 22.9.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 28.8.2026.
+Esitiedot: tT-tutkimus tehty 1.9.
+Esitiedot: bronkoskopia 8.9.2026, näytteet otettu.
+Esitiedot: patologin lausunto 12.9.26: NSCLC, ei tarkemmin luokiteltu.
+Esitiedot: mDT 18.9.2026: hoitolinja vahvistettu.
+Kiilaresektio suoritettu 25/9.
+Bronkoskopiaa ei tehty tässä käynnissä.
+Sappirakon poisto tehty 6.12.2014 (ei liity nykyiseen selvittelyyn).
+Lonkkaproteesi operoitu 6.12.2014.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0039
+document_id: SYN2-P0039-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-08-16
+display_name: Tuula Testinen SYN2-P0039 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliop istollinen sairaala
+Kirjauspäivä 16.8.2026. Potilas: Tu-ula Testinen SYN2-P0039 (SYN2-P0039), s. 13.7.1958.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselv ittelystä (sy nteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin 7. elokuuta 2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi 01-08-2026.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+Jatko on auki. Aktiivista hoitoa ei ole käynn istetty tä s-sä vai-heessa.
+Syntymäaika 13.7.1958 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

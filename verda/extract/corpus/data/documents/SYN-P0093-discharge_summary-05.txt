@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0093
+document_id: SYN-P0093-discharge_summary-05
+document_type: discharge_summary
+language: sv
+note_date: 2026-07-03
+display_name: Sari Sijaisnimi SYN-P0093 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+iFktiva valfardsomradets centralsjukhus
+Anteckningsdatum 3.7.2026. Patient: Sari Sijaisnimi SYN-P0093 (SYN-P0093), f. 12.6.1946.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt eexempel).
+Remiss inkommen till lungkliniken 10/5/2026.
+PET-DT utförd 2026-05-22.
+Föregående uppgifter: biopsier togs vid bronkoskopi 3.6.26.
+Föregående uppgifter: patologiskt utlåtande 2026-06-11: adenokarcinom.
+Multidisciplinär konferens (MDK) 14.6.2026: rekommendation om beahndling.
+Föregåedne uppgifter: beslutades 14.6 att gå vidare med kilresektion.
+Kilesektion utförd 3/7/2026.
+MDK flyttas till nästa vecka; ingen konferens hölls idag.
+DT planerad 12.7.2026 (ännu inte utförd).
+Föregående pneumoni behandlad 9.6.2017.
+Gallblåsan opererades bort 2.7.2015 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

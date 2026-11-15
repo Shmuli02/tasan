@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0036
+document_id: SYN-P0036-mdt_minutes-05
+document_type: mdt_minutes
+language: en
+note_date: 2026-01-28
+display_name: Hannu Harjoitus SYN-P0036 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 28.1.2026. Patient: Hannu Harjoitus SYN-P0036 (SYN-P0036), DOB 25.4.1943.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Referral received by the lung clinic on 3.1.26.
+PET-CT performed on 8.1.26.
+History: bronchoscopy and biopsy performed on 20.1.2026.
+History: pAD result available 26.1.26 (squamous cell carcinoma).
+MDT on 28.1: treatment pathway confirmed.
+PET-CT booked for 2.2.2026, still only planned.
+Previous pneumonia treated on 4.10.2015.
+
+Entered by: synthetic test user. This is not a real clinical record.

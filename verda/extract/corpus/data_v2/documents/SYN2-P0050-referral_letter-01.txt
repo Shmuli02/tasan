@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0050
+document_id: SYN2-P0050-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-06-05
+display_name: Erik Exempelsson SYN2-P0050 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synthetic Wellbeing County Hospital
+No-te date 5.6.2026. Patient: Erik Exempelsson SYN2-P0050 (SYN2-P0050), DOB 25.6.1942.
+SYNTHETIC record, n0t a real person.
+
+Dictated entry from the lung work-up (synthetic train-ing text).
+The consultation request was written on 31-05-2026, but was only logged as having arrived on 5 June 2026.
+Imaging is only a reserved slot o-n in week 25 on Friday (2026) and has not been carried out.
+— excerpt from an older note dated 10.2.2016: date of birth 25.6.1942; cholecystectomy 10.2.2016; un-related to the present lung work-up. —
+Previously, sometime in early January, there was a fo llow-up visit; the exact day is not in this note.
+
+Entered by: synthetic test user. This is not a real clinical record.

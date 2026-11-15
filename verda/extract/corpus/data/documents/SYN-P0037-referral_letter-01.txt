@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0037
+document_id: SYN-P0037-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-06-30
+display_name: Sari Sijaisnimi SYN-P0037 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 30.6.2026. Patient: Sari Sijaisnimi SYN-P0037 (SYN-P0037), DOB 20.11.1954.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Specialist referral received 28.6.2026.
+Previous pneumonia treated on 27.1.2015.
+Date of birth 20.11.1954 confirmed from the population register.
+
+Entered by: synthetic test user. This is not a real clinical record.

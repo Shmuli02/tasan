@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0094
+document_id: SYN-P0094-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-09-01
+display_name: Olli Oletettu SYN-P0094 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 1.9.2026. Potilas: Olli Oletettu SYN-P0094 (SYN-P0094), s. 9.3.1967.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 21.8.26.
+Keuhko-TT tehty 28.8.26.
+Bronkoskopia 1.9.2026, näytteet otettu.
+Bronkoskopiaa ei tehty tässä käynnissä.
+TT suunniteltu 11.9.2026 (ei vielä tehty).
+Syntymäaika 9.3.1967 tarkistettu väestötiedoista.
+Sappirakon poisto tehty 15.7.2017 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

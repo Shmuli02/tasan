@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0075
+document_id: SYN2-P0075-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-10-10
+display_name: Ingrid Inventerad SYN2-P0075 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 10.10.2026. Potiilas: Ingrid Inventerad SYN2-P0075 (SYN2-P0075), s. 19.11.1941.
+SYNTEETTINEN potilaskertomus, ei oikeaa henki-löä.
+
+Diktoitu merkintä keuhkoselvittelystä (synte ettinen har-joitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön viikolla 34 tiistaina (2026).
+Laboratorio ilmoitti histologian syyskuun 20. päivänä 2026: pienisoluinen keuhkosyöpä.
+Ensimmäinen hoitokerta oli viikolla 41 lauantaina (2026).
+Valittiin etenemistapa 28-09-2026: sytostaatti.
+Tutkimus käytiin kuvaamassa 03-09-2026.
+Kokoontuminen 28. syyskuuta 2026: eri erikoisalojen yhteinen kanta merkitty.
+Tähystyksen yhteydessä punktionäyte 14-09-2026.
+— ote vanhasta kirjauksesta 11.6.2021: syntymäaika 19.11.1941; sappi-rakon poisto 11.6.2021; ei iity nykyiseen keuhkoselvittelyn. —
+Lonkkaproteesi operoitu 5.3.2020.
+
+Kirjaaja: synteettine-n testikäyttäjä. Tämä ei ole oikea potilaskertomus.

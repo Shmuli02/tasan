@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0071
+document_id: SYN-P0071-oncology_note-06
+document_type: oncology_note
+language: fi
+note_date: 2026-09-16
+display_name: Anna Anonyymi SYN-P0071 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 16.9.2026. Potilas: Anna Anonyymi SYN-P0071 (SYN-P0071), s. 3.1.1947.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 21.8.2026.
+Esitiedot: pET-TT tehty 3.9.26.
+Bronkoskopia 6/9, näytteet otettu.
+Histologinen vastaus saapui viime lauantaina (NSCLC, ei tarkemmin luokiteltu).
+Hoitopäätös 15.9.2026: kiilaresektio.
+Bronkoskopiaa ei tehty tässä käynnissä.
+Edellinen keuhkokuume hoidettu 19.7.2012.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

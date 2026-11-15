@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0100
+document_id: SYN2-P0100-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-22
+display_name: Nils Fiktiv SYN2-P0100 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 22.8.2026. Potilas: Nils Fiktiv SYN2-P0100 (SYN2-P0100), s. 24.11.1964.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merki ntä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tiimik-okous pidettiin 22-08-2026 ja suositus kirjattiin.
+Tähystyksen yhteydessä punktionäyte 13. elokuuta 2026.
+Tutkimus käytiin kuvaamassa viikolla 33 maanantaina (2026).
+Pyyntö tuli perille 4. elokuuta 2026.
+Mikroskooppinen lausunto valmistui tiistaina: pienisoluinen keuhkosy öpä.
+— ote vanhasta kirjauksesta 15.12.2023: syntymäaika 24.11.1964; sappirakon poisto 15.12.2023; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

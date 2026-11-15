@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0004
+document_id: SYN-P0004-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-02-18
+display_name: Yrjö Yksikkötesti SYN-P0004 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 18.2.2026. Potilas: Yrjö Yksikkötesti SYN-P0004 (SYN-P0004), s. 12.6.1964.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu kaksi viikkoa sitten.
+Thoraxin TT tehty 2026-02-09.
+Bronkoskopia ja biopsia tehty 12.2.2026.
+Patologin lausunto 16.2.2026: levyepiteelikarsinooma.
+Edellinen keuhkokuume hoidettu 13.6.2011.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

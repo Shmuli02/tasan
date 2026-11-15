@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0072
+document_id: SYN2-P0072-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-08-06
+display_name: Nils Fiktiv SYN2-P0072 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 6.8.2026. Potilas: Nils Fiktiv SYN2-P0072 (SYN2-P0072), s. 2.5.1943.
+SYNTEETTINEN potilaskert omus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Toimenpide varattiin 31. heinäkuuta 2026, mutta näyte otettiin vasta 06-08-2026.
+Tutkimus käytiin kuvaamassa 27-07-2026.
+Pyyntö tuli perille 11. heinäkuuta 2026.
+Kuvantaminen on vasta ajanvaraus 11. elokuut-a 2026, sitä ei ole toteutettu.
+Aiemmin jossain tammikuun alussa oli käynyt kontro llissa; tarkkaa päivää ei ole tässä.
+Sappirakon poisto tehty 14.11.2023 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen t estikäyttäjä. Tämä ei ole oikea potilaskertomus.

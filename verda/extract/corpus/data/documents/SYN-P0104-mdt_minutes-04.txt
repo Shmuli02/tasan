@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0104
+document_id: SYN-P0104-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-22
+display_name: Johan Testdata SYN-P0104 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 22.8.2026. Potilas: Johan Testdata SYN-P0104 (SYN-P0104), s. 16.9.1952.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 26.7.26.
+Keuhko-TT tehty 2.8.2026.
+Biopsiat otettu bronkoskopiassa 13.8.2026.
+PAD-vastaus valmistui 17.8: adenokarsinooma.
+Hoitokokous eilen: moniammatillinen suositus kirjattu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Syntymäaika 16.9.1952 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

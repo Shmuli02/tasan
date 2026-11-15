@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0090
+document_id: SYN-P0090-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-04-20
+display_name: Pekka Paikkamerkki SYN-P0090 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspaiva 20.4.2026. Potilas: Pekka aPikkamerkki SYN-P0090 (SYN-P0090), s. 22.9.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynniin syy: keuhkosyöpäepäilyn selvitely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 2.4.2026.
+Esitiedot: thoraxin TT tehtyy 16.4.2026.
+Biopsiat otettu bronkosopiassa 20.4.2026.
+Hoitoa ei ole aloitettu.
+Lnkkaproteesi operoitu 13.6.2012.
+Sappirakon poisto tehty 13.6.2012 (ei liity nykyiseenn sevlittelyyn).
+
+Kirjaaja: synetettinen testikäyttäj. Tämä ei ole oikea potilaksertomus.

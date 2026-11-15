@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0089
+document_id: SYN-P0089-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-07-10
+display_name: Kirsi Keksitty SYN-P0089 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 10.7.2026. Potilas: Kirsi Keksitty SYN-P0089 (SYN-P0089), s. 20.8.1963.
+SYNTEETTINEN potilaskertomus, ei oikeaaa henkilöä.
+
+Käynnnin syy: keuhkosyöpäepäilyn selvitely (synteettine esimerkki).
+Esiitedot: eSH-lähete vastaanotettu 2026-06-28.
+Esitiedot: thoraixn TT tehtty 2.7.
+Esiitedot: eBUS-bronkoskopia suoritettu ivime sunnuntaina; biopsiat otettu.
+Hitsologinen vasatus saapui 8.7.2026 (levyepiteelikarsiooma).
+Hiotoa ei ole aloitetu.
+Lonkkaproteesi operoitu 12.12.2019.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

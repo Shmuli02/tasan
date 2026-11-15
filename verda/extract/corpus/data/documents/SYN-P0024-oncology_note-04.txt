@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0024
+document_id: SYN-P0024-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-08-06
+display_name: John Placeholder SYN-P0024 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 6.8.2026. Potilas: John Placeholder SYN-P0024 (SYN-P0024), s. 24.2.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 2026-07-01.
+TT-tutkimus tehty 7.7.2026.
+Esitiedot: bronkoskopia 13.7.2026, näytteet otettu.
+Patologin lausunto 25.7.26: NSCLC, ei tarkemmin luokiteltu.
+Moniammatillinen kokous (MDT) viime sunnuntaina: suositellaan etenemistä hoitoon.
+Päätettiin 4/8/2026 aloittaa SBRT.
+Lonkkaproteesi operoitu 7.8.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

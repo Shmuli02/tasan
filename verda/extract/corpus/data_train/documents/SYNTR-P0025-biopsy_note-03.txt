@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0025
+document_id: SYNTR-P0025-biopsy_note-03
+document_type: biopsy_note
+language: en
+note_date: 2026-02-22
+display_name: John Placeholder SYNTR-P0025 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Placeholder lung unit
+Note date 22.2.2026. Patient: John Placeholder SYNTR-P0025, DOB 1.1.1950.
+SYNTHETIC record, not a real person.
+
+The unit opened the referral on Wed 21.1.2026.
+The chest slice series was acquired on Tue 27.1.2026.
+A tissue fragment was removed at the procedure on 5.2.2026.
+Pathology was filed on Sat 14.2.2026 (adenocarcinoma).
+The care team met on Fri 20.2.2026 and recorded a recommendation.
+
+Entered by: synthetic test user.

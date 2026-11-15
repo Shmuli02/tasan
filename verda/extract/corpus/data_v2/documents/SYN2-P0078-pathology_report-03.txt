@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0078
+document_id: SYN2-P0078-pathology_report-03
+document_type: pathology_report
+language: sv
+note_date: 2026-06-25
+display_name: Erik Exempelsson SYN2-P0078 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 25.6.2026. Patient: Erik Exempelsson SYN2-P0078 (SYN2-P0078), f. 7.2.1966.
+SYNTETISK patientjournal, ingen verklig per son.
+
+Dikterad anteckning från lungutredni-ngen (syntetisk övningstext).
+Mikroskopiskt utlåtande blev klart juni den 24 år 2026: NSCLC, ej närmare klassificerad.
+Undersökningen avbildades den 10 juni 2026.
+Vävnadsprover hämtades vid åtgärden 2026-06-17.
+Aktiv behandling har inte kommit i gång.
+— utdrag ur äldre antecknin g 16.9.2021: födelsedatum 7.2.1966; galloperation 16.9.2021; hör inte till den aktuella lungutredningen. —
+Föregående pneumoni behandlad 22.5.2016.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en ve-rklig journal.

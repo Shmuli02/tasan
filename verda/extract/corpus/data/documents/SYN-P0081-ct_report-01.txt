@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0081
+document_id: SYN-P0081-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-08-17
+display_name: Mary Fictitious SYN-P0081 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 17.8.2026. Patient: Mary Fictitious SYN-P0081 (SYN-P0081), DOB 2.2.1952.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+CT thorax was carried out on 16/8. Imaging showed a 4.0 cm mass in the right middle lobe.
+The MDT is postponed; no meeting was held today.
+Laboratory tests have been ordered; results are not in this note.
+
+Entered by: synthetic test user. This is not a real clinical record.

@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0085
+document_id: SYN2-P0085-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-04-09
+display_name: Aino Synteettinen SYN2-P0085 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 9.4.2026. Potilas: Aino Synteettinen SYN2-P0085 (SYN2-P0085), s. 7.8.1948.
+SYNTEETT-INEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tähystyksen yhteydessä punktionäyte 9. huhtikuuta 2026.
+Lähete saapui toimistoon 28. maaliskuuta 2026 (kirjoituspäivä on eri, ks. a lla).
+Leikekuvaus on suoritettu lauantaina.
+Aktiivist a hoitoa ei ole aloitettu, va-sta pohditaan vaihtoehtoja.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Sappirakon poisto tehty 25.9.2013 (ei liity nykyiseen sel vittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

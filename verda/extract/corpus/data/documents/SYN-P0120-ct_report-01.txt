@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0120
+document_id: SYN-P0120-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-04-21
+display_name: Hannu Harjoitus SYN-P0120 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 21.4.2026. Patient: Hannu Harjoitus SYN-P0120 (SYN-P0120), f. 18.4.1943.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Specialistremiss registrerad 12.4.
+Datortomografi (DT) genomfördes 20.4.26. Bildfynd: en 3,1 cm tumör i höger övre lob.
+MDK flyttas till nästa vecka; ingen konferens hölls idag.
+Föregående pneumoni behandlad 15.7.2012.
+Kontrollprov har beställts; svaren finns inte i denna anteckning.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

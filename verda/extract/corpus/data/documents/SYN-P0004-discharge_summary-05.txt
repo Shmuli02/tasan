@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0004
+document_id: SYN-P0004-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-03-15
+display_name: Yrjö Yksikkötesti SYN-P0004 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 15.3.2026. PPotilas: Yrjö Yksikkötesti SYN-P0004 (SYN-P0004), s. 12.6.1964.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 4.2.2026.
+PET-TT tehty 9.2.26.
+Esitiedot: bronkoskopia 2026-02-12, näytteet otettu.
+Linjaus 22/2: SBRT.
+SBRT-sädehoito aloitettu 14.3.2026.
+Hoitoa ei ole aloitettu.
+Edellinen keuhkokuume hoidettu 24.1.2013.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

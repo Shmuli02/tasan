@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0072
+document_id: SYN2-P0072-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-09-08
+display_name: Nils Fiktiv SYN2-P0072 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 8.9.2026. Potilas: Nils Fiktiv SYN2-P0072 (SYN2-P0072), s. 2.5.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa hen kilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Sovittiin hitomuodosta 18. elokuuta 2026 (sytostaatti).
+Näyte oettiin tähysytksessä 6. elokuuta 2026.
+Ensimmäinen hoitokerta oli viikolla 37 iistaina (2026).
+Morforloinen tulos tuli 16. elkouuta 2026 (adenokarsinooma).
+Tutkimus kyätiin kuvaamassa 27-07-2026.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 11. heinäkuuta 2026.
+Tiimikokous pidettiin viikolla 34 tiistaina (2026) ja suositus kirjattiin.
+Aktiivista hoitoa ei ole aloitettu, v asta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 4.11.2019: syntymäaika 2.5.1943; sappirakon poisto 4.11.2019; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea poilaskertomus.

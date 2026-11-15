@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0027
+document_id: SYN2-P0027-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-05-25
+display_name: Helen Mockpatient SYN2-P0027 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 25.5.2026. Potilas: Helen M ockpatient SYN2-P0027 (SYN2-P0027), s. 26.1.1959.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvausaika merkittiin kalenteriin 15. toukokuuta 2026; itse tutkimus toteutettiin keskiviikkona.
+Pyyntö tuli perille 15. toukokuuta 2026.
+Toimenpide varattiin viikolla 20 lauantaina (2026), mutta näyte otettiin vasta toukokuun 23. päivänä 2026.
+Kuvissa erottui vasemman alalohkon 2,4 cm muutos.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0091
+document_id: SYN-P0091-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-02-21
+display_name: Laura Loremten SYN-P0091 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 21.2.2026. Potilas: Laura Loremten SYN-P0091 (SYN-P0091), s. 7.1.1956.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 2026-01-23.
+Esitiedot: tietokonetomografia (TT) suoritettiin 2026-01-30.
+Esitiedot: bronkoskopia ja biopsia tehty 10/2/2026.
+Histologinen vastaus saapui 20.2 (pienisoluinen keuhkosyöpä).
+Bronkoskopiaa ei tehty tässä käynnissä.
+Hoitoa ei ole aloitettu.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

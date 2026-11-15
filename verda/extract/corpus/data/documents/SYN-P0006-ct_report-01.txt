@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0006
+document_id: SYN-P0006-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-03-29
+display_name: Pekka Paikkamerkki SYN-P0006 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 29.3.2026. Patient: Pekka Paikkamerkki SYN-P0006 (SYN-P0006), f. 1.11.1958.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 13.3.26.
+DT torax utförd i förrgår. Bildfynd: en 2,4 cm förändring i vänster nedre lob.
+MDK flyttas till nästa vecka; ingen konferens hölls idag.
+Höftprotes opererad 15.12.2020.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0010
+document_id: SYN2-P0010-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-04-15
+display_name: Olli Oletettu SYN2-P0010 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliop istollinen sairaala
+Kirjauspäivä 15.4.2026. Potilas: Olli Oletettu SYN2-P0010 (SYN2-P0010), s. 19.5.1960.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoi tusteksti).
+Konsultaatiopyyntö laadittiin lauantaina, mutta se kirjattiin saapuneeksi vasta 14. huhtikuuta 2026.
+Kuvantaminen on vasta ajanvaraus viikolla 18 keskiviikkona (2026), sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 2.7.2023: syntymäaika 19.5.1960; sappirakon poisto 2.7.2023; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Lonkkaproteesi operoitu 4.4.2022.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilask ertomus.

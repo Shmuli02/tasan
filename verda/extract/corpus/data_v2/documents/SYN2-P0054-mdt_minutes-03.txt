@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0054
+document_id: SYN2-P0054-mdt_minutes-03
+document_type: mdt_minutes
+language: en
+note_date: 2026-07-07
+display_name: Alan Invented SYN2-P0054 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+N-ote date 7.7.2026. Patient: Alan Invented SYN2-P0054 (SYN2-P0054), D-OB 25.8.1963.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The way forward was chosen on 5 July 2026: curative lobectomy.
+The microscopic report was issued on 02-07-2026: NSCLC, not otherwise sp-ecified.
+The scan itself took place on in week 25 on Thursday (2026) (the slot had been booked earlier).
+Sampling wa s carried out at the procedure on in week 26 on Sunday (2026).
+The consultation request was logged as having arrived on 4 June 2026.
+The team huddle was held on the day before yesterday and the re-commendation was written down.
+No team huddle was arranged at this visit; it was deferred.
+— excerpt from an older note dated 14.12.2023: date of birth 25.8.1963; cholecystect0my 14.12.2023; unrelated t0 the present lung work-up. —
+Previously, sometime in early January, there was a follow-up visit; the exact day is not in this note.
+Laboratory tests have been ordere-d; results are not in this note.
+
+Entered by: synthetic test user. This is not a real clinical record.

@@ -1,0 +1,17 @@
+32 | SUOMEN SYOPAREKISTERI
+Etela-Suomi | Ita-Suomi | Lansi-Suomi
+100
+90
+50
+(%) snnso | Pohjois-Suomi | Sisa-Suomi
+100
+90
+80
+70
+60
+50
+Aika syopadiagnoosista (kk)
+Keuhkosyopa | Muu kuin palliativinen sadehoito | Palliativinen hoito
+Leikkaushoito | Laakehoito | Kuollut
+KUVA 4.6: Ensimmaisen tapahtuman osuus | (%) o- 6 kuukautta diagnoosipaivasta yhteistyoalueittain
+(pl. Ahvenanmaa).

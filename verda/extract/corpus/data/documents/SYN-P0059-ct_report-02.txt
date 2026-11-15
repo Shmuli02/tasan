@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0059
+document_id: SYN-P0059-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-01-31
+display_name: Eeva Esimerkki SYN-P0059 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 31.1.2026. Potilas: Eeva Esimerkki SYN-P0059 (SYN-P0059), s. 28.3.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 26.1.2026.
+Thoraxin TT tehty 29/1/2026. Kuvauksessa todettiin vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+Edellinen keuhkokuume hoidettu 17.7.2010.
+Sappirakon poisto tehty 22.2.2020 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteetttinen testkäyttäjä. Tämä ei ole oikea potilaskertomus.

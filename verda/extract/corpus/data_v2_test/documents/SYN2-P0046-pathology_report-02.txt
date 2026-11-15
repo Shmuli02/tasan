@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0046
+document_id: SYN2-P0046-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-07-10
+display_name: Lars Låtsas SYN2-P0046 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 10.7.2026. P0tilas: Lars Låtsas SYN2-P0046 (SYN2-P0046), s. 23.5.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+D-iktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Mikrosko0ppinen lausunto valmistui eilen: pienisoluinen keuhkosyöpä.
+Leikekuvaus on suoritettu 19. kesäkuuta 2026.
+Näyte otettiin tähystyksessä 27-06-2026.
+Lähete saapui toimi stoon 13-06-2026 (kirjoituspäivä on eri, ks. alla).
+— ote vanhasta kirjauksesta 13.3.2015: syntymäaika 23.5.1946; sappirakon poisto 13.3.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkk-aa päivää ei ole tässä.
+Edellinen keuh-kokuume hoidettu 8.12.2023.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

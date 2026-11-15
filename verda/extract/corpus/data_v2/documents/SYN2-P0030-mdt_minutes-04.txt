@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0030
+document_id: SYN2-P0030-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-09-21
+display_name: Matti Mallipotilas SYN2-P0030 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kir jauspäivä 21.9.2026. Potilas: Matti Mallipotilas SYN2-P0030 (SYN2-P0030), s. 26.12.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harj0itusteksti).
+Näyte otettiin tähystyksessä 10-09-2026.
+Laboratorio ilmoitti histologian tiistaina: levyepiteelikarsinoom-a.
+Tutkimus käytiin kuvaamassa 30. elokuuta 2026.
+Tiimikokous pidetti in 21. syysku uta 2026 ja suositus kirjattiin.
+Pyyntö tuli perille viikolla 35 tiistaina (2026).
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

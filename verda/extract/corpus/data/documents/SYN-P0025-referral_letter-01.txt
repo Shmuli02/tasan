@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0025
+document_id: SYN-P0025-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-04-06
+display_name: Mary Fictitious SYN-P0025 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 6.4.2026. Patient: Mary Fictitious SYN-P0025 (SYN-P0025), f. 12.8.1955.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 6.4.2026.
+Höftprotes opererad 27.8.2013.
+Gallblåsan opererades bort 27.8.2013 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

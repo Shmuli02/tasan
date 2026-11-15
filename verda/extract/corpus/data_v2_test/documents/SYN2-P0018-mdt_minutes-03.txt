@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0018
+document_id: SYN2-P0018-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-07-05
+display_name: Lars Låtsas SYN2-P0018 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhko klinikka
+Kirjauspäivä 5.7.2026. Potilas: Lars Låtsas SYN2-P0018 (SYN2-P0018), s. 28.10.1947.
+SYNTEETTINEN pot-ilas ke rtomus, ei oikeaa henkilöä.
+
+Diktoit u merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tutkimus käytiin kuvaamassa 6. kesäkuuta 2026.
+Asiakir-ja merkittiin saapuneeksi keuhkoyksikköön 3. kesäkuuta 2026.
+Kokoontuminen heinäkuun 3. päivänä 2026: eri erikoisalojen yht-einen kanta merkitty.
+Mikroskooppinen lausunto valmistui kesäkuun 26. päivänä 2026: pienisoluinen keuhkosyöpä.
+Tähystyksen yhteydessä punktionäyte 18. kesäkuuta 2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 3.6.2021: syntymäaika 28.10.1947; sappirakon poisto 3.6.2021; ei liity ny-kyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun al-ussa oli käynyt kontr-ol-lissa; tarkkaa päivää ei ole tässä.
+
+Kir-jaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

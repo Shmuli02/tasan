@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0120
+document_id: SYN2-P0120-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-04-09
+display_name: Hannu Harjoitus SYN2-P0120 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjausp äivä 9.4.2026. Potilas: Hannu Harjoitus SYN2-P0120 (SYN2-P0120), s. 18.5.1944.
+SYNTEETTINEN potilaskertomus, ei oikeaa henki 1ö-ä.
+
+Diktoit-u merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Mikroskooppinen lausunto valmistui 3. huhtikuuta 2026: adenokarsinooma.
+Kerroskuvaus toteutettiin 20. maaliskuuta 2026.
+Näyte otettiin tähystyksessä 28-03-2026.
+Pyyntö tuli perille 5. maaliskuuta 2026.
+Tiimikokous pidettiin eilen ja suositus kirjattiin.
+Tii-mikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhast-a kirjauksesta 15.8.2022: syntymäaika 18.5.1944; sappirakon poisto 15.8.2022; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

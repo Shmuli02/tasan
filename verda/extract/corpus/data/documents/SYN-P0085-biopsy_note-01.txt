@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0085
+document_id: SYN-P0085-biopsy_note-01
+document_type: biopsy_note
+language: en
+note_date: 2026-08-21
+display_name: Aino Synteettinen SYN-P0085 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Invented University Hospital
+Note date 21.8.2026. Patient: Aino Synteettinen SYN-P0085 (SYN-P0085), DOB 22.7.1950.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Specialist referral received 25/7/2026.
+Chest CT performed on two weeks ago. Imaging showed a 4.0 cm mass in the right middle lobe.
+EBUS bronchoscopy carried out on the day before yesterday; biopsies taken.
+The biopsy was cancelled at the patient's request.
+Cholecystectomy performed on 10.2.2020 (unrelated to the present work-up).
+
+Entered by: synthetic test user. This is not a real clinical record.

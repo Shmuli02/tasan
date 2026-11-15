@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0004
+document_id: SYN2-P0004-biopsy_note-02
+document_type: biopsy_note
+language: sv
+note_date: 2026-07-03
+display_name: Yrjö Yksikkötesti SYN2-P0004 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 3.7.2026. Patient: Yrjö Yksikkötesti SYN2-P0004 (SYN2-P0004), f. 3.6.1962.
+SYNTETISK patientjour nal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Undersökningen avbildades den 23 juni 2026.
+Begäran nådde kliniken den 20 juni 2026.
+Åtgärden bokades i förrgår, men provet togs först juli den 3 år 2026.
+— utdrag ur äldre anteckning 20.9.2019: födelsedatum 3.6.1962; galloperation 20.9.2019; hör inte till den aktuella lungutredningen. —
+Tidigare, någon gång i början av januari, had-e hen ett kontrollbesök; exakt dag saknas här.
+
+Antec-knat av: syntetisk testanvändare. Detta är inte en verklig journal.

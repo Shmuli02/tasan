@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0101
+document_id: SYN2-P0101-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-03-31
+display_name: Eva Påhittad SYN2-P0101 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Ma-llikylän keuhkoklinikka
+Kirjauspäivä 31.3.2026. Potilas: Eva Påhittad SYN2-P0101 (SYN2-P0101), s. 8.9.1965.
+SYNTEETTINEN potilask-ertomus, ei oikeaa henkilöä.
+
+Diktoitu m erkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyynto tuli perille 24. maaliskuuta 2026.
+Kerroskuvaus toteutettiin 30-03-2026.
+Kuvissa erottui oikean ylälohkon 3,1 crn tuumori.
+— ote vanhasta kirjauksesta 23.9.2019: syntymäaika 8.9.1965; sappirakon poisto 23.9.2019; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaja: synteettinen test ikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0006
+document_id: SYN-P0006-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-04-10
+display_name: Pekka Paikkamerkki SYN-P0006 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 10.4.2026. Potilas: Pekka Paikkamerkki SYN-P0006 (SYN-P0006), s. 1.11.1958.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 13.3.2026.
+TT-tutkimus tehty 27/3/2026.
+EBUS-bronkoskopia suoritettu 8.4.26; biopsiat otettu.
+Edellinen keuhkokuume hoidettu 20.8.2018.
+Lonkkaproteesi operoitu 7.3.2022.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

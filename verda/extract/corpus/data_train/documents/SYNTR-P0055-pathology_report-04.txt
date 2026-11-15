@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0055
+document_id: SYNTR-P0055-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-08-19
+display_name: Matti Mallinen SYNTR-P0055 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Keksitty keuhkoyksikkö
+Kirjauspäivä 19.8.2026. Potilas: Matti Mallinen SYNTR-P0055, s. 1.1.1950.
+SYNTEETTINEN record, not a real person.
+
+Saapumispäivä merkitty potilastietojärjestelmään 21.7.2026.
+Keuhkojen viipalekuvaus tehtiin 2026-07-25.
+Näytteenotto tähystyksellä 2026-08-02.
+Kudosanalyysi valmistui pe 14.8.2026: levyepiteelikarsinooma.
+Hoitoryhmä kokoontui 18.8.2026.
+Hoidon valinta vahvistettiin 18. elokuuta 2026: lobektomia.
+
+Kirjaaja: synteettinen testikäyttäjä.

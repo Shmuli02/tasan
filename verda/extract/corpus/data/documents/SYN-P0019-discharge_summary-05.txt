@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0019
+document_id: SYN-P0019-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-10
+display_name: Ingrid Inventerad SYN-P0019 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 10.7.2026. Potila: Ingrid Inventerad SYN-P0019 (SYN-P0019), s. 15.10.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittey (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 16.5.26.
+Keuhko-TT tehty 30.5.2026.
+Esitiedot: bronkoskopia 9.6.2026, näytteet otettu.
+Sytosstaattihoito aloitettu 10.7.26.
+Syntymäaika 15.10.1954 tarkistettu väestötiedoista.
+Edellinen keuhkokuume hoidettu 24.1.2015.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

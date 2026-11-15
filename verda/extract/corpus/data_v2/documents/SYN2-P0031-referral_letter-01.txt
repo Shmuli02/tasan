@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0031
+document_id: SYN2-P0031-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-03-25
+display_name: Eeva Esimerkki SYN2-P0031 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 25.3.2026. Patient: Eeva Esimerkki SYN2-P0031 (SYN2-P0031), DOB 2.11.1944.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The consultation requ-est was written on 24-03-2026, but was only logged as having arrived on 25 March 2026.
+— excerpt from an older note dated 3.2.2018: date of birth 2.11.1944; cholecystectomy 3.2.2018; unrelated to the present lung work-up. —
+Previously, sometime in early January, there was a fo llow-up visit; the exact day is n ot in this note.
+
+Entered by: synthetic test user. This is not a real clinical record.

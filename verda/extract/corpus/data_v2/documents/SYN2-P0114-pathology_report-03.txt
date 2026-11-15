@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0114
+document_id: SYN2-P0114-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-08-04
+display_name: Matti Mallipotilas SYN2-P0114 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 4.8.2026. Potilas: Matti Mallipotilas SYN2-P0114 (SYN2-P0114), s. 22.8.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvi-ttelystä (synteettinen harjoitusteksti).
+Kuvantaminen tehtiin 15. heinäkuuta 2026 (varaus oli aiemmin).
+Tähystyksen yhteydessä punktionäyte v iikolla 30 perjantaina (2026).
+Lähete saapui toimistoon viikolla 28 tiistaina (2026) (kirjoituspäivä on eri, ks. alla).
+Mikroskooppinen lausunto valmistui 05-08-2026: adenokarsinooma.
+— ote vanhasta kirjauksesta 22.6.2023: syntymäai-ka 22.8.1957; sappirakon poisto 22.6.2023; ei liity n ykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun al-ussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Syntymäaika 22.8.1957 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Täm-ä ei ole oikea potilaskertomus.

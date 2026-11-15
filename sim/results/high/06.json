@@ -1,0 +1,311 @@
+{
+ "chip": "MODEL OUTPUT · assumptions shown · not a forecast",
+ "type": "model",
+ "model": "Tasan Pathway Twin",
+ "version": "0.1.0",
+ "job": {
+  "county": "06",
+  "scenario": "high",
+  "seed": 1,
+  "n_runs": 2000
+ },
+ "county": {
+  "code": "06",
+  "name_en": "Satakunta wellbeing services county",
+  "name_fi": "Satakunnan hyvinvointialue",
+  "area": "YTA-LANSI",
+  "annual_volume": 136.4,
+  "n_patients_5y": 682,
+  "years": "2019-2023 (diagnosis years; 12-month follow-up)"
+ },
+ "county_source": {
+  "file": "data/csv/lung_report2026_treatment_by_wsc.csv",
+  "table": "Keuhkosyöpä Suomessa 2019-2023 (Finnish Cancer Registry/THL/FICAN, publ. 23.4.2026), Taulukko 11",
+  "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+  "note": "denominator = lung cancer patients diagnosed 2019-2023 (5 diagnosis years); annual volume = N/5 (derived)"
+ },
+ "scenario": {
+  "id": "high",
+  "label": "Alert + navigator, high what-if (-24 days, 95% CI 12-35)",
+  "intervention": true,
+  "effect_days": {
+   "dist": "normal_from_ci",
+   "mean": 24,
+   "ci95": [
+    12,
+    35
+   ],
+   "min": 0
+  },
+  "source": "Ezer N et al. 2017 (recs/top3.md): time to first treatment -24 days (95% CI 12-35), rapid investigation clinic. ASSUMPTION: effect_transfer"
+ },
+ "metric_definitions": {
+  "pct_le42_from_referral": "% of patients with a first active treatment (surgery, non-palliative RT, drug) within 6 months of diagnosis who started it <=42 days after referral arrival [depends on ASSUMPTION ref_to_dx]",
+  "pct_le42_from_diagnosis": "% of the same patients who started <=42 days after the Cancer Registry diagnosis date [data-anchored; baseline only]",
+  "median_days_referral_to_treatment": "median days referral arrival -> first active treatment [depends on ASSUMPTION ref_to_dx]",
+  "median_days_diagnosis_to_treatment": "median days diagnosis -> first active treatment [data-anchored; baseline only]",
+  "n_patients": "simulated newly diagnosed lung cancer patients in the year",
+  "n_active_treated": "patients with a first active treatment within 6 months",
+  "n_le42_from_referral": "patients per year starting first active treatment <=42 days after referral",
+  "n_untreated_at_alert_day": "actively treated patients still untreated at day 28 after referral = day-28 alerts per year among them (lower bound on alert volume; baseline only)"
+ },
+ "baseline": {
+  "pct_le42_from_referral": {
+   "mean": 24.7869,
+   "p2_5": 8.1633,
+   "median": 23.2013,
+   "p97_5": 48.1498,
+   "n_runs_valid": 2000
+  },
+  "pct_le42_from_diagnosis": {
+   "mean": 55.808,
+   "p2_5": 41.1765,
+   "median": 55.814,
+   "p97_5": 70.8352,
+   "n_runs_valid": 2000
+  },
+  "median_days_referral_to_treatment": {
+   "mean": 64.3835,
+   "p2_5": 43.9875,
+   "median": 64.5,
+   "p97_5": 86.0,
+   "n_runs_valid": 2000
+  },
+  "median_days_diagnosis_to_treatment": {
+   "mean": 38.677,
+   "p2_5": 29.0,
+   "median": 38.5,
+   "p97_5": 49.0,
+   "n_runs_valid": 2000
+  },
+  "n_patients": {
+   "mean": 136.537,
+   "p2_5": 114.975,
+   "median": 136.0,
+   "p97_5": 160.0,
+   "n_runs_valid": 2000
+  },
+  "n_active_treated": {
+   "mean": 52.015,
+   "p2_5": 38.975,
+   "median": 52.0,
+   "p97_5": 67.0,
+   "n_runs_valid": 2000
+  },
+  "n_le42_from_referral": {
+   "mean": 12.88,
+   "p2_5": 4.0,
+   "median": 12.0,
+   "p97_5": 26.0,
+   "n_runs_valid": 2000
+  },
+  "n_untreated_at_alert_day": {
+   "mean": 46.1025,
+   "p2_5": 32.0,
+   "median": 46.0,
+   "p97_5": 61.0,
+   "n_runs_valid": 2000
+  }
+ },
+ "scenario_arm": {
+  "pct_le42_from_referral": {
+   "mean": 52.1303,
+   "p2_5": 26.4126,
+   "median": 51.8519,
+   "p97_5": 78.5714,
+   "n_runs_valid": 2000
+  },
+  "median_days_referral_to_treatment": {
+   "mean": 41.5998,
+   "p2_5": 28.0,
+   "median": 40.5034,
+   "p97_5": 65.4311,
+   "n_runs_valid": 2000
+  },
+  "n_patients": {
+   "mean": 136.537,
+   "p2_5": 114.975,
+   "median": 136.0,
+   "p97_5": 160.0,
+   "n_runs_valid": 2000
+  },
+  "n_active_treated": {
+   "mean": 52.015,
+   "p2_5": 38.975,
+   "median": 52.0,
+   "p97_5": 67.0,
+   "n_runs_valid": 2000
+  },
+  "n_le42_from_referral": {
+   "mean": 27.1255,
+   "p2_5": 13.0,
+   "median": 27.0,
+   "p97_5": 44.0,
+   "n_runs_valid": 2000
+  }
+ },
+ "delta_vs_baseline": {
+  "pct_le42_from_referral": {
+   "mean": 27.3434,
+   "p2_5": 9.7526,
+   "median": 27.0056,
+   "p97_5": 47.503,
+   "n_runs_valid": 2000
+  },
+  "median_days_referral_to_treatment": {
+   "mean": -22.7837,
+   "p2_5": -33.8199,
+   "median": -22.691,
+   "p97_5": -11.5515,
+   "n_runs_valid": 2000
+  },
+  "n_patients": {
+   "mean": 0.0,
+   "p2_5": 0.0,
+   "median": 0.0,
+   "p97_5": 0.0,
+   "n_runs_valid": 2000
+  },
+  "n_active_treated": {
+   "mean": 0.0,
+   "p2_5": 0.0,
+   "median": 0.0,
+   "p97_5": 0.0,
+   "n_runs_valid": 2000
+  },
+  "n_le42_from_referral": {
+   "mean": 14.2455,
+   "p2_5": 5.0,
+   "median": 14.0,
+   "p97_5": 26.0,
+   "n_runs_valid": 2000
+  }
+ },
+ "sensitivity_pct_le42_from_referral_by_ref_to_dx_median_days": {
+  "sigma": 0.65,
+  "values": {
+   "7": {
+    "mean": 43.1571,
+    "p2_5": 28.5714,
+    "median": 43.0902,
+    "p97_5": 57.8947,
+    "n_runs_valid": 2000
+   },
+   "14": {
+    "mean": 31.801,
+    "p2_5": 18.8679,
+    "median": 31.5789,
+    "p97_5": 46.0,
+    "n_runs_valid": 2000
+   },
+   "21": {
+    "mean": 23.546,
+    "p2_5": 11.7613,
+    "median": 23.4043,
+    "p97_5": 36.6691,
+    "n_runs_valid": 2000
+   },
+   "28": {
+    "mean": 17.4522,
+    "p2_5": 7.2727,
+    "median": 17.2414,
+    "p97_5": 29.4151,
+    "n_runs_valid": 2000
+   },
+   "35": {
+    "mean": 13.047,
+    "p2_5": 4.0,
+    "median": 12.963,
+    "p97_5": 23.4398,
+    "n_runs_valid": 2000
+   }
+  }
+ },
+ "interval_note": "2.5-97.5 percentiles across simulated years; combine calibration-posterior, first-event-mix, referral->diagnosis ASSUMPTION, effect and cohort (Poisson) uncertainty.",
+ "assumptions": [
+  {
+   "id": "month_days",
+   "label": "ASSUMPTION",
+   "value": 30.4375
+  },
+  {
+   "id": "ref_to_dx_median_days",
+   "label": "ASSUMPTION",
+   "value": [
+    7,
+    35
+   ]
+  },
+  {
+   "id": "ref_to_dx_sigma",
+   "label": "ASSUMPTION",
+   "value": [
+    0.4,
+    0.9
+   ]
+  },
+  {
+   "id": "ref_to_dx_independent",
+   "label": "ASSUMPTION",
+   "value": true
+  },
+  {
+   "id": "cohort_volume_poisson",
+   "label": "ASSUMPTION",
+   "value": "Poisson(annual_volume)"
+  },
+  {
+   "id": "county_inherits_area_timing",
+   "label": "ASSUMPTION",
+   "value": true
+  },
+  {
+   "id": "period_mismatch",
+   "label": "ASSUMPTION",
+   "value": "timing 1/2018-6/2022 applied to volumes 2019-2023"
+  },
+  {
+   "id": "target_days",
+   "label": "SOURCED",
+   "value": 42
+  },
+  {
+   "id": "alert_day",
+   "label": "DESIGN",
+   "value": 28
+  },
+  {
+   "id": "alert_floor",
+   "label": "ASSUMPTION",
+   "value": "treatment cannot move earlier than the alert day"
+  },
+  {
+   "id": "effect_transfer",
+   "label": "ASSUMPTION",
+   "value": "study effect sizes transfer to a Finnish day-28 alert + navigator"
+  },
+  {
+   "id": "crowding_extra_days",
+   "label": "ASSUMPTION",
+   "value": [
+    0,
+    5
+   ]
+  }
+ ],
+ "caveats": [
+  "Referral->diagnosis is unpublished in Finland; referral-anchored outputs depend on a labelled ASSUMPTION range (7-35 day median).",
+  "County timing is inherited from its collaborative area (no county-level timing is published).",
+  "42-day target: THL Ohjaus 21/2016 section 4.1, document marked outdated; no lung-specific limit.",
+  "Scenario effect sizes come from other interventions/countries (effect_transfer ASSUMPTION); the zero-effect scenario is always shown.",
+  "Diagnosis date equals treatment date for >=25% of surgical patients in 3 areas (Taulukko 4.1 Q1 = 0); short diagnosis-anchored times partly reflect recording."
+ ],
+ "provenance": {
+  "targets.json": "fe22d5e0b4f3ddeb912ca28bb8f9c2f5dfae44da1d5ef0f6aabf92b3acc872c4",
+  "posterior.json": "a7f24854d0810f141a0d64fede7434c7d62200ed16b995785b22f8b1fd5ee61d",
+  "config/calibration.json": "65546b69730e859f4540c42236359eae1943e2a4aa673bc47578f1b5596300d3",
+  "config/assumptions.json": "7430be18a776cedebcba4b036e564a33c4b95fee07745ad7b58aa973179e75e4",
+  "config/scenarios.json": "80ae8cb1aa4a49305574fab748e082abbff9c48b4432c7cafe7050b62d61d500"
+ },
+ "runtime_seconds": 1.005
+}

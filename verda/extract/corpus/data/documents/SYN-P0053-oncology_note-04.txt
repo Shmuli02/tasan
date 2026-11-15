@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0053
+document_id: SYN-P0053-oncology_note-04
+document_type: oncology_note
+language: sv
+note_date: 2026-09-25
+display_name: Mary Fictitious SYN-P0053 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 25.9.2026. Patient: Mary Fictitious SYN-P0053 (SYN-P0053), f. 2.3.1944.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 23.7.2026.
+PET-DT utförd 3.8.2026.
+Föregående uppgifter: biopsier togs vid bronkoskopi 12.8.
+Patologiskt utlåtande 16.8.26: NSCLC, ej närmare klassificerad.
+Föregående uppgifter: multidisciplinär konferens (MDK) 2026-08-21: rekommendation om behandling.
+Beslutades 24.8.2026 att gå vidare med SBRT.
+Bronkoskopi utfördes inte vid detta besök.
+Inväntar nästa steg. Behandling har inte påbörjats i detta skede.
+Föregående pneumoni behandlad 1.8.2010.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

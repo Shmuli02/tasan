@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0059
+document_id: SYN-P0059-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-02-26
+display_name: Eeva Esimerkki SYN-P0059 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 26.2.2026. Potilas: Eeva Esimerkki SYN-P0059 (SYN-P0059), s. 28.3.1951.
+SYNTEETTINEN potilasekrtomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 2026-01-26.
+TT-tutkimus tehty 29.1.2026.
+Bronkoskopia 2026-02-09, näytteet otettu.
+PAD-vastaus valmistui 19/2: levyepiteelikarsinooma.
+Moniammatillinen kokous (MDT) 23.2.2026: suositellaan etenemistä hoitoon.
+Päättettiin 25.2 aloittaa sädehoito.
+Potilas tupakoinut aiemmin; vieroitusohjasu annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

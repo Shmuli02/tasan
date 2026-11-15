@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+11,South Karelia wellbeing services county,YTA-ETELA,mid,baseline,pct_le42_from_referral,26.9923,6.8966,25.8065,52.9412,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,baseline,pct_le42_from_diagnosis,58.2103,40.625,58.3333,75.7576,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,baseline,median_days_referral_to_treatment,62.3505,41.0,62.0,87.5,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,baseline,median_days_diagnosis_to_treatment,36.8699,25.5,36.5,50.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,baseline,n_patients,71.0399,55.0,71.0,88.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,baseline,n_active_treated,32.2673,22.0,32.0,44.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,baseline,n_le42_from_referral,8.704,2.0,8.0,18.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,baseline,n_untreated_at_alert_day,28.2868,18.0,28.0,40.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,scenario,pct_le42_from_referral,46.4137,21.2121,45.8333,73.3333,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,scenario,median_days_referral_to_treatment,46.556,28.0,46.0,71.5,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,scenario,n_patients,71.0399,55.0,71.0,88.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,scenario,n_active_treated,32.2673,22.0,32.0,44.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,scenario,n_le42_from_referral,14.974,6.0,15.0,26.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,delta,pct_le42_from_referral,19.4214,5.8824,19.0476,35.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,delta,median_days_referral_to_treatment,-15.7945,-16.0,-16.0,-13.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,delta,n_patients,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,delta,n_active_treated,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+11,South Karelia wellbeing services county,YTA-ETELA,mid,delta,n_le42_from_referral,6.27,2.0,6.0,12.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast

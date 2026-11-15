@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0002
+document_id: SYN2-P0002-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-06-15
+display_name: Matti Mallipotilas SYN2-P0002 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synthetic Wellbein g County Hospital
+Note date 15.6.2026. Patient: Matti Mallipotilas SYN2-P0002 (SYN2-P0002), D0B 25.12.1939.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The consultation request was written on 9 June 2026, but was only logged as having arrived on in week 25 on Monday (2026).
+No team huddle w-as arranged at this visit; it was deferred.
+— excerpt from an older note dated 24.1.2021: date of birth 25.12.1939; cholecystectomy 24.1.2021; unrelated to the present lung work-up. —
+Hip repplacement on 23.8.2019.
+
+Enterd b y: synthetic test user. This is not a rela clinical record.

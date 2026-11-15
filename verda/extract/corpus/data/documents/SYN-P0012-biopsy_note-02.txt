@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0012
+document_id: SYN-P0012-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-21
+display_name: Kari Keinotekoinen SYN-P0012 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 21.6.2026. Potilas: Kari Keinotekoinen SYN-P0012 (SYN-P0012), s. 13.11.1960.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 10.6.2026.
+Esitiedot: keuhko-TT tehty 16.6.2026.
+Biopsiat otettu bronkoskopiassa 2026-06-20.
+Sappirakon poisto tehty 9.9.2020 (ei liity nykyiseen selvittelyyn).
+Lonkkaproteesi operoitu 9.9.2020.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

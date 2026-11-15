@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0119
+document_id: SYN-P0119-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-10
+display_name: Laura Loremten SYN-P0119 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 10.5.2026. Potilas: Laura Loremten SYN-P0119 (SYN-P0119), s. 3.10.1961.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepälyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 14.3.
+Esitiedot: thoraxin TT tehty 22.3.2026.
+Biopsiat otettu bronkoskopiassa 3.4.2026.
+PAD-vastaus valmistui 9.4.2026: pienisoluinen keuhkosyöpä.
+Moniammatillinen kokous (MDT) 15.4.2026: suositellaan etenemistä hoitoon.
+Esitieedot: hoitopäätös 18.4.2026: solunsalpaaja.
+Solunsalpaajahoito käynnistetty 9.5.2026.
+PET-TT varattu 15.5.2026, tutkimus on vasta suunnitelmissa.
+Sappirakon poisto tehty 8.11.2018 (ei liity nykyiseen selvittelyny).
+Edellinen keuhkokuume hoidettu 25.8.2012.
+
+Kirjaaja: syynteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

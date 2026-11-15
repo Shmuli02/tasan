@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+15,Central Finland wellbeing services county,YTA-ITA,high,baseline,pct_le42_from_referral,36.7388,16.6667,36.0656,60.3783,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,baseline,pct_le42_from_diagnosis,67.4525,54.8314,67.7419,79.661,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,baseline,median_days_referral_to_treatment,54.332,34.5,54.0,77.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,baseline,median_days_diagnosis_to_treatment,28.2598,19.0,28.0,38.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,baseline,n_patients,127.159,105.0,127.0,150.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,baseline,n_active_treated,62.0665,47.0,62.0,78.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,baseline,n_le42_from_referral,22.802,10.0,22.0,40.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,baseline,n_untreated_at_alert_day,49.593,33.0,50.0,67.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,scenario,pct_le42_from_referral,62.0171,36.9517,62.5,83.6373,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,scenario,median_days_referral_to_treatment,34.4767,28.0,30.0252,56.1346,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,scenario,n_patients,127.159,105.0,127.0,150.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,scenario,n_active_treated,62.0665,47.0,62.0,78.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,scenario,n_le42_from_referral,38.5,21.0,38.0,58.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,delta,pct_le42_from_referral,25.2783,10.5263,25.0,41.6667,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,delta,median_days_referral_to_treatment,-19.8553,-31.6367,-20.2564,-6.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,delta,n_patients,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,delta,n_active_treated,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+15,Central Finland wellbeing services county,YTA-ITA,high,delta,n_le42_from_referral,15.698,6.0,15.0,28.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast

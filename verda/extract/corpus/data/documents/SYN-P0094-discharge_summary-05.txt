@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0094
+document_id: SYN-P0094-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-10-02
+display_name: Olli Oletettu SYN-P0094 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 2.10.2026. Potilas: Olli Oletettu SYN-P0094 (SYN-P0094), s. 9.3.1967.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 21.8.2026.
+Esitiedot: thoraxin TT tehty 28.8.2026.
+Esitiedot: biopsiat otettu bronkoskopiassa 1.9.
+Esitiedot: pAD-vastaus valmistui 9.9.2026: NSCLC, ei tarkemmin luokiteltu.
+Esitiedot: hoitokokous 2026-09-13: moniammatillinen suositus kirjattu.
+Hoitopäätös 15.9: sädehoito.
+Sädehoito aloitettu toissapäivänä.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+PET-TT varattu 11.10.2026, tutkimus on vasta suunnitelmissa.
+Edellinen keuhkokuume hoidettu 22.5.2012.
+Lonkkaproteesi operoitu 4.6.2024.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

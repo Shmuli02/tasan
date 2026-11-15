@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0076
+document_id: SYN2-P0076-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-09-07
+display_name: Johan Testdata SYN2-P0076 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 7.9.2026. Potilas: Johan Testdata SYN2-P0076 (SYN2-P0076), s. 17.9.1958.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoi tu merkintä ke-uhkoselvittelystä (synteettinen harjoitusteksti).
+Tiimikok0us pidettiin syyskuun 6. päivänä 2026 ja suositus kirjattiin.
+Kudosnäytteet haettiin toimenpiteessä 22. elokuuta 2026.
+Kerroskuvaus to-teutettiin 11-08-2026.
+Mikroskooppinen lausunto valmistui 1. syyskuuta 2026: levyepiteeikarsinooma.
+A-siakirja merkittiin saapuneeksi keuhkoyksikköön 04-08-2026.
+Kuvantaminen on vasta ajanvaraus syyskuun 12. päivänä 2026, sit ä ei ole toteutettu.
+— ote vanhasta kirjauksesta 15.2.2016: syntymäaika 17.9.1958; sappirakon poisto 15.2.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossai-n tammikuu n alussa oli käynyt k-ontrollissa; tarkkaa päivää ei ole tässä.
+Lonkkaproteesi operoitu 11.2.2021.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

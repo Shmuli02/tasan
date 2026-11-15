@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0015
+document_id: SYN-P0015-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-05-20
+display_name: Anna Anonyymi SYN-P0015 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 20.5.2026. Potilas: Anna Anonyymi SYN-P0015 (SYN-P0015), s. 16.2.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 21.4.26.
+Esitiedot: tietokonetomografia (TT) suoritettiin 2.5.2026.
+Esitiedot: bronkoskopia ja biopsia tehty 6.5.26.
+PAD-vastaus valmistui 12.5.2026: adenokarsinooma.
+Esitiedot: mDT 16/5/2026: hoitolinja vahvistettu.
+Päätettiin 19.5.2026 aloittaa SBRT.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+Sappirakon poisto tehty 26.8.2012 (ei liity nykyiseen selvittelyyn).
+Edellinen keuhkokuume hoidettu 19.12.2015.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

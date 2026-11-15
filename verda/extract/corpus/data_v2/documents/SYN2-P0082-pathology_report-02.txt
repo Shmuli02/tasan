@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0082
+document_id: SYN2-P0082-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-09-28
+display_name: Alan Invented SYN2-P0082 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 28.9.2026. Potilas: Alan Invented SYN2-P0082 (SYN2-P0082), s. 3.8.1955.
+SYNTEETTINEN pot-i-laskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteett inen harjoitusteksti).
+Toimenpide varattiin viikolla 38 perjantaina (2026), mutta näyte otettiin vasta viikolla 38 sunnuntaina (2026).
+Mikroskooppinen lausunto valmistui eilen: adenokarsinooma.
+Leikekuvaus on suoritettu 10. syyskuuta 2026.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 26. elokuuta 2026.
+Kuvissa erottui vasemman alalohkon 2,4 cm muutos.
+Kuvantaminen on vasta ajanvaraus lokakuun 11. päivänä 2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 26.5.2020: syntymäaika 3.8.1955; sappirakon poi sto 26.5.2020; ei lii ty nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Edellinen keuhkokuume hoidettu 8.3.2011.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskert omus.

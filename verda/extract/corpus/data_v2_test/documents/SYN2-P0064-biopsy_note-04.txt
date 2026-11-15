@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0064
+document_id: SYN2-P0064-biopsy_note-04
+document_type: biopsy_note
+language: fi
+note_date: 2026-08-12
+display_name: Hannu Harjoitus SYN2-P0064 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kir jauspäivä 12.8.2026. Potila s: Hannu Harjoitus SYN2-P0064 (SYN2-P0064), s. 20.6.1954.
+SYNTEETTINEN potilaskertomus, ei oikea-a henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Toimenpide varattiin elokuun 7. päivänä 2026, mutta näyte otettiin vasta elokuun 12. päiväänä 2026.
+Pyyntö tuli perille viikolla 30 perjantaina (2026).
+Yhteispalaveri järjestettiin viikolla 32 maanantaina (2026); linja muodostettiin siellä.
+Kuvausaika merkittiin kalenteriin viikolla 31 torstaina (2026); itse tutkimus toteutettiin 07-08-2026.
+Toimenpide toteutui 11. elokuuta 2026 (kuratiivinen lobektomia).
+Valittiin etenemistapa 03-08-2026: kuratiivinen lobektomia.
+Kuvissa erottui oikean ylälohkon 3,1 cm tuumori.
+Aiemmin jo-ssain tammik-uun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Sa-ppirakon poisto tehty 19.9.2012 (ei liity nykyiseen sevittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

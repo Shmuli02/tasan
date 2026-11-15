@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0077
+document_id: SYN2-P0077-mdt_minutes-04
+document_type: mdt_minutes
+language: sv
+note_date: 2026-04-16
+display_name: Karin Konstruerad SYN2-P0077 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 16.4.2026. Patient: Karin Konstruerad SYN2-P0077 (SYN2-P0077), f. 4.5.1943.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk ö-vningstext).
+Bildtagningen utfördes mars den 25 år 2026 (tiden var bokad tidigare).
+Teamcirkeln hölls vecka 16 på torsdagen (2026) och rekommendationen antecknades.
+Laboratoriet meddelade histologin vecka 15 på fredagen (2026): adenokarcinom.
+Vävnadsprover hämtades vid åtgärden den 1 april 2026.
+Något teammöte hölls inte vid detta besök.
+— utdrag ur äldre anteckning 8.1.2017: födelsedatum 4.5.1943; galloperation 8.1.2017; hör inte till den aktuella lungutredningen. —
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

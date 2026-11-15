@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0036
+document_id: SYN2-P0036-pathology_report-04
+document_type: pathology_report
+language: sv
+note_date: 2026-08-30
+display_name: Hannu Harjoitus SYN2-P0036 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centra-lsjukhus
+Anteckningsdatum 30.8.2026. P atient: Hannu Harjoitus SYN2-P0036 (SYN2-P0036), f. 12.2.1949.
+SY-NTETISK patie ntjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Prov togs i samband med speglingen 2026-08-20.
+Konsultationsbegäran registrerades som inkommen augusti den 8 år 2026.
+Mikroskopiskt utlåtande blev klart den 29 augusti 2026: skivepitelkarcinom.
+Undersökningen avbildades vecka 33 på tisdagen (2026).
+— utdrag ur äldre anteckning 20.6.2019: födelsedatum 12.2.1949; galloperation 20.6.2019; h-ör inte till den aktuella lungutredningen. —
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

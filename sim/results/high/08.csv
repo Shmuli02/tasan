@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,baseline,pct_le42_from_referral,30.0628,14.1729,28.9268,49.3005,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,baseline,pct_le42_from_diagnosis,59.4175,50.8761,59.4595,67.3224,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,baseline,median_days_referral_to_treatment,60.6493,43.0,60.5,80.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,baseline,median_days_diagnosis_to_treatment,34.8618,28.0,35.0,42.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,baseline,n_patients,250.1585,218.0,250.0,281.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,baseline,n_active_treated,130.426,108.0,130.0,155.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,baseline,n_le42_from_referral,39.2235,18.0,38.0,67.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,baseline,n_untreated_at_alert_day,110.075,84.0,110.0,137.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,scenario,pct_le42_from_referral,55.4207,32.1998,55.5556,76.424,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,scenario,median_days_referral_to_treatment,38.487,28.0,36.7786,60.5206,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,scenario,n_patients,250.1585,218.0,250.0,281.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,scenario,n_active_treated,130.426,108.0,130.0,155.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,scenario,n_le42_from_referral,72.3215,40.0,72.0,105.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,delta,pct_le42_from_referral,25.3579,11.224,25.1908,39.3727,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,delta,median_days_referral_to_treatment,-22.1623,-33.2453,-22.26,-11.341,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,delta,n_patients,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,delta,n_active_treated,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+08,Pirkanmaa wellbeing services county,YTA-SISA,high,delta,n_le42_from_referral,33.098,14.0,33.0,53.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast

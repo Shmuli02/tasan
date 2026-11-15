@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,baseline,pct_le42_from_referral,37.0909,15.0,36.1702,62.3002,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,baseline,pct_le42_from_diagnosis,67.4799,53.6585,67.5338,80.3932,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,baseline,median_days_referral_to_treatment,54.1215,34.0,54.0,77.5125,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,baseline,median_days_diagnosis_to_treatment,28.2415,18.5,28.0,39.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,baseline,n_patients,101.519,83.0,102.0,121.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,baseline,n_active_treated,49.415,37.0,49.0,63.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,baseline,n_le42_from_referral,18.3475,7.0,18.0,33.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,baseline,n_untreated_at_alert_day,39.3905,26.0,39.0,54.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,scenario,pct_le42_from_referral,55.3171,31.9979,55.102,78.0521,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,scenario,median_days_referral_to_treatment,39.4105,28.0,38.0,61.5125,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,scenario,n_patients,101.519,83.0,102.0,121.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,scenario,n_active_treated,49.415,37.0,49.0,63.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,scenario,n_le42_from_referral,27.357,14.0,27.0,42.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,delta,pct_le42_from_referral,18.2262,7.4051,18.0,29.7872,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,delta,median_days_referral_to_treatment,-14.711,-16.0,-16.0,-5.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,delta,n_patients,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,delta,n_active_treated,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+14,North Karelia wellbeing services county,YTA-ITA,crowding_out,delta,n_le42_from_referral,9.0095,3.975,9.0,15.025,1,2000,MODEL OUTPUT · assumptions shown · not a forecast

@@ -1,0 +1,72 @@
+{
+  "system": "Qwen/Qwen3-32B-AWQ",
+  "synthetic": true,
+  "summary": {
+    "system": "Qwen/Qwen3-32B-AWQ",
+    "synthetic": true,
+    "corpus_id": "tasan-extract-synthetic-v1",
+    "base_url_host": "127.0.0.1:8000",
+    "n_documents": 2,
+    "n_ok": 2,
+    "elapsed_s": 17.617,
+    "notes_per_sec": 0.114,
+    "concurrency": 1,
+    "latency_s": {
+      "p50": 5.7463,
+      "p95": 11.8679,
+      "mean": 8.8071,
+      "max": 11.8679
+    },
+    "tokens": {
+      "prompt": 1848,
+      "completion": 282,
+      "total": 2130
+    },
+    "finished_at_eet": "2026-11-14 21:15:25 EET"
+  },
+  "documents": {
+    "SYN-P0001-ct_report-02": {
+      "patient_id": "SYN-P0001",
+      "note_date": "2026-07-23",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "date_text": "16.7.2026",
+          "evidence_span": "specialist referral received 16.7.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "date_text": "21.7.2026",
+          "evidence_span": "Chest CT performed on 21.7.2026. Imaging showed a 3.1 cm tumour in the right upper lobe.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 11.8679,
+      "prompt_tokens": 930,
+      "completion_tokens": 191,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0001-referral_letter-01": {
+      "patient_id": "SYN-P0001",
+      "note_date": "2026-07-17",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "date_text": "16.7.26",
+          "evidence_span": "The referral was registered on 16.7.26.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 5.7463,
+      "prompt_tokens": 918,
+      "completion_tokens": 91,
+      "http_status": 200,
+      "ok": true
+    }
+  }
+}

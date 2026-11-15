@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0098
+document_id: SYN2-P0098-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-07-20
+display_name: Juhani Jäljitelmä SYN2-P0098 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteetisen hyvinvointialueen keskussairaala
+Kirjauspäivä 20.7.2026. Potils: Juhani Jäljitelmä SYN2-P0098 (SYN2-P0098), s. 27.12.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikkö ön heinäkuun 8. päivänä 2026.
+Kuvausaika merkittiin kalenteriin viikolla 28 maanantaina (2026); itse tutkimus toteutettiin 13. heinäkuuta 2026.
+Näyte otettiin tähystyksessä 18. heinäkuuta 2026.
+Kuvissa erottui vasemma-n alalohkon 2,4 cm muutos.
+— ote vanhasta kirjauksesta 11.9.2022: syntymäaika 27.12.1954; s appirakon poisto 11.9.2022; ei liity nykyiseen keuhkoselvittelyyn. —
+Potilas tupakoinut aiemmin; vieroit sohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

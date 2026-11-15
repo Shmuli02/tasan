@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0117
+document_id: SYN-P0117-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-06-04
+display_name: Kirsi Keksitty SYN-P0117 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 4.6.2026. Potilas: Kirsi Keksitty SYN-P0117 (SYN-P0117), s. 17.1.1968.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 2026-05-10.
+Esitiedot: thoraxin TT tehty 15.5.
+Esitiedot: bronkoskopia ja biopsia tehty 2026-05-25.
+PAD-vastaus valmistui viime maanantaina: NSCLC, ei tarkemmin luokiteltu.
+Moniammatillinen kokous (MDT) 3.6.26: suositellaan etenemistä hoitoon.
+Syntymäaika 17.1.1968 tarkistettu väestötiedoista.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

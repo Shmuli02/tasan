@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0054
+document_id: SYN2-P0054-oncology_note-04
+document_type: oncology_note
+language: en
+note_date: 2026-08-04
+display_name: Alan Invented SYN2-P0054 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 4.8.2026. Patient: Alan Invented SYN2-P0054 (SYN2-P0054), DOB 25.8.1963.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The lab released the histology on July the 2, 2026: adenocarcinoma.
+Imaging was completed on 18 June 2026.
+A joint case conference took place on July the 5, 2026; the shared view was recorded.
+Sampling was carried out at the procedure on 28 June 2026.
+The way forwar d was chosen on 05-07-2026: SBRT.
+The consultation request was logged as having arrived on 04-06-2026.
+Imaging is only a reserved slot on 15 August 2026 and has not been carried out.
+Next steps remain open. Active therapy has not got under way at this stage.
+— excerpt from an older note dated 27.5.2023: date of birth 25.8.1963; cholecystectomy 27.5.2023; unrelated to the present lung work-up. —
+Previously, sometime in early Janu-ary, there was a follow-up visit; the exact day is not in this note.
+
+Entered by: synthetic test user. This is not a real clinical record.

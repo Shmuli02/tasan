@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0086
+document_id: SYN2-P0086-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-07-12
+display_name: Matti Mallipotilas SYN2-P0086 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 12.7.2026. Potilas: Matti Mallipotilas SYN2-P0086 (SYN2-P0086), s. 27.9.1953.
+SYNTEETTINEN potilaskertomu-s, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoittusteksti).
+Pyyntö tuli perille kesakuun 17. päivänä 2026.
+Toimenpide varattiin 3. heinäkuuta 2026, mutta näyte otettiin vasta toissapäivänä.
+Kuvantaminen tehtiin viikolla 27 keskiviikkona (2026) (varaus oli aiemmin).
+Tähystys perutt iin vii me hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 3.11.2020: syntymäaika 27.9.1953; sappirakon poisto 3.11.2020; ei liity nykyiseen k euhkoselvitttelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

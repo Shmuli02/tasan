@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0100
+document_id: SYN2-P0100-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-08-18
+display_name: Nils Fiktiv SYN2-P0100 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 18.8.2026. Potilas: Nils Fiktiv SYN2-P0100 (SYN2-P0100), s. 24.11.1964.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettin en harjoitusteksti).
+Tähystyksen yhteydessä punktionäyte viikolla 33 torstaina (2026).
+Morforloginen tulos tuli viikolla 34 tiistaina (2026) (adenokarsinooma).
+Leikekuvaus on suoritettu viikolla 33 maanantaina (2026).
+Pyyntö tuli perille viikolla 32 tiistaina (2026).
+Kuvantaminen on vasta ajanvaraus syyskuun 2. päivänä 2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 21.7.2014: syntymäaika 24.11.1964; sappirakon poisto 21.7.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+Kontrollilaboratoriokokeet ti1attu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaa ja: syntee ttinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

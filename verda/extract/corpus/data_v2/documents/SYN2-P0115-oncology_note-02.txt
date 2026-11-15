@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0115
+document_id: SYN2-P0115-oncology_note-02
+document_type: oncology_note
+language: fi
+note_date: 2026-06-24
+display_name: Eeva Esimerkki SYN2-P0115 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Ke-ksityn yliopistollinen s-airaala
+Kirjauspäivä 24.6.2026. Potilas: E-eva Esimerkki SYN2-P0115 (SYN2-P0115), s. 23.12.1949.
+SYNTEETTI-NEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittel-ystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö kirjattiin saapuneeksi viikolla 23 keskiviikkona (2026).
+Valittiin etenemistapa 24. kesäkuuta 2026: kuratii vinen lobektomia.
+Kuvausaika merkittiin kale nteriin 9. kesä-kuuta 2026; itse tutkimus toteutettiin 15. kesäkuuta 2026.
+Kuvissa erottui oikean ylälohkon 3,1 cm tuumori.
+Kuvantaminen on vasta ajanvaraus 28. kesäkuuta 2026, sitä ei ole toteutettu.
+Edellinen keuhkokuume hoidettu 16.10.2016.
+
+Kirjaaja: synteettinen testikäyttäj-ä. Tämä ei ole oikea potilaskerto rnus.

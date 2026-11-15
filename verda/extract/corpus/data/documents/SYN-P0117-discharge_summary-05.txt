@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0117
+document_id: SYN-P0117-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-06-09
+display_name: Kirsi Keksitty SYN-P0117 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 9.6.2026. Potilas: Kirsi Keksitty SYN-P0117 (SYN-P0117), s. 17.1.1968.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteetttinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 10.5.
+Esitiedot: thoraxin TT tehty 15.5.2026.
+Esitiedot: eBUS-bronkoskopia suoritettu 25.5.2026; biopsiat otettu.
+Patologin lausunto 1/6: adenokarsinooma.
+Hoitokokous 2026-06-03: moniammatillinen suositus kirjattu.
+Hoitopäätös 6.6.26: kiilaresektio.
+Kiilaresektio suoritettu 8.6.2026.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Lonkkaaproteesi operoitu 22.9.2012.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

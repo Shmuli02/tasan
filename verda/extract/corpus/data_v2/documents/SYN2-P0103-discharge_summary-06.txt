@@ -1,0 +1,30 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0103
+document_id: SYN2-P0103-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-04-30
+display_name: Ingrid Inventerad SYN2-P0103 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 30.4.2026. Potilas: In-grid Inventerad SYN2-P0103 (SYN2-P0103), s. 22.12.1949.
+SYNTEETTINE-N potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkose-lvittelystä (synteettinen harjoitusteksti).
+Sovittiin hoitomuodosta viikolla 17 tiistaina (2026) (kiilaresektio).
+Laboratorio ilmoitti histologian 10. huhtikuuta 2026: pienisoluinen keuhkosyöpä.
+Tutkimus käytiin kuvaamassa viikolla 13 maanantaina (2026).
+Näyte otettiin tähystyksessä 3. huhtikuuta 2026.
+Kokoontuminen huhtikuun 18. päivänä 2026: eri erikoisalojen yhteinen kanta merkitty.
+Konsultaatiopyyntö kirjattiin saapuneeksi 8. maaliskuuta 2026.
+Ensimmäinen hoitokerta oli huhtikuun 30. päivänä 2026.
+Kuvantaminen on vasta ajanvaraus 8. toukokuu-ta 2026, sitä ei ole toteutettu.
+— o-te vanhasta kirjauksesta 2.5.2016: syntymäaika 22.12.1949; sappirakon poisto 2.5.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun a1ussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Sappirakon poisto tehty 21.12.2021 (ei liity nykyiseen selvittelyyn).
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteet tinen testikäyttäjä. Tämä ei ole 0ikea potilaskertomus.

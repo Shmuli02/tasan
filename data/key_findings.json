@@ -1,0 +1,122 @@
+{
+ "generated": "2026-11-14",
+ "headline": {
+  "stage": "detection",
+  "goal": "Goal 2 (context)",
+  "text": "Colorectal screening: 0/22 counties at the 80% target in 2024; men 69.2% vs women 77.7%; lowest Helsinki 69.6%, Kymenlaakso 70.0%, Vantaa-Kerava 71.3%",
+  "numbers": [
+   {
+    "label": "National participation 2024",
+    "value": 73.5,
+    "unit": "%",
+    "source": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+    "table": "Sotkanet 6103, 2024"
+   },
+   {
+    "label": "Men 2024",
+    "value": 69.2,
+    "unit": "%",
+    "source": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+    "table": "Sotkanet 6103, 2024"
+   },
+   {
+    "label": "Women 2024",
+    "value": 77.7,
+    "unit": "%",
+    "source": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+    "table": "Sotkanet 6103, 2024"
+   },
+   {
+    "label": "Counties >=80% (2024)",
+    "value": 0,
+    "of": 22,
+    "source": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+    "table": "Sotkanet 6103, 2024"
+   },
+   {
+    "label": "Extra people screened/yr to reach 80% in every county",
+    "value": 27214,
+    "unit": "persons",
+    "source": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+    "table": "derived: csv/derived_colorectal_screening_gap_to_target.csv (assumes absValue=attended)"
+   },
+   {
+    "label": "of which men",
+    "value": 22260,
+    "unit": "persons",
+    "source": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+    "table": "derived"
+   }
+  ]
+ },
+ "goal3": [
+  {
+   "indicator": "G3-c treatment within target times",
+   "target": "6 weeks from referral arrival to first treatment (THL Ohjaus 21/2016 §4.1)",
+   "source": "https://www.julkari.fi/items/0424a55a-f159-406f-8883-5dfdad4d6772",
+   "regional_compliance_public": false,
+   "proxy": {
+    "label": "Lung cancer median days diagnosis->surgery, by collaborative area 2018-2022",
+    "min": {
+     "area": "Pohjois-Suomi",
+     "value": 13.5
+    },
+    "max": {
+     "area": "Etelä-Suomi",
+     "value": 46.0
+    },
+    "source": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf",
+    "table": "Taulukko 4.1 p.27"
+   }
+  },
+  {
+   "indicator": "G3-a poor-prognosis survival (proxy: lung curative-treatment share 2019-2023, crude)",
+   "min": {
+    "region": "Lapin hyvinvointialue",
+    "value": 18.5,
+    "ci95": [
+     15.8,
+     21.5
+    ]
+   },
+   "max": {
+    "region": "Vantaan ja Keravan hyvinvointialue",
+    "value": 35.6,
+    "ci95": [
+     31.9,
+     39.6
+    ]
+   },
+   "national": 27.0,
+   "source": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+   "table": "Taulukko 11"
+  },
+  {
+   "indicator": "Sub-goal 3.2 stage-data coverage (target 90%)",
+   "value": "stage missing 47.7% of lung cancers 2019-2023",
+   "source": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+   "table": "Taulukko 4"
+  },
+  {
+   "indicator": "G3-b cancer mortality",
+   "value": 13316,
+   "unit": "deaths 2024",
+   "source": "https://pxdata.stat.fi/PXWeb/api/v1/fi/StatFin/ksyyt/13u5.px",
+   "table": "StatFin 13u5; county rates crude only"
+  },
+  {
+   "indicator": "Bowel cancer 5-y relative survival 2024",
+   "min": {
+    "region": "Päijät-Häme",
+    "value": 63
+   },
+   "max": {
+    "region": "Keski-Uusimaa",
+    "value": 74
+   },
+   "national": 68,
+   "source": "https://sotkanet.fi/sotkanet/en/metadata/indicators/3627",
+   "table": "Sotkanet 3627, 2024"
+  }
+ ]
+}

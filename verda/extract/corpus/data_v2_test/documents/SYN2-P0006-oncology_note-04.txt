@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0006
+document_id: SYN2-P0006-oncology_note-04
+document_type: oncology_note
+language: en
+note_date: 2026-08-23
+display_name: Pekka Paikkamerkki SYN2-P0006 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 23.8.2026. Patient: Pek ka Paikkamerkki SYN2-P0006 (SYN2-P0006), DOB 4.7.1966.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lu ng work-up (synthetic training text).
+The way forward was chosen on in week 34 on Sunday (2026): wed-ge resection.
+The lab released the histology on 15-08-2026: adenocarcinoma.
+Cross-sectional imaging was carried out on 28 July 2026.
+Tissue was obtai ned during the endoscopy on 6 August 2026.
+The team huddle was held on 21 August 2026 and the recommendation was written down.
+The consultation request was logged as having arrived on in week 29 on Saturday (2026).
+— excerpt from an older note dated 6.12.2016: date of birth 4.7.1966; cholecystectomy 6.12.2016; unr-elated to the present lung work-up. —
+Previous pneumonia treated on 8.3.2015.
+
+Entered by: synthetic test user. This is not a real clinical record.

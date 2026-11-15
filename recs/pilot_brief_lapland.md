@@ -1,0 +1,41 @@
+**DRAFT – not signed. Not discussed with the county.**  
+
+# Tasan 90-day pilot – Lapin hyvinvointialue (Lapland)
+
+**Problem.** In Lapland, about 16 in 100 men with lung cancer get curative treatment, against about 30 in 100 in Vantaa-Kerava (age-adjusted). Age-standardised share of lung-cancer patients receiving curative treatment, 2019–2023, men: Lapland ≈16.2% (95% CI 12.7–20.4) vs Vantaa-Kerava ≈29.8% (24.2–36.1). Women: 23.1% vs 39.7%. *Source:* Finnish Cancer Registry/THL/FICAN, Keuhkosyöpä Suomessa 2019–2023 (23.4.2026), Kuva 16 – https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html. *Caveat:* Values read from the chart by the Tasan data team (±1 pp); not published numbers. About 12 more lung cancer patients a year in Lapland would have had a curative-treatment record if Lapland matched the national share [Tasan arithmetic from crude Cancer Registry counts, both sexes, diagnosed 2019–2023: (27.0% − 18.5%) × 710 patients ÷ 5 years; not age- or stage-adjusted; illustrative, not a causal or lives-saved estimate]. Source: Keuhkosyöpä Suomessa 2019–2023, Taulukko 11.
+
+**Action.** T3 pathway clock: measure each suspected lung cancer from referral to first treatment, raise an alert on day 28 with no treatment decision, and give every patient a named nurse navigator.
+
+- Clock: the 4 THL time points (referral, specialist visit, diagnosis, first treatment) per patient, weekly feed from county data.
+- Day-28 alert: open pathways without a treatment decision go to the navigator and the responsible physician.
+- Named nurse navigator (1.0 FTE): contacts every new suspected case and unblocks waits.
+- Data-quality task: registry-completeness check first (Lapland has 33.8% of cases with no treatment record; drug-therapy recording is low).
+
+**Owners (roles only).** Signer / sponsor: Johtajaylilääkäri / Chief Medical Officer, Lapland wellbeing services county (Lapin hyvinvointialue) (role holder verified, 14 Nov 2026: https://lapha.fi/yhteystiedot/johto); Navigator line manager: vs. hoitotyön johtaja / Acting Director of Nursing, Lapin hyvinvointialue (role holder verified, 14 Nov 2026: https://lapha.fi/tietoameista/hallinto-ja-organisaatio); Data / clock: county analytics unit / tietojohtaminen (to be assigned by the county) (role holder not verified).
+
+**Cost.** €20,339–€23,988 for 90 days. *Basis:* 1.0 FTE sairaanhoitaja (€3,174–4,048/month) + 0.5 FTE analyytikko (€4,663–4,891/month) × 3 months × 1.2314 employer contributions. Low = task-based pay, high = total earnings. *Sources:* https://www.kt.fi/tilastot-ja-julkaisut/hyvinvointialan-palkat (Oct 2025); https://www.kt.fi/tilastot-ja-julkaisut/henkilostokulut (2026: 23.14%). No IT, physician time or treatment capacity costed (no sourced figure). No euro saving claimed.
+
+**KPIs** (D = Tasan design choice)
+
+| KPI | Baseline | Target | D |
+|---|---|---|---|
+| Data completeness | Days 1–30: count of pathways with all 4 time points in 12 months of county data | ≥85% complete | yes |
+| Treated within 42 days of referral | Own baseline measured in days 1–30 and presented to the board | 80% within 42 days | yes |
+| Day-28 alerts actioned | Starts at go-live (day 31) | ≥90% within 2 working days | yes |
+| Navigator contact | Starts at go-live (day 31) | ≥90% of new suspected cases within 3 working days | yes |
+
+*The 42-day figure follows THL Ohjaus 21/2016 (6 weeks referral → first treatment), which is marked outdated and has no lung-specific limit; cancer-specific targets are due 2026–2028. All targets are Tasan design choices. The long-term outcome (age-adjusted curative share) is tracked, not promised.*
+
+**90 days.** Days 1–30: extract 12 months of time points, completeness check, publish baseline, name navigator. Days 31–60: weekly feed, day-28 alert live, navigator acts. Days 61–90: first board report incl. non-pathway waits; day-90 stop/go.
+
+**Day-90 stop/go** (Johtajaylilääkäri, on the day-90 board report). Go (extend) if ≥85% of pathways have all 4 time points, the own baseline is presented to the board, ≥90% of day-28 alerts are actioned within 2 working days and ≥90% of new cases are contacted within 3 working days. Completeness <70% after one fix cycle: pause the clock and fix recording first. Otherwise extend 90 days with one named fix.
+
+**AstraZeneca's role (compliance-safe).** AstraZeneca could co-fund the independent 90-day evaluation and the registry-completeness work, and provide project-management/service-design support. No patient steering, no product, no promotion, no patient-level data to AZ; the county owns data and decisions. *Framework:* Pharma Industry Finland Code of Ethics 2026, §35 (grants to healthcare organisations only to support healthcare or research, documented, never an incentive to prescribe; the company must not be the only funder) and §124–125 (transfers to healthcare organisations published by name). https://www.pif.fi/media/julkaisut/esitteita-ja-raportteja/pif_code-of-ethics_2026.pdf. Any funding model needs AZ's own compliance review. AZ does not pay clinical staff.
+
+**Precedent.** Estonia lung-cancer patient-pathway PPP (2023-01-03): Ministry of Social Affairs, Health Insurance Fund (Tervisekassa), AstraZeneca, MSD, Roche (later also Pfizer) and the Connected Health Cluster (Tehnopol) signed a consortium to map and improve the lung-cancer pathway. A national service-design and data project, not a county pilot. https://www.sm.ee/en/news/novel-public-private-partnership-contributes-implementation-cancer-control-plan
+
+**Caveats.** No existing AstraZeneca–wellbeing-county pilot in Finland is claimed. Partner arm with OYS (Oulu board / radiotherapy access) is conditional; OYS leads are unverified – see appendix.
+
+**Signature** — Johtajaylilääkäri / Chief Medical Officer, Lapland wellbeing services county (Lapin hyvinvointialue): ______________________  Date: ________  
+
+*DRAFT – not signed. Not discussed with the county.* Prepared 2026-11-14 by the Tasan team (Junction 2026).

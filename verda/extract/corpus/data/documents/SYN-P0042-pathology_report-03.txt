@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0042
+document_id: SYN-P0042-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-07-24
+display_name: Juhani Jäljitelmä SYN-P0042 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 24.7.2026. Potilas: Juhani Jäljitelmä SYN-P0042 (SYN-P0042), s. 26.3.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 20.6.2026.
+PET-TT tehty 3.7.2026.
+Patologin lausunto 23.7.2026: adenokarsinooma.
+Sappirakon poisto tehty 17.5.2017 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

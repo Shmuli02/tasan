@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0041
+document_id: SYN-P0041-oncology_note-06
+document_type: oncology_note
+language: fi
+note_date: 2026-10-05
+display_name: Ritva Rakennettu SYN-P0041 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 5.10.2026. Potilas: Ritva Rakennettu SYN-P0041 (SYN-P0041), s. 2.11.1944.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 24.8.2026.
+Tietokonetomografia (TT) suoritettiin 9.9.2026.
+Esitiedot: bronkoskopia ja biopsia tehty 19.9.26.
+Histologinen vastaus saapui 27.9.2026 (NSCLC, ei tarkemmin luokiteltu).
+MDT 1.10.2026: hoitolinja vahvistettu.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Sappirakon poisto tehty 26.3.2021 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

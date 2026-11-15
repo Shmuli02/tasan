@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0089
+document_id: SYN2-P0089-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-03-27
+display_name: Kirsi Keksitty SYN2-P0089 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteett-isen hyvinvointialueen keskussairaala
+Kirja-us päivä 27.3.2026. Potilas: Kirsi Keksitty SYN2-P0089 (S-YN2-P0089), s. 11.9.1944.
+SYNTEETTINEN potilaskertomus, ei oikeaa h-enkilöä.
+
+Diktoitu merkinta keuhkosellvittelystä (s ynteettine n harjoitusteksti).
+Kuvausaika merkittiin kalentreiin 21. maal-iskuuta 2026; its tutkimus toteutettiin 26. maaliskuuta 2026.
+Konsultaaiopyyntö kirjatiin saapuneeksi sunnuntaina.
+Kuvissa erottui vasemman yl-lälohkon 1,8 cm kyhmy ja välikarsinan imusolukk eet.
+Aiemimn jossain tammikuun alussaa oli käynyt kontrollissa; tarkkaa päi vää ei ole tässä.
+
+Kirjaaja: sy-nteettienn testikäytt-äjä. Tämmä ei ole oikea pot-ilas kkertom us.

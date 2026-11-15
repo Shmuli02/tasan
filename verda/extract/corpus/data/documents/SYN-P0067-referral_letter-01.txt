@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0067
+document_id: SYN-P0067-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-08-04
+display_name: Tuula Testinen SYN-P0067 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 4.8.2026. Patient: Tuula Testinen SYN-P0067 (SYN-P0067), f. 23.12.1947.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 3.8.
+Föregående pneumoni behandlad 3.3.2014.
+Höftprotes opererad 24.6.2017.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

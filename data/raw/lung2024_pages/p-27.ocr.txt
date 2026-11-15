@@ -1,0 +1,35 @@
+26 | SUOMENSYOPAREKISTERI
+Prosessimittarit
+4.1 Aika diagnoosista hoitoon
+Ensimmaisen puolen vuoden aikana hoidettujen potilaiden mediaaniaika diagnoosista ensimmaisen hoito-
+toimenpiteen kirjaukseen oli leikatuilla 37 paivaa (kvartilivali o-56), sadehoidetuilla 36 paivaa (16-56) ja
+laakehoidetuilla 38 paivaa (25-56).
+Kuvassa 4.1 toteamisvuosittain potilaiden kumulativinen osuus paatya eri hoitoihin, ei mihinkaan hoitoon
+tai kuolemaan (leikkaus-, sade-, laake- tai palliativinen hoito, kuolema tai ei mikaan naista) ensimmaisena
+tapahtumana ensimmaisen kuuden kuukauden kuluessa syovan toteamisesta. Tassa ajassa lahes 3o % poti-
+laista kuoli ilman edeltavia hoitotoimenpiteita ja vajaa I2 % paatyi palliativiseen hoitoon. Palliativisen hoi-
+don kirjaaminen vaihteli vuosittain ja sisaltaa tassa seka sivudiagnoosin palliativinen hoito (Z51.5) etta pal-
+liativisen sadehoidon (WFoo4). Leikkaushoitoon ensivaiheen hoitona paatyi runsas II % potilaista ja noin
+I6 %:lle ei kirjattu mitaan hoitoa ensimmaisen 6 kuukauden aikana. Laake- tai sadehoitoon ensimmaisena
+hoitona paatyneita oli I5 ja 18 % kaiken kaikkiaan, osuuksien vaihdellessa hieman eri vuosina.
+100
+16 % | 17 % | 15,2 % | 12,7 % | 15,2 %
+11,6 % | 12 %
+10,9 % | 12,3 % | 12,4 %
+75
+17,9 % | 18 % | 16,1 %
+19,4 % | 17,2 %
+(%) keuhkosyopatapauksista
+50 | 16,6 % | 11,7 %
+15,9 % | 15,7 % | 17,1 %
+%8 | 6.1 %
+12,1 % | 17,9 % | 22,8 %
+25
+)snnso | 34,1 % | 32,1 %
+25,6 % | 22,7 % | 21,8 %
+2018 | 2019 | 2020 | 2021 | 2022
+Diagnoosivuosi
+Ei hoitotietoa | Muu kuin palliativinen sadehoito | Palliativinen hoito
+Leikkaushoito | Laakehoito | Kuollut
+KuvA 4.i: Osuus keuhkosyopapotilaista diagnoosivuoden ja ensimmaisen hoitotoimenpiteen mukaan ensim-
+maisen kuuden kuukauden kuluessa syovan toteamisesta.

@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0014
+document_id: SYNTR-P0014-ct_report-02
+document_type: ct_report
+language: en
+note_date: 2026-01-27
+display_name: John Placeholder SYNTR-P0014 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Placeholder lung unit
+Note date 27.1.2026. Patient: John Placeholder SYNTR-P0014, DOB 1.1.1950.
+SYNTHETIC record, not a real person.
+
+The unit opened the referral on 11 January 2026.
+The tomographic acquisition was stored on 17.1.2026.
+A tissue fragment was removed at the procedure on Sun 25.1.2026.
+
+Entered by: synthetic test user.

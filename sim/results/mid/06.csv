@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+06,Satakunta wellbeing services county,YTA-LANSI,mid,baseline,pct_le42_from_referral,24.7869,8.1633,23.2013,48.1498,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,baseline,pct_le42_from_diagnosis,55.808,41.1765,55.814,70.8352,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,baseline,median_days_referral_to_treatment,64.3835,43.9875,64.5,86.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,baseline,median_days_diagnosis_to_treatment,38.677,29.0,38.5,49.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,baseline,n_patients,136.537,114.975,136.0,160.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,baseline,n_active_treated,52.015,38.975,52.0,67.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,baseline,n_le42_from_referral,12.88,4.0,12.0,26.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,baseline,n_untreated_at_alert_day,46.1025,32.0,46.0,61.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,scenario,pct_le42_from_referral,43.8862,21.5651,42.5532,69.2347,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,scenario,median_days_referral_to_treatment,48.458,28.0,48.5,70.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,scenario,n_patients,136.537,114.975,136.0,160.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,scenario,n_active_treated,52.015,38.975,52.0,67.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,scenario,n_le42_from_referral,22.8395,10.0,22.0,39.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,delta,pct_le42_from_referral,19.0993,7.8947,18.8934,31.9149,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,delta,median_days_referral_to_treatment,-15.9255,-16.0,-16.0,-15.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,delta,n_patients,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,delta,n_active_treated,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+06,Satakunta wellbeing services county,YTA-LANSI,mid,delta,n_le42_from_referral,9.9595,4.0,10.0,18.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast

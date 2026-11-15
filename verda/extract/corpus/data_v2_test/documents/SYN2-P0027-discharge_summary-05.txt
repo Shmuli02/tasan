@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0027
+document_id: SYN2-P0027-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-04
+display_name: Helen Mockpatient SYN2-P0027 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjau späivä 4.7.2026. Potilas: Helen M-ockpatient SYN2-P0027 (SYN2-P0027), s. 26.1.1959.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+iktoi tu merkintä keuhkoselvittelystä (synt-eettinen harjoitusteksti).
+Laboratorio ilmoitti histologian 2. kesäkuuta 2026: levyepiteelikarsinooma.
+Sovittiin hoitomuodosta viikolla 24 torrstaina (2026) (kuratiivinen lobektomia).
+Kokoontuminen 09-06-2026: eri erikoisalojen yhteinen k-anta merkitty.
+Aktiivinen hoito käynnistyi eilen.
+Näyte otettiin tähystyksessä viikolla 21 lauantaina (2026).
+Lahete saapui toimistoon viik olla 20 perjnataina (2026) (kirjoituspäivä on eri, ks. alla).
+Kerroskuvaus toteutettiin 20. toukokuuta 2026.
+— ote vanhasta kirjauksesta 13.1.2018: syntymäaka 26.1.1959; sappirakon poisto 13.1.2018; ei liity nykyi-seen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä e-i ole oike a potilaskertomus.

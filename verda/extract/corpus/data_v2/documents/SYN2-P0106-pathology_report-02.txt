@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0106
+document_id: SYN2-P0106-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-08-07
+display_name: Erik Exempelsson SYN2-P0106 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksity-n yliopisto1linen saira-ala
+Kirjaus päivä 7.8.2026. Potilas: Erik Exempelsson SYN2-P0106 (SYN2-P0106), s. 20.9.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Kudosnäytteet haettiin toimenpiteessä maanantaina.
+Pyyntö tuli perille 12. heinäkuuta 2026.
+Kuvantaminen tehtiin 24. heinäkuu ta 2026 (varaus oli aiemmin).
+Morforloginen tulos tuli 6. elokuuta 2026 (adenokarsinooma).
+— ote vanhasta kirjauksesta 5.5.2017: syntymäaika 20.9.1955; s-appirakon poisto 5.5.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+
+(Synteettinen lyhyt diktoitu merkintä.)

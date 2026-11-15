@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0022
+document_id: SYN2-P0022-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-14
+display_name: Erik Exempelsson SYN2-P0022 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistol1inen sairaala
+Kirjauspäivä 14.8.2026. Potilas: Erik Exempelsson SYN2-P0022 (SYN2-P0022), s. 24.1.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keu-hkoselvittelystä (synteettinen harjoitusteksti).
+Kudosnäytteet haettiin toimenpiteessä 26-07-2026.
+Yhteispalaveri järjestettiin 12-08-2026; linja muodostettiin siellä.
+Kuvantaminen tehtiin 16. heinäkuuta 2026 (varaus oli aiemmin).
+Lähete saapui toimistoon heinäkuun 2. päivänä 2026 (kirjoituspäivä on eri, ks. alla).
+Laboratorio ilmoitti histologian 4. elokuuta 2026: pienisoluinen keuhkosyöpä.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 3.8.2017: syntymäaika 24.1.1957; sappirak-on poisto 3.8.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

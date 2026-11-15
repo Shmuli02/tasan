@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0063
+document_id: SYN2-P0063-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-03-30
+display_name: Laura Loremten SYN2-P0063 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspä-ivä 30.3.2026. Poti-las: Laura Loremten SYN2-P0063 (SYN2-P0063), s. 20.1.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kudosnäytteet haettiin toimenpiteessä viikolla 13 maanantaina (2026).
+Sovittiin hoitomuodosta viikolla 12 sunnuntaina (2026) (SBRT).
+Kokoontuminen 22-03-2026: eri erikoisalojen yhteinen kanta merkitty.
+Pyyntö tuli perille 12. maaliskuuta 2026.
+Kerroskuvaus toteutettiin 18-03-2026.
+Ensimmäinen hoitokerta oli 30-03-2026.
+Morforloginen tulos tuli 26. maaliskuuta 2026 (NSCLC, ei tarkemmin luokiteltu).
+Kuvantaminen on vasta ajanvaraus 5. huhtiku-uta 2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 7.3.2019: syntymäaika 20.1.1951; sappirakon poisto 7.3.2019; ei liity nykyiseen keuhkoselvittelyyn. —
+Potilas tupakoinut aiemmin; vieroitusohja-us annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

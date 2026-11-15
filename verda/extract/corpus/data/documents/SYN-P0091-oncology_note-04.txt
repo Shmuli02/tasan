@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0091
+document_id: SYN-P0091-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-02-27
+display_name: Laura Loremten SYN-P0091 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 27.2.2026. Potilas: Laura Lormten SYN-P0091 (SYN-P0091), s. 7.1.1956.
+SYNTEETTINEN potilaskertomus, ei oikeaaa henkilöä.
+
+Käynnin syy: keuhkosyöppäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 23/1.
+TT-tutkimus tehty 30.1.
+Biopsiat otettu bronkoskopiassa 10.2.2026.
+Esitiedot: histologinen vastaus saapui 20.2.2026 (NSCLC, ei tarkemmin luokiteltu).
+Hoitopäätös 26.2: ukratiivinen lobektommia.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+Hoitoa ei ole aloitettu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tsäsä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

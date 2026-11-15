@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0095
+document_id: SYN-P0095-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-06-05
+display_name: Tuula Testinen SYN-P0095 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 5.6.2026. Potilas: Tuula Testinen SYN-P0095 (SYN-P0095), s. 27.8.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhoksyöpäepäilyn selvittely (synteettinen simerkki).
+Esitiedot: keuhkoklinikan lähete saapui 23.4.
+Thoraxin TT tehty 9/5.
+Esitiedot: biopsiat otettu bronkoskopiassa 2026-05-15.
+Patoologin lausunto 25.5.2026: levyepiteelikarsinooma.
+Hoitokokous 27.5.26: moniammatillinen suosiuts kirjattu.
+Hoitopäätös 2026-05-27: kuratiivinen lobektomia.
+TT-ttutkimus tehty 7.5.2026.
+Leikkaus (lobektomia) tehty toissapäivänä.
+PET-TT varattu 16.6.2026, tutkimus on vasta suunnitelmissa.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

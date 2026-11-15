@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0079
+document_id: SYN-P0079-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-03-01
+display_name: Jane Synthetic SYN-P0079 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 1.3.2026. Patient: Jane Synthetic SYN-P0079 (SYN-P0079), DOB 19.2.1939.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Chest CT performed on 28.2. Imaging showed a 1.8 cm nodule in the left upper lobe with mediastinal nodes.
+CT planned for 11.3.2026 (not yet performed).
+Previous pneumonia treated on 26.9.2022.
+
+Entered by: synthetic test user. This is not a real clinical record.

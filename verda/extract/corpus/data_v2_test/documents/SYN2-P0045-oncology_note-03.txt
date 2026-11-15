@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0045
+document_id: SYN2-P0045-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-06-24
+display_name: Eva Påhittad SYN2-P0045 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 24.6.2026. Potilas: Eva Påhittad SYN2-P0045 (SYN2-P0045), s. 28.7.1959.
+SYNTEETTI NEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin 20. kesäkuuta 2026.
+Lähete saapui toimistoon 16. kesäkuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Jatk-o on auki. Aktii-vista hoitoa ei ole k äynnistetty tässä vaiheessa.
+— ote vanhasta kirjauksesta 4.11.2015: syntymäaika 28.7.1959; sappirakon poisto 4.11.2015; ei lii ty nykyiseen keuhkoselv it-telyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Potilas tupakoinut aiemmin; vieroitusohjaus annett-u.
+
+Kirjaaja: sy nteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

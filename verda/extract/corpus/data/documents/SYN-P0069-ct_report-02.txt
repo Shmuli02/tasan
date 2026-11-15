@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0069
+document_id: SYN-P0069-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-04-28
+display_name: Ritva Rakennettu SYN-P0069 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 28.4.2026. Potilas: Ritva Rakennettu SYN-P0069 (SYN-P0069), s. 11.10.1944.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 14/4.
+Esitiedot: linjaus viime perjantaina: kuratiivinen lobektomia.
+MDT 2026-04-24: hoitolinja vahvistettu.
+PET-TT tehty 28.4.2026. Kuvauksessa todettiin oikean ylälohkon 3,1 cm tuumori.
+Sappirakon poisto tehty 4.1.2020 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

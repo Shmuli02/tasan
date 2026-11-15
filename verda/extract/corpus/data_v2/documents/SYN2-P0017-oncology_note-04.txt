@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0017
+document_id: SYN2-P0017-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-06-10
+display_name: Eva Påhittad SYN2-P0017 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjau-späivä 10.6.2026. Potilas: Eva Påhit-tad SYN2-P0017 (SYN2-P0017), s. 3.5.1964.
+SYNTEETTINEN ppo tilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tutkimus käytiin kuvaamassa 18. toukokuuta 2026.
+Laborator-io ilmoitti histologian viikolla 23 perjantaina (2026): adenokarsinooma.
+Tähystyksen yhteydessä punktionäyte 25-05-2026.
+Kliininen valinta tehtiin kesäkuun 10. päivänä 2026: kiilaresektio.
+Konsultaatiopyyntö kirjattiin saapuneeksi 3. toukokuuta 2026.
+— ote vanhasta kirjauksesta 5.6.2015: syntymäaika 3.5.1964; sa pp irakon poisto 5.6.2015; ei liity nykyisee keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

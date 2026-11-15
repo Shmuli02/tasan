@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0072
+document_id: SYN-P0072-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-05
+display_name: Nils Fiktiv SYN-P0072 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yilopistollinen sairaala
+Kirjauspäivä 5.8.2026. Potilas: Nils Fiktiv SYN-P0072 (SYN-P0072), s. 3.6.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 28.6.2026.
+Thoraxin TT tehty 11/7.
+Esitiedot: bronksokopia ja biopsia tehty 21/7/2026.
+Histologinen vastaus saapui viime perjantaina (adenokarsinooma).
+MDT 5.8.26: hoitolinja vahvistettu.
+Edellinen keuhkokuume hoidettu 23.10.2010.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

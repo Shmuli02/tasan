@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0004
+document_id: SYNTR-P0004-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-04-01
+display_name: Eeva Esimerkki SYNTR-P0004 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Keksitty keuhkoyksikkö
+Kirjauspäivä 1.4.2026. Potilas: Eeva Esimerkki SYNTR-P0004, s. 1.1.1950.
+SYNTEETTINEN record, not a real person.
+
+Yksikkö otti läheteen käsittelyyn 2026-03-10.
+TT-sarja tallennettiin 19.3.2026.
+Näytteenotto tähystyksellä 24. maaliskuuta 2026.
+Kudosanalyysi valmistui 28. maaliskuuta 2026: NSCLC.
+Hoitoryhmä kokoontui 1.4.2026.
+
+Kirjaaja: synteettinen testikäyttäjä.

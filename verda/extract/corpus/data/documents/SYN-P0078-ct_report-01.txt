@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0078
+document_id: SYN-P0078-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-03-31
+display_name: Erik Exempelsson SYN-P0078 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 31.3.2026. Patient: Erik Exempelssonn SYN-P0078 (SYN-P0078), DOB 8.8.1962.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Chest CT performed on the day before yesterday. Imaging showed a 3.1 cm tumour in the right upper lobe.
+Hip replacement on 18.7.2015.
+
+Entered by: synthetic test user. This is not a real clinical record.

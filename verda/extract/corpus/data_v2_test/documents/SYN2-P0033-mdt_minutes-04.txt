@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0033
+document_id: SYN2-P0033-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-18
+display_name: Kirsi Keksitty SYN2-P0033 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 18.5.2026. Potilas: Kirsi Keksitty SYN2-P0033 (SYN2-P0033), s. 26.7.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkos-elvittelystä (synteettinen harjoitusteksti).
+Laboratorio ilmoitti histologian 8. toukokuuta 2026: NSCLC, ei tarkemmin luokiteltu.
+Lähete saapui toimistoon 5. huhtikuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Kudosnäytteet haettiin toimenpiteessä 30. huhtikuuta 2026.
+Kerroskuvaus toteutettiin viikolla 17 maanantaina (2026).
+Yhteispalaveri järjestettiin toukokuun 16. päivänä 2026; linja muodostettiin si-ellä.
+— ote vanhasta kirjauksesta 26.6.2018: syntymäaika 26.7.1953; sappirakon poisto 26.6.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+Edellinen keuhkokuume hoidettu 19.4.2019.
+
+Kirjaaj-a: synteettinen testikäyttä jä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,30 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0104
+document_id: SYN2-P0104-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-30
+display_name: Johan Testdata SYN2-P0104 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 30.7.2026. Potilaas: Johan Testdata SYN2-P0104 (SYN2-P0104), s. 14.10.1966.
+SYNTEETTINEN potilaskertomus, ei oikkeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Yhteispalaveri järjestettiin 12. heinäkuuta 2026; linja muodostettiin siellä.
+Näyte otettiin tähystyksessä 25. kesäkuuta 2026.
+Laboratorio ilmoitti histologian viikolla 27 sunnuntaina (2026): levyepiteelikarsinooma.
+Lähete saapui toimistoon kesäkuun 10. päivänä 2026 (kirjoituspäivä on eri, ks. allaa).
+Valittiin etenemistapa 14. heiinäkuuta 2026: sytostaatti.
+Toimenpide toteutui viikolla 31 tiistaina (2026) (sytostaatti).
+Tutkimus käytiin kuvaamassa kesä kuun 13. päivänä 2026.
+Aktiivista hoitoa ei ole aloitettu, vast-a pohditaan vaihtoehtoja.
+— ote vanhasta kirja uksesta 4.5.2022: syntymäaika 14.10.1966; sappirakon poi-sto 4.5.2022; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Kontr ol1ilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Edellinen keuhkokuume hoidettu 9.12.2020.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

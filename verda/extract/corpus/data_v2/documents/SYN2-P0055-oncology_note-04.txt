@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0055
+document_id: SYN2-P0055-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-09-14
+display_name: Helen Mockpatient SYN2-P0055 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 14.9.2026. Potilas: Helen Mockpatient SYN2-P0055 (SYN2-P0055), s. 12.2.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kliininen valinta tehtiin 11-09-2026: sädehoito.
+Laboratorio ilmoitti histologian viikolla 36 perjantaina (2026): NSCLC, ei tarkemmin luokiteltu.
+Kerroskuvaus toteutettiin 16. elokuuta 2026.
+Konsultaatiopyyntö kirjatti-in saapuneeksi elokuun 5. päivänä 2026.
+Tähystyksen yhteydessä punktionäyte viikolla 35 tiistaina (2026).
+Yhteispalaveri järjestettiin 10. syyskuuta 2026; linja mu odostettiin si ellä.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+Jatko on auki. Aktiivista hoitoa ei ole käynnistetty tässä vaiheessa.
+Lonkkaprot eesi o peroitu 8.1.2023.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea pot-ilaskertomus.

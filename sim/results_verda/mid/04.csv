@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,baseline,pct_le42_from_referral,26.9368,9.0909,25.4902,50.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,baseline,pct_le42_from_diagnosis,58.1785,44.2308,58.3333,71.4286,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,baseline,median_days_referral_to_treatment,62.2754,42.5,62.0,84.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,baseline,median_days_diagnosis_to_treatment,36.7541,28.0,36.5,47.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,baseline,n_patients,118.9887,98.0,119.0,141.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,baseline,n_active_treated,53.9693,40.0,54.0,69.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,baseline,n_le42_from_referral,14.5268,5.0,14.0,28.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,baseline,n_untreated_at_alert_day,47.2963,33.0,47.0,63.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,scenario,pct_le42_from_referral,46.3726,23.8788,45.7627,70.7692,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,scenario,median_days_referral_to_treatment,46.3841,28.0,46.0,68.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,scenario,n_patients,118.9887,98.0,119.0,141.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,scenario,n_active_treated,53.9693,40.0,54.0,69.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,scenario,n_le42_from_referral,25.0193,12.0,24.0,41.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,delta,pct_le42_from_referral,19.4358,8.6207,19.2308,31.7073,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,delta,median_days_referral_to_treatment,-15.8912,-16.0,-16.0,-14.5,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,delta,n_patients,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,delta,n_active_treated,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+04,Vantaa and Kerava wellbeing services county,YTA-ETELA,mid,delta,n_le42_from_referral,10.4924,4.0,10.0,18.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast

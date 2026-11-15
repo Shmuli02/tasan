@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0104
+document_id: SYN-P0104-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-08-04
+display_name: Johan Testdata SYN-P0104 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 4.8.2026. Potilas: Johan Testdata SYN-P0104 (SYN-P0104), s. 16.9.1952.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 26/7/2026.
+PET-TT tehty toissapäivänä. Kuvauksessa todettiin vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Biopsia peruttiin potilaan toiveesta.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Edellinen keuhkokuume hoidettu 8.10.2013.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

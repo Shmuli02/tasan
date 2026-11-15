@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TasanExtractEvents",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["events"],
+  "properties": {
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["type", "date", "date_text", "evidence_span", "confidence"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "referral_received",
+              "ct_done",
+              "biopsy_done",
+              "pathology_result",
+              "mdt_decision",
+              "treatment_decision",
+              "treatment_start"
+            ]
+          },
+          "date": {
+            "type": ["string", "null"],
+            "description": "Resolved ISO date YYYY-MM-DD, or null if mentioned but not resolvable.",
+            "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+          },
+          "date_text": {
+            "type": ["string", "null"],
+            "description": "Surface form as written, e.g. 'viime tiistaina' or '14.11.2026'."
+          },
+          "evidence_span": {
+            "type": "string",
+            "description": "Verbatim substring of the note that supports this event."
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          }
+        }
+      }
+    }
+  }
+}

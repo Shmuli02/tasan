@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0107
+document_id: SYN-P0107-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-01-13
+display_name: Jane Synthetic SYN-P0107 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 13.1.2026. Potilas: Jane Synthetic SYN-P0107 (SYN-P0107), s. 13.11.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Lähete kirjattu 7.1.26.
+Tietokonetomografia (TT) suoritettiin 10.1.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+
+(Synteettinen lyhyt kirjaus.)

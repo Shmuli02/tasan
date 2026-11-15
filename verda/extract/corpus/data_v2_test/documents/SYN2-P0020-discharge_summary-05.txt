@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0020
+document_id: SYN2-P0020-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-10
+display_name: Johan Testdata SYN2-P0020 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvoi ntialueen keskussairaala
+Kirjauspäivä 10.5.2026. Potilas: Johan Testdata SYN2-P0020 (SYN2-P0020), s. 11.2.1948.
+SYNTEETTINEN potilaskert0mus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkosel-vitt elystä (synteettinen harjoitusteksti).
+Lähete saapui toimistoon viikolla 14 keskiviikkona (2026) (kirjoituspäivä on eri, ks. alla).
+Morf orloginen tulos tuli huh-tikuun 24. päivänä 2026 (levyepiteelikarsinooma).
+Sovittiin hoitomuodosta viikolla 18 sunnuntaina (2026) (sädehoito).
+Leikekuvaus on suoritettu v-iikolla 15 sunnuntaina (2026).
+Aktiivinen hoito käynnistyi 10-05-2026.
+Kokoontuminen 30. huhtikuuta 2026: eri erikoisalojen yhteinen kanta merkitty.
+Kudosnäytteet haettiin toimenpiteessä 21. huhtikuuta 2026.
+— ote vanhasta kirjauksesta 26.12.2016: syntymäaika 11.2.1948; sappirakon poisto 26.12.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyt täjä. Tämä ei ole oikea potilaskertomus.

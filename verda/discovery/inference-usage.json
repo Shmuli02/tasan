@@ -1,0 +1,17 @@
+{
+  "http_status": 200,
+  "fetched_at_eet": "2026-11-14 20:42:24 EET",
+  "body": {
+    "rows": [],
+    "totals": {
+      "requests": 0,
+      "input_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 0
+    },
+    "range": {
+      "start": "2026-10-15T18:42:24.537Z",
+      "end": "2026-11-14T18:42:24.537Z"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0087
+document_id: SYN-P0087-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-09-14
+display_name: Eeva Esimerkki SYN-P0087 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+eksityn yliopistollinen sairaala
+Kirjauspaiva 14.9.2026. Potilass: Eeva Esierkki SYN-P0087 (SYN-P0087), s. 12.6.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 2.8.2026.
+TT-tutkimus tehtyy 14.8.2026.
+Moniammatillinen kokous (MDT) 12.9.26: suositellaan etenemistä hoitoon.
+TT suunniteltu 19.9.2026 (ei vielä tehty).
+Potilas tupakinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteeettinen tetsikäyttäjä. Tämä ei ole oikea ppotilaskertomus.

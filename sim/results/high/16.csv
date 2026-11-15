@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,baseline,pct_le42_from_referral,30.3772,11.8619,29.2308,53.1923,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,baseline,pct_le42_from_diagnosis,59.3749,46.5116,59.322,72.5843,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,baseline,median_days_referral_to_treatment,60.5613,40.4875,60.0,83.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,baseline,median_days_diagnosis_to_treatment,35.1583,25.0,35.0,45.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,baseline,n_patients,107.73,88.0,108.0,129.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,baseline,n_active_treated,56.2855,42.0,56.0,72.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,baseline,n_le42_from_referral,17.11,6.0,16.0,31.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,baseline,n_untreated_at_alert_day,47.305,33.0,47.0,63.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,scenario,pct_le42_from_referral,56.0868,30.6122,56.5217,80.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,scenario,median_days_referral_to_treatment,38.432,28.0,36.0723,62.1188,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,scenario,n_patients,107.73,88.0,108.0,129.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,scenario,n_active_treated,56.2855,42.0,56.0,72.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,scenario,n_le42_from_referral,31.5745,16.0,31.0,49.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,delta,pct_le42_from_referral,25.7096,10.0,25.5319,42.6288,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,delta,median_days_referral_to_treatment,-22.1293,-33.3603,-22.1588,-11.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,delta,n_patients,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,delta,n_active_treated,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+16,South Ostrobothnia wellbeing services county,YTA-SISA,high,delta,n_le42_from_referral,14.4645,5.0,14.0,25.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast

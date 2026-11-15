@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0068
+document_id: SYN2-P0068-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-06-04
+display_name: Kari Keinotekoinen SYN2-P0068 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkok-linikka
+Kirjauspäivä 4.6.2026. Potilas: Kari Keinotekoinen SYN2-P0068 (SYN2-P0068), s. 4.6.1947.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu me rkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tähystyksen yhteydessä punktionäyte viikolla 22 lauantaina (2026).
+Tiimikokous pidettiin 28. toukokuuta 2026 ja suositus kirjattiin.
+Kuvantaminen tehtiin viikolla 21 perjantaina (2026) (varaus oli aiemmin).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 18-05-2026.
+Sovittiin hoitomuodosta 28. toukokuuta 2026 (kuratiivinen lobektomia).
+Mikroskooppinen lausunto valmistui viikolla 23 keskiviikkona (2026): levyepiteelikarsinooma.
+Kuvantaminen on vasta ajanvaraus 15-06-2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 7.6.2017: syntymäaika 4.6.1947; sappirakon poisto 7.6.2017; ei liity nykyiseen keuhkosel vittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

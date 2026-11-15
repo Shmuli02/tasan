@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0054
+document_id: SYN2-P0054-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-06-20
+display_name: Alan Invented SYN2-P0054 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 20.6.2026. Patient: Alan Invented SYN2-P0054 (SYN2-P0054), D-OB 25.8.1963.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The scan slot was put in the calendar on June the 12, 2026; the examination itself was carried out on 18 June 2026.
+The consultation request was written on 31 May 2026, but was only logged as having arrived on 4 June 2026.
+The pictures showed a 2.4 cm lesion in the left lower lobe.
+— e xcerpt from an older note dated 10.11.2022: date of birth 25.8.1963; cholecystectomy 10.11.2022; unrelated to the present lung work-up. —
+
+Entered by: synthetic test user. This is not a real clinical record.

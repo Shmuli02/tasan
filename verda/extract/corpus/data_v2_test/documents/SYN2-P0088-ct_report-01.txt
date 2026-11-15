@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0088
+document_id: SYN2-P0088-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-07-03
+display_name: Yrjö Yksikkötesti SYN2-P0088 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+T estdata univer sitetssjukhus
+Anteckni ngs datum 3.7.2026. Patient: Yrjö Ykskkötesti SYN2-P0088 (SYN2-P0088), f. 9.5.1956.
+SYNTETISK pat-ientjournal, ingn verklig ers on.
+
+Dikterad an teckning fr å lungutredningen (syntetisk ovningstext).
+Konsultationsegäran skrevs 2026-06-19, men registrerades som inkommen först vecka 26 på månadgen (2026).
+Bildtiden lades in i kalendern 2026-06-28; sjalva undersökningen genomfördes juli den 3 år 2026.
+På bilderna sågs en 4,0 cm rnassa i hoger me1lannlob.
+Speglingen st älldes in i sista stund och inget pprov togs.
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag sakna s här.
+Kontollpr0v har beställts; s varen finns ine i de-nna antckning.
+
+Antecknat av: sy ntetisk tesatnvändare. Detta är inte e-n verklig journal.

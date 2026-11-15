@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0023
+document_id: SYN-P0023-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-06-21
+display_name: Jane Synthetic SYN-P0023 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 21.6.2026. Potilas: Jane Synthetic SYN-P0023 (SYN-P0023), s. 11.3.1940.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 28.5.
+Keuhko-TT tehty 9.6.2026.
+Esitiedot: bronkoskopia 12.6, näytteet otettu.
+Patologin lausunto 20.6: levyepiteelikarsinooma.
+Bronkoskopiaa ei tehty tässä käynnissä.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Edellinen keuhkokuume hoidettu 23.1.2015.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

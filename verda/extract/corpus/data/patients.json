@@ -1,0 +1,4844 @@
+[
+  {
+    "patient_id": "SYN-P0001",
+    "display_name": "Aino Synteettinen SYN-P0001",
+    "sex": "F",
+    "birth_date": "1945-04-15",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0001-referral_letter-01",
+      "SYN-P0001-ct_report-02",
+      "SYN-P0001-pathology_report-03",
+      "SYN-P0001-mdt_minutes-04",
+      "SYN-P0001-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-16",
+      "ct_done": "2026-07-21",
+      "biopsy_done": "2026-08-01",
+      "pathology_result": "2026-08-13",
+      "mdt_decision": "2026-08-16",
+      "treatment_decision": "2026-08-18",
+      "treatment_start": "2026-08-31"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0001-discharge_summary-05",
+      "ct_done": "SYN-P0001-discharge_summary-05",
+      "biopsy_done": "SYN-P0001-discharge_summary-05",
+      "pathology_result": "SYN-P0001-discharge_summary-05",
+      "mdt_decision": "SYN-P0001-discharge_summary-05",
+      "treatment_decision": "SYN-P0001-discharge_summary-05",
+      "treatment_start": "SYN-P0001-discharge_summary-05"
+    },
+    "clock_as_of": "2026-08-31",
+    "referral_date": "2026-07-16",
+    "treatment_start_date": "2026-08-31",
+    "day_count": 46,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0002",
+    "display_name": "Matti Mallipotilas SYN-P0002",
+    "sex": "M",
+    "birth_date": "1943-11-11",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0002-referral_letter-01",
+      "SYN-P0002-biopsy_note-02",
+      "SYN-P0002-mdt_minutes-03",
+      "SYN-P0002-oncology_note-04",
+      "SYN-P0002-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-08",
+      "ct_done": "2026-03-21",
+      "biopsy_done": "2026-03-26",
+      "pathology_result": "2026-04-05",
+      "mdt_decision": "2026-04-09",
+      "treatment_decision": "2026-04-10",
+      "treatment_start": "2026-04-25"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0002-discharge_summary-05",
+      "ct_done": "SYN-P0002-discharge_summary-05",
+      "biopsy_done": "SYN-P0002-discharge_summary-05",
+      "pathology_result": "SYN-P0002-discharge_summary-05",
+      "mdt_decision": "SYN-P0002-mdt_minutes-03",
+      "treatment_decision": "SYN-P0002-oncology_note-04",
+      "treatment_start": "SYN-P0002-discharge_summary-05"
+    },
+    "clock_as_of": "2026-04-27",
+    "referral_date": "2026-03-08",
+    "treatment_start_date": "2026-04-25",
+    "day_count": 50,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0003",
+    "display_name": "Eeva Esimerkki SYN-P0003",
+    "sex": "F",
+    "birth_date": "1948-08-26",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0003-referral_letter-01",
+      "SYN-P0003-ct_report-02",
+      "SYN-P0003-pathology_report-03",
+      "SYN-P0003-mdt_minutes-04",
+      "SYN-P0003-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-20",
+      "ct_done": "2026-04-24",
+      "biopsy_done": "2026-05-05",
+      "pathology_result": "2026-05-15",
+      "mdt_decision": "2026-05-18",
+      "treatment_decision": "2026-05-21",
+      "treatment_start": "2026-06-05"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0003-discharge_summary-05",
+      "ct_done": "SYN-P0003-discharge_summary-05",
+      "biopsy_done": "SYN-P0003-discharge_summary-05",
+      "pathology_result": "SYN-P0003-discharge_summary-05",
+      "mdt_decision": "SYN-P0003-discharge_summary-05",
+      "treatment_decision": "SYN-P0003-discharge_summary-05",
+      "treatment_start": "SYN-P0003-discharge_summary-05"
+    },
+    "clock_as_of": "2026-06-05",
+    "referral_date": "2026-04-20",
+    "treatment_start_date": "2026-06-05",
+    "day_count": 46,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0004",
+    "display_name": "Yrjö Yksikkötesti SYN-P0004",
+    "sex": "M",
+    "birth_date": "1964-06-12",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0004-ct_report-01",
+      "SYN-P0004-biopsy_note-02",
+      "SYN-P0004-pathology_report-03",
+      "SYN-P0004-mdt_minutes-04",
+      "SYN-P0004-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-04",
+      "ct_done": "2026-02-09",
+      "biopsy_done": "2026-02-12",
+      "pathology_result": "2026-02-16",
+      "mdt_decision": "2026-02-21",
+      "treatment_decision": "2026-02-22",
+      "treatment_start": "2026-03-14"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0004-discharge_summary-05",
+      "ct_done": "SYN-P0004-discharge_summary-05",
+      "biopsy_done": "SYN-P0004-discharge_summary-05",
+      "pathology_result": "SYN-P0004-pathology_report-03",
+      "mdt_decision": "SYN-P0004-mdt_minutes-04",
+      "treatment_decision": "SYN-P0004-discharge_summary-05",
+      "treatment_start": "SYN-P0004-discharge_summary-05"
+    },
+    "clock_as_of": "2026-03-15",
+    "referral_date": "2026-02-04",
+    "treatment_start_date": "2026-03-14",
+    "day_count": 39,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0005",
+    "display_name": "Kirsi Keksitty SYN-P0005",
+    "sex": "F",
+    "birth_date": "1938-05-12",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0005-referral_letter-01",
+      "SYN-P0005-ct_report-02",
+      "SYN-P0005-pathology_report-03",
+      "SYN-P0005-mdt_minutes-04",
+      "SYN-P0005-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-02",
+      "ct_done": "2026-05-06",
+      "biopsy_done": "2026-05-16",
+      "pathology_result": "2026-05-24",
+      "mdt_decision": "2026-05-27",
+      "treatment_decision": "2026-05-27",
+      "treatment_start": "2026-06-07"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0005-discharge_summary-05",
+      "ct_done": "SYN-P0005-discharge_summary-05",
+      "biopsy_done": "SYN-P0005-discharge_summary-05",
+      "pathology_result": "SYN-P0005-discharge_summary-05",
+      "mdt_decision": "SYN-P0005-discharge_summary-05",
+      "treatment_decision": "SYN-P0005-discharge_summary-05",
+      "treatment_start": "SYN-P0005-discharge_summary-05"
+    },
+    "clock_as_of": "2026-06-08",
+    "referral_date": "2026-05-02",
+    "treatment_start_date": "2026-06-07",
+    "day_count": 37,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0006",
+    "display_name": "Pekka Paikkamerkki SYN-P0006",
+    "sex": "M",
+    "birth_date": "1958-11-01",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0006-ct_report-01",
+      "SYN-P0006-biopsy_note-02",
+      "SYN-P0006-pathology_report-03",
+      "SYN-P0006-oncology_note-04",
+      "SYN-P0006-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-13",
+      "ct_done": "2026-03-27",
+      "biopsy_done": "2026-04-08",
+      "pathology_result": "2026-04-19",
+      "mdt_decision": "2026-04-23",
+      "treatment_decision": "2026-04-25",
+      "treatment_start": "2026-05-07"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0006-discharge_summary-05",
+      "ct_done": "SYN-P0006-discharge_summary-05",
+      "biopsy_done": "SYN-P0006-discharge_summary-05",
+      "pathology_result": "SYN-P0006-discharge_summary-05",
+      "mdt_decision": "SYN-P0006-discharge_summary-05",
+      "treatment_decision": "SYN-P0006-discharge_summary-05",
+      "treatment_start": "SYN-P0006-discharge_summary-05"
+    },
+    "clock_as_of": "2026-05-08",
+    "referral_date": "2026-03-13",
+    "treatment_start_date": "2026-05-07",
+    "day_count": 56,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0007",
+    "display_name": "Laura Loremten SYN-P0007",
+    "sex": "F",
+    "birth_date": "1962-03-19",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0007-referral_letter-01",
+      "SYN-P0007-ct_report-02",
+      "SYN-P0007-biopsy_note-03",
+      "SYN-P0007-pathology_report-04",
+      "SYN-P0007-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-28",
+      "ct_done": "2026-07-31",
+      "biopsy_done": "2026-08-08",
+      "pathology_result": "2026-08-16",
+      "mdt_decision": "2026-08-21",
+      "treatment_decision": "2026-08-23",
+      "treatment_start": "2026-09-11"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0007-discharge_summary-05",
+      "ct_done": "SYN-P0007-discharge_summary-05",
+      "biopsy_done": "SYN-P0007-discharge_summary-05",
+      "pathology_result": "SYN-P0007-discharge_summary-05",
+      "mdt_decision": "SYN-P0007-discharge_summary-05",
+      "treatment_decision": "SYN-P0007-discharge_summary-05",
+      "treatment_start": "SYN-P0007-discharge_summary-05"
+    },
+    "clock_as_of": "2026-09-11",
+    "referral_date": "2026-07-28",
+    "treatment_start_date": "2026-09-11",
+    "day_count": 45,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0008",
+    "display_name": "Hannu Harjoitus SYN-P0008",
+    "sex": "M",
+    "birth_date": "1961-03-15",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0008-biopsy_note-01",
+      "SYN-P0008-pathology_report-02",
+      "SYN-P0008-oncology_note-03",
+      "SYN-P0008-mdt_minutes-04",
+      "SYN-P0008-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-20",
+      "ct_done": "2026-03-01",
+      "biopsy_done": "2026-03-04",
+      "pathology_result": "2026-03-16",
+      "mdt_decision": "2026-03-18",
+      "treatment_decision": "2026-03-18",
+      "treatment_start": "2026-04-08"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0008-discharge_summary-05",
+      "ct_done": "SYN-P0008-discharge_summary-05",
+      "biopsy_done": "SYN-P0008-discharge_summary-05",
+      "pathology_result": "SYN-P0008-discharge_summary-05",
+      "mdt_decision": "SYN-P0008-mdt_minutes-04",
+      "treatment_decision": "SYN-P0008-oncology_note-03",
+      "treatment_start": "SYN-P0008-discharge_summary-05"
+    },
+    "clock_as_of": "2026-04-08",
+    "referral_date": "2026-02-20",
+    "treatment_start_date": "2026-04-08",
+    "day_count": 47,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0009",
+    "display_name": "Sari Sijaisnimi SYN-P0009",
+    "sex": "F",
+    "birth_date": "1953-08-04",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0009-referral_letter-01",
+      "SYN-P0009-biopsy_note-02",
+      "SYN-P0009-pathology_report-03",
+      "SYN-P0009-oncology_note-04",
+      "SYN-P0009-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-20",
+      "ct_done": "2026-05-23",
+      "biopsy_done": "2026-06-01",
+      "pathology_result": "2026-06-08",
+      "mdt_decision": "2026-06-12",
+      "treatment_decision": "2026-06-12",
+      "treatment_start": "2026-07-01"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0009-discharge_summary-05",
+      "ct_done": "SYN-P0009-oncology_note-04",
+      "biopsy_done": "SYN-P0009-oncology_note-04",
+      "pathology_result": "SYN-P0009-oncology_note-04",
+      "mdt_decision": "SYN-P0009-oncology_note-04",
+      "treatment_decision": "SYN-P0009-oncology_note-04",
+      "treatment_start": "SYN-P0009-discharge_summary-05"
+    },
+    "clock_as_of": "2026-07-02",
+    "referral_date": "2026-05-20",
+    "treatment_start_date": "2026-07-01",
+    "day_count": 43,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0010",
+    "display_name": "Olli Oletettu SYN-P0010",
+    "sex": "M",
+    "birth_date": "1966-06-03",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0010-referral_letter-01",
+      "SYN-P0010-ct_report-02",
+      "SYN-P0010-pathology_report-03",
+      "SYN-P0010-mdt_minutes-04",
+      "SYN-P0010-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-08",
+      "ct_done": "2026-01-19",
+      "biopsy_done": "2026-01-31",
+      "pathology_result": "2026-02-09",
+      "mdt_decision": "2026-02-15",
+      "treatment_decision": "2026-02-18",
+      "treatment_start": "2026-02-28"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0010-discharge_summary-05",
+      "ct_done": "SYN-P0010-discharge_summary-05",
+      "biopsy_done": "SYN-P0010-discharge_summary-05",
+      "pathology_result": "SYN-P0010-discharge_summary-05",
+      "mdt_decision": "SYN-P0010-discharge_summary-05",
+      "treatment_decision": "SYN-P0010-discharge_summary-05",
+      "treatment_start": "SYN-P0010-discharge_summary-05"
+    },
+    "clock_as_of": "2026-02-28",
+    "referral_date": "2026-01-08",
+    "treatment_start_date": "2026-02-28",
+    "day_count": 51,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0011",
+    "display_name": "Tuula Testinen SYN-P0011",
+    "sex": "F",
+    "birth_date": "1965-11-06",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0011-referral_letter-01",
+      "SYN-P0011-ct_report-02",
+      "SYN-P0011-pathology_report-03",
+      "SYN-P0011-oncology_note-04",
+      "SYN-P0011-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-10",
+      "ct_done": "2026-08-21",
+      "biopsy_done": "2026-08-27",
+      "pathology_result": "2026-09-07",
+      "mdt_decision": "2026-09-15",
+      "treatment_decision": "2026-09-17",
+      "treatment_start": "2026-10-04"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0011-discharge_summary-05",
+      "ct_done": "SYN-P0011-oncology_note-04",
+      "biopsy_done": "SYN-P0011-oncology_note-04",
+      "pathology_result": "SYN-P0011-oncology_note-04",
+      "mdt_decision": "SYN-P0011-oncology_note-04",
+      "treatment_decision": "SYN-P0011-oncology_note-04",
+      "treatment_start": "SYN-P0011-discharge_summary-05"
+    },
+    "clock_as_of": "2026-10-06",
+    "referral_date": "2026-08-10",
+    "treatment_start_date": "2026-10-04",
+    "day_count": 57,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0012",
+    "display_name": "Kari Keinotekoinen SYN-P0012",
+    "sex": "M",
+    "birth_date": "1960-11-13",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0012-ct_report-01",
+      "SYN-P0012-biopsy_note-02",
+      "SYN-P0012-pathology_report-03",
+      "SYN-P0012-oncology_note-04",
+      "SYN-P0012-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-10",
+      "ct_done": "2026-06-16",
+      "biopsy_done": "2026-06-20",
+      "pathology_result": "2026-07-02",
+      "mdt_decision": "2026-07-04",
+      "treatment_decision": "2026-07-04",
+      "treatment_start": "2026-07-19"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0012-discharge_summary-05",
+      "ct_done": "SYN-P0012-discharge_summary-05",
+      "biopsy_done": "SYN-P0012-oncology_note-04",
+      "pathology_result": "SYN-P0012-oncology_note-04",
+      "mdt_decision": "SYN-P0012-oncology_note-04",
+      "treatment_decision": "SYN-P0012-oncology_note-04",
+      "treatment_start": "SYN-P0012-discharge_summary-05"
+    },
+    "clock_as_of": "2026-07-21",
+    "referral_date": "2026-06-10",
+    "treatment_start_date": "2026-07-19",
+    "day_count": 41,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0013",
+    "display_name": "Ritva Rakennettu SYN-P0013",
+    "sex": "F",
+    "birth_date": "1942-02-07",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0013-referral_letter-01",
+      "SYN-P0013-biopsy_note-02",
+      "SYN-P0013-pathology_report-03",
+      "SYN-P0013-mdt_minutes-04",
+      "SYN-P0013-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-03",
+      "ct_done": "2026-01-11",
+      "biopsy_done": "2026-01-21",
+      "pathology_result": "2026-01-24",
+      "mdt_decision": "2026-01-31",
+      "treatment_decision": "2026-02-03",
+      "treatment_start": "2026-02-15"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0013-discharge_summary-05",
+      "ct_done": "SYN-P0013-discharge_summary-05",
+      "biopsy_done": "SYN-P0013-discharge_summary-05",
+      "pathology_result": "SYN-P0013-discharge_summary-05",
+      "mdt_decision": "SYN-P0013-discharge_summary-05",
+      "treatment_decision": "SYN-P0013-discharge_summary-05",
+      "treatment_start": "SYN-P0013-discharge_summary-05"
+    },
+    "clock_as_of": "2026-02-17",
+    "referral_date": "2026-01-03",
+    "treatment_start_date": "2026-02-15",
+    "day_count": 45,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0014",
+    "display_name": "Juhani Jäljitelmä SYN-P0014",
+    "sex": "M",
+    "birth_date": "1946-06-08",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0014-referral_letter-01",
+      "SYN-P0014-ct_report-02",
+      "SYN-P0014-pathology_report-03",
+      "SYN-P0014-mdt_minutes-04",
+      "SYN-P0014-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-09",
+      "ct_done": "2026-03-24",
+      "biopsy_done": "2026-04-02",
+      "pathology_result": "2026-04-13",
+      "mdt_decision": "2026-04-21",
+      "treatment_decision": "2026-04-21",
+      "treatment_start": "2026-05-10"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0014-discharge_summary-05",
+      "ct_done": "SYN-P0014-discharge_summary-05",
+      "biopsy_done": "SYN-P0014-discharge_summary-05",
+      "pathology_result": "SYN-P0014-discharge_summary-05",
+      "mdt_decision": "SYN-P0014-discharge_summary-05",
+      "treatment_decision": "SYN-P0014-discharge_summary-05",
+      "treatment_start": "SYN-P0014-discharge_summary-05"
+    },
+    "clock_as_of": "2026-05-11",
+    "referral_date": "2026-03-09",
+    "treatment_start_date": "2026-05-10",
+    "day_count": 63,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0015",
+    "display_name": "Anna Anonyymi SYN-P0015",
+    "sex": "F",
+    "birth_date": "1946-02-16",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0015-biopsy_note-01",
+      "SYN-P0015-pathology_report-02",
+      "SYN-P0015-mdt_minutes-03",
+      "SYN-P0015-oncology_note-04",
+      "SYN-P0015-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-21",
+      "ct_done": "2026-05-02",
+      "biopsy_done": "2026-05-06",
+      "pathology_result": "2026-05-12",
+      "mdt_decision": "2026-05-16",
+      "treatment_decision": "2026-05-19",
+      "treatment_start": "2026-05-29"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0015-discharge_summary-05",
+      "ct_done": "SYN-P0015-discharge_summary-05",
+      "biopsy_done": "SYN-P0015-discharge_summary-05",
+      "pathology_result": "SYN-P0015-discharge_summary-05",
+      "mdt_decision": "SYN-P0015-discharge_summary-05",
+      "treatment_decision": "SYN-P0015-discharge_summary-05",
+      "treatment_start": "SYN-P0015-discharge_summary-05"
+    },
+    "clock_as_of": "2026-05-29",
+    "referral_date": "2026-04-21",
+    "treatment_start_date": "2026-05-29",
+    "day_count": 38,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0016",
+    "display_name": "Nils Fiktiv SYN-P0016",
+    "sex": "M",
+    "birth_date": "1963-09-10",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0016-referral_letter-01",
+      "SYN-P0016-ct_report-02",
+      "SYN-P0016-biopsy_note-03",
+      "SYN-P0016-oncology_note-04",
+      "SYN-P0016-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-03",
+      "ct_done": "2026-01-08",
+      "biopsy_done": "2026-01-15",
+      "pathology_result": "2026-01-18",
+      "mdt_decision": "2026-01-25",
+      "treatment_decision": "2026-01-26",
+      "treatment_start": "2026-02-09"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0016-discharge_summary-05",
+      "ct_done": "SYN-P0016-discharge_summary-05",
+      "biopsy_done": "SYN-P0016-discharge_summary-05",
+      "pathology_result": "SYN-P0016-oncology_note-04",
+      "mdt_decision": "SYN-P0016-oncology_note-04",
+      "treatment_decision": "SYN-P0016-oncology_note-04",
+      "treatment_start": "SYN-P0016-discharge_summary-05"
+    },
+    "clock_as_of": "2026-02-10",
+    "referral_date": "2026-01-03",
+    "treatment_start_date": "2026-02-09",
+    "day_count": 38,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0017",
+    "display_name": "Eva Påhittad SYN-P0017",
+    "sex": "F",
+    "birth_date": "1952-10-15",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0017-referral_letter-01",
+      "SYN-P0017-biopsy_note-02",
+      "SYN-P0017-pathology_report-03",
+      "SYN-P0017-oncology_note-04",
+      "SYN-P0017-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-10",
+      "ct_done": "2026-04-17",
+      "biopsy_done": "2026-04-24",
+      "pathology_result": "2026-05-04",
+      "mdt_decision": "2026-05-10",
+      "treatment_decision": "2026-05-10",
+      "treatment_start": "2026-05-31"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0017-discharge_summary-05",
+      "ct_done": "SYN-P0017-discharge_summary-05",
+      "biopsy_done": "SYN-P0017-discharge_summary-05",
+      "pathology_result": "SYN-P0017-discharge_summary-05",
+      "mdt_decision": "SYN-P0017-discharge_summary-05",
+      "treatment_decision": "SYN-P0017-discharge_summary-05",
+      "treatment_start": "SYN-P0017-discharge_summary-05"
+    },
+    "clock_as_of": "2026-06-02",
+    "referral_date": "2026-04-10",
+    "treatment_start_date": "2026-05-31",
+    "day_count": 53,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0018",
+    "display_name": "Lars Låtsas SYN-P0018",
+    "sex": "M",
+    "birth_date": "1952-12-25",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0018-referral_letter-01",
+      "SYN-P0018-biopsy_note-02",
+      "SYN-P0018-mdt_minutes-03",
+      "SYN-P0018-oncology_note-04",
+      "SYN-P0018-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-14",
+      "ct_done": "2026-02-23",
+      "biopsy_done": "2026-03-04",
+      "pathology_result": "2026-03-08",
+      "mdt_decision": "2026-03-10",
+      "treatment_decision": "2026-03-12",
+      "treatment_start": "2026-04-01"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0018-discharge_summary-05",
+      "ct_done": "SYN-P0018-discharge_summary-05",
+      "biopsy_done": "SYN-P0018-discharge_summary-05",
+      "pathology_result": "SYN-P0018-discharge_summary-05",
+      "mdt_decision": "SYN-P0018-discharge_summary-05",
+      "treatment_decision": "SYN-P0018-discharge_summary-05",
+      "treatment_start": "SYN-P0018-discharge_summary-05"
+    },
+    "clock_as_of": "2026-04-02",
+    "referral_date": "2026-02-14",
+    "treatment_start_date": "2026-04-01",
+    "day_count": 47,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0019",
+    "display_name": "Ingrid Inventerad SYN-P0019",
+    "sex": "F",
+    "birth_date": "1954-10-15",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0019-referral_letter-01",
+      "SYN-P0019-ct_report-02",
+      "SYN-P0019-pathology_report-03",
+      "SYN-P0019-oncology_note-04",
+      "SYN-P0019-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-16",
+      "ct_done": "2026-05-30",
+      "biopsy_done": "2026-06-09",
+      "pathology_result": "2026-06-13",
+      "mdt_decision": "2026-06-20",
+      "treatment_decision": "2026-06-21",
+      "treatment_start": "2026-07-10"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0019-discharge_summary-05",
+      "ct_done": "SYN-P0019-discharge_summary-05",
+      "biopsy_done": "SYN-P0019-discharge_summary-05",
+      "pathology_result": "SYN-P0019-oncology_note-04",
+      "mdt_decision": "SYN-P0019-oncology_note-04",
+      "treatment_decision": "SYN-P0019-oncology_note-04",
+      "treatment_start": "SYN-P0019-discharge_summary-05"
+    },
+    "clock_as_of": "2026-07-10",
+    "referral_date": "2026-05-16",
+    "treatment_start_date": "2026-07-10",
+    "day_count": 55,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0020",
+    "display_name": "Johan Testdata SYN-P0020",
+    "sex": "M",
+    "birth_date": "1940-10-02",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0020-referral_letter-01",
+      "SYN-P0020-ct_report-02",
+      "SYN-P0020-mdt_minutes-03",
+      "SYN-P0020-oncology_note-04",
+      "SYN-P0020-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-05",
+      "ct_done": "2026-01-21",
+      "biopsy_done": "2026-01-28",
+      "pathology_result": "2026-02-05",
+      "mdt_decision": "2026-02-09",
+      "treatment_decision": "2026-02-12",
+      "treatment_start": "2026-03-08"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0020-discharge_summary-05",
+      "ct_done": "SYN-P0020-discharge_summary-05",
+      "biopsy_done": "SYN-P0020-discharge_summary-05",
+      "pathology_result": "SYN-P0020-discharge_summary-05",
+      "mdt_decision": "SYN-P0020-discharge_summary-05",
+      "treatment_decision": "SYN-P0020-discharge_summary-05",
+      "treatment_start": "SYN-P0020-discharge_summary-05"
+    },
+    "clock_as_of": "2026-03-09",
+    "referral_date": "2026-01-05",
+    "treatment_start_date": "2026-03-08",
+    "day_count": 63,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0021",
+    "display_name": "Karin Konstruerad SYN-P0021",
+    "sex": "F",
+    "birth_date": "1956-07-25",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0021-ct_report-01",
+      "SYN-P0021-pathology_report-02",
+      "SYN-P0021-mdt_minutes-03",
+      "SYN-P0021-oncology_note-04",
+      "SYN-P0021-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-23",
+      "ct_done": "2026-09-06",
+      "biopsy_done": "2026-09-15",
+      "pathology_result": "2026-09-19",
+      "mdt_decision": "2026-09-21",
+      "treatment_decision": "2026-09-21",
+      "treatment_start": "2026-10-05"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0021-discharge_summary-05",
+      "ct_done": "SYN-P0021-oncology_note-04",
+      "biopsy_done": "SYN-P0021-oncology_note-04",
+      "pathology_result": "SYN-P0021-mdt_minutes-03",
+      "mdt_decision": "SYN-P0021-mdt_minutes-03",
+      "treatment_decision": "SYN-P0021-oncology_note-04",
+      "treatment_start": "SYN-P0021-discharge_summary-05"
+    },
+    "clock_as_of": "2026-10-06",
+    "referral_date": "2026-08-23",
+    "treatment_start_date": "2026-10-05",
+    "day_count": 44,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0022",
+    "display_name": "Erik Exempelsson SYN-P0022",
+    "sex": "M",
+    "birth_date": "1951-09-13",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0022-referral_letter-01",
+      "SYN-P0022-biopsy_note-02",
+      "SYN-P0022-pathology_report-03",
+      "SYN-P0022-mdt_minutes-04",
+      "SYN-P0022-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-26",
+      "ct_done": "2026-03-05",
+      "biopsy_done": "2026-03-13",
+      "pathology_result": "2026-03-23",
+      "mdt_decision": "2026-03-31",
+      "treatment_decision": "2026-04-01",
+      "treatment_start": "2026-04-15"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0022-discharge_summary-05",
+      "ct_done": "SYN-P0022-discharge_summary-05",
+      "biopsy_done": "SYN-P0022-discharge_summary-05",
+      "pathology_result": "SYN-P0022-discharge_summary-05",
+      "mdt_decision": "SYN-P0022-discharge_summary-05",
+      "treatment_decision": "SYN-P0022-discharge_summary-05",
+      "treatment_start": "SYN-P0022-discharge_summary-05"
+    },
+    "clock_as_of": "2026-04-16",
+    "referral_date": "2026-02-26",
+    "treatment_start_date": "2026-04-15",
+    "day_count": 49,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0023",
+    "display_name": "Jane Synthetic SYN-P0023",
+    "sex": "F",
+    "birth_date": "1940-03-11",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0023-referral_letter-01",
+      "SYN-P0023-ct_report-02",
+      "SYN-P0023-biopsy_note-03",
+      "SYN-P0023-pathology_report-04",
+      "SYN-P0023-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-28",
+      "ct_done": "2026-06-09",
+      "biopsy_done": "2026-06-12",
+      "pathology_result": "2026-06-20",
+      "mdt_decision": "2026-06-22",
+      "treatment_decision": "2026-06-22",
+      "treatment_start": "2026-07-07"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0023-discharge_summary-05",
+      "ct_done": "SYN-P0023-discharge_summary-05",
+      "biopsy_done": "SYN-P0023-discharge_summary-05",
+      "pathology_result": "SYN-P0023-discharge_summary-05",
+      "mdt_decision": "SYN-P0023-discharge_summary-05",
+      "treatment_decision": "SYN-P0023-discharge_summary-05",
+      "treatment_start": "SYN-P0023-discharge_summary-05"
+    },
+    "clock_as_of": "2026-07-07",
+    "referral_date": "2026-05-28",
+    "treatment_start_date": "2026-07-07",
+    "day_count": 40,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0024",
+    "display_name": "John Placeholder SYN-P0024",
+    "sex": "M",
+    "birth_date": "1938-02-24",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0024-referral_letter-01",
+      "SYN-P0024-ct_report-02",
+      "SYN-P0024-biopsy_note-03",
+      "SYN-P0024-oncology_note-04",
+      "SYN-P0024-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-01",
+      "ct_done": "2026-07-07",
+      "biopsy_done": "2026-07-13",
+      "pathology_result": "2026-07-25",
+      "mdt_decision": "2026-08-02",
+      "treatment_decision": "2026-08-04",
+      "treatment_start": "2026-08-11"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0024-discharge_summary-05",
+      "ct_done": "SYN-P0024-discharge_summary-05",
+      "biopsy_done": "SYN-P0024-discharge_summary-05",
+      "pathology_result": "SYN-P0024-discharge_summary-05",
+      "mdt_decision": "SYN-P0024-discharge_summary-05",
+      "treatment_decision": "SYN-P0024-discharge_summary-05",
+      "treatment_start": "SYN-P0024-discharge_summary-05"
+    },
+    "clock_as_of": "2026-08-13",
+    "referral_date": "2026-07-01",
+    "treatment_start_date": "2026-08-11",
+    "day_count": 43,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0025",
+    "display_name": "Mary Fictitious SYN-P0025",
+    "sex": "F",
+    "birth_date": "1955-08-12",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0025-referral_letter-01",
+      "SYN-P0025-ct_report-02",
+      "SYN-P0025-mdt_minutes-03",
+      "SYN-P0025-oncology_note-04",
+      "SYN-P0025-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-06",
+      "ct_done": "2026-04-12",
+      "biopsy_done": "2026-04-22",
+      "pathology_result": "2026-05-04",
+      "mdt_decision": "2026-05-09",
+      "treatment_decision": "2026-05-10",
+      "treatment_start": "2026-05-19"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0025-discharge_summary-05",
+      "ct_done": "SYN-P0025-discharge_summary-05",
+      "biopsy_done": "SYN-P0025-oncology_note-04",
+      "pathology_result": "SYN-P0025-oncology_note-04",
+      "mdt_decision": "SYN-P0025-oncology_note-04",
+      "treatment_decision": "SYN-P0025-oncology_note-04",
+      "treatment_start": "SYN-P0025-discharge_summary-05"
+    },
+    "clock_as_of": "2026-05-19",
+    "referral_date": "2026-04-06",
+    "treatment_start_date": "2026-05-19",
+    "day_count": 43,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0026",
+    "display_name": "Alan Invented SYN-P0026",
+    "sex": "M",
+    "birth_date": "1958-08-05",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0026-referral_letter-01",
+      "SYN-P0026-ct_report-02",
+      "SYN-P0026-pathology_report-03",
+      "SYN-P0026-mdt_minutes-04",
+      "SYN-P0026-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-22",
+      "ct_done": "2026-06-07",
+      "biopsy_done": "2026-06-19",
+      "pathology_result": "2026-06-27",
+      "mdt_decision": "2026-06-29",
+      "treatment_decision": "2026-07-02",
+      "treatment_start": "2026-07-21"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0026-discharge_summary-05",
+      "ct_done": "SYN-P0026-discharge_summary-05",
+      "biopsy_done": "SYN-P0026-discharge_summary-05",
+      "pathology_result": "SYN-P0026-discharge_summary-05",
+      "mdt_decision": "SYN-P0026-discharge_summary-05",
+      "treatment_decision": "SYN-P0026-discharge_summary-05",
+      "treatment_start": "SYN-P0026-discharge_summary-05"
+    },
+    "clock_as_of": "2026-07-21",
+    "referral_date": "2026-05-22",
+    "treatment_start_date": "2026-07-21",
+    "day_count": 60,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0027",
+    "display_name": "Helen Mockpatient SYN-P0027",
+    "sex": "F",
+    "birth_date": "1961-05-26",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0027-referral_letter-01",
+      "SYN-P0027-ct_report-02",
+      "SYN-P0027-pathology_report-03",
+      "SYN-P0027-oncology_note-04",
+      "SYN-P0027-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-11",
+      "ct_done": "2026-08-23",
+      "biopsy_done": "2026-09-04",
+      "pathology_result": "2026-09-14",
+      "mdt_decision": "2026-09-20",
+      "treatment_decision": "2026-09-21",
+      "treatment_start": "2026-10-01"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0027-discharge_summary-05",
+      "ct_done": "SYN-P0027-discharge_summary-05",
+      "biopsy_done": "SYN-P0027-discharge_summary-05",
+      "pathology_result": "SYN-P0027-discharge_summary-05",
+      "mdt_decision": "SYN-P0027-discharge_summary-05",
+      "treatment_decision": "SYN-P0027-discharge_summary-05",
+      "treatment_start": "SYN-P0027-discharge_summary-05"
+    },
+    "clock_as_of": "2026-10-02",
+    "referral_date": "2026-08-11",
+    "treatment_start_date": "2026-10-01",
+    "day_count": 52,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0028",
+    "display_name": "Peter Samplecase SYN-P0028",
+    "sex": "M",
+    "birth_date": "1949-10-24",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0028-ct_report-01",
+      "SYN-P0028-biopsy_note-02",
+      "SYN-P0028-pathology_report-03",
+      "SYN-P0028-oncology_note-04",
+      "SYN-P0028-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-09",
+      "ct_done": "2026-03-20",
+      "biopsy_done": "2026-03-25",
+      "pathology_result": "2026-04-05",
+      "mdt_decision": "2026-04-09",
+      "treatment_decision": "2026-04-10",
+      "treatment_start": "2026-04-17"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0028-discharge_summary-05",
+      "ct_done": "SYN-P0028-discharge_summary-05",
+      "biopsy_done": "SYN-P0028-discharge_summary-05",
+      "pathology_result": "SYN-P0028-discharge_summary-05",
+      "mdt_decision": "SYN-P0028-discharge_summary-05",
+      "treatment_decision": "SYN-P0028-discharge_summary-05",
+      "treatment_start": "SYN-P0028-discharge_summary-05"
+    },
+    "clock_as_of": "2026-04-18",
+    "referral_date": "2026-03-09",
+    "treatment_start_date": "2026-04-17",
+    "day_count": 40,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0029",
+    "display_name": "Aino Synteettinen SYN-P0029",
+    "sex": "F",
+    "birth_date": "1967-03-07",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0029-referral_letter-01",
+      "SYN-P0029-ct_report-02",
+      "SYN-P0029-pathology_report-03",
+      "SYN-P0029-oncology_note-04",
+      "SYN-P0029-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-14",
+      "ct_done": "2026-05-26",
+      "biopsy_done": "2026-05-29",
+      "pathology_result": "2026-06-05",
+      "mdt_decision": "2026-06-11",
+      "treatment_decision": "2026-06-11",
+      "treatment_start": "2026-06-28"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0029-discharge_summary-05",
+      "ct_done": "SYN-P0029-discharge_summary-05",
+      "biopsy_done": "SYN-P0029-oncology_note-04",
+      "pathology_result": "SYN-P0029-oncology_note-04",
+      "mdt_decision": "SYN-P0029-oncology_note-04",
+      "treatment_decision": "SYN-P0029-oncology_note-04",
+      "treatment_start": "SYN-P0029-discharge_summary-05"
+    },
+    "clock_as_of": "2026-06-29",
+    "referral_date": "2026-05-14",
+    "treatment_start_date": "2026-06-28",
+    "day_count": 46,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0030",
+    "display_name": "Matti Mallipotilas SYN-P0030",
+    "sex": "M",
+    "birth_date": "1938-01-07",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0030-referral_letter-01",
+      "SYN-P0030-biopsy_note-02",
+      "SYN-P0030-pathology_report-03",
+      "SYN-P0030-mdt_minutes-04",
+      "SYN-P0030-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-13",
+      "ct_done": "2026-01-25",
+      "biopsy_done": "2026-02-06",
+      "pathology_result": "2026-02-09",
+      "mdt_decision": "2026-02-12",
+      "treatment_decision": "2026-02-12",
+      "treatment_start": "2026-02-21"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0030-discharge_summary-05",
+      "ct_done": "SYN-P0030-discharge_summary-05",
+      "biopsy_done": "SYN-P0030-discharge_summary-05",
+      "pathology_result": "SYN-P0030-discharge_summary-05",
+      "mdt_decision": "SYN-P0030-discharge_summary-05",
+      "treatment_decision": "SYN-P0030-discharge_summary-05",
+      "treatment_start": "SYN-P0030-discharge_summary-05"
+    },
+    "clock_as_of": "2026-02-23",
+    "referral_date": "2026-01-13",
+    "treatment_start_date": "2026-02-21",
+    "day_count": 41,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0031",
+    "display_name": "Eeva Esimerkki SYN-P0031",
+    "sex": "F",
+    "birth_date": "1954-08-28",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0031-referral_letter-01",
+      "SYN-P0031-ct_report-02",
+      "SYN-P0031-biopsy_note-03",
+      "SYN-P0031-mdt_minutes-04",
+      "SYN-P0031-oncology_note-05",
+      "SYN-P0031-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-01",
+      "ct_done": "2026-02-15",
+      "biopsy_done": "2026-02-26",
+      "pathology_result": "2026-03-05",
+      "mdt_decision": "2026-03-09",
+      "treatment_decision": "2026-03-12",
+      "treatment_start": "2026-03-29"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0031-discharge_summary-06",
+      "ct_done": "SYN-P0031-discharge_summary-06",
+      "biopsy_done": "SYN-P0031-discharge_summary-06",
+      "pathology_result": "SYN-P0031-discharge_summary-06",
+      "mdt_decision": "SYN-P0031-discharge_summary-06",
+      "treatment_decision": "SYN-P0031-discharge_summary-06",
+      "treatment_start": "SYN-P0031-discharge_summary-06"
+    },
+    "clock_as_of": "2026-03-30",
+    "referral_date": "2026-02-01",
+    "treatment_start_date": "2026-03-29",
+    "day_count": 57,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0032",
+    "display_name": "Yrjö Yksikkötesti SYN-P0032",
+    "sex": "M",
+    "birth_date": "1967-06-23",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0032-referral_letter-01",
+      "SYN-P0032-ct_report-02",
+      "SYN-P0032-biopsy_note-03",
+      "SYN-P0032-pathology_report-04",
+      "SYN-P0032-oncology_note-05",
+      "SYN-P0032-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-08",
+      "ct_done": "2026-06-11",
+      "biopsy_done": "2026-06-15",
+      "pathology_result": "2026-06-23",
+      "mdt_decision": "2026-06-25",
+      "treatment_decision": "2026-06-26",
+      "treatment_start": "2026-07-18"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0032-discharge_summary-06",
+      "ct_done": "SYN-P0032-discharge_summary-06",
+      "biopsy_done": "SYN-P0032-oncology_note-05",
+      "pathology_result": "SYN-P0032-oncology_note-05",
+      "mdt_decision": "SYN-P0032-oncology_note-05",
+      "treatment_decision": "SYN-P0032-oncology_note-05",
+      "treatment_start": "SYN-P0032-discharge_summary-06"
+    },
+    "clock_as_of": "2026-07-20",
+    "referral_date": "2026-06-08",
+    "treatment_start_date": "2026-07-18",
+    "day_count": 42,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0033",
+    "display_name": "Kirsi Keksitty SYN-P0033",
+    "sex": "F",
+    "birth_date": "1941-03-14",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0033-ct_report-01",
+      "SYN-P0033-biopsy_note-02",
+      "SYN-P0033-pathology_report-03",
+      "SYN-P0033-mdt_minutes-04",
+      "SYN-P0033-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-03",
+      "ct_done": "2026-06-18",
+      "biopsy_done": "2026-06-29",
+      "pathology_result": "2026-07-09",
+      "mdt_decision": "2026-07-14",
+      "treatment_decision": "2026-07-15"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0033-oncology_note-05",
+      "ct_done": "SYN-P0033-oncology_note-05",
+      "biopsy_done": "SYN-P0033-oncology_note-05",
+      "pathology_result": "SYN-P0033-oncology_note-05",
+      "mdt_decision": "SYN-P0033-oncology_note-05",
+      "treatment_decision": "SYN-P0033-oncology_note-05"
+    },
+    "clock_as_of": "2026-07-17",
+    "referral_date": "2026-06-03",
+    "treatment_start_date": null,
+    "day_count": 44,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0034",
+    "display_name": "Pekka Paikkamerkki SYN-P0034",
+    "sex": "M",
+    "birth_date": "1942-04-28",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0034-referral_letter-01",
+      "SYN-P0034-ct_report-02",
+      "SYN-P0034-biopsy_note-03",
+      "SYN-P0034-pathology_report-04",
+      "SYN-P0034-mdt_minutes-05",
+      "SYN-P0034-oncology_note-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-17",
+      "ct_done": "2026-02-25",
+      "biopsy_done": "2026-03-03",
+      "pathology_result": "2026-03-13",
+      "mdt_decision": "2026-03-17",
+      "treatment_decision": "2026-03-20"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0034-oncology_note-06",
+      "ct_done": "SYN-P0034-oncology_note-06",
+      "biopsy_done": "SYN-P0034-oncology_note-06",
+      "pathology_result": "SYN-P0034-oncology_note-06",
+      "mdt_decision": "SYN-P0034-oncology_note-06",
+      "treatment_decision": "SYN-P0034-oncology_note-06"
+    },
+    "clock_as_of": "2026-03-20",
+    "referral_date": "2026-02-17",
+    "treatment_start_date": null,
+    "day_count": 31,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0035",
+    "display_name": "Laura Loremten SYN-P0035",
+    "sex": "F",
+    "birth_date": "1954-11-01",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0035-referral_letter-01",
+      "SYN-P0035-ct_report-02",
+      "SYN-P0035-biopsy_note-03",
+      "SYN-P0035-oncology_note-04",
+      "SYN-P0035-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-21",
+      "ct_done": "2026-08-28",
+      "biopsy_done": "2026-08-31"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0035-oncology_note-05",
+      "ct_done": "SYN-P0035-oncology_note-05",
+      "biopsy_done": "SYN-P0035-oncology_note-05"
+    },
+    "clock_as_of": "2026-09-10",
+    "referral_date": "2026-08-21",
+    "treatment_start_date": null,
+    "day_count": 20,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0036",
+    "display_name": "Hannu Harjoitus SYN-P0036",
+    "sex": "M",
+    "birth_date": "1943-04-25",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0036-referral_letter-01",
+      "SYN-P0036-ct_report-02",
+      "SYN-P0036-biopsy_note-03",
+      "SYN-P0036-pathology_report-04",
+      "SYN-P0036-mdt_minutes-05",
+      "SYN-P0036-oncology_note-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-03",
+      "ct_done": "2026-01-08",
+      "biopsy_done": "2026-01-20",
+      "pathology_result": "2026-01-26",
+      "mdt_decision": "2026-01-28",
+      "treatment_decision": "2026-01-30"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0036-oncology_note-06",
+      "ct_done": "SYN-P0036-mdt_minutes-05",
+      "biopsy_done": "SYN-P0036-mdt_minutes-05",
+      "pathology_result": "SYN-P0036-mdt_minutes-05",
+      "mdt_decision": "SYN-P0036-mdt_minutes-05",
+      "treatment_decision": "SYN-P0036-oncology_note-06"
+    },
+    "clock_as_of": "2026-01-30",
+    "referral_date": "2026-01-03",
+    "treatment_start_date": null,
+    "day_count": 27,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0037",
+    "display_name": "Sari Sijaisnimi SYN-P0037",
+    "sex": "F",
+    "birth_date": "1954-11-20",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0037-referral_letter-01",
+      "SYN-P0037-ct_report-02",
+      "SYN-P0037-biopsy_note-03",
+      "SYN-P0037-oncology_note-04",
+      "SYN-P0037-oncology_note-05",
+      "SYN-P0037-oncology_note-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-28",
+      "ct_done": "2026-07-02",
+      "biopsy_done": "2026-07-05"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0037-oncology_note-06",
+      "ct_done": "SYN-P0037-oncology_note-06",
+      "biopsy_done": "SYN-P0037-oncology_note-06"
+    },
+    "clock_as_of": "2026-07-20",
+    "referral_date": "2026-06-28",
+    "treatment_start_date": null,
+    "day_count": 22,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0038",
+    "display_name": "Olli Oletettu SYN-P0038",
+    "sex": "M",
+    "birth_date": "1959-06-09",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0038-referral_letter-01",
+      "SYN-P0038-ct_report-02",
+      "SYN-P0038-oncology_note-03",
+      "SYN-P0038-oncology_note-04",
+      "SYN-P0038-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-04",
+      "ct_done": "2026-04-12"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0038-oncology_note-05",
+      "ct_done": "SYN-P0038-oncology_note-05"
+    },
+    "clock_as_of": "2026-04-28",
+    "referral_date": "2026-04-04",
+    "treatment_start_date": null,
+    "day_count": 24,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0039",
+    "display_name": "Tuula Testinen SYN-P0039",
+    "sex": "F",
+    "birth_date": "1951-06-02",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0039-referral_letter-01",
+      "SYN-P0039-ct_report-02",
+      "SYN-P0039-biopsy_note-03",
+      "SYN-P0039-oncology_note-04",
+      "SYN-P0039-oncology_note-05",
+      "SYN-P0039-oncology_note-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-16",
+      "ct_done": "2026-04-01",
+      "biopsy_done": "2026-04-08"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0039-oncology_note-06",
+      "ct_done": "SYN-P0039-oncology_note-06",
+      "biopsy_done": "SYN-P0039-oncology_note-06"
+    },
+    "clock_as_of": "2026-04-22",
+    "referral_date": "2026-03-16",
+    "treatment_start_date": null,
+    "day_count": 37,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0040",
+    "display_name": "Kari Keinotekoinen SYN-P0040",
+    "sex": "M",
+    "birth_date": "1950-12-04",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0040-referral_letter-01",
+      "SYN-P0040-ct_report-02",
+      "SYN-P0040-oncology_note-03",
+      "SYN-P0040-oncology_note-04",
+      "SYN-P0040-oncology_note-05",
+      "SYN-P0040-oncology_note-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-20",
+      "ct_done": "2026-05-28"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0040-oncology_note-06",
+      "ct_done": "SYN-P0040-oncology_note-06"
+    },
+    "clock_as_of": "2026-06-16",
+    "referral_date": "2026-05-20",
+    "treatment_start_date": null,
+    "day_count": 27,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0041",
+    "display_name": "Ritva Rakennettu SYN-P0041",
+    "sex": "F",
+    "birth_date": "1944-11-02",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0041-referral_letter-01",
+      "SYN-P0041-ct_report-02",
+      "SYN-P0041-biopsy_note-03",
+      "SYN-P0041-pathology_report-04",
+      "SYN-P0041-mdt_minutes-05",
+      "SYN-P0041-oncology_note-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-24",
+      "ct_done": "2026-09-09",
+      "biopsy_done": "2026-09-19",
+      "pathology_result": "2026-09-27",
+      "mdt_decision": "2026-10-01"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0041-oncology_note-06",
+      "ct_done": "SYN-P0041-oncology_note-06",
+      "biopsy_done": "SYN-P0041-oncology_note-06",
+      "pathology_result": "SYN-P0041-oncology_note-06",
+      "mdt_decision": "SYN-P0041-oncology_note-06"
+    },
+    "clock_as_of": "2026-10-05",
+    "referral_date": "2026-08-24",
+    "treatment_start_date": null,
+    "day_count": 42,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0042",
+    "display_name": "Juhani Jäljitelmä SYN-P0042",
+    "sex": "M",
+    "birth_date": "1949-03-26",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0042-referral_letter-01",
+      "SYN-P0042-biopsy_note-02",
+      "SYN-P0042-pathology_report-03",
+      "SYN-P0042-mdt_minutes-04",
+      "SYN-P0042-oncology_note-05",
+      "SYN-P0042-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-20",
+      "ct_done": "2026-07-03",
+      "biopsy_done": "2026-07-11",
+      "pathology_result": "2026-07-23",
+      "mdt_decision": "2026-07-28",
+      "treatment_decision": "2026-07-29",
+      "treatment_start": "2026-08-05"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0042-discharge_summary-06",
+      "ct_done": "SYN-P0042-discharge_summary-06",
+      "biopsy_done": "SYN-P0042-discharge_summary-06",
+      "pathology_result": "SYN-P0042-discharge_summary-06",
+      "mdt_decision": "SYN-P0042-discharge_summary-06",
+      "treatment_decision": "SYN-P0042-discharge_summary-06",
+      "treatment_start": "SYN-P0042-discharge_summary-06"
+    },
+    "clock_as_of": "2026-08-05",
+    "referral_date": "2026-06-20",
+    "treatment_start_date": "2026-08-05",
+    "day_count": 46,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0043",
+    "display_name": "Anna Anonyymi SYN-P0043",
+    "sex": "F",
+    "birth_date": "1963-01-05",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0043-referral_letter-01",
+      "SYN-P0043-ct_report-02",
+      "SYN-P0043-biopsy_note-03",
+      "SYN-P0043-pathology_report-04",
+      "SYN-P0043-mdt_minutes-05",
+      "SYN-P0043-oncology_note-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-04",
+      "ct_done": "2026-01-16",
+      "biopsy_done": "2026-01-21",
+      "pathology_result": "2026-01-29",
+      "mdt_decision": "2026-02-04"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0043-oncology_note-06",
+      "ct_done": "SYN-P0043-oncology_note-06",
+      "biopsy_done": "SYN-P0043-oncology_note-06",
+      "pathology_result": "SYN-P0043-oncology_note-06",
+      "mdt_decision": "SYN-P0043-oncology_note-06"
+    },
+    "clock_as_of": "2026-02-11",
+    "referral_date": "2026-01-04",
+    "treatment_start_date": null,
+    "day_count": 38,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0044",
+    "display_name": "Nils Fiktiv SYN-P0044",
+    "sex": "M",
+    "birth_date": "1946-03-23",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0044-referral_letter-01",
+      "SYN-P0044-ct_report-02",
+      "SYN-P0044-biopsy_note-03",
+      "SYN-P0044-oncology_note-04",
+      "SYN-P0044-oncology_note-05",
+      "SYN-P0044-oncology_note-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-21",
+      "ct_done": "2026-01-29",
+      "biopsy_done": "2026-02-08"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0044-oncology_note-06",
+      "ct_done": "SYN-P0044-oncology_note-06",
+      "biopsy_done": "SYN-P0044-oncology_note-06"
+    },
+    "clock_as_of": "2026-02-21",
+    "referral_date": "2026-01-21",
+    "treatment_start_date": null,
+    "day_count": 31,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0045",
+    "display_name": "Eva Påhittad SYN-P0045",
+    "sex": "F",
+    "birth_date": "1940-11-18",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0045-referral_letter-01",
+      "SYN-P0045-ct_report-02",
+      "SYN-P0045-biopsy_note-03",
+      "SYN-P0045-oncology_note-04",
+      "SYN-P0045-oncology_note-05",
+      "SYN-P0045-oncology_note-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-20",
+      "ct_done": "2026-02-27",
+      "biopsy_done": "2026-03-09"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0045-oncology_note-06",
+      "ct_done": "SYN-P0045-oncology_note-06",
+      "biopsy_done": "SYN-P0045-oncology_note-06"
+    },
+    "clock_as_of": "2026-03-24",
+    "referral_date": "2026-02-20",
+    "treatment_start_date": null,
+    "day_count": 32,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0046",
+    "display_name": "Lars Låtsas SYN-P0046",
+    "sex": "M",
+    "birth_date": "1952-05-22",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0046-referral_letter-01",
+      "SYN-P0046-ct_report-02",
+      "SYN-P0046-biopsy_note-03",
+      "SYN-P0046-pathology_report-04",
+      "SYN-P0046-mdt_minutes-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-13",
+      "ct_done": "2026-03-26",
+      "biopsy_done": "2026-04-03",
+      "pathology_result": "2026-04-14",
+      "mdt_decision": "2026-04-21"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0046-mdt_minutes-05",
+      "ct_done": "SYN-P0046-mdt_minutes-05",
+      "biopsy_done": "SYN-P0046-mdt_minutes-05",
+      "pathology_result": "SYN-P0046-mdt_minutes-05",
+      "mdt_decision": "SYN-P0046-mdt_minutes-05"
+    },
+    "clock_as_of": "2026-04-21",
+    "referral_date": "2026-03-13",
+    "treatment_start_date": null,
+    "day_count": 39,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0047",
+    "display_name": "Ingrid Inventerad SYN-P0047",
+    "sex": "F",
+    "birth_date": "1949-03-11",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0047-referral_letter-01",
+      "SYN-P0047-ct_report-02",
+      "SYN-P0047-biopsy_note-03",
+      "SYN-P0047-pathology_report-04",
+      "SYN-P0047-mdt_minutes-05",
+      "SYN-P0047-oncology_note-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-12",
+      "ct_done": "2026-06-28",
+      "biopsy_done": "2026-07-10",
+      "pathology_result": "2026-07-17",
+      "mdt_decision": "2026-07-19"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0047-oncology_note-06",
+      "ct_done": "SYN-P0047-oncology_note-06",
+      "biopsy_done": "SYN-P0047-oncology_note-06",
+      "pathology_result": "SYN-P0047-oncology_note-06",
+      "mdt_decision": "SYN-P0047-oncology_note-06"
+    },
+    "clock_as_of": "2026-07-24",
+    "referral_date": "2026-06-12",
+    "treatment_start_date": null,
+    "day_count": 42,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0048",
+    "display_name": "Johan Testdata SYN-P0048",
+    "sex": "M",
+    "birth_date": "1950-07-05",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0048-referral_letter-01",
+      "SYN-P0048-ct_report-02",
+      "SYN-P0048-biopsy_note-03",
+      "SYN-P0048-pathology_report-04",
+      "SYN-P0048-mdt_minutes-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-08",
+      "ct_done": "2026-03-23",
+      "biopsy_done": "2026-04-03",
+      "pathology_result": "2026-04-13",
+      "mdt_decision": "2026-04-20"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0048-mdt_minutes-05",
+      "ct_done": "SYN-P0048-mdt_minutes-05",
+      "biopsy_done": "SYN-P0048-mdt_minutes-05",
+      "pathology_result": "SYN-P0048-mdt_minutes-05",
+      "mdt_decision": "SYN-P0048-mdt_minutes-05"
+    },
+    "clock_as_of": "2026-04-20",
+    "referral_date": "2026-03-08",
+    "treatment_start_date": null,
+    "day_count": 43,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0049",
+    "display_name": "Karin Konstruerad SYN-P0049",
+    "sex": "F",
+    "birth_date": "1941-05-06",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0049-referral_letter-01",
+      "SYN-P0049-biopsy_note-02",
+      "SYN-P0049-pathology_report-03",
+      "SYN-P0049-mdt_minutes-04",
+      "SYN-P0049-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-14",
+      "ct_done": "2026-05-25",
+      "biopsy_done": "2026-06-04",
+      "pathology_result": "2026-06-07",
+      "mdt_decision": "2026-06-14",
+      "treatment_decision": "2026-06-16",
+      "treatment_start": "2026-07-02"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0049-discharge_summary-05",
+      "ct_done": "SYN-P0049-discharge_summary-05",
+      "biopsy_done": "SYN-P0049-discharge_summary-05",
+      "pathology_result": "SYN-P0049-discharge_summary-05",
+      "mdt_decision": "SYN-P0049-discharge_summary-05",
+      "treatment_decision": "SYN-P0049-discharge_summary-05",
+      "treatment_start": "SYN-P0049-discharge_summary-05"
+    },
+    "clock_as_of": "2026-07-02",
+    "referral_date": "2026-05-14",
+    "treatment_start_date": "2026-07-02",
+    "day_count": 49,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0050",
+    "display_name": "Erik Exempelsson SYN-P0050",
+    "sex": "M",
+    "birth_date": "1956-10-24",
+    "archetype": "mid",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0050-referral_letter-01",
+      "SYN-P0050-ct_report-02",
+      "SYN-P0050-pathology_report-03",
+      "SYN-P0050-mdt_minutes-04",
+      "SYN-P0050-oncology_note-05",
+      "SYN-P0050-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-06",
+      "ct_done": "2026-06-13",
+      "biopsy_done": "2026-06-20",
+      "pathology_result": "2026-06-27",
+      "mdt_decision": "2026-07-02",
+      "treatment_decision": "2026-07-05",
+      "treatment_start": "2026-07-14"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0050-discharge_summary-06",
+      "ct_done": "SYN-P0050-discharge_summary-06",
+      "biopsy_done": "SYN-P0050-discharge_summary-06",
+      "pathology_result": "SYN-P0050-discharge_summary-06",
+      "mdt_decision": "SYN-P0050-discharge_summary-06",
+      "treatment_decision": "SYN-P0050-discharge_summary-06",
+      "treatment_start": "SYN-P0050-discharge_summary-06"
+    },
+    "clock_as_of": "2026-07-16",
+    "referral_date": "2026-06-06",
+    "treatment_start_date": "2026-07-14",
+    "day_count": 40,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0051",
+    "display_name": "Jane Synthetic SYN-P0051",
+    "sex": "F",
+    "birth_date": "1960-02-19",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0051-biopsy_note-01",
+      "SYN-P0051-pathology_report-02",
+      "SYN-P0051-oncology_note-03",
+      "SYN-P0051-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-16",
+      "ct_done": "2026-03-23",
+      "biopsy_done": "2026-03-27",
+      "pathology_result": "2026-04-08",
+      "mdt_decision": "2026-04-12",
+      "treatment_decision": "2026-04-12"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0051-oncology_note-04",
+      "ct_done": "SYN-P0051-oncology_note-04",
+      "biopsy_done": "SYN-P0051-oncology_note-04",
+      "pathology_result": "SYN-P0051-oncology_note-04",
+      "mdt_decision": "SYN-P0051-oncology_note-04",
+      "treatment_decision": "SYN-P0051-oncology_note-04"
+    },
+    "clock_as_of": "2026-05-08",
+    "referral_date": "2026-03-16",
+    "treatment_start_date": null,
+    "day_count": 53,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0052",
+    "display_name": "John Placeholder SYN-P0052",
+    "sex": "M",
+    "birth_date": "1957-05-05",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0052-referral_letter-01",
+      "SYN-P0052-ct_report-02",
+      "SYN-P0052-mdt_minutes-03",
+      "SYN-P0052-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-03",
+      "ct_done": "2026-01-07",
+      "biopsy_done": "2026-01-13",
+      "pathology_result": "2026-01-16",
+      "mdt_decision": "2026-01-23",
+      "treatment_decision": "2026-01-25"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0052-oncology_note-04",
+      "ct_done": "SYN-P0052-oncology_note-04",
+      "biopsy_done": "SYN-P0052-oncology_note-04",
+      "pathology_result": "SYN-P0052-oncology_note-04",
+      "mdt_decision": "SYN-P0052-oncology_note-04",
+      "treatment_decision": "SYN-P0052-oncology_note-04"
+    },
+    "clock_as_of": "2026-02-25",
+    "referral_date": "2026-01-03",
+    "treatment_start_date": null,
+    "day_count": 53,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0053",
+    "display_name": "Mary Fictitious SYN-P0053",
+    "sex": "F",
+    "birth_date": "1944-03-02",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0053-biopsy_note-01",
+      "SYN-P0053-mdt_minutes-02",
+      "SYN-P0053-oncology_note-03",
+      "SYN-P0053-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-23",
+      "ct_done": "2026-08-03",
+      "biopsy_done": "2026-08-12",
+      "pathology_result": "2026-08-16",
+      "mdt_decision": "2026-08-21",
+      "treatment_decision": "2026-08-24"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0053-oncology_note-04",
+      "ct_done": "SYN-P0053-oncology_note-04",
+      "biopsy_done": "SYN-P0053-oncology_note-04",
+      "pathology_result": "SYN-P0053-oncology_note-04",
+      "mdt_decision": "SYN-P0053-oncology_note-04",
+      "treatment_decision": "SYN-P0053-oncology_note-04"
+    },
+    "clock_as_of": "2026-09-25",
+    "referral_date": "2026-07-23",
+    "treatment_start_date": null,
+    "day_count": 64,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0054",
+    "display_name": "Alan Invented SYN-P0054",
+    "sex": "M",
+    "birth_date": "1967-02-22",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0054-referral_letter-01",
+      "SYN-P0054-ct_report-02",
+      "SYN-P0054-pathology_report-03",
+      "SYN-P0054-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-16",
+      "ct_done": "2026-04-28",
+      "biopsy_done": "2026-05-01",
+      "pathology_result": "2026-05-09",
+      "mdt_decision": "2026-05-12",
+      "treatment_decision": "2026-05-15"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0054-oncology_note-04",
+      "ct_done": "SYN-P0054-oncology_note-04",
+      "biopsy_done": "SYN-P0054-oncology_note-04",
+      "pathology_result": "SYN-P0054-oncology_note-04",
+      "mdt_decision": "SYN-P0054-oncology_note-04",
+      "treatment_decision": "SYN-P0054-oncology_note-04"
+    },
+    "clock_as_of": "2026-05-20",
+    "referral_date": "2026-04-16",
+    "treatment_start_date": null,
+    "day_count": 34,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0055",
+    "display_name": "Helen Mockpatient SYN-P0055",
+    "sex": "F",
+    "birth_date": "1960-02-19",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0055-referral_letter-01",
+      "SYN-P0055-biopsy_note-02",
+      "SYN-P0055-pathology_report-03",
+      "SYN-P0055-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-03",
+      "ct_done": "2026-05-09",
+      "biopsy_done": "2026-05-21",
+      "pathology_result": "2026-05-28",
+      "mdt_decision": "2026-05-30",
+      "treatment_decision": "2026-06-02"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0055-oncology_note-04",
+      "ct_done": "SYN-P0055-oncology_note-04",
+      "biopsy_done": "SYN-P0055-oncology_note-04",
+      "pathology_result": "SYN-P0055-oncology_note-04",
+      "mdt_decision": "SYN-P0055-oncology_note-04",
+      "treatment_decision": "SYN-P0055-oncology_note-04"
+    },
+    "clock_as_of": "2026-06-12",
+    "referral_date": "2026-05-03",
+    "treatment_start_date": null,
+    "day_count": 40,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0056",
+    "display_name": "Peter Samplecase SYN-P0056",
+    "sex": "M",
+    "birth_date": "1964-10-21",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0056-referral_letter-01",
+      "SYN-P0056-ct_report-02",
+      "SYN-P0056-pathology_report-03",
+      "SYN-P0056-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-08",
+      "ct_done": "2026-04-17",
+      "biopsy_done": "2026-04-23",
+      "pathology_result": "2026-05-03",
+      "mdt_decision": "2026-05-10",
+      "treatment_decision": "2026-05-12"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0056-oncology_note-04",
+      "ct_done": "SYN-P0056-oncology_note-04",
+      "biopsy_done": "SYN-P0056-oncology_note-04",
+      "pathology_result": "SYN-P0056-oncology_note-04",
+      "mdt_decision": "SYN-P0056-oncology_note-04",
+      "treatment_decision": "SYN-P0056-oncology_note-04"
+    },
+    "clock_as_of": "2026-06-12",
+    "referral_date": "2026-04-08",
+    "treatment_start_date": null,
+    "day_count": 65,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0057",
+    "display_name": "Aino Synteettinen SYN-P0057",
+    "sex": "F",
+    "birth_date": "1965-07-24",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0057-referral_letter-01",
+      "SYN-P0057-pathology_report-02",
+      "SYN-P0057-oncology_note-03",
+      "SYN-P0057-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-01",
+      "ct_done": "2026-03-14",
+      "biopsy_done": "2026-03-19",
+      "pathology_result": "2026-03-25",
+      "mdt_decision": "2026-03-31",
+      "treatment_decision": "2026-04-01"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0057-oncology_note-04",
+      "ct_done": "SYN-P0057-oncology_note-04",
+      "biopsy_done": "SYN-P0057-oncology_note-04",
+      "pathology_result": "SYN-P0057-oncology_note-04",
+      "mdt_decision": "SYN-P0057-oncology_note-04",
+      "treatment_decision": "SYN-P0057-oncology_note-04"
+    },
+    "clock_as_of": "2026-05-04",
+    "referral_date": "2026-03-01",
+    "treatment_start_date": null,
+    "day_count": 64,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0058",
+    "display_name": "Matti Mallipotilas SYN-P0058",
+    "sex": "M",
+    "birth_date": "1968-12-01",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0058-ct_report-01",
+      "SYN-P0058-pathology_report-02",
+      "SYN-P0058-oncology_note-03",
+      "SYN-P0058-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-27",
+      "ct_done": "2026-02-11",
+      "biopsy_done": "2026-02-18",
+      "pathology_result": "2026-03-02",
+      "mdt_decision": "2026-03-06",
+      "treatment_decision": "2026-03-07"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0058-oncology_note-04",
+      "ct_done": "SYN-P0058-oncology_note-04",
+      "biopsy_done": "SYN-P0058-oncology_note-04",
+      "pathology_result": "SYN-P0058-oncology_note-04",
+      "mdt_decision": "SYN-P0058-oncology_note-04",
+      "treatment_decision": "SYN-P0058-oncology_note-04"
+    },
+    "clock_as_of": "2026-04-02",
+    "referral_date": "2026-01-27",
+    "treatment_start_date": null,
+    "day_count": 65,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0059",
+    "display_name": "Eeva Esimerkki SYN-P0059",
+    "sex": "F",
+    "birth_date": "1951-03-28",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0059-referral_letter-01",
+      "SYN-P0059-ct_report-02",
+      "SYN-P0059-oncology_note-03",
+      "SYN-P0059-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-26",
+      "ct_done": "2026-01-29",
+      "biopsy_done": "2026-02-09",
+      "pathology_result": "2026-02-19",
+      "mdt_decision": "2026-02-23",
+      "treatment_decision": "2026-02-25"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0059-oncology_note-04",
+      "ct_done": "SYN-P0059-oncology_note-04",
+      "biopsy_done": "SYN-P0059-oncology_note-04",
+      "pathology_result": "SYN-P0059-oncology_note-04",
+      "mdt_decision": "SYN-P0059-oncology_note-04",
+      "treatment_decision": "SYN-P0059-oncology_note-04"
+    },
+    "clock_as_of": "2026-03-04",
+    "referral_date": "2026-01-26",
+    "treatment_start_date": null,
+    "day_count": 37,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0060",
+    "display_name": "Yrjö Yksikkötesti SYN-P0060",
+    "sex": "M",
+    "birth_date": "1941-03-17",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0060-ct_report-01",
+      "SYN-P0060-biopsy_note-02",
+      "SYN-P0060-mdt_minutes-03",
+      "SYN-P0060-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-24",
+      "ct_done": "2026-07-29",
+      "biopsy_done": "2026-08-02",
+      "pathology_result": "2026-08-09",
+      "mdt_decision": "2026-08-11",
+      "treatment_decision": "2026-08-11"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0060-oncology_note-04",
+      "ct_done": "SYN-P0060-oncology_note-04",
+      "biopsy_done": "SYN-P0060-oncology_note-04",
+      "pathology_result": "SYN-P0060-oncology_note-04",
+      "mdt_decision": "SYN-P0060-oncology_note-04",
+      "treatment_decision": "SYN-P0060-oncology_note-04"
+    },
+    "clock_as_of": "2026-09-30",
+    "referral_date": "2026-07-24",
+    "treatment_start_date": null,
+    "day_count": 68,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0061",
+    "display_name": "Kirsi Keksitty SYN-P0061",
+    "sex": "F",
+    "birth_date": "1955-07-22",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0061-referral_letter-01",
+      "SYN-P0061-ct_report-02",
+      "SYN-P0061-biopsy_note-03",
+      "SYN-P0061-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-04",
+      "ct_done": "2026-07-12",
+      "biopsy_done": "2026-07-20",
+      "pathology_result": "2026-08-01",
+      "mdt_decision": "2026-08-08",
+      "treatment_decision": "2026-08-10"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0061-oncology_note-04",
+      "ct_done": "SYN-P0061-oncology_note-04",
+      "biopsy_done": "SYN-P0061-oncology_note-04",
+      "pathology_result": "SYN-P0061-oncology_note-04",
+      "mdt_decision": "SYN-P0061-oncology_note-04",
+      "treatment_decision": "SYN-P0061-oncology_note-04"
+    },
+    "clock_as_of": "2026-08-22",
+    "referral_date": "2026-07-04",
+    "treatment_start_date": null,
+    "day_count": 49,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0062",
+    "display_name": "Pekka Paikkamerkki SYN-P0062",
+    "sex": "M",
+    "birth_date": "1938-10-23",
+    "archetype": "late_wait",
+    "hard_tags": [
+      "late_wait"
+    ],
+    "document_ids": [
+      "SYN-P0062-biopsy_note-01",
+      "SYN-P0062-pathology_report-02",
+      "SYN-P0062-mdt_minutes-03",
+      "SYN-P0062-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-28",
+      "ct_done": "2026-03-08",
+      "biopsy_done": "2026-03-14",
+      "pathology_result": "2026-03-25",
+      "mdt_decision": "2026-04-02",
+      "treatment_decision": "2026-04-03"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0062-oncology_note-04",
+      "ct_done": "SYN-P0062-oncology_note-04",
+      "biopsy_done": "SYN-P0062-oncology_note-04",
+      "pathology_result": "SYN-P0062-oncology_note-04",
+      "mdt_decision": "SYN-P0062-oncology_note-04",
+      "treatment_decision": "SYN-P0062-oncology_note-04"
+    },
+    "clock_as_of": "2026-04-06",
+    "referral_date": "2026-02-28",
+    "treatment_start_date": null,
+    "day_count": 37,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0063",
+    "display_name": "Laura Loremten SYN-P0063",
+    "sex": "F",
+    "birth_date": "1951-05-08",
+    "archetype": "early_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0063-referral_letter-01",
+      "SYN-P0063-mdt_minutes-02",
+      "SYN-P0063-oncology_note-03",
+      "SYN-P0063-biopsy_note-04",
+      "SYN-P0063-pathology_report-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-24",
+      "ct_done": "2026-02-08",
+      "biopsy_done": "2026-02-17",
+      "pathology_result": "2026-02-22",
+      "mdt_decision": "2026-02-03",
+      "treatment_decision": "2026-02-03",
+      "treatment_start": "2026-02-11"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0063-pathology_report-05",
+      "ct_done": "SYN-P0063-pathology_report-05",
+      "biopsy_done": "SYN-P0063-pathology_report-05",
+      "pathology_result": "SYN-P0063-pathology_report-05",
+      "mdt_decision": "SYN-P0063-biopsy_note-04",
+      "treatment_decision": "SYN-P0063-biopsy_note-04",
+      "treatment_start": "SYN-P0063-biopsy_note-04"
+    },
+    "clock_as_of": "2026-02-24",
+    "referral_date": "2026-01-24",
+    "treatment_start_date": "2026-02-11",
+    "day_count": 31,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0064",
+    "display_name": "Hannu Harjoitus SYN-P0064",
+    "sex": "M",
+    "birth_date": "1948-05-07",
+    "archetype": "early_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0064-referral_letter-01",
+      "SYN-P0064-biopsy_note-02",
+      "SYN-P0064-mdt_minutes-03",
+      "SYN-P0064-oncology_note-04",
+      "SYN-P0064-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-24",
+      "ct_done": "2026-03-28",
+      "biopsy_done": "2026-04-02",
+      "pathology_result": "2026-04-06",
+      "mdt_decision": "2026-04-10",
+      "treatment_decision": "2026-04-11",
+      "treatment_start": "2026-04-13"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0064-discharge_summary-05",
+      "ct_done": "SYN-P0064-discharge_summary-05",
+      "biopsy_done": "SYN-P0064-discharge_summary-05",
+      "pathology_result": "SYN-P0064-discharge_summary-05",
+      "mdt_decision": "SYN-P0064-discharge_summary-05",
+      "treatment_decision": "SYN-P0064-discharge_summary-05",
+      "treatment_start": "SYN-P0064-discharge_summary-05"
+    },
+    "clock_as_of": "2026-04-14",
+    "referral_date": "2026-03-24",
+    "treatment_start_date": "2026-04-13",
+    "day_count": 21,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0065",
+    "display_name": "Sari Sijaisnimi SYN-P0065",
+    "sex": "F",
+    "birth_date": "1939-08-03",
+    "archetype": "early_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0065-mdt_minutes-01",
+      "SYN-P0065-oncology_note-02",
+      "SYN-P0065-discharge_summary-03",
+      "SYN-P0065-biopsy_note-04",
+      "SYN-P0065-pathology_report-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-27",
+      "ct_done": "2026-06-08",
+      "biopsy_done": "2026-06-18",
+      "pathology_result": "2026-06-23",
+      "mdt_decision": "2026-06-06",
+      "treatment_decision": "2026-06-06",
+      "treatment_start": "2026-06-14"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0065-pathology_report-05",
+      "ct_done": "SYN-P0065-pathology_report-05",
+      "biopsy_done": "SYN-P0065-pathology_report-05",
+      "pathology_result": "SYN-P0065-pathology_report-05",
+      "mdt_decision": "SYN-P0065-pathology_report-05",
+      "treatment_decision": "SYN-P0065-pathology_report-05",
+      "treatment_start": "SYN-P0065-pathology_report-05"
+    },
+    "clock_as_of": "2026-06-23",
+    "referral_date": "2026-05-27",
+    "treatment_start_date": "2026-06-14",
+    "day_count": 27,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0066",
+    "display_name": "Olli Oletettu SYN-P0066",
+    "sex": "M",
+    "birth_date": "1945-08-18",
+    "archetype": "early_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0066-referral_letter-01",
+      "SYN-P0066-oncology_note-02",
+      "SYN-P0066-ct_report-03",
+      "SYN-P0066-biopsy_note-04",
+      "SYN-P0066-pathology_report-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-04",
+      "ct_done": "2026-07-15",
+      "biopsy_done": "2026-07-20",
+      "pathology_result": "2026-07-30",
+      "mdt_decision": "2026-07-14",
+      "treatment_decision": "2026-07-14",
+      "treatment_start": "2026-07-22"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0066-pathology_report-05",
+      "ct_done": "SYN-P0066-pathology_report-05",
+      "biopsy_done": "SYN-P0066-pathology_report-05",
+      "pathology_result": "SYN-P0066-pathology_report-05",
+      "mdt_decision": "SYN-P0066-pathology_report-05",
+      "treatment_decision": "SYN-P0066-pathology_report-05",
+      "treatment_start": "SYN-P0066-pathology_report-05"
+    },
+    "clock_as_of": "2026-07-31",
+    "referral_date": "2026-07-04",
+    "treatment_start_date": "2026-07-22",
+    "day_count": 27,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0067",
+    "display_name": "Tuula Testinen SYN-P0067",
+    "sex": "F",
+    "birth_date": "1947-12-23",
+    "archetype": "early_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0067-referral_letter-01",
+      "SYN-P0067-oncology_note-02",
+      "SYN-P0067-discharge_summary-03",
+      "SYN-P0067-biopsy_note-04",
+      "SYN-P0067-pathology_report-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-03",
+      "ct_done": "2026-08-17",
+      "biopsy_done": "2026-08-27",
+      "pathology_result": "2026-09-07",
+      "mdt_decision": "2026-08-13",
+      "treatment_decision": "2026-08-13",
+      "treatment_start": "2026-08-21"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0067-pathology_report-05",
+      "ct_done": "SYN-P0067-pathology_report-05",
+      "biopsy_done": "SYN-P0067-pathology_report-05",
+      "pathology_result": "SYN-P0067-pathology_report-05",
+      "mdt_decision": "SYN-P0067-pathology_report-05",
+      "treatment_decision": "SYN-P0067-pathology_report-05",
+      "treatment_start": "SYN-P0067-pathology_report-05"
+    },
+    "clock_as_of": "2026-09-07",
+    "referral_date": "2026-08-03",
+    "treatment_start_date": "2026-08-21",
+    "day_count": 35,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0068",
+    "display_name": "Kari Keinotekoinen SYN-P0068",
+    "sex": "M",
+    "birth_date": "1957-08-27",
+    "archetype": "early_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0068-referral_letter-01",
+      "SYN-P0068-ct_report-02",
+      "SYN-P0068-mdt_minutes-03",
+      "SYN-P0068-discharge_summary-04",
+      "SYN-P0068-pathology_report-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-05",
+      "ct_done": "2026-07-15",
+      "biopsy_done": "2026-07-21",
+      "pathology_result": "2026-08-01",
+      "mdt_decision": "2026-07-15",
+      "treatment_decision": "2026-07-15",
+      "treatment_start": "2026-07-23"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0068-pathology_report-05",
+      "ct_done": "SYN-P0068-pathology_report-05",
+      "biopsy_done": "SYN-P0068-pathology_report-05",
+      "pathology_result": "SYN-P0068-pathology_report-05",
+      "mdt_decision": "SYN-P0068-pathology_report-05",
+      "treatment_decision": "SYN-P0068-pathology_report-05",
+      "treatment_start": "SYN-P0068-pathology_report-05"
+    },
+    "clock_as_of": "2026-08-03",
+    "referral_date": "2026-07-05",
+    "treatment_start_date": "2026-07-23",
+    "day_count": 29,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0069",
+    "display_name": "Ritva Rakennettu SYN-P0069",
+    "sex": "F",
+    "birth_date": "1944-10-11",
+    "archetype": "early_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0069-oncology_note-01",
+      "SYN-P0069-ct_report-02",
+      "SYN-P0069-discharge_summary-03",
+      "SYN-P0069-biopsy_note-04",
+      "SYN-P0069-pathology_report-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-14",
+      "ct_done": "2026-04-28",
+      "biopsy_done": "2026-05-04",
+      "pathology_result": "2026-05-08",
+      "mdt_decision": "2026-04-24",
+      "treatment_decision": "2026-04-24",
+      "treatment_start": "2026-05-02"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0069-pathology_report-05",
+      "ct_done": "SYN-P0069-pathology_report-05",
+      "biopsy_done": "SYN-P0069-pathology_report-05",
+      "pathology_result": "SYN-P0069-pathology_report-05",
+      "mdt_decision": "SYN-P0069-pathology_report-05",
+      "treatment_decision": "SYN-P0069-pathology_report-05",
+      "treatment_start": "SYN-P0069-pathology_report-05"
+    },
+    "clock_as_of": "2026-05-10",
+    "referral_date": "2026-04-14",
+    "treatment_start_date": "2026-05-02",
+    "day_count": 26,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0070",
+    "display_name": "Juhani Jäljitelmä SYN-P0070",
+    "sex": "M",
+    "birth_date": "1952-04-19",
+    "archetype": "early_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0070-referral_letter-01",
+      "SYN-P0070-oncology_note-02",
+      "SYN-P0070-mdt_minutes-03",
+      "SYN-P0070-ct_report-04",
+      "SYN-P0070-pathology_report-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-20",
+      "ct_done": "2026-02-04",
+      "biopsy_done": "2026-02-16",
+      "pathology_result": "2026-02-20",
+      "mdt_decision": "2026-01-30",
+      "treatment_decision": "2026-01-30",
+      "treatment_start": "2026-02-07"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0070-pathology_report-05",
+      "ct_done": "SYN-P0070-pathology_report-05",
+      "biopsy_done": "SYN-P0070-pathology_report-05",
+      "pathology_result": "SYN-P0070-pathology_report-05",
+      "mdt_decision": "SYN-P0070-pathology_report-05",
+      "treatment_decision": "SYN-P0070-pathology_report-05",
+      "treatment_start": "SYN-P0070-pathology_report-05"
+    },
+    "clock_as_of": "2026-02-20",
+    "referral_date": "2026-01-20",
+    "treatment_start_date": "2026-02-07",
+    "day_count": 31,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0071",
+    "display_name": "Anna Anonyymi SYN-P0071",
+    "sex": "F",
+    "birth_date": "1947-01-03",
+    "archetype": "complete_7",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0071-referral_letter-01",
+      "SYN-P0071-ct_report-02",
+      "SYN-P0071-biopsy_note-03",
+      "SYN-P0071-pathology_report-04",
+      "SYN-P0071-mdt_minutes-05",
+      "SYN-P0071-oncology_note-06",
+      "SYN-P0071-discharge_summary-07"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-21",
+      "ct_done": "2026-09-03",
+      "biopsy_done": "2026-09-06",
+      "pathology_result": "2026-09-12",
+      "mdt_decision": "2026-09-15",
+      "treatment_decision": "2026-09-15",
+      "treatment_start": "2026-10-09"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0071-discharge_summary-07",
+      "ct_done": "SYN-P0071-discharge_summary-07",
+      "biopsy_done": "SYN-P0071-discharge_summary-07",
+      "pathology_result": "SYN-P0071-discharge_summary-07",
+      "mdt_decision": "SYN-P0071-discharge_summary-07",
+      "treatment_decision": "SYN-P0071-discharge_summary-07",
+      "treatment_start": "SYN-P0071-discharge_summary-07"
+    },
+    "clock_as_of": "2026-10-09",
+    "referral_date": "2026-08-21",
+    "treatment_start_date": "2026-10-09",
+    "day_count": 49,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0072",
+    "display_name": "Nils Fiktiv SYN-P0072",
+    "sex": "M",
+    "birth_date": "1949-06-03",
+    "archetype": "complete_7",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0072-referral_letter-01",
+      "SYN-P0072-biopsy_note-02",
+      "SYN-P0072-pathology_report-03",
+      "SYN-P0072-mdt_minutes-04",
+      "SYN-P0072-oncology_note-05",
+      "SYN-P0072-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-28",
+      "ct_done": "2026-07-11",
+      "biopsy_done": "2026-07-21",
+      "pathology_result": "2026-07-31",
+      "mdt_decision": "2026-08-05",
+      "treatment_decision": "2026-08-05",
+      "treatment_start": "2026-08-23"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0072-discharge_summary-06",
+      "ct_done": "SYN-P0072-discharge_summary-06",
+      "biopsy_done": "SYN-P0072-oncology_note-05",
+      "pathology_result": "SYN-P0072-mdt_minutes-04",
+      "mdt_decision": "SYN-P0072-mdt_minutes-04",
+      "treatment_decision": "SYN-P0072-oncology_note-05",
+      "treatment_start": "SYN-P0072-discharge_summary-06"
+    },
+    "clock_as_of": "2026-08-25",
+    "referral_date": "2026-06-28",
+    "treatment_start_date": "2026-08-23",
+    "day_count": 58,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0073",
+    "display_name": "Eva Påhittad SYN-P0073",
+    "sex": "F",
+    "birth_date": "1945-05-25",
+    "archetype": "complete_7",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0073-referral_letter-01",
+      "SYN-P0073-ct_report-02",
+      "SYN-P0073-biopsy_note-03",
+      "SYN-P0073-pathology_report-04",
+      "SYN-P0073-oncology_note-05",
+      "SYN-P0073-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-13",
+      "ct_done": "2026-01-21",
+      "biopsy_done": "2026-01-27",
+      "pathology_result": "2026-01-31",
+      "mdt_decision": "2026-02-05",
+      "treatment_decision": "2026-02-07",
+      "treatment_start": "2026-02-24"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0073-discharge_summary-06",
+      "ct_done": "SYN-P0073-discharge_summary-06",
+      "biopsy_done": "SYN-P0073-discharge_summary-06",
+      "pathology_result": "SYN-P0073-discharge_summary-06",
+      "mdt_decision": "SYN-P0073-discharge_summary-06",
+      "treatment_decision": "SYN-P0073-discharge_summary-06",
+      "treatment_start": "SYN-P0073-discharge_summary-06"
+    },
+    "clock_as_of": "2026-02-26",
+    "referral_date": "2026-01-13",
+    "treatment_start_date": "2026-02-24",
+    "day_count": 44,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0074",
+    "display_name": "Lars Låtsas SYN-P0074",
+    "sex": "M",
+    "birth_date": "1949-04-26",
+    "archetype": "complete_7",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0074-referral_letter-01",
+      "SYN-P0074-ct_report-02",
+      "SYN-P0074-biopsy_note-03",
+      "SYN-P0074-oncology_note-04",
+      "SYN-P0074-mdt_minutes-05",
+      "SYN-P0074-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-24",
+      "ct_done": "2026-08-08",
+      "biopsy_done": "2026-08-14",
+      "pathology_result": "2026-08-19",
+      "mdt_decision": "2026-08-24",
+      "treatment_decision": "2026-08-24",
+      "treatment_start": "2026-09-05"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0074-discharge_summary-06",
+      "ct_done": "SYN-P0074-discharge_summary-06",
+      "biopsy_done": "SYN-P0074-discharge_summary-06",
+      "pathology_result": "SYN-P0074-discharge_summary-06",
+      "mdt_decision": "SYN-P0074-discharge_summary-06",
+      "treatment_decision": "SYN-P0074-discharge_summary-06",
+      "treatment_start": "SYN-P0074-discharge_summary-06"
+    },
+    "clock_as_of": "2026-09-06",
+    "referral_date": "2026-07-24",
+    "treatment_start_date": "2026-09-05",
+    "day_count": 44,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0075",
+    "display_name": "Ingrid Inventerad SYN-P0075",
+    "sex": "F",
+    "birth_date": "1942-01-14",
+    "archetype": "complete_7",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0075-referral_letter-01",
+      "SYN-P0075-ct_report-02",
+      "SYN-P0075-biopsy_note-03",
+      "SYN-P0075-pathology_report-04",
+      "SYN-P0075-mdt_minutes-05",
+      "SYN-P0075-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-04",
+      "ct_done": "2026-04-13",
+      "biopsy_done": "2026-04-17",
+      "pathology_result": "2026-04-25",
+      "mdt_decision": "2026-05-02",
+      "treatment_decision": "2026-05-03",
+      "treatment_start": "2026-05-23"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0075-discharge_summary-06",
+      "ct_done": "SYN-P0075-discharge_summary-06",
+      "biopsy_done": "SYN-P0075-discharge_summary-06",
+      "pathology_result": "SYN-P0075-discharge_summary-06",
+      "mdt_decision": "SYN-P0075-discharge_summary-06",
+      "treatment_decision": "SYN-P0075-discharge_summary-06",
+      "treatment_start": "SYN-P0075-discharge_summary-06"
+    },
+    "clock_as_of": "2026-05-25",
+    "referral_date": "2026-04-04",
+    "treatment_start_date": "2026-05-23",
+    "day_count": 51,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0076",
+    "display_name": "Johan Testdata SYN-P0076",
+    "sex": "M",
+    "birth_date": "1938-04-08",
+    "archetype": "complete_7",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0076-referral_letter-01",
+      "SYN-P0076-ct_report-02",
+      "SYN-P0076-biopsy_note-03",
+      "SYN-P0076-pathology_report-04",
+      "SYN-P0076-mdt_minutes-05",
+      "SYN-P0076-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-17",
+      "ct_done": "2026-07-30",
+      "biopsy_done": "2026-08-06",
+      "pathology_result": "2026-08-12",
+      "mdt_decision": "2026-08-14",
+      "treatment_decision": "2026-08-17",
+      "treatment_start": "2026-08-28"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0076-discharge_summary-06",
+      "ct_done": "SYN-P0076-discharge_summary-06",
+      "biopsy_done": "SYN-P0076-discharge_summary-06",
+      "pathology_result": "SYN-P0076-discharge_summary-06",
+      "mdt_decision": "SYN-P0076-discharge_summary-06",
+      "treatment_decision": "SYN-P0076-discharge_summary-06",
+      "treatment_start": "SYN-P0076-discharge_summary-06"
+    },
+    "clock_as_of": "2026-08-30",
+    "referral_date": "2026-07-17",
+    "treatment_start_date": "2026-08-28",
+    "day_count": 44,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0077",
+    "display_name": "Karin Konstruerad SYN-P0077",
+    "sex": "F",
+    "birth_date": "1954-08-08",
+    "archetype": "no_referral",
+    "hard_tags": [
+      "no_referral"
+    ],
+    "document_ids": [
+      "SYN-P0077-ct_report-01",
+      "SYN-P0077-biopsy_note-02",
+      "SYN-P0077-pathology_report-03",
+      "SYN-P0077-mdt_minutes-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "ct_done": "2026-03-16",
+      "biopsy_done": "2026-03-22",
+      "pathology_result": "2026-03-26",
+      "mdt_decision": "2026-03-31"
+    },
+    "merged_event_source_doc": {
+      "ct_done": "SYN-P0077-mdt_minutes-04",
+      "biopsy_done": "SYN-P0077-biopsy_note-02",
+      "pathology_result": "SYN-P0077-pathology_report-03",
+      "mdt_decision": "SYN-P0077-mdt_minutes-04"
+    },
+    "clock_as_of": "2026-04-01",
+    "referral_date": null,
+    "treatment_start_date": null,
+    "day_count": null,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0078",
+    "display_name": "Erik Exempelsson SYN-P0078",
+    "sex": "M",
+    "birth_date": "1962-08-08",
+    "archetype": "no_referral",
+    "hard_tags": [
+      "no_referral"
+    ],
+    "document_ids": [
+      "SYN-P0078-ct_report-01",
+      "SYN-P0078-biopsy_note-02",
+      "SYN-P0078-pathology_report-03",
+      "SYN-P0078-mdt_minutes-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "ct_done": "2026-03-29",
+      "biopsy_done": "2026-04-04",
+      "pathology_result": "2026-04-10",
+      "mdt_decision": "2026-04-16"
+    },
+    "merged_event_source_doc": {
+      "ct_done": "SYN-P0078-mdt_minutes-04",
+      "biopsy_done": "SYN-P0078-mdt_minutes-04",
+      "pathology_result": "SYN-P0078-mdt_minutes-04",
+      "mdt_decision": "SYN-P0078-mdt_minutes-04"
+    },
+    "clock_as_of": "2026-04-17",
+    "referral_date": null,
+    "treatment_start_date": null,
+    "day_count": null,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0079",
+    "display_name": "Jane Synthetic SYN-P0079",
+    "sex": "F",
+    "birth_date": "1939-02-19",
+    "archetype": "no_referral",
+    "hard_tags": [
+      "no_referral"
+    ],
+    "document_ids": [
+      "SYN-P0079-ct_report-01",
+      "SYN-P0079-biopsy_note-02",
+      "SYN-P0079-pathology_report-03",
+      "SYN-P0079-mdt_minutes-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "ct_done": "2026-02-28",
+      "biopsy_done": "2026-03-05",
+      "pathology_result": "2026-03-12",
+      "mdt_decision": "2026-03-16"
+    },
+    "merged_event_source_doc": {
+      "ct_done": "SYN-P0079-mdt_minutes-04",
+      "biopsy_done": "SYN-P0079-mdt_minutes-04",
+      "pathology_result": "SYN-P0079-mdt_minutes-04",
+      "mdt_decision": "SYN-P0079-mdt_minutes-04"
+    },
+    "clock_as_of": "2026-03-17",
+    "referral_date": null,
+    "treatment_start_date": null,
+    "day_count": null,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0080",
+    "display_name": "John Placeholder SYN-P0080",
+    "sex": "M",
+    "birth_date": "1965-04-06",
+    "archetype": "no_referral",
+    "hard_tags": [
+      "no_referral"
+    ],
+    "document_ids": [
+      "SYN-P0080-ct_report-01",
+      "SYN-P0080-biopsy_note-02",
+      "SYN-P0080-pathology_report-03",
+      "SYN-P0080-mdt_minutes-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "ct_done": "2026-07-10",
+      "biopsy_done": "2026-07-18",
+      "pathology_result": "2026-07-28",
+      "mdt_decision": "2026-08-01"
+    },
+    "merged_event_source_doc": {
+      "ct_done": "SYN-P0080-mdt_minutes-04",
+      "biopsy_done": "SYN-P0080-pathology_report-03",
+      "pathology_result": "SYN-P0080-pathology_report-03",
+      "mdt_decision": "SYN-P0080-mdt_minutes-04"
+    },
+    "clock_as_of": "2026-08-03",
+    "referral_date": null,
+    "treatment_start_date": null,
+    "day_count": null,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0081",
+    "display_name": "Mary Fictitious SYN-P0081",
+    "sex": "F",
+    "birth_date": "1952-02-02",
+    "archetype": "no_referral",
+    "hard_tags": [
+      "no_referral"
+    ],
+    "document_ids": [
+      "SYN-P0081-ct_report-01",
+      "SYN-P0081-biopsy_note-02",
+      "SYN-P0081-pathology_report-03",
+      "SYN-P0081-mdt_minutes-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "ct_done": "2026-08-16",
+      "biopsy_done": "2026-08-26",
+      "pathology_result": "2026-09-03",
+      "mdt_decision": "2026-09-11"
+    },
+    "merged_event_source_doc": {
+      "ct_done": "SYN-P0081-mdt_minutes-04",
+      "biopsy_done": "SYN-P0081-mdt_minutes-04",
+      "pathology_result": "SYN-P0081-mdt_minutes-04",
+      "mdt_decision": "SYN-P0081-mdt_minutes-04"
+    },
+    "clock_as_of": "2026-09-12",
+    "referral_date": null,
+    "treatment_start_date": null,
+    "day_count": null,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0082",
+    "display_name": "Alan Invented SYN-P0082",
+    "sex": "M",
+    "birth_date": "1961-03-26",
+    "archetype": "relative_only",
+    "hard_tags": [
+      "relative_only"
+    ],
+    "document_ids": [
+      "SYN-P0082-referral_letter-01",
+      "SYN-P0082-ct_report-02",
+      "SYN-P0082-biopsy_note-03",
+      "SYN-P0082-mdt_minutes-04",
+      "SYN-P0082-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-15",
+      "ct_done": "2026-04-29",
+      "biopsy_done": "2026-05-11",
+      "pathology_result": "2026-05-20",
+      "mdt_decision": "2026-05-24",
+      "treatment_decision": "2026-05-27",
+      "treatment_start": "2026-06-14"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0082-discharge_summary-05",
+      "ct_done": "SYN-P0082-discharge_summary-05",
+      "biopsy_done": "SYN-P0082-discharge_summary-05",
+      "pathology_result": "SYN-P0082-discharge_summary-05",
+      "mdt_decision": "SYN-P0082-discharge_summary-05",
+      "treatment_decision": "SYN-P0082-discharge_summary-05",
+      "treatment_start": "SYN-P0082-discharge_summary-05"
+    },
+    "clock_as_of": "2026-06-14",
+    "referral_date": "2026-04-15",
+    "treatment_start_date": "2026-06-14",
+    "day_count": 60,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0083",
+    "display_name": "Helen Mockpatient SYN-P0083",
+    "sex": "F",
+    "birth_date": "1968-08-11",
+    "archetype": "relative_only",
+    "hard_tags": [
+      "relative_only"
+    ],
+    "document_ids": [
+      "SYN-P0083-ct_report-01",
+      "SYN-P0083-biopsy_note-02",
+      "SYN-P0083-pathology_report-03",
+      "SYN-P0083-oncology_note-04",
+      "SYN-P0083-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-19",
+      "ct_done": "2026-08-03",
+      "biopsy_done": "2026-08-13",
+      "pathology_result": "2026-08-22",
+      "mdt_decision": "2026-08-30",
+      "treatment_decision": "2026-09-01",
+      "treatment_start": "2026-09-25"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0083-discharge_summary-05",
+      "ct_done": "SYN-P0083-discharge_summary-05",
+      "biopsy_done": "SYN-P0083-discharge_summary-05",
+      "pathology_result": "SYN-P0083-discharge_summary-05",
+      "mdt_decision": "SYN-P0083-discharge_summary-05",
+      "treatment_decision": "SYN-P0083-discharge_summary-05",
+      "treatment_start": "SYN-P0083-discharge_summary-05"
+    },
+    "clock_as_of": "2026-09-25",
+    "referral_date": "2026-07-19",
+    "treatment_start_date": "2026-09-25",
+    "day_count": 68,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0084",
+    "display_name": "Peter Samplecase SYN-P0084",
+    "sex": "M",
+    "birth_date": "1954-06-07",
+    "archetype": "relative_only",
+    "hard_tags": [
+      "relative_only"
+    ],
+    "document_ids": [
+      "SYN-P0084-referral_letter-01",
+      "SYN-P0084-ct_report-02",
+      "SYN-P0084-pathology_report-03",
+      "SYN-P0084-oncology_note-04",
+      "SYN-P0084-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-28",
+      "ct_done": "2026-03-09",
+      "biopsy_done": "2026-03-14",
+      "pathology_result": "2026-03-25",
+      "mdt_decision": "2026-03-29",
+      "treatment_decision": "2026-04-01",
+      "treatment_start": "2026-04-14"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0084-discharge_summary-05",
+      "ct_done": "SYN-P0084-discharge_summary-05",
+      "biopsy_done": "SYN-P0084-discharge_summary-05",
+      "pathology_result": "SYN-P0084-discharge_summary-05",
+      "mdt_decision": "SYN-P0084-discharge_summary-05",
+      "treatment_decision": "SYN-P0084-discharge_summary-05",
+      "treatment_start": "SYN-P0084-discharge_summary-05"
+    },
+    "clock_as_of": "2026-04-16",
+    "referral_date": "2026-02-28",
+    "treatment_start_date": "2026-04-14",
+    "day_count": 47,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0085",
+    "display_name": "Aino Synteettinen SYN-P0085",
+    "sex": "F",
+    "birth_date": "1950-07-22",
+    "archetype": "relative_only",
+    "hard_tags": [
+      "relative_only"
+    ],
+    "document_ids": [
+      "SYN-P0085-biopsy_note-01",
+      "SYN-P0085-pathology_report-02",
+      "SYN-P0085-mdt_minutes-03",
+      "SYN-P0085-oncology_note-04",
+      "SYN-P0085-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-25",
+      "ct_done": "2026-08-08",
+      "biopsy_done": "2026-08-19",
+      "pathology_result": "2026-08-29",
+      "mdt_decision": "2026-09-02",
+      "treatment_decision": "2026-09-05",
+      "treatment_start": "2026-09-18"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0085-discharge_summary-05",
+      "ct_done": "SYN-P0085-discharge_summary-05",
+      "biopsy_done": "SYN-P0085-discharge_summary-05",
+      "pathology_result": "SYN-P0085-discharge_summary-05",
+      "mdt_decision": "SYN-P0085-discharge_summary-05",
+      "treatment_decision": "SYN-P0085-discharge_summary-05",
+      "treatment_start": "SYN-P0085-discharge_summary-05"
+    },
+    "clock_as_of": "2026-09-18",
+    "referral_date": "2026-07-25",
+    "treatment_start_date": "2026-09-18",
+    "day_count": 55,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0086",
+    "display_name": "Matti Mallipotilas SYN-P0086",
+    "sex": "M",
+    "birth_date": "1966-05-10",
+    "archetype": "relative_only",
+    "hard_tags": [
+      "relative_only"
+    ],
+    "document_ids": [
+      "SYN-P0086-ct_report-01",
+      "SYN-P0086-biopsy_note-02",
+      "SYN-P0086-pathology_report-03",
+      "SYN-P0086-oncology_note-04",
+      "SYN-P0086-mdt_minutes-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-16",
+      "ct_done": "2026-08-26",
+      "biopsy_done": "2026-09-06",
+      "pathology_result": "2026-09-10",
+      "mdt_decision": "2026-09-17",
+      "treatment_decision": "2026-09-17"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0086-mdt_minutes-05",
+      "ct_done": "SYN-P0086-mdt_minutes-05",
+      "biopsy_done": "SYN-P0086-mdt_minutes-05",
+      "pathology_result": "SYN-P0086-mdt_minutes-05",
+      "mdt_decision": "SYN-P0086-mdt_minutes-05",
+      "treatment_decision": "SYN-P0086-oncology_note-04"
+    },
+    "clock_as_of": "2026-09-19",
+    "referral_date": "2026-08-16",
+    "treatment_start_date": null,
+    "day_count": 34,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0087",
+    "display_name": "Eeva Esimerkki SYN-P0087",
+    "sex": "F",
+    "birth_date": "1946-06-12",
+    "archetype": "typo_heavy",
+    "hard_tags": [
+      "typo_heavy"
+    ],
+    "document_ids": [
+      "SYN-P0087-referral_letter-01",
+      "SYN-P0087-pathology_report-02",
+      "SYN-P0087-oncology_note-03",
+      "SYN-P0087-mdt_minutes-04",
+      "SYN-P0087-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-02",
+      "ct_done": "2026-08-14",
+      "biopsy_done": "2026-08-25",
+      "pathology_result": "2026-09-04",
+      "mdt_decision": "2026-09-12",
+      "treatment_decision": "2026-09-12",
+      "treatment_start": "2026-09-23"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0087-discharge_summary-05",
+      "ct_done": "SYN-P0087-discharge_summary-05",
+      "biopsy_done": "SYN-P0087-discharge_summary-05",
+      "pathology_result": "SYN-P0087-discharge_summary-05",
+      "mdt_decision": "SYN-P0087-discharge_summary-05",
+      "treatment_decision": "SYN-P0087-discharge_summary-05",
+      "treatment_start": "SYN-P0087-discharge_summary-05"
+    },
+    "clock_as_of": "2026-09-24",
+    "referral_date": "2026-08-02",
+    "treatment_start_date": "2026-09-23",
+    "day_count": 53,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0088",
+    "display_name": "Yrjö Yksikkötesti SYN-P0088",
+    "sex": "M",
+    "birth_date": "1949-06-12",
+    "archetype": "typo_heavy",
+    "hard_tags": [
+      "typo_heavy"
+    ],
+    "document_ids": [
+      "SYN-P0088-referral_letter-01",
+      "SYN-P0088-ct_report-02",
+      "SYN-P0088-pathology_report-03",
+      "SYN-P0088-mdt_minutes-04",
+      "SYN-P0088-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-05",
+      "ct_done": "2026-06-14",
+      "biopsy_done": "2026-06-20",
+      "pathology_result": "2026-06-28",
+      "mdt_decision": "2026-06-30",
+      "treatment_decision": "2026-07-02",
+      "treatment_start": "2026-07-14"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0088-discharge_summary-05",
+      "ct_done": "SYN-P0088-discharge_summary-05",
+      "biopsy_done": "SYN-P0088-discharge_summary-05",
+      "pathology_result": "SYN-P0088-discharge_summary-05",
+      "mdt_decision": "SYN-P0088-discharge_summary-05",
+      "treatment_decision": "SYN-P0088-discharge_summary-05",
+      "treatment_start": "SYN-P0088-discharge_summary-05"
+    },
+    "clock_as_of": "2026-07-15",
+    "referral_date": "2026-06-05",
+    "treatment_start_date": "2026-07-14",
+    "day_count": 40,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0089",
+    "display_name": "Kirsi Keksitty SYN-P0089",
+    "sex": "F",
+    "birth_date": "1963-08-20",
+    "archetype": "typo_heavy",
+    "hard_tags": [
+      "typo_heavy"
+    ],
+    "document_ids": [
+      "SYN-P0089-referral_letter-01",
+      "SYN-P0089-biopsy_note-02",
+      "SYN-P0089-pathology_report-03",
+      "SYN-P0089-mdt_minutes-04",
+      "SYN-P0089-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-28",
+      "ct_done": "2026-07-02",
+      "biopsy_done": "2026-07-05",
+      "pathology_result": "2026-07-08",
+      "mdt_decision": "2026-07-12",
+      "treatment_decision": "2026-07-14",
+      "treatment_start": "2026-07-21"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0089-discharge_summary-05",
+      "ct_done": "SYN-P0089-discharge_summary-05",
+      "biopsy_done": "SYN-P0089-discharge_summary-05",
+      "pathology_result": "SYN-P0089-discharge_summary-05",
+      "mdt_decision": "SYN-P0089-discharge_summary-05",
+      "treatment_decision": "SYN-P0089-discharge_summary-05",
+      "treatment_start": "SYN-P0089-discharge_summary-05"
+    },
+    "clock_as_of": "2026-07-23",
+    "referral_date": "2026-06-28",
+    "treatment_start_date": "2026-07-21",
+    "day_count": 25,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0090",
+    "display_name": "Pekka Paikkamerkki SYN-P0090",
+    "sex": "M",
+    "birth_date": "1966-09-22",
+    "archetype": "typo_heavy",
+    "hard_tags": [
+      "typo_heavy"
+    ],
+    "document_ids": [
+      "SYN-P0090-ct_report-01",
+      "SYN-P0090-biopsy_note-02",
+      "SYN-P0090-pathology_report-03",
+      "SYN-P0090-oncology_note-04",
+      "SYN-P0090-mdt_minutes-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-02",
+      "ct_done": "2026-04-16",
+      "biopsy_done": "2026-04-20",
+      "pathology_result": "2026-04-24",
+      "mdt_decision": "2026-05-02",
+      "treatment_decision": "2026-05-02"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0090-mdt_minutes-05",
+      "ct_done": "SYN-P0090-mdt_minutes-05",
+      "biopsy_done": "SYN-P0090-mdt_minutes-05",
+      "pathology_result": "SYN-P0090-mdt_minutes-05",
+      "mdt_decision": "SYN-P0090-mdt_minutes-05",
+      "treatment_decision": "SYN-P0090-oncology_note-04"
+    },
+    "clock_as_of": "2026-05-04",
+    "referral_date": "2026-04-02",
+    "treatment_start_date": null,
+    "day_count": 32,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0091",
+    "display_name": "Laura Loremten SYN-P0091",
+    "sex": "F",
+    "birth_date": "1956-01-07",
+    "archetype": "negation",
+    "hard_tags": [
+      "negation"
+    ],
+    "document_ids": [
+      "SYN-P0091-referral_letter-01",
+      "SYN-P0091-biopsy_note-02",
+      "SYN-P0091-pathology_report-03",
+      "SYN-P0091-oncology_note-04",
+      "SYN-P0091-mdt_minutes-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-23",
+      "ct_done": "2026-01-30",
+      "biopsy_done": "2026-02-10",
+      "pathology_result": "2026-02-20",
+      "mdt_decision": "2026-02-26",
+      "treatment_decision": "2026-02-26"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0091-mdt_minutes-05",
+      "ct_done": "SYN-P0091-mdt_minutes-05",
+      "biopsy_done": "SYN-P0091-mdt_minutes-05",
+      "pathology_result": "SYN-P0091-mdt_minutes-05",
+      "mdt_decision": "SYN-P0091-mdt_minutes-05",
+      "treatment_decision": "SYN-P0091-oncology_note-04"
+    },
+    "clock_as_of": "2026-02-28",
+    "referral_date": "2026-01-23",
+    "treatment_start_date": null,
+    "day_count": 36,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0092",
+    "display_name": "Hannu Harjoitus SYN-P0092",
+    "sex": "M",
+    "birth_date": "1942-10-05",
+    "archetype": "negation",
+    "hard_tags": [
+      "negation"
+    ],
+    "document_ids": [
+      "SYN-P0092-referral_letter-01",
+      "SYN-P0092-biopsy_note-02",
+      "SYN-P0092-pathology_report-03",
+      "SYN-P0092-oncology_note-04",
+      "SYN-P0092-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-15",
+      "ct_done": "2026-02-28",
+      "biopsy_done": "2026-03-07",
+      "pathology_result": "2026-03-15",
+      "mdt_decision": "2026-03-19",
+      "treatment_decision": "2026-03-20",
+      "treatment_start": "2026-04-13"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0092-discharge_summary-05",
+      "ct_done": "SYN-P0092-discharge_summary-05",
+      "biopsy_done": "SYN-P0092-discharge_summary-05",
+      "pathology_result": "SYN-P0092-discharge_summary-05",
+      "mdt_decision": "SYN-P0092-discharge_summary-05",
+      "treatment_decision": "SYN-P0092-discharge_summary-05",
+      "treatment_start": "SYN-P0092-discharge_summary-05"
+    },
+    "clock_as_of": "2026-04-14",
+    "referral_date": "2026-02-15",
+    "treatment_start_date": "2026-04-13",
+    "day_count": 58,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0093",
+    "display_name": "Sari Sijaisnimi SYN-P0093",
+    "sex": "F",
+    "birth_date": "1946-06-12",
+    "archetype": "negation",
+    "hard_tags": [
+      "negation"
+    ],
+    "document_ids": [
+      "SYN-P0093-referral_letter-01",
+      "SYN-P0093-biopsy_note-02",
+      "SYN-P0093-pathology_report-03",
+      "SYN-P0093-oncology_note-04",
+      "SYN-P0093-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-10",
+      "ct_done": "2026-05-22",
+      "biopsy_done": "2026-06-03",
+      "pathology_result": "2026-06-11",
+      "mdt_decision": "2026-06-14",
+      "treatment_decision": "2026-06-14",
+      "treatment_start": "2026-07-03"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0093-discharge_summary-05",
+      "ct_done": "SYN-P0093-discharge_summary-05",
+      "biopsy_done": "SYN-P0093-discharge_summary-05",
+      "pathology_result": "SYN-P0093-discharge_summary-05",
+      "mdt_decision": "SYN-P0093-discharge_summary-05",
+      "treatment_decision": "SYN-P0093-discharge_summary-05",
+      "treatment_start": "SYN-P0093-discharge_summary-05"
+    },
+    "clock_as_of": "2026-07-03",
+    "referral_date": "2026-05-10",
+    "treatment_start_date": "2026-07-03",
+    "day_count": 54,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0094",
+    "display_name": "Olli Oletettu SYN-P0094",
+    "sex": "M",
+    "birth_date": "1967-03-09",
+    "archetype": "negation",
+    "hard_tags": [
+      "negation"
+    ],
+    "document_ids": [
+      "SYN-P0094-referral_letter-01",
+      "SYN-P0094-ct_report-02",
+      "SYN-P0094-biopsy_note-03",
+      "SYN-P0094-mdt_minutes-04",
+      "SYN-P0094-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-21",
+      "ct_done": "2026-08-28",
+      "biopsy_done": "2026-09-01",
+      "pathology_result": "2026-09-09",
+      "mdt_decision": "2026-09-13",
+      "treatment_decision": "2026-09-15",
+      "treatment_start": "2026-09-30"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0094-discharge_summary-05",
+      "ct_done": "SYN-P0094-discharge_summary-05",
+      "biopsy_done": "SYN-P0094-discharge_summary-05",
+      "pathology_result": "SYN-P0094-discharge_summary-05",
+      "mdt_decision": "SYN-P0094-discharge_summary-05",
+      "treatment_decision": "SYN-P0094-discharge_summary-05",
+      "treatment_start": "SYN-P0094-discharge_summary-05"
+    },
+    "clock_as_of": "2026-10-02",
+    "referral_date": "2026-08-21",
+    "treatment_start_date": "2026-09-30",
+    "day_count": 42,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0095",
+    "display_name": "Tuula Testinen SYN-P0095",
+    "sex": "F",
+    "birth_date": "1945-08-27",
+    "archetype": "conflicting",
+    "hard_tags": [
+      "conflicting"
+    ],
+    "document_ids": [
+      "SYN-P0095-referral_letter-01",
+      "SYN-P0095-ct_report-02",
+      "SYN-P0095-pathology_report-03",
+      "SYN-P0095-mdt_minutes-04",
+      "SYN-P0095-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-23",
+      "ct_done": "2026-05-07",
+      "biopsy_done": "2026-05-15",
+      "pathology_result": "2026-05-25",
+      "mdt_decision": "2026-05-27",
+      "treatment_decision": "2026-05-27",
+      "treatment_start": "2026-06-03"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0095-oncology_note-05",
+      "ct_done": "SYN-P0095-oncology_note-05",
+      "biopsy_done": "SYN-P0095-oncology_note-05",
+      "pathology_result": "SYN-P0095-oncology_note-05",
+      "mdt_decision": "SYN-P0095-oncology_note-05",
+      "treatment_decision": "SYN-P0095-oncology_note-05",
+      "treatment_start": "SYN-P0095-oncology_note-05"
+    },
+    "clock_as_of": "2026-06-05",
+    "referral_date": "2026-04-23",
+    "treatment_start_date": "2026-06-03",
+    "day_count": 43,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0096",
+    "display_name": "Kari Keinotekoinen SYN-P0096",
+    "sex": "M",
+    "birth_date": "1955-04-18",
+    "archetype": "conflicting",
+    "hard_tags": [
+      "conflicting"
+    ],
+    "document_ids": [
+      "SYN-P0096-ct_report-01",
+      "SYN-P0096-biopsy_note-02",
+      "SYN-P0096-pathology_report-03",
+      "SYN-P0096-oncology_note-04",
+      "SYN-P0096-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-23",
+      "ct_done": "2026-05-30",
+      "biopsy_done": "2026-06-06",
+      "pathology_result": "2026-06-16",
+      "mdt_decision": "2026-06-18",
+      "treatment_decision": "2026-06-20",
+      "treatment_start": "2026-06-27"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0096-oncology_note-05",
+      "ct_done": "SYN-P0096-oncology_note-05",
+      "biopsy_done": "SYN-P0096-oncology_note-05",
+      "pathology_result": "SYN-P0096-oncology_note-05",
+      "mdt_decision": "SYN-P0096-oncology_note-05",
+      "treatment_decision": "SYN-P0096-oncology_note-05",
+      "treatment_start": "SYN-P0096-oncology_note-05"
+    },
+    "clock_as_of": "2026-06-28",
+    "referral_date": "2026-05-23",
+    "treatment_start_date": "2026-06-27",
+    "day_count": 36,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0097",
+    "display_name": "Ritva Rakennettu SYN-P0097",
+    "sex": "F",
+    "birth_date": "1956-10-28",
+    "archetype": "conflicting",
+    "hard_tags": [
+      "conflicting"
+    ],
+    "document_ids": [
+      "SYN-P0097-referral_letter-01",
+      "SYN-P0097-ct_report-02",
+      "SYN-P0097-biopsy_note-03",
+      "SYN-P0097-oncology_note-04",
+      "SYN-P0097-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-17",
+      "ct_done": "2026-07-28",
+      "biopsy_done": "2026-08-02",
+      "pathology_result": "2026-08-10",
+      "mdt_decision": "2026-08-16",
+      "treatment_decision": "2026-08-19",
+      "treatment_start": "2026-09-12"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0097-oncology_note-05",
+      "ct_done": "SYN-P0097-oncology_note-05",
+      "biopsy_done": "SYN-P0097-oncology_note-05",
+      "pathology_result": "SYN-P0097-oncology_note-05",
+      "mdt_decision": "SYN-P0097-oncology_note-05",
+      "treatment_decision": "SYN-P0097-oncology_note-05",
+      "treatment_start": "SYN-P0097-oncology_note-05"
+    },
+    "clock_as_of": "2026-09-13",
+    "referral_date": "2026-07-17",
+    "treatment_start_date": "2026-09-12",
+    "day_count": 58,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0098",
+    "display_name": "Juhani Jäljitelmä SYN-P0098",
+    "sex": "M",
+    "birth_date": "1939-04-27",
+    "archetype": "conflicting",
+    "hard_tags": [
+      "conflicting"
+    ],
+    "document_ids": [
+      "SYN-P0098-referral_letter-01",
+      "SYN-P0098-ct_report-02",
+      "SYN-P0098-biopsy_note-03",
+      "SYN-P0098-oncology_note-04",
+      "SYN-P0098-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-08",
+      "ct_done": "2026-05-21",
+      "biopsy_done": "2026-05-27",
+      "pathology_result": "2026-06-07",
+      "mdt_decision": "2026-06-10",
+      "treatment_decision": "2026-06-11",
+      "treatment_start": "2026-07-03"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0098-oncology_note-05",
+      "ct_done": "SYN-P0098-oncology_note-05",
+      "biopsy_done": "SYN-P0098-oncology_note-05",
+      "pathology_result": "SYN-P0098-oncology_note-05",
+      "mdt_decision": "SYN-P0098-oncology_note-05",
+      "treatment_decision": "SYN-P0098-oncology_note-05",
+      "treatment_start": "SYN-P0098-oncology_note-05"
+    },
+    "clock_as_of": "2026-07-04",
+    "referral_date": "2026-05-08",
+    "treatment_start_date": "2026-07-03",
+    "day_count": 57,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0099",
+    "display_name": "Anna Anonyymi SYN-P0099",
+    "sex": "F",
+    "birth_date": "1965-10-27",
+    "archetype": "mixed",
+    "hard_tags": [
+      "mixed"
+    ],
+    "document_ids": [
+      "SYN-P0099-referral_letter-01",
+      "SYN-P0099-ct_report-02",
+      "SYN-P0099-pathology_report-03",
+      "SYN-P0099-mdt_minutes-04",
+      "SYN-P0099-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-09",
+      "ct_done": "2026-02-20",
+      "biopsy_done": "2026-02-24",
+      "pathology_result": "2026-03-03",
+      "mdt_decision": "2026-03-10",
+      "treatment_decision": "2026-03-11"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0099-oncology_note-05",
+      "ct_done": "SYN-P0099-mdt_minutes-04",
+      "biopsy_done": "SYN-P0099-mdt_minutes-04",
+      "pathology_result": "SYN-P0099-mdt_minutes-04",
+      "mdt_decision": "SYN-P0099-mdt_minutes-04",
+      "treatment_decision": "SYN-P0099-oncology_note-05"
+    },
+    "clock_as_of": "2026-03-12",
+    "referral_date": "2026-02-09",
+    "treatment_start_date": null,
+    "day_count": 31,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0100",
+    "display_name": "Nils Fiktiv SYN-P0100",
+    "sex": "M",
+    "birth_date": "1946-10-27",
+    "archetype": "mixed",
+    "hard_tags": [
+      "mixed"
+    ],
+    "document_ids": [
+      "SYN-P0100-referral_letter-01",
+      "SYN-P0100-pathology_report-02",
+      "SYN-P0100-mdt_minutes-03",
+      "SYN-P0100-oncology_note-04",
+      "SYN-P0100-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-07",
+      "ct_done": "2026-07-12",
+      "biopsy_done": "2026-07-21",
+      "pathology_result": "2026-08-02",
+      "mdt_decision": "2026-08-04",
+      "treatment_decision": "2026-08-05",
+      "treatment_start": "2026-08-14"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0100-discharge_summary-05",
+      "ct_done": "SYN-P0100-oncology_note-04",
+      "biopsy_done": "SYN-P0100-oncology_note-04",
+      "pathology_result": "SYN-P0100-oncology_note-04",
+      "mdt_decision": "SYN-P0100-oncology_note-04",
+      "treatment_decision": "SYN-P0100-oncology_note-04",
+      "treatment_start": "SYN-P0100-discharge_summary-05"
+    },
+    "clock_as_of": "2026-08-15",
+    "referral_date": "2026-07-07",
+    "treatment_start_date": "2026-08-14",
+    "day_count": 39,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0101",
+    "display_name": "Eva Påhittad SYN-P0101",
+    "sex": "F",
+    "birth_date": "1959-02-03",
+    "archetype": "mixed",
+    "hard_tags": [
+      "mixed"
+    ],
+    "document_ids": [
+      "SYN-P0101-referral_letter-01",
+      "SYN-P0101-ct_report-02",
+      "SYN-P0101-mdt_minutes-03",
+      "SYN-P0101-oncology_note-04",
+      "SYN-P0101-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-04",
+      "ct_done": "2026-06-15",
+      "biopsy_done": "2026-06-18",
+      "pathology_result": "2026-06-21",
+      "mdt_decision": "2026-06-24",
+      "treatment_decision": "2026-06-26",
+      "treatment_start": "2026-07-11"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0101-discharge_summary-05",
+      "ct_done": "SYN-P0101-discharge_summary-05",
+      "biopsy_done": "SYN-P0101-discharge_summary-05",
+      "pathology_result": "SYN-P0101-discharge_summary-05",
+      "mdt_decision": "SYN-P0101-discharge_summary-05",
+      "treatment_decision": "SYN-P0101-discharge_summary-05",
+      "treatment_start": "SYN-P0101-discharge_summary-05"
+    },
+    "clock_as_of": "2026-07-11",
+    "referral_date": "2026-06-04",
+    "treatment_start_date": "2026-07-11",
+    "day_count": 37,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0102",
+    "display_name": "Lars Låtsas SYN-P0102",
+    "sex": "M",
+    "birth_date": "1940-12-06",
+    "archetype": "mixed",
+    "hard_tags": [
+      "mixed"
+    ],
+    "document_ids": [
+      "SYN-P0102-ct_report-01",
+      "SYN-P0102-biopsy_note-02",
+      "SYN-P0102-pathology_report-03",
+      "SYN-P0102-mdt_minutes-04",
+      "SYN-P0102-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-07",
+      "ct_done": "2026-05-11",
+      "biopsy_done": "2026-05-15",
+      "pathology_result": "2026-05-19",
+      "mdt_decision": "2026-05-26",
+      "treatment_decision": "2026-05-26"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0102-oncology_note-05",
+      "ct_done": "SYN-P0102-oncology_note-05",
+      "biopsy_done": "SYN-P0102-oncology_note-05",
+      "pathology_result": "SYN-P0102-oncology_note-05",
+      "mdt_decision": "SYN-P0102-mdt_minutes-04",
+      "treatment_decision": "SYN-P0102-oncology_note-05"
+    },
+    "clock_as_of": "2026-05-28",
+    "referral_date": "2026-05-07",
+    "treatment_start_date": null,
+    "day_count": 21,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0103",
+    "display_name": "Ingrid Inventerad SYN-P0103",
+    "sex": "F",
+    "birth_date": "1948-06-26",
+    "archetype": "distractor",
+    "hard_tags": [
+      "distractor"
+    ],
+    "document_ids": [
+      "SYN-P0103-referral_letter-01",
+      "SYN-P0103-ct_report-02",
+      "SYN-P0103-pathology_report-03",
+      "SYN-P0103-mdt_minutes-04",
+      "SYN-P0103-oncology_note-05",
+      "SYN-P0103-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-17",
+      "ct_done": "2026-03-23",
+      "biopsy_done": "2026-04-01",
+      "pathology_result": "2026-04-10",
+      "mdt_decision": "2026-04-15",
+      "treatment_decision": "2026-04-18",
+      "treatment_start": "2026-05-12"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0103-discharge_summary-06",
+      "ct_done": "SYN-P0103-discharge_summary-06",
+      "biopsy_done": "SYN-P0103-discharge_summary-06",
+      "pathology_result": "SYN-P0103-discharge_summary-06",
+      "mdt_decision": "SYN-P0103-discharge_summary-06",
+      "treatment_decision": "SYN-P0103-discharge_summary-06",
+      "treatment_start": "SYN-P0103-discharge_summary-06"
+    },
+    "clock_as_of": "2026-05-13",
+    "referral_date": "2026-03-17",
+    "treatment_start_date": "2026-05-12",
+    "day_count": 57,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0104",
+    "display_name": "Johan Testdata SYN-P0104",
+    "sex": "M",
+    "birth_date": "1952-09-16",
+    "archetype": "distractor",
+    "hard_tags": [
+      "distractor"
+    ],
+    "document_ids": [
+      "SYN-P0104-referral_letter-01",
+      "SYN-P0104-ct_report-02",
+      "SYN-P0104-biopsy_note-03",
+      "SYN-P0104-mdt_minutes-04",
+      "SYN-P0104-oncology_note-05",
+      "SYN-P0104-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-26",
+      "ct_done": "2026-08-02",
+      "biopsy_done": "2026-08-13",
+      "pathology_result": "2026-08-17",
+      "mdt_decision": "2026-08-21",
+      "treatment_decision": "2026-08-23",
+      "treatment_start": "2026-09-09"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0104-discharge_summary-06",
+      "ct_done": "SYN-P0104-discharge_summary-06",
+      "biopsy_done": "SYN-P0104-discharge_summary-06",
+      "pathology_result": "SYN-P0104-discharge_summary-06",
+      "mdt_decision": "SYN-P0104-discharge_summary-06",
+      "treatment_decision": "SYN-P0104-discharge_summary-06",
+      "treatment_start": "SYN-P0104-discharge_summary-06"
+    },
+    "clock_as_of": "2026-09-09",
+    "referral_date": "2026-07-26",
+    "treatment_start_date": "2026-09-09",
+    "day_count": 45,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0105",
+    "display_name": "Karin Konstruerad SYN-P0105",
+    "sex": "F",
+    "birth_date": "1963-11-17",
+    "archetype": "distractor",
+    "hard_tags": [
+      "distractor"
+    ],
+    "document_ids": [
+      "SYN-P0105-referral_letter-01",
+      "SYN-P0105-ct_report-02",
+      "SYN-P0105-biopsy_note-03",
+      "SYN-P0105-pathology_report-04",
+      "SYN-P0105-oncology_note-05",
+      "SYN-P0105-discharge_summary-06"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-23",
+      "ct_done": "2026-04-02",
+      "biopsy_done": "2026-04-06",
+      "pathology_result": "2026-04-12",
+      "mdt_decision": "2026-04-15",
+      "treatment_decision": "2026-04-17",
+      "treatment_start": "2026-04-26"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0105-discharge_summary-06",
+      "ct_done": "SYN-P0105-discharge_summary-06",
+      "biopsy_done": "SYN-P0105-discharge_summary-06",
+      "pathology_result": "SYN-P0105-discharge_summary-06",
+      "mdt_decision": "SYN-P0105-discharge_summary-06",
+      "treatment_decision": "SYN-P0105-discharge_summary-06",
+      "treatment_start": "SYN-P0105-discharge_summary-06"
+    },
+    "clock_as_of": "2026-04-26",
+    "referral_date": "2026-03-23",
+    "treatment_start_date": "2026-04-26",
+    "day_count": 34,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0106",
+    "display_name": "Erik Exempelsson SYN-P0106",
+    "sex": "M",
+    "birth_date": "1968-09-24",
+    "archetype": "telegram",
+    "hard_tags": [
+      "telegram"
+    ],
+    "document_ids": [
+      "SYN-P0106-referral_letter-01",
+      "SYN-P0106-ct_report-02",
+      "SYN-P0106-biopsy_note-03",
+      "SYN-P0106-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-06",
+      "ct_done": "2026-02-19",
+      "biopsy_done": "2026-03-01"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0106-oncology_note-04",
+      "ct_done": "SYN-P0106-oncology_note-04",
+      "biopsy_done": "SYN-P0106-oncology_note-04"
+    },
+    "clock_as_of": "2026-03-04",
+    "referral_date": "2026-02-06",
+    "treatment_start_date": null,
+    "day_count": 26,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0107",
+    "display_name": "Jane Synthetic SYN-P0107",
+    "sex": "F",
+    "birth_date": "1962-11-13",
+    "archetype": "telegram",
+    "hard_tags": [
+      "telegram"
+    ],
+    "document_ids": [
+      "SYN-P0107-referral_letter-01",
+      "SYN-P0107-ct_report-02",
+      "SYN-P0107-oncology_note-03",
+      "SYN-P0107-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-01-07",
+      "ct_done": "2026-01-10"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0107-oncology_note-04",
+      "ct_done": "SYN-P0107-oncology_note-04"
+    },
+    "clock_as_of": "2026-01-17",
+    "referral_date": "2026-01-07",
+    "treatment_start_date": null,
+    "day_count": 10,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0108",
+    "display_name": "John Placeholder SYN-P0108",
+    "sex": "M",
+    "birth_date": "1951-08-09",
+    "archetype": "telegram",
+    "hard_tags": [
+      "telegram"
+    ],
+    "document_ids": [
+      "SYN-P0108-referral_letter-01",
+      "SYN-P0108-ct_report-02",
+      "SYN-P0108-biopsy_note-03",
+      "SYN-P0108-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-15",
+      "ct_done": "2026-05-29",
+      "biopsy_done": "2026-06-07"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0108-oncology_note-04",
+      "ct_done": "SYN-P0108-oncology_note-04",
+      "biopsy_done": "SYN-P0108-oncology_note-04"
+    },
+    "clock_as_of": "2026-06-12",
+    "referral_date": "2026-05-15",
+    "treatment_start_date": null,
+    "day_count": 28,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0109",
+    "display_name": "Mary Fictitious SYN-P0109",
+    "sex": "F",
+    "birth_date": "1949-04-14",
+    "archetype": "cancelled",
+    "hard_tags": [
+      "cancelled"
+    ],
+    "document_ids": [
+      "SYN-P0109-ct_report-01",
+      "SYN-P0109-biopsy_note-02",
+      "SYN-P0109-pathology_report-03",
+      "SYN-P0109-mdt_minutes-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-25",
+      "ct_done": "2026-05-11",
+      "biopsy_done": "2026-05-21",
+      "pathology_result": "2026-05-30",
+      "mdt_decision": "2026-06-03",
+      "treatment_decision": "2026-06-03"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0109-mdt_minutes-04",
+      "ct_done": "SYN-P0109-mdt_minutes-04",
+      "biopsy_done": "SYN-P0109-mdt_minutes-04",
+      "pathology_result": "SYN-P0109-mdt_minutes-04",
+      "mdt_decision": "SYN-P0109-mdt_minutes-04",
+      "treatment_decision": "SYN-P0109-mdt_minutes-04"
+    },
+    "clock_as_of": "2026-06-04",
+    "referral_date": "2026-04-25",
+    "treatment_start_date": null,
+    "day_count": 40,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0110",
+    "display_name": "Alan Invented SYN-P0110",
+    "sex": "M",
+    "birth_date": "1962-11-09",
+    "archetype": "cancelled",
+    "hard_tags": [
+      "cancelled"
+    ],
+    "document_ids": [
+      "SYN-P0110-referral_letter-01",
+      "SYN-P0110-biopsy_note-02",
+      "SYN-P0110-mdt_minutes-03",
+      "SYN-P0110-oncology_note-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-02-15",
+      "ct_done": "2026-02-26",
+      "biopsy_done": "2026-03-08",
+      "pathology_result": "2026-03-16",
+      "mdt_decision": "2026-03-21",
+      "treatment_decision": "2026-03-24"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0110-oncology_note-04",
+      "ct_done": "SYN-P0110-oncology_note-04",
+      "biopsy_done": "SYN-P0110-oncology_note-04",
+      "pathology_result": "SYN-P0110-oncology_note-04",
+      "mdt_decision": "SYN-P0110-oncology_note-04",
+      "treatment_decision": "SYN-P0110-oncology_note-04"
+    },
+    "clock_as_of": "2026-03-25",
+    "referral_date": "2026-02-15",
+    "treatment_start_date": null,
+    "day_count": 38,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0111",
+    "display_name": "Helen Mockpatient SYN-P0111",
+    "sex": "F",
+    "birth_date": "1945-01-26",
+    "archetype": "cancelled",
+    "hard_tags": [
+      "cancelled"
+    ],
+    "document_ids": [
+      "SYN-P0111-referral_letter-01",
+      "SYN-P0111-ct_report-02",
+      "SYN-P0111-pathology_report-03",
+      "SYN-P0111-mdt_minutes-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-06-24",
+      "ct_done": "2026-07-07",
+      "biopsy_done": "2026-07-18",
+      "pathology_result": "2026-07-21",
+      "mdt_decision": "2026-07-24",
+      "treatment_decision": "2026-07-24"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0111-mdt_minutes-04",
+      "ct_done": "SYN-P0111-pathology_report-03",
+      "biopsy_done": "SYN-P0111-pathology_report-03",
+      "pathology_result": "SYN-P0111-pathology_report-03",
+      "mdt_decision": "SYN-P0111-mdt_minutes-04",
+      "treatment_decision": "SYN-P0111-mdt_minutes-04"
+    },
+    "clock_as_of": "2026-07-26",
+    "referral_date": "2026-06-24",
+    "treatment_start_date": null,
+    "day_count": 32,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0112",
+    "display_name": "Peter Samplecase SYN-P0112",
+    "sex": "M",
+    "birth_date": "1956-09-22",
+    "archetype": "cancelled",
+    "hard_tags": [
+      "cancelled"
+    ],
+    "document_ids": [
+      "SYN-P0112-referral_letter-01",
+      "SYN-P0112-pathology_report-02",
+      "SYN-P0112-oncology_note-03",
+      "SYN-P0112-discharge_summary-04"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-28",
+      "ct_done": "2026-04-11",
+      "biopsy_done": "2026-04-14",
+      "pathology_result": "2026-04-21",
+      "mdt_decision": "2026-04-25",
+      "treatment_decision": "2026-04-28",
+      "treatment_start": "2026-05-06"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0112-discharge_summary-04",
+      "ct_done": "SYN-P0112-discharge_summary-04",
+      "biopsy_done": "SYN-P0112-discharge_summary-04",
+      "pathology_result": "SYN-P0112-discharge_summary-04",
+      "mdt_decision": "SYN-P0112-discharge_summary-04",
+      "treatment_decision": "SYN-P0112-discharge_summary-04",
+      "treatment_start": "SYN-P0112-discharge_summary-04"
+    },
+    "clock_as_of": "2026-05-08",
+    "referral_date": "2026-03-28",
+    "treatment_start_date": "2026-05-06",
+    "day_count": 41,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0113",
+    "display_name": "Aino Synteettinen SYN-P0113",
+    "sex": "F",
+    "birth_date": "1957-08-05",
+    "archetype": "boundary_alert_28",
+    "hard_tags": [
+      "boundary_alert_28"
+    ],
+    "document_ids": [
+      "SYN-P0113-referral_letter-01",
+      "SYN-P0113-ct_report-02",
+      "SYN-P0113-pathology_report-03",
+      "SYN-P0113-mdt_minutes-04",
+      "SYN-P0113-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-24",
+      "ct_done": "2026-08-07",
+      "biopsy_done": "2026-08-16",
+      "pathology_result": "2026-08-24",
+      "mdt_decision": "2026-08-26",
+      "treatment_decision": "2026-08-27"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0113-oncology_note-05",
+      "ct_done": "SYN-P0113-oncology_note-05",
+      "biopsy_done": "SYN-P0113-oncology_note-05",
+      "pathology_result": "SYN-P0113-oncology_note-05",
+      "mdt_decision": "SYN-P0113-oncology_note-05",
+      "treatment_decision": "SYN-P0113-oncology_note-05"
+    },
+    "clock_as_of": "2026-08-21",
+    "referral_date": "2026-07-24",
+    "treatment_start_date": null,
+    "day_count": 28,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0114",
+    "display_name": "Matti Mallipotilas SYN-P0114",
+    "sex": "M",
+    "birth_date": "1963-09-04",
+    "archetype": "boundary_alert_28",
+    "hard_tags": [
+      "boundary_alert_28"
+    ],
+    "document_ids": [
+      "SYN-P0114-biopsy_note-01",
+      "SYN-P0114-pathology_report-02",
+      "SYN-P0114-mdt_minutes-03",
+      "SYN-P0114-oncology_note-04",
+      "SYN-P0114-oncology_note-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-07-08",
+      "ct_done": "2026-07-21",
+      "biopsy_done": "2026-07-30",
+      "pathology_result": "2026-08-08",
+      "mdt_decision": "2026-08-16",
+      "treatment_decision": "2026-08-19"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0114-oncology_note-05",
+      "ct_done": "SYN-P0114-oncology_note-05",
+      "biopsy_done": "SYN-P0114-oncology_note-05",
+      "pathology_result": "SYN-P0114-oncology_note-05",
+      "mdt_decision": "SYN-P0114-oncology_note-05",
+      "treatment_decision": "SYN-P0114-oncology_note-05"
+    },
+    "clock_as_of": "2026-08-05",
+    "referral_date": "2026-07-08",
+    "treatment_start_date": null,
+    "day_count": 28,
+    "alert": true,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0115",
+    "display_name": "Eeva Esimerkki SYN-P0115",
+    "sex": "F",
+    "birth_date": "1946-09-22",
+    "archetype": "boundary_treated_28",
+    "hard_tags": [
+      "boundary_treated_28"
+    ],
+    "document_ids": [
+      "SYN-P0115-referral_letter-01",
+      "SYN-P0115-ct_report-02",
+      "SYN-P0115-mdt_minutes-03",
+      "SYN-P0115-oncology_note-04",
+      "SYN-P0115-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-28",
+      "ct_done": "2026-09-01",
+      "biopsy_done": "2026-09-08",
+      "pathology_result": "2026-09-12",
+      "mdt_decision": "2026-09-18",
+      "treatment_decision": "2026-09-21",
+      "treatment_start": "2026-09-25"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0115-discharge_summary-05",
+      "ct_done": "SYN-P0115-discharge_summary-05",
+      "biopsy_done": "SYN-P0115-discharge_summary-05",
+      "pathology_result": "SYN-P0115-discharge_summary-05",
+      "mdt_decision": "SYN-P0115-discharge_summary-05",
+      "treatment_decision": "SYN-P0115-oncology_note-04",
+      "treatment_start": "SYN-P0115-discharge_summary-05"
+    },
+    "clock_as_of": "2026-09-26",
+    "referral_date": "2026-08-28",
+    "treatment_start_date": "2026-09-25",
+    "day_count": 29,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0116",
+    "display_name": "Yrjö Yksikkötesti SYN-P0116",
+    "sex": "M",
+    "birth_date": "1955-10-10",
+    "archetype": "boundary_treated_28",
+    "hard_tags": [
+      "boundary_treated_28"
+    ],
+    "document_ids": [
+      "SYN-P0116-referral_letter-01",
+      "SYN-P0116-ct_report-02",
+      "SYN-P0116-mdt_minutes-03",
+      "SYN-P0116-oncology_note-04",
+      "SYN-P0116-pathology_report-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-08-09",
+      "ct_done": "2026-08-22",
+      "biopsy_done": "2026-09-02",
+      "pathology_result": "2026-09-07",
+      "mdt_decision": "2026-08-30",
+      "treatment_decision": "2026-08-30",
+      "treatment_start": "2026-09-06"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0116-pathology_report-05",
+      "ct_done": "SYN-P0116-pathology_report-05",
+      "biopsy_done": "SYN-P0116-pathology_report-05",
+      "pathology_result": "SYN-P0116-pathology_report-05",
+      "mdt_decision": "SYN-P0116-pathology_report-05",
+      "treatment_decision": "SYN-P0116-pathology_report-05",
+      "treatment_start": "SYN-P0116-pathology_report-05"
+    },
+    "clock_as_of": "2026-09-08",
+    "referral_date": "2026-08-09",
+    "treatment_start_date": "2026-09-06",
+    "day_count": 30,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0117",
+    "display_name": "Kirsi Keksitty SYN-P0117",
+    "sex": "F",
+    "birth_date": "1968-01-17",
+    "archetype": "boundary_29",
+    "hard_tags": [
+      "boundary_29"
+    ],
+    "document_ids": [
+      "SYN-P0117-referral_letter-01",
+      "SYN-P0117-biopsy_note-02",
+      "SYN-P0117-pathology_report-03",
+      "SYN-P0117-mdt_minutes-04",
+      "SYN-P0117-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-05-10",
+      "ct_done": "2026-05-15",
+      "biopsy_done": "2026-05-25",
+      "pathology_result": "2026-06-01",
+      "mdt_decision": "2026-06-03",
+      "treatment_decision": "2026-06-06",
+      "treatment_start": "2026-06-08"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0117-discharge_summary-05",
+      "ct_done": "SYN-P0117-discharge_summary-05",
+      "biopsy_done": "SYN-P0117-discharge_summary-05",
+      "pathology_result": "SYN-P0117-discharge_summary-05",
+      "mdt_decision": "SYN-P0117-discharge_summary-05",
+      "treatment_decision": "SYN-P0117-discharge_summary-05",
+      "treatment_start": "SYN-P0117-discharge_summary-05"
+    },
+    "clock_as_of": "2026-06-09",
+    "referral_date": "2026-05-10",
+    "treatment_start_date": "2026-06-08",
+    "day_count": 30,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0118",
+    "display_name": "Pekka Paikkamerkki SYN-P0118",
+    "sex": "M",
+    "birth_date": "1951-02-21",
+    "archetype": "boundary_29",
+    "hard_tags": [
+      "boundary_29"
+    ],
+    "document_ids": [
+      "SYN-P0118-referral_letter-01",
+      "SYN-P0118-biopsy_note-02",
+      "SYN-P0118-oncology_note-03",
+      "SYN-P0118-discharge_summary-04",
+      "SYN-P0118-mdt_minutes-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-14",
+      "ct_done": "2026-04-19",
+      "biopsy_done": "2026-04-30",
+      "pathology_result": "2026-05-08",
+      "mdt_decision": "2026-05-14",
+      "treatment_decision": "2026-05-06",
+      "treatment_start": "2026-05-13"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0118-mdt_minutes-05",
+      "ct_done": "SYN-P0118-discharge_summary-04",
+      "biopsy_done": "SYN-P0118-discharge_summary-04",
+      "pathology_result": "SYN-P0118-discharge_summary-04",
+      "mdt_decision": "SYN-P0118-mdt_minutes-05",
+      "treatment_decision": "SYN-P0118-discharge_summary-04",
+      "treatment_start": "SYN-P0118-discharge_summary-04"
+    },
+    "clock_as_of": "2026-05-15",
+    "referral_date": "2026-04-14",
+    "treatment_start_date": "2026-05-13",
+    "day_count": 31,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0119",
+    "display_name": "Laura Loremten SYN-P0119",
+    "sex": "F",
+    "birth_date": "1961-10-03",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0119-biopsy_note-01",
+      "SYN-P0119-pathology_report-02",
+      "SYN-P0119-mdt_minutes-03",
+      "SYN-P0119-oncology_note-04",
+      "SYN-P0119-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-03-14",
+      "ct_done": "2026-03-22",
+      "biopsy_done": "2026-04-03",
+      "pathology_result": "2026-04-09",
+      "mdt_decision": "2026-04-15",
+      "treatment_decision": "2026-04-18",
+      "treatment_start": "2026-05-09"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0119-discharge_summary-05",
+      "ct_done": "SYN-P0119-discharge_summary-05",
+      "biopsy_done": "SYN-P0119-discharge_summary-05",
+      "pathology_result": "SYN-P0119-discharge_summary-05",
+      "mdt_decision": "SYN-P0119-discharge_summary-05",
+      "treatment_decision": "SYN-P0119-discharge_summary-05",
+      "treatment_start": "SYN-P0119-discharge_summary-05"
+    },
+    "clock_as_of": "2026-05-10",
+    "referral_date": "2026-03-14",
+    "treatment_start_date": "2026-05-09",
+    "day_count": 57,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  },
+  {
+    "patient_id": "SYN-P0120",
+    "display_name": "Hannu Harjoitus SYN-P0120",
+    "sex": "M",
+    "birth_date": "1943-04-18",
+    "archetype": "complete_treated",
+    "hard_tags": [],
+    "document_ids": [
+      "SYN-P0120-ct_report-01",
+      "SYN-P0120-biopsy_note-02",
+      "SYN-P0120-mdt_minutes-03",
+      "SYN-P0120-oncology_note-04",
+      "SYN-P0120-discharge_summary-05"
+    ],
+    "synthetic": true,
+    "merged_events": {
+      "referral_received": "2026-04-12",
+      "ct_done": "2026-04-20",
+      "biopsy_done": "2026-04-28",
+      "pathology_result": "2026-05-08",
+      "mdt_decision": "2026-05-14",
+      "treatment_decision": "2026-05-16",
+      "treatment_start": "2026-05-31"
+    },
+    "merged_event_source_doc": {
+      "referral_received": "SYN-P0120-discharge_summary-05",
+      "ct_done": "SYN-P0120-discharge_summary-05",
+      "biopsy_done": "SYN-P0120-discharge_summary-05",
+      "pathology_result": "SYN-P0120-discharge_summary-05",
+      "mdt_decision": "SYN-P0120-mdt_minutes-03",
+      "treatment_decision": "SYN-P0120-oncology_note-04",
+      "treatment_start": "SYN-P0120-discharge_summary-05"
+    },
+    "clock_as_of": "2026-05-31",
+    "referral_date": "2026-04-12",
+    "treatment_start_date": "2026-05-31",
+    "day_count": 49,
+    "alert": false,
+    "merge_rule": "latest_document_wins",
+    "alert_rule": "day_count >= 28 and no treatment_start"
+  }
+]

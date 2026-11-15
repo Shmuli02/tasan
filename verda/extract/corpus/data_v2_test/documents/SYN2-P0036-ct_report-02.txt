@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0036
+document_id: SYN2-P0036-ct_report-02
+document_type: ct_report
+language: sv
+note_date: 2026-08-12
+display_name: Hannu Harjoitus SYN2-P0036 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 12.8.2026. Patient: Hannu Harjoitus SYN2-P0036 (SYN2-P0036), f. 12.2.1949.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Bildtagningen utfördes den 11 augusti 2026 (tiden var bokad tidigare).
+Begäran nådde kliniken den 8 augusti 2026.
+På bilderna sågs en 1,8 cm knuta i vänste r övre lob och mediastinala lymfkörtlar.
+Bildtagningen är än så länge bara en bokad tid den 22 augusti 2026 och har inte genomförts.
+— utdrag ur äldre anteckning 3.7.2019: födelsedatum 12.2.1949; galloperation 3.7.2019; hör inte till den aktu ella lungutredningen. —
+
+Antecknat av: syntetisk testanvända-re. Detta är inte en verklig journal.

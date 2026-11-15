@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0055
+document_id: SYN2-P0055-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-09-06
+display_name: Helen Mockpatient SYN2-P0055 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 6.9.2026. Potilas: Helen Mockp atient SYN2-P0055 (S YN2-P0055), s. 12.2.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittel-ystä (synteettinen harjoitusteksti).
+Morforloginen tulos tuli 4. syyskuuta 2026 (adenokarsinooma).
+Kuvausaika merkittiin kalenteriin elokuun 10. päivänä 2026; itse tutkimus toteutettiin 16. elokuuta 2026.
+Kudosnäytteet haettiin toimenpiteessä 25. elokuuta 2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi elokuun 5. päivänä 2026.
+Kuvissa erottui vasemman alalohkon 2,4 cm muutos.
+Tähystys peruttiin viime hetkell ä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 21.7.2015: syntymäaika 12.2.1949; sappirakon poisto 21.7.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+P otilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen te stikäyttäjä. Tämä ei ole oikea potilaskertomus.

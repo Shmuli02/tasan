@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0093
+document_id: SYN-P0093-biopsy_note-02
+document_type: biopsy_note
+language: sv
+note_date: 2026-06-05
+display_name: Sari Sijaisnimi SYN-P0093 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 5.6.2026. Patient: Sari Sijaisnimi SYN-P0093 (SYN-P0093), f. 12.6.1946.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Specialistremiss registrerad 10.5.2026.
+DT torax utförd 22/5/2026. Bildfynd: en 4,0 cm massa i höger mellannlob.
+EBUS-bronkoskopi genomförd 3.6.2026; biopsier tagna.
+Behandling har inte påbörjats.
+Bronkoskopi utfördes inte vid detta besök.
+Födelsedatum 12.6.1946 kontrollerat i befolkningsuppgifterna.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

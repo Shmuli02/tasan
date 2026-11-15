@@ -1,0 +1,23 @@
+{
+  "system": "Qwen/Qwen3-32B-AWQ",
+  "synthetic": true,
+  "corpus_id": "tasan-extract-synthetic-v1",
+  "base_url_host": "127.0.0.1:8000",
+  "n_documents": 16,
+  "n_ok": 16,
+  "elapsed_s": 60.566,
+  "notes_per_sec": 0.264,
+  "concurrency": 8,
+  "latency_s": {
+    "p50": 21.83,
+    "p95": 36.6159,
+    "mean": 19.7523,
+    "max": 36.7523
+  },
+  "tokens": {
+    "prompt": 16556,
+    "completion": 4923,
+    "total": 21479
+  },
+  "finished_at_eet": "2026-11-14 21:16:32 EET"
+}

@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0088
+document_id: SYN2-P0088-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-07-20
+display_name: Yrjö Yksikkötesti SYN2-P0088 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteetitsen hyvinvointialueen keskussair aala
+Kirjauspäivä 20.7.2026. Potils: Yrjö Yksikkötesti SY N2-P0088 (SYN2-P0088), s. 9.5.1956.
+SYNTEETTINEN potilaskertomus, ei oikaea henkill-öä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Näyte otettiin tähystyksessä 11-07-2026.
+Mikroskooppinen lauunto valmistui 14. heinäkuuta 2026: pienisoluinen keuhkosyöpä.
+Konsultaatiopyyntö kirjattiin s-aapuneeksi 22. kesäkuu-ta 2026.
+Kuvantaminen tehtiin 3. hheinäkuuta 2026 (varaaus oli a-iemmin).
+Kokoontuminen 19. heinäkuuta 2026: eri erikoisa1ojen yhteinen kanta merkitty.
+Kuvantaminn on vasta ajanvaaraus 4. elokuuta 2026, sitä ei ole tote utetttu.
+— ote vanhasta kirjuksesta 24.8.2021: syntymäaika 9.5.1956; ssappirakon poist0 24.8.2021; ei liity nykyise en ke uhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tama ei ole oi kea potilask ertomus.

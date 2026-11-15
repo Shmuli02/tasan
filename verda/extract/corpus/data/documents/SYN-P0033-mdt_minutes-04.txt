@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0033
+document_id: SYN-P0033-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-07-16
+display_name: Kirsi Keksitty SYN-P0033 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 16.7.2026. Potilas: Kirsi Keksitty SYN-P0033 (SYN-P0033), s. 14.3.1941.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 2026-06-03.
+PET-TT tehty 18.6.2026.
+EBUS-bronkoskopia suoritettu 29.6.2026; biopsiat otettu.
+PAD-vastaus valmistui viikko sitten: adenokarsinooma.
+Moniammatillinen kokous (MDT) 14.7.2026: suositellaan etenemistä hoitoon.
+Biopsia peruttiin potilaan toiveesta.
+Sappirakon poisto tehty 4.10.2014 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

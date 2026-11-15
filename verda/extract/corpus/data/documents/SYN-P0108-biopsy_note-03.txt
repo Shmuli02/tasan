@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0108
+document_id: SYN-P0108-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-08
+display_name: John Placeholder SYN-P0108 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 8.6.2026. Potilas: John Placeholder SYN-P0108 (SYN-P0108), s. 9.8.1951.
+SYNTEETTINEN potialskertomus, ei oikeaa henkilöä.
+
+Lähete kirjattu 15.5.2026.
+Keuhko-TT tehty 29.5.26.
+Biopsiat otettu bronkoskopiassa 7.6.
+
+(Synteettinen lyhyt kirjaus.)

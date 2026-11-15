@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0052
+document_id: SYN2-P0052-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-04-23
+display_name: John Placeholder SYN2-P0052 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen saira-ala
+Kir-jauspäivä 23.4.2026. Potilas: John Placehold er SYN2-P0052 (SYN2-P0052), s. 23.10.1950.
+SYNTEETTINEN potilaskertomus, ei oikeaa he nkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteett-inen harjoitusteksti).
+Kudosnäytteet haettiin toimenpiteessä huhtikuun 14. päivänä 2026.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön viikolla 12 sunnuntaina (2026).
+Mikroskooppinen lausunto valmistui toissapäivänä: NSCLC, ei tarkemmin lu-okiteltu.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 26.2.2017: syntymäaika 23.10.1950; sappirakon poisto 26.2.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+Kontrollilaboratorioko-keet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyt täjä. Tämä ei ole oikea potilaskertomus.

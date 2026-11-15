@@ -1,0 +1,18 @@
+{
+ "_doc": "Console fields for a Verda Serverless Containers BATCH JOB deployment (docs.verda.com/containers/batch-jobs/, page updated 02.11.2026). TEMPLATE ONLY - not applied. Nothing has been created on Verda.",
+ "deployment_name": "tasan-twin",
+ "type": "Batch jobs",
+ "compute_type": "AMD Rome+ (8 vCPU, 32 GB) - CPU; the model is numpy and needs no GPU",
+ "container_image": "vccr.io/<PROJECT_ID>/tasan-twin:0.1.0",
+ "registry_credentials": "Verda Container Registry credential vcr-<PROJECT_ID>+tasan-pull (name + secret), entered in the New deployment page",
+ "exposed_port": 8000,
+ "healthcheck_path": "/health",
+ "start_command": "python -m twin.server   (image default CMD)",
+ "environment": {"TASAN_OUT": "/tmp/results", "PORT": "8000"},
+ "max_concurrent_jobs": 8,
+ "deadline_minutes": 30,
+ "location": "pick a Finnish location (FIN-01/02/03) in the console if offered for Serverless Containers; GPU/CPU pool locations are not documented - check at deploy time",
+ "job_request_example": "POST https://tasks.verda.com/tasan-twin/run?county=21&scenario=zero_effect&seed=1&n_runs=20000  (header Authorization: Bearer <INFERENCE_API_KEY>, X-Inference-Id: tasan-21-zero_effect-s1)",
+ "status": "GET https://tasks.verda.com/status/tasan-twin  (header X-Inference-Id)",
+ "result": "GET https://tasks.verda.com/result/tasan-twin  (header X-Inference-Id) -> the job's JSON output"
+}

@@ -1,0 +1,190 @@
+{
+  "all": {
+    "synthetic": true,
+    "corpus_id": "tasan-extract-synthetic-v1/all",
+    "seed": 20261114,
+    "system": "qwen3-32b-awq",
+    "predictions_file": "eval/results/qwen3_32b_v1_predictions.json",
+    "n_documents": 600,
+    "n_patients": 120,
+    "exact": {
+      "per_type": {
+        "referral_received": {
+          "tp": 568,
+          "fp": 12,
+          "fn": 12,
+          "precision": 0.9793,
+          "recall": 0.9793,
+          "f1": 0.9793,
+          "support": 580
+        },
+        "ct_done": {
+          "tp": 463,
+          "fp": 13,
+          "fn": 13,
+          "precision": 0.9727,
+          "recall": 0.9727,
+          "f1": 0.9727,
+          "support": 476
+        },
+        "biopsy_done": {
+          "tp": 333,
+          "fp": 17,
+          "fn": 18,
+          "precision": 0.9514,
+          "recall": 0.9487,
+          "f1": 0.9501,
+          "support": 351
+        },
+        "pathology_result": {
+          "tp": 233,
+          "fp": 22,
+          "fn": 23,
+          "precision": 0.9137,
+          "recall": 0.9102,
+          "f1": 0.9119,
+          "support": 256
+        },
+        "mdt_decision": {
+          "tp": 193,
+          "fp": 12,
+          "fn": 12,
+          "precision": 0.9415,
+          "recall": 0.9415,
+          "f1": 0.9415,
+          "support": 205
+        },
+        "treatment_decision": {
+          "tp": 135,
+          "fp": 9,
+          "fn": 20,
+          "precision": 0.9375,
+          "recall": 0.871,
+          "f1": 0.903,
+          "support": 155
+        },
+        "treatment_start": {
+          "tp": 80,
+          "fp": 9,
+          "fn": 2,
+          "precision": 0.8989,
+          "recall": 0.9756,
+          "f1": 0.9357,
+          "support": 82
+        }
+      },
+      "micro": {
+        "tp": 2005,
+        "fp": 94,
+        "fn": 100,
+        "precision": 0.9552,
+        "recall": 0.9525,
+        "f1": 0.9539,
+        "support": 2105
+      },
+      "macro": {
+        "precision": 0.9421,
+        "recall": 0.9427,
+        "f1": 0.942
+      }
+    },
+    "plus_minus_1_day": {
+      "per_type": {
+        "referral_received": {
+          "tp": 572,
+          "fp": 8,
+          "fn": 8,
+          "precision": 0.9862,
+          "recall": 0.9862,
+          "f1": 0.9862,
+          "support": 580
+        },
+        "ct_done": {
+          "tp": 468,
+          "fp": 8,
+          "fn": 8,
+          "precision": 0.9832,
+          "recall": 0.9832,
+          "f1": 0.9832,
+          "support": 476
+        },
+        "biopsy_done": {
+          "tp": 335,
+          "fp": 15,
+          "fn": 16,
+          "precision": 0.9571,
+          "recall": 0.9544,
+          "f1": 0.9558,
+          "support": 351
+        },
+        "pathology_result": {
+          "tp": 235,
+          "fp": 20,
+          "fn": 21,
+          "precision": 0.9216,
+          "recall": 0.918,
+          "f1": 0.9198,
+          "support": 256
+        },
+        "mdt_decision": {
+          "tp": 197,
+          "fp": 8,
+          "fn": 8,
+          "precision": 0.961,
+          "recall": 0.961,
+          "f1": 0.961,
+          "support": 205
+        },
+        "treatment_decision": {
+          "tp": 138,
+          "fp": 6,
+          "fn": 17,
+          "precision": 0.9583,
+          "recall": 0.8903,
+          "f1": 0.9231,
+          "support": 155
+        },
+        "treatment_start": {
+          "tp": 81,
+          "fp": 8,
+          "fn": 1,
+          "precision": 0.9101,
+          "recall": 0.9878,
+          "f1": 0.9474,
+          "support": 82
+        }
+      },
+      "micro": {
+        "tp": 2026,
+        "fp": 73,
+        "fn": 79,
+        "precision": 0.9652,
+        "recall": 0.9625,
+        "f1": 0.9638,
+        "support": 2105
+      },
+      "macro": {
+        "precision": 0.9539,
+        "recall": 0.9544,
+        "f1": 0.9538
+      }
+    },
+    "patient": {
+      "n_patients": 120,
+      "alert": {
+        "tp": 30,
+        "fp": 0,
+        "fn": 2,
+        "precision": 1.0,
+        "recall": 0.9375,
+        "f1": 0.9677,
+        "support": 32,
+        "tn": 88,
+        "accuracy": 0.9833,
+        "rule": "day_count >= 28 and no treatment_start; merge=latest_document_wins"
+      },
+      "day_count_mae": 0.0,
+      "day_count_compared": 115
+    }
+  }
+}

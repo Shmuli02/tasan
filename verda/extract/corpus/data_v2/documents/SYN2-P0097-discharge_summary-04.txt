@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0097
+document_id: SYN2-P0097-discharge_summary-04
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-29
+display_name: Ritva Rakennettu SYN2-P0097 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 29.5.2026. Potilas: Ritva Rakennettu SYN2-P0097 (SYN2-P0097), s. 5.1.1957.
+SYNTEETT INEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin viikolla 18 tiistaina (2026).
+Sovittiin hoitomuodosta toukokuun 10. päivänä 2026 (SBRT).
+Laboratorio ilmoitti histologian viikolla 19 tiistaina (2026): NSCLC, ei tarkemmin luokiteltu.
+Kokoontuminen 10-05-2026: eri erikoisalojen yhteinen kanta merkitty.
+Tähystyksen yhte-ydessä punktionäyte viikolla 18 perjantaina (2026).
+Pyyntö tuli perille 20-04-2026.
+Toimenpide toteutui eilen (SBRT).
+Aktiivista hoi toa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskert-omus.

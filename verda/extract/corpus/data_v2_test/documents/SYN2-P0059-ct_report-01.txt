@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0059
+document_id: SYN2-P0059-ct_report-01
+document_type: ct_report
+language: fi
+note_date: 2026-05-25
+display_name: Eeva Esimerkki SYN2-P0059 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 25.5.2026. Potilas: Eeva Esimerkk-i SYN2-P0059 (SYN2-P0059), s. 18.7.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittely stä (syntee ttinen harjoitusteksti).
+Tutkimus käytiin kuvaamassa 24. toukokuuta 2026.
+Konsultaatiopyyntö laadittiin 11. toukokuuta 2026, mutta se kirjattii n saapuneeksi vasta tokokuun 13. päivänä 2026.
+Kuvissa erottui vasemman alalohkon 2,4 cm muuots.
+— ote vanhasta kirjauksesta 23.2.2022: syntymäaika 18.7.1948; sappirakon poisto 23.2.2022; ei liit y nykyiseen k-euhko selvittelyyn. —
+Lonkkaproteesi operoitu 14.10.2020.
+
+Kirjaaja: synteettinen test-ikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0097
+document_id: SYN-P0097-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-07-19
+display_name: Ritva Rakennettu SYN-P0097 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 19.7.2026. Patient: Ritva Rakennettu SYN-P0097 (SYN-P0097), f. 28.10.1956.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 17.7.
+Biopsin ställdes in på patientens önskan.
+Kontrlolprov har beställts; svaren finns inte i denna anteckning.
+Föregående pneumoni behandlad 6.6.2020.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

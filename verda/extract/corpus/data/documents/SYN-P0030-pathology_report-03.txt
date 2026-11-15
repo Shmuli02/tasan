@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0030
+document_id: SYN-P0030-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-02-09
+display_name: Matti Mallipotilas SYN-P0030 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+KKeksityn yliopistollinen sairaala
+Kirjauspäivä 9.2.2026. Potilas: Matti Mallipotilas SYN-P0030 (SYN-P0030), s. 7.1.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 13.1.2026.
+Keuhko-TT tehty 25.1.26.
+Bronkoskopia ja biopsia tehty 6/2/2026.
+Histologinen vastaus saapui 9.2 (pienisoluinen keuhkosyöpä).
+Bronkoskopiaa ei tehty tässä käynnissä.
+Sappirakon poisto tehty 18.11.2019 (ei liity nykyiseen selvittelyyn).
+Edellinen keuhkokuume hoidettu 10.2.2010.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

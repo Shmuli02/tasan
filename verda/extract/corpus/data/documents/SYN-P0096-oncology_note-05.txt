@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0096
+document_id: SYN-P0096-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-06-28
+display_name: Kari Keinotekoinen SYN-P0096 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 28.6.2026. Potilas: Kari Keinotekoinen SYN-P0096 (SYN-P0096), s. 18.4.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: keuhkoklinikan lähete saapui 23.5.
+Tietokonetomografia (TT) suoritettiin 27.5.2026.
+Bronkoskopia 6.6.2026, näytteet otettu.
+Patologin lausunto 16.6.2026: levyepiteelikarsinooma.
+Esitiedot: hoitokokous 18.6.2026: moniammatillinen suositus kirjattu.
+Päätettiin 20.6 aloittaa SBRT.
+Keuhko-TT tehty 30.5.26.
+SBRT-sädehoito aloitettu eilen.
+Edellinen keuhkokuume hoidettu 7.10.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0016
+document_id: SYNTR-P0016-ct_report-02
+document_type: ct_report
+language: sv
+note_date: 2026-07-10
+display_name: Erik Exempel SYNTR-P0016 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Fiktiv lungavdelning
+Anteckningsdatum 10.7.2026. Patient: Erik Exempel SYNTR-P0016, s. 1.1.1950.
+SYNTETISK record, not a real person.
+
+Enheten öppnade remissen 17.6.2026.
+Lungornas snittbilder togs Sat 27.6.2026.
+Provtagning via spegling 1.7.2026.
+Patologisvar antecknades den 9 juli 2026 (squamous-cell carcinoma).
+
+Antecknat av: syntetisk testanvändare.

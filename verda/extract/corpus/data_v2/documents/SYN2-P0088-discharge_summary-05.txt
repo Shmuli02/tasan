@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0088
+document_id: SYN2-P0088-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-08-08
+display_name: Yrjö Yksikkötesti SYN2-P0088 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+ynt eettisen hyvin-v0intialueen keskuss-airaala
+Kirjauspäivä 8.8.2026. Potilas: Yrö Yksikköte-sti SYN2-P0088 (SYN2-P0088), s. 9.5.1956.
+SYNTEETTINEN potliaskertomus, ei oikeaa henkilöä.
+
+Diktoi tu mmerkintä ke uhkoselvittelystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköö kes-äkuun 22. päivänä 2026.
+Laboratorio ilmoitti hisstologian viikolla 29 tiistaina (2026): adenokars inooam.
+Ensimmainen hoitokerta oli eilen.
+Kud-osnaytteet haettiin toimenpiteessä heinäkuun 11. päivänä 2026.
+Kliininen valinta t-ehtiin 22. heinäkuuta 2026: SBRT.
+Yhteispalaveri järjesteettiin 19. heinäkuuta 2026; linja muodostettiin siellä.
+utkimus käytiin k-uv-aamassa 3. heinäkuuta 2026.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+
+Kirjaaaj: synteettinen testikäyttäjä. Tama ei ole oikea potilaskertomus.

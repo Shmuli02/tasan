@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0083
+document_id: SYN-P0083-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-08-04
+display_name: Helen Mockpatient SYN-P0083 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Invented University Hospital
+Note date 4.8.2026. Patient: Helen Mockpatient SYN-P0083 (SYN-P0083), DOB 11.8.1968.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+The referral was registered on 19/7.
+PET-CT performed on yesterday. Imaging showed a 3.1 cm tumour in the right upper lobe.
+CT planned for 14.8.2026 (not yet performed).
+Laboratory tests have been ordered; results are not in this note.
+Cholecystectomy performed on 9.7.2013 (unrelated to the present work-up).
+
+Entered by: synthetic test user. This is not a real clinical record.

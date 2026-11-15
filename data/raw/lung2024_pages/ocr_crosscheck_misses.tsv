@@ -1,0 +1,25 @@
+treatment_agestd_by_wsc_sex.cs	25	Kainuun	male	Leikkaushoito	n	7
+treatment_agestd_by_wsc_sex.cs	25	Keski-Pohjanmaan	male	Leikkaushoito	n	7
+treatment_agestd_by_wsc_sex.cs	25	Kymenlaakson	male	Leikkaushoito	value	6.5
+treatment_agestd_by_wsc_sex.cs	25	Päijät-Hämeen	male	Leikkaushoito	ci95_low	7.7
+treatment_agestd_by_wsc_sex.cs	25	Satakunnan	male	Leikkaushoito	ci95_low	7.3
+treatment_agestd_by_wsc_sex.cs	25	Vantaan ja Keravan	male	Lääkehoito	n	8
+treatment_agestd_by_wsc_sex.cs	25	Lapin	male	Sädehoito	ci95_high	27.7
+treatment_agestd_by_wsc_sex.cs	26	Keski-Pohjanmaan	female	Leikkaushoito	n	9
+treatment_agestd_by_wsc_sex.cs	26	Kymenlaakson	female	Leikkaushoito	n	17
+treatment_agestd_by_wsc_sex.cs	26	Länsi-Uudenmaan	female	Leikkaushoito	value	17.8
+treatment_agestd_by_wsc_sex.cs	26	Pohjanmaan	female	Leikkaushoito	n	26
+treatment_agestd_by_wsc_sex.cs	26	Satakunnan	female	Leikkaushoito	n	26
+treatment_agestd_by_wsc_sex.cs	26	Keski-Uudenmaan	female	Lääkehoito	value	7.3
+treatment_agestd_by_wsc_sex.cs	26	Länsi-Uudenmaan	female	Lääkehoito	ci95_low	7.1
+treatment_agestd_by_wsc_sex.cs	26	Pohjois-Savon	female	Lääkehoito	value	37.7
+treatment_agestd_by_wsc_sex.cs	26	Vantaan ja Keravan	female	Lääkehoito	n	8
+treatment_agestd_by_wsc_sex.cs	26	Varsinais-Suomen	female	Lääkehoito	n	4
+treatment_agestd_by_wsc_sex.cs	26	Etelä-Pohjanmaan	female	Sädehoito	value	19.7
+treatment_agestd_by_wsc_sex.cs	26	Kainuun	female	Sädehoito	n	17
+treatment_agestd_by_wsc_sex.cs	26	Keski-Pohjanmaan	female	Sädehoito	n	9
+treatment_agestd_by_wsc_sex.cs	26	Länsi-Uudenmaan	female	Sädehoito	ci95_high	37.7
+treatment_agestd_by_wsc_sex.cs	26	Pohjois-Savon	female	Sädehoito	value	43.7
+treatment_agestd_by_wsc_sex.cs	26	Satakunnan	female	Sädehoito	value	27.7
+first_event_cumulative_by_yta.	34	Sisä-Suomi	total	Muu kuin palliatiivinen sädehoito	value	7.1
+survival_1y_by_treatment_yta.c	39	Itä-Suomi	female	Leikkaushoito	n	96

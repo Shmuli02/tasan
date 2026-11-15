@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0069
+document_id: SYN2-P0069-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-25
+display_name: Ritva Rakennettu SYN2-P0069 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 25.6.2026. Potilas: Ritva Rakennettu SYN2-P0069 (SYN2-P0069), s. 26.3.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvantminen tehtiin 18. kesäkuuta 2026 (varaus oli aiemmin).
+Sovittiin hoitomuodosta 23. kesäkuuta 2026 (sädehoito).
+Pyyntö tuli perille viikolla 24 lauantaina (2026).
+Toimenpide varattiin kesäkuun 21. päivänä 2026, mutta näyte otettiin vasta viikolla 26 keskiviikkona (2026).
+Yhteispalaveri järjestettiin toissapäivänä; linja muodostettiin siellä.
+— ote vanhasta kirjauksesta 15.9.2016: syntymäaika 26.3.1955; sappirakon poisto 15.9.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tar kkaaa päivää ei ole tässä.
+
+Kirjaaja: syn-teettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,30 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0094
+document_id: SYN2-P0094-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-03-30
+display_name: Olli Oletettu SYN2-P0094 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hy vinvointialueen keskussairaala
+Kirjauspäivä 30.3.2026. Potilas: Olli Oletettu SYN2-P0094 (SYN2-P0094), s. 25.6.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa h enkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoit usteksti).
+Kliininen valinta tehtiin maaliskuun 22. päivänä 2026: sytostaatti.
+Lähete saapui toimistoon 14-02-2026 (kirjoituspäivä on eri, ks. alla).
+Morforloginen tulos tuli 15-03-2026 (adenokarsinooma).
+Tähystyksen yhteydessä punktionäyte 7. maaliskuuta 2026.
+Aktiivinen hoito käynnistyi maaliskuun 29. päivänä 2026.
+Kerroskuvaus toteutettiin viikolla 9 torstaina (2026).
+Yhteispalav-eri järjestettiin 20. maaliskuuta 2026; linja muodostettiin siellä.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+Aktiivi-sta hoitoa ei ole a1oit-ettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta k-irjauksesta 21.1.2018: syntymäaika 25.6.1953; sappirakon poisto 21.1.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontroll issa; tarkkaa päivää ei ole tässä.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kir jaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

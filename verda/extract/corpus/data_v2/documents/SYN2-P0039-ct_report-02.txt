@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0039
+document_id: SYN2-P0039-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-08-09
+display_name: Tuula Testinen SYN2-P0039 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 9.8.2026. Potilas: Tuula Testinen SYN2-P0039 (SYN2-P0039), s. 13.7.1958.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö k-irjattiin saapuneeksi 1. elokuuta 2026.
+Kuvausaika merkittiin kalenteriin 4. elokuuta 2026; itse tutkimus toteutettiin viikolla 32 perjantaina (2026).
+Kuvissa erottui oikean keskilohohon 4,0 cm massa.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 14.1.2016: syntymäaika 13.7.1958; sappirakon poisto 14.1.2016; ei liity nykyiseen keuhko selvittelyyn. —
+Lonkkap roteesi operoitu 26.7.2020.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilask-ertomus.

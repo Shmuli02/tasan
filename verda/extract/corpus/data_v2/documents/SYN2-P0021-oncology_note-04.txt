@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0021
+document_id: SYN2-P0021-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-02-20
+display_name: Karin Konstruerad SYN2-P0021 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 20.2.2026. Potilas: Karin Konstruerad SYN2-P0021 (SYN2-P0021), s. 28.9.1940.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö kirjattiin saapuneeksi viikolla 4 maanantaina (2026).
+Morforloginen tulos tuli 13. helmikuuta 2026 (adenokarsinooma).
+Kudosnäytteet haettiin toimenpiteessä 01-02-2026.
+Kuvantaminen tehtiin 25. tammikuuta 2026 (varaus oli aiemmin).
+Valittiin etenemistapa 20. helmikuuta 2026: sädehoito.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ot-e vanhasta kirjauksesta 7.11.2021: syntymäaika 28.9.1940; sappirakon poisto 7.11.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+A iemm-in jossain tammikuun alussa oli käynyt kontrollissa; tark kaa päivää ei ole tässä.
+Sappirakon poisto tehty 23.1.2020 (ei liity nykyiseen selv-ittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

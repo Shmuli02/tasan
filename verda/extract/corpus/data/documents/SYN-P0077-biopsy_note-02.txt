@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0077
+document_id: SYN-P0077-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-22
+display_name: Karin Konstruerad SYN-P0077 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 22.3.2026. Potilas: Karin Konstruerad SYN-P0077 (SYN-P0077), s. 8.8.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: tT-tutkimus tehty 16.3.
+Bronkoskpia ja biopsia tehty 22.3.2026.
+Bronkoskopiaa ei tehty tässä käynnissä.
+Lonkkaproteesi operoitu 5.12.2013.
+
+Kirjaaja: synteettinen tstikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0109
+document_id: SYN-P0109-pathology_report-03
+document_type: pathology_report
+language: sv
+note_date: 2026-05-31
+display_name: Mary Fictitious SYN-P0109 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 31.5.2026. Patient: Mary Fictitious SYN-P0109 (SYN-P0109), f. 14.4.1949.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 25.4.26.
+PET-DT utförd 11.5.
+EBUS-bronkoskopi genomförd 21.5.2026; biopsier tagna.
+Patologiskt utlåtande 30.5.2026: skivepitelkarcinom.
+MDK flyttas till nästa vecka; ingen konferens hölls idag.
+Kontrollprov har beställts; svaren finns inte i denna anteckning.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

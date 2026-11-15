@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0029
+document_id: SYNTR-P0029-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-16
+display_name: Eeva Esimerkki SYNTR-P0029 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Keksitty keuhkoyksikkö
+Kirjauspäivä 16.8.2026. Potilas: Eeva Esimerkki SYNTR-P0029, s. 1.1.1950.
+SYNTEETTINEN record, not a real person.
+
+Lähetemerkintä avattiin 2026-07-02.
+Kuvausprotokolla ajettiin 11.7.2026.
+Kudospala irrotettiin toimenpiteessä 17. heinäkuuta 2026.
+Patologian tulos kirjattiin ke 29.7.2026 (NSCLC).
+Moniammatillinen linjapalaveri 1.8.2026; suositus kirjattu.
+Hoidon valinta vahvistettiin 1. elokuuta 2026: SBRT.
+Hoito käynnistyi 15.8.2026 (SBRT).
+
+Kirjaaja: synteettinen testikäyttäjä.

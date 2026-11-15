@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0034
+document_id: SYN-P0034-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-03-14
+display_name: Pekka Paikkamerkki SYN-P0034 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 14.3.2026. Potilas: Pekka Paikkamerkki SYN-P0034 (SYN-P0034), s. 28.4.1942.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 17.2.
+Esitiedot: tohraxin TT tehty 25.2.26.
+Esitiedot: bronkoskopia ja biopsia tehty 3.3.26.
+Patologin lausunto 13.3.2026: NSCLC, ei tarkemmin luokiteltu.
+PET-TT varattu 25.3.2026, tutkimus on vasta suunnitelmissa.
+Sappirakon poisto tehty 19.7.2014 (ei liity nykyiseen selvittelyyn).
+
+Kirjjaaja: synteettinen testikäyttäjä. Tämä ei ole oikeaa potilaskertomus.

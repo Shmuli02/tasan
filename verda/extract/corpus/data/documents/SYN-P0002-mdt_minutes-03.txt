@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0002
+document_id: SYN-P0002-mdt_minutes-03
+document_type: mdt_minutes
+language: sv
+note_date: 2026-04-09
+display_name: Matti Mallipotilas SYN-P0002 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva valfardsomradets centralsjukhus
+Anteckningsdatum 9.4.2026. Patient: Matti Mallipotilas SYN-P0002 (SYN-P0002), f. 11.11.1943.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 8.3.2026.
+Föregående uppgifter: dT torax utförd 21.3.2026.
+Biopsire togs vid bronkoskopi 26.3.26.
+Histologiskt svar inkom i söndags (adenokarcinom).
+Vårdkonferens 9.4.2026: multidisciplinär rekommendation.
+Födelsedatum 11.11.1943 kontrollerat i befolkningsuppgitferna.
+Gallblåsan opererades bort 18.3.2012 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk tetanvändare. Detta är inte en verklig journal.

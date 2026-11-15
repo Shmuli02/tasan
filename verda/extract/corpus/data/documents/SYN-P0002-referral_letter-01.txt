@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0002
+document_id: SYN-P0002-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-03-08
+display_name: Matti Mallipotilas SYN-P0002 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 8.3.2026. Potilas: Matti Mallipotilas SYN-P0002 (SYN-P0002), s. 11.11.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 8.3.2026.
+Hoitoa ei ole aloitettu.
+Sappirakon poisto tehty 15.2.2015 (ei liity nykyiseen selvittelyyn).
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

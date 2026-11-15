@@ -1,0 +1,790 @@
+{
+  "synthetic": true,
+  "banner": "SYNTHETIC · NOT A REAL PATIENT",
+  "n": 10,
+  "note_ids": [
+    "SYN-P0005-referral_letter-01",
+    "SYN-P0012-ct_report-01",
+    "SYN-P0039-biopsy_note-03",
+    "SYN-P0021-pathology_report-02",
+    "SYN-P0036-mdt_minutes-05",
+    "SYN-P0105-discharge_summary-06",
+    "SYN2-P0014-referral_letter-01",
+    "SYN2-P0062-ct_report-01",
+    "SYN2-P0008-biopsy_note-02",
+    "SYN2-P0054-oncology_note-04"
+  ],
+  "open_note_id": "SYN2-P0054-oncology_note-04",
+  "language": "en",
+  "fallback_translated": 0,
+  "source_now": "qwen3-32b",
+  "source_after_gpu": "qwen3-32b",
+  "notes": [
+    {
+      "note_id": "SYN-P0005-referral_letter-01",
+      "patient_id": "SYN-P0005",
+      "lang": "en",
+      "doc_type": "referral_letter",
+      "note_date": "2026-05-02",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0005\ndocument_id: SYN-P0005-referral_letter-01\ndocument_type: referral_letter\nlanguage: en\nnote_date: 2026-05-02\ndisplay_name: Kirsi Keksitty SYN-P0005 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nSynthetic Wellbeing County Hospital\nNote date 2.5.2026. Patient: Kirsi Keksitty SYN-P0005 (SYN-P0005), DOB 12.5.1938.\nSYNTHETIC record, not a real person.\n\nReason for visit: work-up of suspected lung cancer (synthetic example).\nReferral received by the lung clinic on 2.5.2026.\nCholecystectomy performed on 27.8.2021 (unrelated to the present work-up).\n\nEntered by: synthetic test user. This is not a real clinical record.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-05-02",
+          "evidence_span": "Referral received by the lung clinic on 2.5.2026.",
+          "start": 785,
+          "end": 834,
+          "confidence": 1.0
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-05-02",
+          "evidence_span": "Referral received by the lung clinic on 2.5.2026.",
+          "start": 785,
+          "end": 834,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 0,
+      "alert": false,
+      "patient_day_count": 37,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b",
+      "translation": null
+    },
+    {
+      "note_id": "SYN-P0012-ct_report-01",
+      "patient_id": "SYN-P0012",
+      "lang": "en",
+      "doc_type": "ct_report",
+      "note_date": "2026-06-16",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0012\ndocument_id: SYN-P0012-ct_report-01\ndocument_type: ct_report\nlanguage: en\nnote_date: 2026-06-16\ndisplay_name: Kari Keinotekoinen SYN-P0012 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nPlaceholder Lung Clinic\nNote date 16.6.2026. Patient: Kari Keinotekoinen SYN-P0012 (SYN-P0012), DOB 13.11.1960.\nSYNTHETIC record, not a real person.\n\nReason for visit: work-up of suspected lung cancer (synthetic example).\nReferral received by the lung clinic on 10.6.2026.\nChest CT performed on 16.6.2026. Imaging showed a 1.8 cm nodule in the left upper lobe with mediastinal nodes.\nLaboratory tests have been ordered; results are not in this note.\nCholecystectomy performed on 5.5.2022 (unrelated to the present work-up).\n\nEntered by: synthetic test user. This is not a real clinical record.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-06-10",
+          "evidence_span": "Referral received by the lung clinic on 10.6.2026.",
+          "start": 771,
+          "end": 821,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-06-16",
+          "evidence_span": "Chest CT performed on 16.6.2026. Imaging showed a 1.8 cm nodule in the left upper lobe with mediastinal nodes.",
+          "start": 822,
+          "end": 932,
+          "confidence": 1.0
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-06-10",
+          "evidence_span": "Referral received by the lung clinic on 10.6.2026.",
+          "start": 771,
+          "end": 821,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-06-16",
+          "evidence_span": "Chest CT performed on 16.6.2026. Imaging showed a 1.8 cm nodule in the left upper lobe with mediastinal nodes.",
+          "start": 822,
+          "end": 932,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 6,
+      "alert": false,
+      "patient_day_count": 41,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b",
+      "translation": null
+    },
+    {
+      "note_id": "SYN-P0039-biopsy_note-03",
+      "patient_id": "SYN-P0039",
+      "lang": "en",
+      "doc_type": "biopsy_note",
+      "note_date": "2026-04-08",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0039\ndocument_id: SYN-P0039-biopsy_note-03\ndocument_type: biopsy_note\nlanguage: en\nnote_date: 2026-04-08\ndisplay_name: Tuula Testinen SYN-P0039 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nSynthetic Wellbeing County Hospital\nNote date 8.4.2026. Patient: Tuula Testinen SYN-P0039 (SYN-P0039), DOB 2.6.1951.\nSYNTHETIC record, not a real person.\n\nReason for visit: work-up of suspected lung cancer (synthetic example).\nHistory: specialist referral received 16.3.2026.\nHistory: pET-CT performed on 1.4.2026.\nEBUS bronchoscopy carried out on 8.4.2026; biopsies taken.\nHip replacement on 2.11.2018.\n\nEntered by: synthetic test user. This is not a real clinical record.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-16",
+          "evidence_span": "History: specialist referral received 16.3.2026.",
+          "start": 776,
+          "end": 824,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-01",
+          "evidence_span": "History: pET-CT performed on 1.4.2026.",
+          "start": 825,
+          "end": 863,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-04-08",
+          "evidence_span": "EBUS bronchoscopy carried out on 8.4.2026; biopsies taken.",
+          "start": 864,
+          "end": 922,
+          "confidence": 1.0
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-16",
+          "evidence_span": "specialist referral received 16.3.2026.",
+          "start": 785,
+          "end": 824,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-01",
+          "evidence_span": "pET-CT performed on 1.4.2026.",
+          "start": 834,
+          "end": 863,
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-04-08",
+          "evidence_span": "EBUS bronchoscopy carried out on 8.4.2026; biopsies taken.",
+          "start": 864,
+          "end": 922,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 23,
+      "alert": false,
+      "patient_day_count": 37,
+      "patient_alert": true,
+      "patient_archetype": "mid",
+      "source": "qwen3-32b",
+      "translation": null
+    },
+    {
+      "note_id": "SYN-P0021-pathology_report-02",
+      "patient_id": "SYN-P0021",
+      "lang": "en",
+      "doc_type": "pathology_report",
+      "note_date": "2026-09-20",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0021\ndocument_id: SYN-P0021-pathology_report-02\ndocument_type: pathology_report\nlanguage: en\nnote_date: 2026-09-20\ndisplay_name: Karin Konstruerad SYN-P0021 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nInvented University Hospital\nNote date 20.9.2026. Patient: Karin Konstruerad SYN-P0021 (SYN-P0021), DOB 25.7.1956.\nSYNTHETIC record, not a real person.\n\nReason for vvisit: work-up of suspected lung cancer (synthetic example).\nHistory: referral received by the lung clinic on 23/8/2026.\nCT thorax was carried out on 6.9.26.\nBiopsies were obtained during bronchoscopy on 15.9.2026.\nPathology result issued on 19.9.2026: squamous cell carcinoma.\nBronchoscopy was not performed at this visit.\nCholecystectomy perfrmed on 8.5.2021 (unrelated to the present work-up).\nHip replacement on 8.5.2021.\n\nEntered by: synthetic test user. This is not a real clinical record.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-08-23",
+          "evidence_span": "History: referral received by the lung clinic on 23/8/2026.",
+          "start": 788,
+          "end": 847,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-09-06",
+          "evidence_span": "CT thorax was carried out on 6.9.26.",
+          "start": 848,
+          "end": 884,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-09-15",
+          "evidence_span": "Biopsies were obtained during bronchoscopy on 15.9.2026.",
+          "start": 885,
+          "end": 941,
+          "confidence": 1.0
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-09-19",
+          "evidence_span": "Pathology result issued on 19.9.2026: squamous cell carcinoma.",
+          "start": 942,
+          "end": 1004,
+          "confidence": 1.0
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-08-23",
+          "evidence_span": "referral received by the lung clinic on 23/8/2026.",
+          "start": 797,
+          "end": 847,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-09-06",
+          "evidence_span": "CT thorax was carried out on 6.9.26.",
+          "start": 848,
+          "end": 884,
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-09-15",
+          "evidence_span": "Biopsies were obtained during bronchoscopy on 15.9.2026.",
+          "start": 885,
+          "end": 941,
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-09-19",
+          "evidence_span": "Pathology result issued on 19.9.2026: squamous cell carcinoma.",
+          "start": 942,
+          "end": 1004,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 28,
+      "alert": true,
+      "patient_day_count": 44,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b",
+      "translation": null
+    },
+    {
+      "note_id": "SYN-P0036-mdt_minutes-05",
+      "patient_id": "SYN-P0036",
+      "lang": "en",
+      "doc_type": "mdt_minutes",
+      "note_date": "2026-01-28",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0036\ndocument_id: SYN-P0036-mdt_minutes-05\ndocument_type: mdt_minutes\nlanguage: en\nnote_date: 2026-01-28\ndisplay_name: Hannu Harjoitus SYN-P0036 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nSynthetic Wellbeing County Hospital\nNote date 28.1.2026. Patient: Hannu Harjoitus SYN-P0036 (SYN-P0036), DOB 25.4.1943.\nSYNTHETIC record, not a real person.\n\nReason for visit: work-up of suspected lung cancer (synthetic example).\nReferral received by the lung clinic on 3.1.26.\nPET-CT performed on 8.1.26.\nHistory: bronchoscopy and biopsy performed on 20.1.2026.\nHistory: pAD result available 26.1.26 (squamous cell carcinoma).\nMDT on 28.1: treatment pathway confirmed.\nPET-CT booked for 2.2.2026, still only planned.\nPrevious pneumonia treated on 4.10.2015.\n\nEntered by: synthetic test user. This is not a real clinical record.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-01-03",
+          "evidence_span": "Referral received by the lung clinic on 3.1.26.",
+          "start": 780,
+          "end": 827,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-01-08",
+          "evidence_span": "PET-CT performed on 8.1.26.",
+          "start": 828,
+          "end": 855,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-01-20",
+          "evidence_span": "History: bronchoscopy and biopsy performed on 20.1.2026.",
+          "start": 856,
+          "end": 912,
+          "confidence": 1.0
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-01-26",
+          "evidence_span": "History: pAD result available 26.1.26 (squamous cell carcinoma).",
+          "start": 913,
+          "end": 977,
+          "confidence": 1.0
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-01-28",
+          "evidence_span": "MDT on 28.1: treatment pathway confirmed.",
+          "start": 978,
+          "end": 1019,
+          "confidence": 1.0
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-01-03",
+          "evidence_span": "Referral received by the lung clinic on 3.1.26.",
+          "start": 780,
+          "end": 827,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-01-08",
+          "evidence_span": "PET-CT performed on 8.1.26.",
+          "start": 828,
+          "end": 855,
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-01-20",
+          "evidence_span": "History: bronchoscopy and biopsy performed on 20.1.2026.",
+          "start": 856,
+          "end": 912,
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-01-26",
+          "evidence_span": "History: pAD result available 26.1.26 (squamous cell carcinoma).",
+          "start": 913,
+          "end": 977,
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-01-28",
+          "evidence_span": "MDT on 28.1: treatment pathway confirmed.",
+          "start": 978,
+          "end": 1019,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 25,
+      "alert": false,
+      "patient_day_count": 27,
+      "patient_alert": false,
+      "patient_archetype": "mid",
+      "source": "qwen3-32b",
+      "translation": null
+    },
+    {
+      "note_id": "SYN-P0105-discharge_summary-06",
+      "patient_id": "SYN-P0105",
+      "lang": "en",
+      "doc_type": "discharge_summary",
+      "note_date": "2026-04-26",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0105\ndocument_id: SYN-P0105-discharge_summary-06\ndocument_type: discharge_summary\nlanguage: en\nnote_date: 2026-04-26\ndisplay_name: Karin Konstruerad SYN-P0105 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nSynthetic Wellbeing County Hospital\nNote date 26.4.2026. Patient: Karin Konstruerad SYN-P0105 (SYN-P0105), DOB 17.11.1963.\nSYNTHETIC record, not a real person.\n\nReason for visit: work-up of suspected lung cancer (synthetic example).\nReferral received by the lung clinic on 23/3/2026.\nCT thorax was carried out on 2.4.2026.\nEBUS bronchoscopy carried out on 6.4.26; biopsies taken.\nPathology result issued on 12.4.2026: NSCLC, not otherwise specified.\nMDT conference 2026-04-15: multidisciplinary recommendation recorded.\nTreatment decision on 17/4/2026: SBRT.\nSBRT radiotherapy started on 26.4.26.\nDate of birth 17.11.1963 confirmed from the population register.\nCholecystectomy performed on 13.7.2012 (unrelated to the present work-up).\nLaboratory tests have been ordered; results are not in this note.\n\nEntered by: synthetic test user. This is not a real clinical record.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-23",
+          "evidence_span": "Referral received by the lung clinic on 23/3/2026.",
+          "start": 797,
+          "end": 847,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-02",
+          "evidence_span": "CT thorax was carried out on 2.4.2026.",
+          "start": 848,
+          "end": 886,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-04-06",
+          "evidence_span": "EBUS bronchoscopy carried out on 6.4.26; biopsies taken.",
+          "start": 887,
+          "end": 943,
+          "confidence": 1.0
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-04-12",
+          "evidence_span": "Pathology result issued on 12.4.2026: NSCLC, not otherwise specified.",
+          "start": 944,
+          "end": 1013,
+          "confidence": 1.0
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-04-15",
+          "evidence_span": "MDT conference 2026-04-15: multidisciplinary recommendation recorded.",
+          "start": 1014,
+          "end": 1083,
+          "confidence": 1.0
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-04-17",
+          "evidence_span": "Treatment decision on 17/4/2026: SBRT.",
+          "start": 1084,
+          "end": 1122,
+          "confidence": 1.0
+        },
+        {
+          "type": "treatment_start",
+          "date": "2026-04-26",
+          "evidence_span": "SBRT radiotherapy started on 26.4.26.",
+          "start": 1123,
+          "end": 1160,
+          "confidence": 1.0
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-23",
+          "evidence_span": "Referral received by the lung clinic on 23/3/2026.",
+          "start": 797,
+          "end": 847,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-02",
+          "evidence_span": "CT thorax was carried out on 2.4.2026.",
+          "start": 848,
+          "end": 886,
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-04-06",
+          "evidence_span": "EBUS bronchoscopy carried out on 6.4.26; biopsies taken.",
+          "start": 887,
+          "end": 943,
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-04-12",
+          "evidence_span": "Pathology result issued on 12.4.2026: NSCLC, not otherwise specified.",
+          "start": 944,
+          "end": 1013,
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-04-15",
+          "evidence_span": "MDT conference 2026-04-15: multidisciplinary recommendation recorded.",
+          "start": 1014,
+          "end": 1083,
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-04-17",
+          "evidence_span": "Treatment decision on 17/4/2026: SBRT.",
+          "start": 1084,
+          "end": 1122,
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_start",
+          "date": "2026-04-26",
+          "evidence_span": "SBRT radiotherapy started on 26.4.26.",
+          "start": 1123,
+          "end": 1160,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 34,
+      "alert": false,
+      "patient_day_count": 34,
+      "patient_alert": false,
+      "patient_archetype": "distractor",
+      "source": "qwen3-32b",
+      "translation": null
+    },
+    {
+      "note_id": "SYN2-P0014-referral_letter-01",
+      "patient_id": "SYN2-P0014",
+      "lang": "en",
+      "doc_type": "referral_letter",
+      "note_date": "2026-08-05",
+      "corpus_id": "tasan-extract-synthetic-v2",
+      "split": "test",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v2\npatient_id: SYN2-P0014\ndocument_id: SYN2-P0014-referral_letter-01\ndocument_type: referral_letter\nlanguage: en\nnote_date: 2026-08-05\ndisplay_name: Juhani Jäljitelmä SYN2-P0014 (invented)\nDO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.\n==============================================================================\nInvented University Hospital\nN-ote date 5.8.2026. Patien-t: Juhani Jäljitelmä SYN2-P0014 (SYN2-P0014), DOB 28.7.1957.\nSYNTHETIC record, not a real person.\n\nDictated entry from the lung work-up (synthetic training text).\nThe consultation request was written on July the 29, 2026, but was only logged as having arrived on in week 32 on Tuesday (2026).\n\nEntered by: synthetic test user. This is not a real clinical record.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-08-04",
+          "evidence_span": "The consultation request was written on July the 29, 2026, but was only logged as having arrived on in week 32 on Tuesday (2026).",
+          "start": 813,
+          "end": 942,
+          "confidence": 1.0
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-08-10",
+          "evidence_span": "The consultation request was written on July the 29, 2026, but was only logged as having arrived on in week 32 on Tuesday (2026).",
+          "start": 813,
+          "end": 942,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 1,
+      "alert": false,
+      "patient_day_count": 60,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b",
+      "translation": null
+    },
+    {
+      "note_id": "SYN2-P0062-ct_report-01",
+      "patient_id": "SYN2-P0062",
+      "lang": "en",
+      "doc_type": "ct_report",
+      "note_date": "2026-08-03",
+      "corpus_id": "tasan-extract-synthetic-v2",
+      "split": "test",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v2\npatient_id: SYN2-P0062\ndocument_id: SYN2-P0062-ct_report-01\ndocument_type: ct_report\nlanguage: en\nnote_date: 2026-08-03\ndisplay_name: Pekka Paikkamerkki SYN2-P0062 (invented)\nDO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.\n==============================================================================\nPlaceholder Lung Clinic\nNote date 3.8.2026. Patient: Pekka Paikkamerkki SYN2-P0062 (SYN2-P0062), DOB 16.3.1938.\nSYNTHETIC record, not a real person.\n\nDictated entry from the lung work-up (synthetic training text).\nThe scan itself took place on August the 2, 2026 (the slot had been booked earlier).\nThe consultation request was written on 18 July 2026, but was only logged as having arrived on 24 July 2026.\nThe pictures showed a 3.1 cm tumour in the right upper lobe.\n\nEntered by: synthetic test user. This is not a real clinical recor d.\n",
+      "gold_events": [
+        {
+          "type": "ct_done",
+          "date": "2026-08-02",
+          "evidence_span": "The scan itself took place on August the 2, 2026 (the slot had been booked earlier).",
+          "start": 796,
+          "end": 880,
+          "confidence": 1.0
+        },
+        {
+          "type": "referral_received",
+          "date": "2026-07-24",
+          "evidence_span": "The consultation request was written on 18 July 2026, but was only logged as having arrived on 24 July 2026.",
+          "start": 881,
+          "end": 989,
+          "confidence": 1.0
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-24",
+          "evidence_span": "The consultation request was written on 18 July 2026, but was only logged as having arrived on 24 July 2026.",
+          "start": 881,
+          "end": 989,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-08-02",
+          "evidence_span": "The scan itself took place on August the 2, 2026 (the slot had been booked earlier).",
+          "start": 796,
+          "end": 880,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 10,
+      "alert": false,
+      "patient_day_count": 67,
+      "patient_alert": true,
+      "patient_archetype": "late_wait",
+      "source": "qwen3-32b",
+      "translation": null
+    },
+    {
+      "note_id": "SYN2-P0008-biopsy_note-02",
+      "patient_id": "SYN2-P0008",
+      "lang": "en",
+      "doc_type": "biopsy_note",
+      "note_date": "2026-04-29",
+      "corpus_id": "tasan-extract-synthetic-v2",
+      "split": "dev",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v2\npatient_id: SYN2-P0008\ndocument_id: SYN2-P0008-biopsy_note-02\ndocument_type: biopsy_note\nlanguage: en\nnote_date: 2026-04-29\ndisplay_name: Hannu Harjoitus SYN2-P0008 (invented)\nDO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.\n==============================================================================\nPlaceholder Lung Clinic\nNote date 29.4.2026. Patient: Hannu Harjoitus SYN2-P0008 (SYN2-P0008), DOB 11.11.1958.\nSYNTHETIC record, not a real person.\n\nD ictated entry from the lung work-up (synthetic training text).\nCross-sectional imaging was carried out on in week 17 on Saturday (2026).\nThe procedure was booked on 21-04-2026, but sampling only took place on in week 18 on Tuesday (2026).\nThe consultation request was logged as having arrived on 19 April 2026.\n— excerpt from an older note dated 3.7.2015: date of birth 11.11.1958; cholecystectomy 3.7.2015; unrelated to the present lung work-up. —\nPreviously, sometime in early January, there was a follow-up visit; the exact day is not in this note.\nCholecystectomy performed on 10.5.2024 (unrelated to the present work-up).\n\nEntered by: synthetic test user. This is not a real clinical record.\n",
+      "gold_events": [
+        {
+          "type": "ct_done",
+          "date": "2026-04-25",
+          "evidence_span": "Cross-sectional imaging was carried out on in week 17 on Saturday (2026).",
+          "start": 797,
+          "end": 870,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-04-28",
+          "evidence_span": "The procedure was booked on 21-04-2026, but sampling only took place on in week 18 on Tuesday (2026).",
+          "start": 871,
+          "end": 972,
+          "confidence": 1.0
+        },
+        {
+          "type": "referral_received",
+          "date": "2026-04-19",
+          "evidence_span": "The consultation request was logged as having arrived on 19 April 2026.",
+          "start": 973,
+          "end": 1044,
+          "confidence": 1.0
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-19",
+          "evidence_span": "The consultation request was logged as having arrived on 19 April 2026.",
+          "start": 973,
+          "end": 1044,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-05-02",
+          "evidence_span": "The procedure was booked on 21-04-2026, but sampling only took place on in week 18 on Tuesday (2026).",
+          "start": 871,
+          "end": 972,
+          "confidence": 0.9
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 10,
+      "alert": false,
+      "patient_day_count": 50,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b",
+      "translation": null
+    },
+    {
+      "note_id": "SYN2-P0054-oncology_note-04",
+      "patient_id": "SYN2-P0054",
+      "lang": "en",
+      "doc_type": "oncology_note",
+      "note_date": "2026-08-04",
+      "corpus_id": "tasan-extract-synthetic-v2",
+      "split": "dev",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v2\npatient_id: SYN2-P0054\ndocument_id: SYN2-P0054-oncology_note-04\ndocument_type: oncology_note\nlanguage: en\nnote_date: 2026-08-04\ndisplay_name: Alan Invented SYN2-P0054 (invented)\nDO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.\n==============================================================================\nPlaceholder Lung Clinic\nNote date 4.8.2026. Patient: Alan Invented SYN2-P0054 (SYN2-P0054), DOB 25.8.1963.\nSYNTHETIC record, not a real person.\n\nDictated entry from the lung work-up (synthetic training text).\nThe lab released the histology on July the 2, 2026: adenocarcinoma.\nImaging was completed on 18 June 2026.\nA joint case conference took place on July the 5, 2026; the shared view was recorded.\nSampling was carried out at the procedure on 28 June 2026.\nThe way forwar d was chosen on 05-07-2026: SBRT.\nThe consultation request was logged as having arrived on 04-06-2026.\nImaging is only a reserved slot on 15 August 2026 and has not been carried out.\nNext steps remain open. Active therapy has not got under way at this stage.\n— excerpt from an older note dated 27.5.2023: date of birth 25.8.1963; cholecystectomy 27.5.2023; unrelated to the present lung work-up. —\nPreviously, sometime in early Janu-ary, there was a follow-up visit; the exact day is not in this note.\n\nEntered by: synthetic test user. This is not a real clinical record.\n",
+      "gold_events": [
+        {
+          "type": "pathology_result",
+          "date": "2026-07-02",
+          "evidence_span": "The lab released the histology on July the 2, 2026: adenocarcinoma.",
+          "start": 794,
+          "end": 861,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-06-18",
+          "evidence_span": "Imaging was completed on 18 June 2026.",
+          "start": 862,
+          "end": 900,
+          "confidence": 1.0
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-07-05",
+          "evidence_span": "A joint case conference took place on July the 5, 2026; the shared view was recorded.",
+          "start": 901,
+          "end": 986,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-06-28",
+          "evidence_span": "Sampling was carried out at the procedure on 28 June 2026.",
+          "start": 987,
+          "end": 1045,
+          "confidence": 1.0
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-07-05",
+          "evidence_span": "The way forwar d was chosen on 05-07-2026: SBRT.",
+          "start": 1046,
+          "end": 1094,
+          "confidence": 1.0
+        },
+        {
+          "type": "referral_received",
+          "date": "2026-06-04",
+          "evidence_span": "The consultation request was logged as having arrived on 04-06-2026.",
+          "start": 1095,
+          "end": 1163,
+          "confidence": 1.0
+        }
+      ],
+      "model_events": [
+        {
+          "type": "pathology_result",
+          "date": "2026-07-02",
+          "evidence_span": "The lab released the histology on July the 2, 2026: adenocarcinoma.",
+          "start": 794,
+          "end": 861,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-06-18",
+          "evidence_span": "Imaging was completed on 18 June 2026.",
+          "start": 862,
+          "end": 900,
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-06-28",
+          "evidence_span": "Sampling was carried out at the procedure on 28 June 2026.",
+          "start": 987,
+          "end": 1045,
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-07-05",
+          "evidence_span": "A joint case conference took place on July the 5, 2026; the shared view was recorded.",
+          "start": 901,
+          "end": 986,
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-07-05",
+          "evidence_span": "The way forwar d was chosen on 05-07-2026: SBRT.",
+          "start": 1046,
+          "end": 1094,
+          "confidence": 0.95
+        },
+        {
+          "type": "referral_received",
+          "date": "2026-06-04",
+          "evidence_span": "The consultation request was logged as having arrived on 04-06-2026.",
+          "start": 1095,
+          "end": 1163,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 61,
+      "alert": true,
+      "patient_day_count": 61,
+      "patient_alert": true,
+      "patient_archetype": "late_wait",
+      "source": "qwen3-32b",
+      "translation": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0084
+document_id: SYN2-P0084-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-06-07
+display_name: Peter Samplecase SYN2-P0084 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 7.6.2026. Potilas: Peter Samplecase SYN2-P0084 (SYN2-P0084), s. 16.4.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteet tinen harjoitusteksti).
+Kliininen valinta tehtiin 25. toukokuuta 2026: kiilaresektio.
+oTimenpide toteutui eilen (kiilaresektio).
+Konsultaatiopyyntö kirjattiin saapuneeksi 4. toukokuuta 2026.
+Kuvantaminen tehtiin toukokuun 11. päivänä 2026 (varaus oli aiemmin).
+Tiimikokous pidetttiin 24. toukokuuta 2026 ja suositus kirjattiin.
+Morforloginen tulos tuli 22. toukkokuuta 2026 (adenokarsinooma).
+Tähystyksen yhteydessä punktionäyte 15. toukokuuta 2026.
+Tiimikokousta ei jarjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 26.12.2014: syntymäaika 16.4.1946; sappriakon poisto 26.12.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+Potilas tupakoinut aiemmin; vieroi tusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

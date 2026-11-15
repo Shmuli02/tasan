@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0079
+document_id: SYN-P0079-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-03-17
+display_name: Jane Synthetic SYN-P0079 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 17.3.2026. Potilas: Janee Synthetic SYN-P0079 (SYN-P0079), s. 19.2.1939.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhko-TT tehty 28.2.
+Bronkoskopia 5.3.26, näytteet otettu.
+Esitiedot: histologinen vastaus saapui 12.3.2026 (pienisoluinen keuhkosyöpä).
+Hoitokokous 16.3.2026: moniammatillinen suositus kirjattu.
+Hoitoa ei ole aloitettu.
+Edellinen keuhkokuume hoidettu 24.6.2010.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertommus.

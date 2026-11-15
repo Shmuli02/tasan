@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0014
+document_id: SYN-P0014-mdt_minutes-04
+document_type: mdt_minutes
+language: sv
+note_date: 2026-04-21
+display_name: Juhani Jäljitelmä SYN-P0014 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 21.4.2026. Patient: Juhani Jäljitelmä SYN-P0014 (SYN-P0014), f. 8.6.1946.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Specialistremiss rgeistrerad 9/3.
+DT torax utförd 24.3.2026.
+Föregående uppgifter: eBUS-bronkoskopi genomförd 2.4.26; biopsier tagna.
+Föregående uppgifter: patologiskt ultåtande 2026-04-13: NSCLC, ej närmare klassificerad.
+Vårdkonferens 21.4: multidisciplinär rekommendation.
+Föregående pneumoni behandlad 25.9.2021.
+
+Antecknat av: syntetiisk testanvändare. Detta är inte en verklig journal.

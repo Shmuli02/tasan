@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0028
+document_id: SYN2-P0028-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-09-15
+display_name: Peter Samplecase SYN2-P0028 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 15.9.2026. Potilas: Peter Samplcease SYN2-P0028 (SYN2-P0028), s. 25.1.1968.
+SYNTEETTINEN potilaskertomus, ei oieaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Mikroskooppinen lausunto valmistui toissa-päivänä: pienisoluinen keuhkosyöpä.
+Asiakirja merkittiin saapuneeksi ke uhkoyksikköön viikolla 35 keskiviikkona (2026).
+Kudosnäytteet haettiin toimenpiteessä 3. syyskuuta 2026.
+Tutkimus käytiin kuvaamassa 30. elokuuta 2026.
+— ote vanhasta kirjauksesta 20.11.2018: syntymäaika 25.1.1968; sappirakon poisto 20.11.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettine testikäyttäjä. Tämä ei ole oikea potilask ertomus.

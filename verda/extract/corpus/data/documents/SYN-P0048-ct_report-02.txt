@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0048
+document_id: SYN-P0048-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-03-23
+display_name: Johan Testdata SYN-P0048 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 23.3.2026. Potilas: Johan Testdata SYN-P0048 (SYN-P0048), s. 5.7.1950.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lhete saapunut keuhkoklinikalle 8.3.26.
+TT-tutkimus tehty 23/3. Kuvauksessa todettiin oikean ylälohkon 3,1 cm tuumori.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

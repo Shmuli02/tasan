@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0074
+document_id: SYN-P0074-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-09-06
+display_name: Lars Låtsas SYN-P0074 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 6.9.2026. Potilas: Lars Låtsas SYN-P0074 (SYN-P0074), s. 26.4.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 24.7.26.
+Esitiedot: tT-tutkimus tehty 8.8.2026.
+Esitiedot: bronkoskopia 14.8.26, näytteet otettu.
+PAD-vastaus valmistui 19.8.26: pienisoluinen keuhkosyöpä.
+Hoitokokous kaksi viikkoa sitten: moniammatillinen suositus kirjattu.
+Päätettiin kaksi viikkoa sitten aloittaa SBRT.
+SBRT-sädehoito aloitettu 5.9.2026.
+Syntymäaika 26.4.1949 tarkistettu väestötiedoista.
+Edellinen keuhkokuume hoidettu 13.12.2011.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

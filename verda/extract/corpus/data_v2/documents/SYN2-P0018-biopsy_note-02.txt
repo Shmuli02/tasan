@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0018
+document_id: SYN2-P0018-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-20
+display_name: Lars Låtsas SYN2-P0018 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 20.6.2026. Potilas: Lars Låtsas SYN2-P0018 (SYN2-P0018), s. 28.10.1947.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille viikolla 23 keskiviikkona (2026).
+Leikekuvaus on suoritettu 6. kesäku-uta 2026.
+Toimenpide varattiin maanantaina, mutta näyte otettiin vasta 18. kesäkuuta 2026.
+Kuvissa erottui oikean ylälohkon 3,1 cm tuumori.
+Kuvantaminen on vasta ajanvaraus 4. heinäkuuta 2026, sitä e-i ole toteutettu.
+— ot-e vanhasta kirjauksesta 14.9.2016: syntymäaika 28.10.1947; sappirakon poisto 14.9.2016; ei liity nykyiseen ke-uhkoselvi ttelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Edellinen keuhkokuume hoidettu 5.6.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

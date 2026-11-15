@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "is_example": true,
+    "updated": "2026-11-14"
+  },
+  "headline": "In this example dataset, the widest regional gap appears at treatment initiation — not at detection.",
+  "gap": "Example data (not official statistics): the share of patients starting treatment within target timeframes ranges from 51% to 76% across counties, a 25 percentage-point spread. Detection (stage I–II share) is tighter, at a 10-point spread.",
+  "where_in_pathway": "The gap widens along the pathway and is largest at the diagnosis → treatment step (Goal 3 of the National Cancer Strategy: patients start treatment within target timeframes). A secondary gap appears in primary → specialist referral.",
+  "what_to_do": "Start with a county-level treatment-start clock: a named pathway coordinator and a weekly huddle on every new diagnosis that has not started treatment by day 14, and publish the Goal 3 on-time treatment indicator monthly.",
+  "primary_rec_id": "rec-treatment-clock",
+  "spotlight_stage": "treatment",
+  "spotlight_indicator_id": "treatment_within_target_share",
+  "source_ids": [
+    "src-example-synthetic",
+    "src-strategy-2026",
+    "src-thl-2016"
+  ]
+}

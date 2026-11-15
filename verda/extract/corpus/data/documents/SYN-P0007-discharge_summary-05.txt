@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0007
+document_id: SYN-P0007-discharge_summary-05
+document_type: discharge_summary
+language: sv
+note_date: 2026-09-11
+display_name: Laura Loremten SYN-P0007 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 11.9.2026. Patient: Laura Loremten SYN-P0007 (SYN-P0007), f. 19.3.1962.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Föregående uppgifter: remiss inkommen tiill lungkliniken 2026-07-28.
+DT torax utförd 31.7.2026.
+EBUS-bronkoskopi genomförd 8.8.2026; biopsier tagna.
+Histologiskt svar inkom 16.8.2026 (skivepitelkarcinom).
+Multidisciplinar konferens (MDK) 21.8: rekommendation om behandling.
+Beslutades 2026-08-23 att gå vidare med ceellgifter.
+Cellgiftsbehandling startad 11.9.2026.
+MDK flyttas till nästa vecka; ingen konferens holls idag.
+Födelsedatum 19.3.1962 kontrollerat i befolkningsuppgifterna.
+Gallblåsan opererades bort 17.11.2020 (ej relaterat till nuvarande utredning).
+
+Antecknat av: sytnetisk testanvändare. Detta är inte en verklig journal.

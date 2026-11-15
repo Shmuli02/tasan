@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0002
+document_id: SYN-P0002-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-27
+display_name: Matti Mallipotilas SYN-P0002 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 27.3.2026. Potilas: Matti Mallipotilas SYN-P0002 (SYN-P0002), s. 11.11.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 8.3.26.
+TT-tutkimus tehty 21/3/2026. Kuvauksessa todettiin vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Biopsiat otettu bronkoskopiassa 26.3.2026.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Lonkkaproteesi operoitu 24.8.2022.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

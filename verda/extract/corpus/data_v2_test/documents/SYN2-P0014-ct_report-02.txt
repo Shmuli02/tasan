@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0014
+document_id: SYN2-P0014-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-08-19
+display_name: Juhani Jäljitelmä SYN2-P0014 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+K-eksityn yliopisto1linen sairaala
+Kirjauspäivä 19.8.2026. Potilas: Juhani Jäljitelmä SYN2-P0014 (SYN2-P0014), s. 28.7.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhk-oselvittelystä (synteettinen harjoitu-steksti).
+Lä-hete saapui toimistoon viikolla 32 tiistaina (2026) (kirjoituspäivä on eri, ks. alla).
+Kuvausaika merkittiin kalenteriin viikolla 33 tiistaina (2026); itse tutkimus toteutettiin viikolla 34 maanantaina (2026).
+Kuvissa erottui oikean ylälohkon 3,1 cm tuumori.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+A iemmin jossain tammikuun a lussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

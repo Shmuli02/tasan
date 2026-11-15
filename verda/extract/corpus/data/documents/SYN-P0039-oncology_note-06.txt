@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0039
+document_id: SYN-P0039-oncology_note-06
+document_type: oncology_note
+language: fi
+note_date: 2026-04-22
+display_name: Tuula Testinen SYN-P0039 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 22.4.2026. Potilas: Tuula Testinen SYN-P0039 (SYN-P0039), s. 2.6.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esiitedot: lähete saapunut keuhkoklinikalle 16.3.2026.
+Tietokonetomografia (TT) suoritettiin 2026-04-01.
+Bronkoskopia ja biopsia tehty 8/4.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Sappirakon poisto tehty 25.1.2019 (ei liity nykyiseen selvittelyyn).
+
+Kiraaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

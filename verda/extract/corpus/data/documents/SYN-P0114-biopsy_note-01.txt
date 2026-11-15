@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0114
+document_id: SYN-P0114-biopsy_note-01
+document_type: biopsy_note
+language: sv
+note_date: 2026-07-30
+display_name: Matti Mallipotilas SYN-P0114 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 30.7.2026. Patient: Matti Mallipotilas SYN-P0114 (SYN-P0114), f. 4.9.1963.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 8/7/2026.
+DT torax utförd 21.7.2026. Bildfynd: en 1,8 cm knuta i vänster övre lob och mediastinala lymfkörtlar.
+Biopsier togs vid bronkoskopi 30.7.
+Kontrollprov har beställts; svaren finns inte i denna anteckning.
+Föregående pneumoni behandlad 20.9.2012.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

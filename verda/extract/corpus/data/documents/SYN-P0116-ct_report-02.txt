@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0116
+document_id: SYN-P0116-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-08-22
+display_name: Yrjö Yksikkötesti SYN-P0116 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 22.8.2026. Potilas: Yrjö Yksikkötesti SYN-P0116 (SYN-P0116), s. 10.10.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 9.8.
+Thoraxin TT tehty 22/8/2026. Kuvauksessa todettiin vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Hoitoa ei ole aloitettu.
+Syntymäaika 10.10.1955 tarkistettu väestötiedoista.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

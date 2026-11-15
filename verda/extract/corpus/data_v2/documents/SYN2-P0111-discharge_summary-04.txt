@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0111
+document_id: SYN2-P0111-discharge_summary-04
+document_type: discharge_summary
+language: fi
+note_date: 2026-08-12
+display_name: Helen Mockpatient SYN2-P0111 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylä-n keuhkoklinikka
+Kirjauspäivä 12.8.2026. Potilas: Helen Mockpatient SYN2-P0111 (SYN2-P0111), s. 7.10.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittel-ystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön viikolla 26 tiistaina (2026).
+Valittiin etenemistapa heinäkuun 29. päivänä 2026: solunsalpaaja.
+Ensimmäinen hoitokerta oli 12-08-2026.
+Kerroskuvaus toteutettiin 6. heinäkuuta 2026.
+Morforloginen tulos tuli 25. heinäkuuta 2026 (NSCLC, ei tarkemmin luokiteltu).
+T iimikokous pidettiin 28. heinäkuuta 2026 ja suositus kirjattiin.
+Tähystyksen yhteydessä punktionäyte viikolla 29 lauantaina (2026).
+— ote vanhasta kirjauksesta 17.8.2017: syntymäaika 7.10.1943; sappirakon poisto 17.8.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontro1lissa; tarkkaa päivää ei ole tässä.
+Syntymäaika 7.10.1943 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

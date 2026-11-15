@@ -1,0 +1,59 @@
+{
+  "corpus_id": "tasan-extract-synthetic-v1",
+  "synthetic": true,
+  "seed": 20261114,
+  "n_documents": 600,
+  "n_patients": 120,
+  "languages": {
+    "en": 59,
+    "fi": 447,
+    "sv": 94
+  },
+  "language_share": {
+    "en": 0.0983,
+    "fi": 0.745,
+    "sv": 0.1567
+  },
+  "document_types": {
+    "referral_letter": 90,
+    "ct_report": 86,
+    "pathology_report": 86,
+    "mdt_minutes": 75,
+    "discharge_summary": 67,
+    "biopsy_note": 82,
+    "oncology_note": 114
+  },
+  "event_mentions": {
+    "referral_received": 580,
+    "ct_done": 476,
+    "biopsy_done": 351,
+    "pathology_result": 256,
+    "mdt_decision": 205,
+    "treatment_decision": 155,
+    "treatment_start": 82
+  },
+  "n_alerts": 32,
+  "n_with_referral": 115,
+  "n_with_treatment_start": 75,
+  "archetypes": {
+    "complete_treated": 32,
+    "mid": 20,
+    "late_wait": 12,
+    "early_treated": 8,
+    "complete_7": 6,
+    "no_referral": 5,
+    "relative_only": 5,
+    "typo_heavy": 4,
+    "negation": 4,
+    "conflicting": 4,
+    "mixed": 4,
+    "distractor": 3,
+    "telegram": 3,
+    "cancelled": 4,
+    "boundary_alert_28": 2,
+    "boundary_treated_28": 2,
+    "boundary_29": 2
+  },
+  "alert_rule": "day_count >= 28 and no treatment_start",
+  "merge_rule": "latest_document_wins"
+}

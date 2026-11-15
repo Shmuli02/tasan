@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0094
+document_id: SYN2-P0094-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-03-17
+display_name: Olli Oletettu SYN2-P0094 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjausp-äivä 17.3.2026. Potilas: Olli Oletettu S-YN2-P0094 (SYN2-P0094), s. 25.6.1953.
+SYNTEETTINEN pot ilaskertomus, ei oikeaa henkilöä.
+
+Di-ktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin viikolla 9 torstaina (2026).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 14. helmikuuta 2026.
+Toimenpide varattiin 01-03-2026, mutta näyte otettiin vasta 7. maaliskuuta 2026.
+Mikroskooppinen lausunto valmistui toissapäivänä: adenokarsinooma.
+Ku-vissa erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 6.2.2022: syntymäaika 25.6.1953; sappirakon poisto 6.2.2022; e-i liity nykyiseen keuhkoselvittelyyn. —
+Syntymäaika 25.6.1953 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

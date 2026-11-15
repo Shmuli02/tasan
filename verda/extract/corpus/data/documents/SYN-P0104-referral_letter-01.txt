@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0104
+document_id: SYN-P0104-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-07-27
+display_name: Johan Testdata SYN-P0104 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 27.7.2026. Patient: Johan Testdata SYN-P0104 (SYN-P0104), DOB 16.9.1952.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+The referral was registered on 26.7.2026.
+Laboratory tests have been ordered; results are not in this note.
+Cholecystectomy performed on 8.5.2016 (unrelated to the present work-up).
+Date of birth 16.9.1952 confirmed from the population register.
+
+Entered by: synthetic test user. This is not a real clinical record.

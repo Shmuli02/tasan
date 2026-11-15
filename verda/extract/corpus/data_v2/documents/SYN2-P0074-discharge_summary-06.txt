@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0074
+document_id: SYN2-P0074-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-06-14
+display_name: Lars Låtsas SYN2-P0074 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 14.6.2026. Potilas: Lars Låtsas SYN2-P0074 (SYN2-P0074), s. 1.3.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kudosnäytteet haettiin toimenpiteessä viikolla 20 sunnuntaina (2026).
+Pyyntö tuli perille 8. toukokuuta 2026.
+Kokoontuminen 2. kesäkuuta 2026: eri erikoisalojen yhteinen kanta merkitty.
+Mikroskooppinen lausunto valmistui 29. toukokuuta 2026: NSCLC, ei tarkemmin luokiteltu.
+Aktiivinen hoito käyn nistyi 13. kesäkuuta 2026.
+Valittiin etenemistapa viikolla 23 tiistaina (2026): kuratiivinen lobektomia.
+Kuvantaminen tehtiin 12. t oukokuuta 2026 (varaus oli aiemmin).
+— ote vanhasta kirjauksesta 1.8.2015: syntymäaik-a 1.3.1953; sappirakon poisto 1.8.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaproteesi operoitu 7.9.2019.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertom us.

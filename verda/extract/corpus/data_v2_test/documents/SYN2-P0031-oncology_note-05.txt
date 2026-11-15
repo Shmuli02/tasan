@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0031
+document_id: SYN2-P0031-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-04-09
+display_name: Eeva Esimerkki SYN2-P0031 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 9.4.2026. Potilas: Eeva Esimerkki SYN2-P0031 (SYN2-P0031), s. 2.11.1944.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu mer-kintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin maaliskuun 29. päivänä 2026.
+Tähystyks-en yhteydessä punktionäyte 2. huhhtikuuta 2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi 25-03-2026.
+Ja-tko on auki. Aktiivista hoitoa ei ole käynnistetty tässä v-aiheessa.
+Aiemmin jossain tammiku-un alussa oli käynyt kontrollissa; tarkkaa äpivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Täämä ei ole oike a potilaskertomus.

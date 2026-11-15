@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0100
+document_id: SYN2-P0100-oncology_note-05
+document_type: oncology_note
+language: sv
+note_date: 2026-08-26
+display_name: Nils Fiktiv SYN2-P0100 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfä rdsområdets centralsjukhus
+Anteckningsdatum 26.8.2026. Patient: Nils Fiktiv SYN2-P0100 (SYN2-P0100), f. 24.11.1964.
+SYNTETISK patientjournal, inge n verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Begäran nådde k1iniken den 4 augusti 2026.
+Överenskommelse om behandlingsform vecka 35 på måndagen (2026) (kilresektion).
+— utdrag u r äldre anteckning 5.11.2021: föd-elsedatum 24.11.1964; gallop eration 5.11.2021; hör inte till den aktuella lungutredningen. —
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag saknas här.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

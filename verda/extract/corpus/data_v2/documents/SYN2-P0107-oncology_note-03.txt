@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0107
+document_id: SYN2-P0107-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-07-29
+display_name: Jane Synthetic SYN2-P0107 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 29.7.2026. Potilas: Jane Synthetic SYN2-P0107 (SYN2-P0107), s. 22.6.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Kuvantaminen tehtiin viikolla 30 sunnuntaina (2026) (varaus oli aiemmin).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 13-07-2026.
+Jatko on auki. Aktiivista hoitoa ei ole käynnistetty tässä vaiheessa.
+— ote vanhasta kirjauksesta 12.1.2017: syntymäaika 22.6.1949; sappirakon poisto 12.1.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+
+(Synteettinen lyhyt diktoitu merkintä.)

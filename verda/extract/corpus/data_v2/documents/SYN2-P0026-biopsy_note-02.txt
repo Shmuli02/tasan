@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0026
+document_id: SYN2-P0026-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-29
+display_name: Alan Invented SYN2-P0026 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuh-koklin-ikka
+Kirj auspäivä 29.3.2026. Potilas: Alan Inven-ted SYN2-P0026 (SYN2-P0026), s. 26.11.1955.
+SYNTEETTINEN potilask ertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synte ettinen harjoitustekst i).
+Konsultaatiopyyntö kirjattiin saapuneeksi maaliskuun 2. päivänä 2026.
+Kuvausaika merkittiin kalenteriin 12. maaliskuuta 2026; itse tutkimus toteutettiin 18. maaliskuuta 2026.
+Toimenpide varattiin 23. maaliskuuta 2026, mutta näyte otettiin vasta 28. maaliskuuta 2026.
+Kuvissa erottui oikean ylälohkon 3,1 cm tuumori.
+Kontro llilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

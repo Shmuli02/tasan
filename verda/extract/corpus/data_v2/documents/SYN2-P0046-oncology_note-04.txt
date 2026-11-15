@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0046
+document_id: SYN2-P0046-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-07-16
+display_name: Lars Låtsas SYN2-P0046 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 16.7.2026. Potilas: Lars Låtsas SYN2-P0046 (SYN2-P0046), s. 23.5.1946.
+SYNTEETTINEN po tilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu mer-kintä keuhk oselvittelystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 13-06-2026.
+Mikroskooppinen lausunto valmistui heinäkuun 9. päivänä 2026: adenokarsinooma.
+Tutkimus käytiin kuvaamassa viikolla 25 perjantaina (2026).
+Sovittiin hoitomuodosta heinäkuun 16. päivänä 2026 (SBRT).
+Tähystyksen yhteydessä punktionäyte 27. kesäkuuta 2026.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei 0le oikea potilaskertomus.

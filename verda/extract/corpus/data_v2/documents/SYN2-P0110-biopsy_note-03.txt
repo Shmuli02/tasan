@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0110
+document_id: SYN2-P0110-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-02-07
+display_name: Alan Invented SYN2-P0110 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 7.2.2026. Potilas: Alan Invented SYN2-P0110 (SYN2-P0110), s. 8.1.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (syn teettinen hajro itusteksti).
+Leikekuvaus on suoritettu viikolla 6 tiistaina (2026).
+Lähete saapui toimistoon 28. tammikuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Tähystys peruttiin viime hhetkellä eikä näyte-ttä saatu tuolloin.
+Kuvantaminen on vasta ajanvaraus 16-02-2026, sitä ei ole toteutettu.
+Aktiivista hotoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta ki-rjauksesta 20.11.2015: syntymäaika 8.1.1938; sappirakon poisto 20.11.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Sappirak on poisto tehty 11.8.2021 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole o-ikea potilaskertomus.

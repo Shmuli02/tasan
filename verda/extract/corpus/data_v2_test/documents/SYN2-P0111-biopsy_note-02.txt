@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0111
+document_id: SYN2-P0111-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-07-10
+display_name: Helen Mockpatient SYN2-P0111 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 10.7.2026. Po-tilas: Helen Mockpatient SYN2-P0111 (SYN2-P0111), s. 7.10.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä k-euhkoselvittelystä (synteettinen harj oitusteksti).
+Kuvantaminen tehtiin maanantaina (varaus oli aiemmin).
+Lähete saapui toimistoon 23. kesäkuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Tähystys perutt iin viime hetkellä eikä näytettä saatu tuollo in.
+Aktiivista hoit0a ei ole aloitettu, va sta pohditaan vaihtoehtoja.
+Kuvantaminen on vasta ajanvaraus viikolla 30 sunnuntaina (2026), sitä ei ole toteutettu.
+Lonkkaproteesi operoitu 28.1.2020.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

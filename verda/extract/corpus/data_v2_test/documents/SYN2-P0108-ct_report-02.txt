@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0108
+document_id: SYN2-P0108-ct_report-02
+document_type: ct_report
+language: en
+note_date: 2026-02-11
+display_name: John Placeholder SYN2-P0108 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Invented University Hospital
+Note date 11.2.2026. Patient: John Placeholder SYN2-P0108 (SYN2-P0108), DOB 11.1.1941.
+SYNTHETIC record, not a real person.
+
+The scan slot was put in the calendar on on Saturday; the examination itself was carried out on in week 7 on Tuesday (2026).
+The document was marked as having reached the unit on in week 6 on Tuesday (2026).
+The pictures showed a 1.8 cm nodule in the left upper lobe with mediastinal nod-es.
+— excerpt from a-n older note dated 8.1.2021: date of birth 11.1.1941; cholecystectomy 8.1.2021; unrelated to the present lung work-up. —
+Cholecystectomy performed on 26.8.2023 (unrelated to the present work-up).
+
+(Synthetic short dictated note.)

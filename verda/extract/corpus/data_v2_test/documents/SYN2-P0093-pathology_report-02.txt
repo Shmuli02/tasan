@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0093
+document_id: SYN2-P0093-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-04-14
+display_name: Sari Sijaisnimi SYN2-P0093 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 14.4.2026. Potilas: Sari Sijaisnimi SYN2-P0093 (S-YN2-P0093), s. 26.6.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Dikt oitu merkintä keuhkoselvittelystä (synte ettinen harjoitusteksti).
+Kuvausaika merkittiin kalenteriin viikolla 12 tiistaina (2026); itse tutkimus toteutettiin 23. maaliskuuta 2026.
+Mikroskooppinen lausunto valmistui eilen: NSCLC, ei tarkemmin luokiteltu.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 09-03-2026.
+Toimenpide varattiin 31-03-2026, mutta näyte otettiin vasta 4. huhtikuuta 2026.
+Kuvissa erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Aktiivista hoitoa ei o le aloitettu, vasta pohditaan vaihtoehtoja.
+Tiimikokousta ei järjestetty tällä käynni-llä, se on siirretty.
+— ote vanhasta kirjauksesta 16.2.2014: syntymäaika 26.6.1943; sappirakon poisto 16.2.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

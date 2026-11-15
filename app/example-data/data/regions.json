@@ -1,0 +1,1080 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "is_example": true,
+    "title": "Example data – awaiting team dataset",
+    "disclaimer": "All regional and national indicator VALUES in this file are schematic examples for UI development. They are not official statistics from the Finnish Cancer Registry, THL, Sotkanet, or AstraZeneca, and must not be quoted as facts. Official TARGET of 70% for stage I–II diagnosis is taken from the National Cancer Strategy 2026–2035 (Goal 2) and is cited separately.",
+    "updated": "2026-11-14",
+    "geo_attribution": "County boundaries bundled from Statistics Finland, Wellbeing services counties 2026, scale 1:4 500 000 (hyvinvointialue4500k_2026), CC BY 4.0.",
+    "national_aggregation": "The national figures below are example placeholders supplied directly, not a computed average of the counties."
+  },
+  "stages": [
+    {
+      "id": "detection",
+      "label": "Detection",
+      "label_fi": "Toteaminen",
+      "order": 1,
+      "short": "Detect"
+    },
+    {
+      "id": "referral",
+      "label": "Primary → specialist referral",
+      "label_fi": "Lähete perusterveydenhuollosta erikoissairaanhoitoon",
+      "order": 2,
+      "short": "Refer"
+    },
+    {
+      "id": "diagnosis",
+      "label": "Diagnosis",
+      "label_fi": "Diagnoosi",
+      "order": 3,
+      "short": "Diagnose"
+    },
+    {
+      "id": "treatment",
+      "label": "Treatment initiation",
+      "label_fi": "Hoidon aloitus",
+      "order": 4,
+      "short": "Treat"
+    }
+  ],
+  "indicator_catalog": [
+    {
+      "id": "early_stage_share",
+      "stage": "detection",
+      "label": "Share of cancers diagnosed at stage I–II",
+      "label_fi": "Osuus syövistä, jotka todetaan levinneisyysluokissa I–II",
+      "unit": "%",
+      "higher_is_better": true,
+      "decimals": 0,
+      "target": 70,
+      "target_source_id": "src-strategy-2026",
+      "target_note": "Official follow-up metric of strategic Goal 2 in the National Cancer Strategy 2026–2035: at least 70% of cancers diagnosed in stages I–II. Regional values in the example file are schematic, not official registry figures.",
+      "goal": "2",
+      "goal3_indicator": null
+    },
+    {
+      "id": "referral_within_target_share",
+      "stage": "referral",
+      "label": "Share of primary→specialist cancer-suspicion referrals completed within the agreed time",
+      "label_fi": "Osuus syöpäepäilyn lähetteistä perusterveydenhuollosta erikoissairaanhoitoon sovitussa ajassa",
+      "unit": "%",
+      "higher_is_better": true,
+      "decimals": 0,
+      "target": 80,
+      "target_source_id": "src-example-synthetic",
+      "target_note": "EXAMPLE target used only for the demo UI. Replace with the team's agreed SLA and source.",
+      "goal": "3",
+      "goal3_indicator": "g3-pathways-3-1"
+    },
+    {
+      "id": "diagnosis_within_target_share",
+      "stage": "diagnosis",
+      "label": "Share of patients diagnosed within the target time from referral",
+      "label_fi": "Osuus potilaista, joiden diagnoosi valmistuu tavoiteajassa lähetteestä",
+      "unit": "%",
+      "higher_is_better": true,
+      "decimals": 0,
+      "target": 80,
+      "target_source_id": "src-example-synthetic",
+      "target_note": "EXAMPLE target used only for the demo UI. Replace with the team's agreed diagnostic target and source.",
+      "goal": "3",
+      "goal3_indicator": "g3-pathways-3-1"
+    },
+    {
+      "id": "treatment_within_target_share",
+      "stage": "treatment",
+      "label": "Share of patients starting treatment within target timeframes",
+      "label_fi": "Osuus potilaista, jotka pääsevät hoitoon tavoiteaikojen puitteissa",
+      "unit": "%",
+      "higher_is_better": true,
+      "decimals": 0,
+      "target": 80,
+      "target_source_id": "src-example-synthetic",
+      "target_note": "The National Cancer Strategy Goal 3 requires that patients start treatment within target timeframes (citing THL Ohjaus 21/2016). The 80% figure itself is an EXAMPLE demo target, not a number stated in the strategy text.",
+      "goal": "3",
+      "goal3_indicator": "g3-treatment-within-target"
+    }
+  ],
+  "national": {
+    "id": "FI",
+    "name": "Finland (national)",
+    "name_fi": "Koko maa",
+    "sotkanet_id": 658,
+    "indicators": [
+      {
+        "id": "early_stage_share",
+        "value": 66,
+        "year": null,
+        "source_id": "src-example-synthetic",
+        "is_example": true
+      },
+      {
+        "id": "referral_within_target_share",
+        "value": 71,
+        "year": null,
+        "source_id": "src-example-synthetic",
+        "is_example": true
+      },
+      {
+        "id": "diagnosis_within_target_share",
+        "value": 69,
+        "year": null,
+        "source_id": "src-example-synthetic",
+        "is_example": true
+      },
+      {
+        "id": "treatment_within_target_share",
+        "value": 63,
+        "year": null,
+        "source_id": "src-example-synthetic",
+        "is_example": true
+      }
+    ]
+  },
+  "regions": [
+    {
+      "id": "01",
+      "slug": "ita-uusimaa",
+      "name": "East Uusimaa",
+      "name_fi": "Itä-Uusimaa",
+      "name_official_en": "East Uusimaa wellbeing services county",
+      "name_official_fi": "Itä-Uudenmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 961,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 65,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 73,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 70,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 67,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "slug": "keski-uusimaa",
+      "name": "Central Uusimaa",
+      "name_fi": "Keski-Uusimaa",
+      "name_official_en": "Central Uusimaa wellbeing services county",
+      "name_official_fi": "Keski-Uudenmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 966,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 67,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 74,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 71,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 69,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "slug": "lansi-uusimaa",
+      "name": "West Uusimaa",
+      "name_fi": "Länsi-Uusimaa",
+      "name_official_en": "West Uusimaa wellbeing services county",
+      "name_official_fi": "Länsi-Uudenmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 969,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 69,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 78,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 74,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 74,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "slug": "vantaa-kerava",
+      "name": "Vantaa-Kerava",
+      "name_fi": "Vantaa-Kerava",
+      "name_official_en": "Vantaa and Kerava wellbeing services county",
+      "name_official_fi": "Vantaan ja Keravan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 977,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 66,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 75,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 72,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 70,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "slug": "varsinais-suomi",
+      "name": "Southwest Finland",
+      "name_fi": "Varsinais-Suomi",
+      "name_official_en": "Southwest Finland wellbeing services county",
+      "name_official_fi": "Varsinais-Suomen hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 978,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 68,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 76,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 73,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 72,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "slug": "satakunta",
+      "name": "Satakunta",
+      "name_fi": "Satakunta",
+      "name_official_en": "Satakunta wellbeing services county",
+      "name_official_fi": "Satakunnan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 976,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 64,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 70,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 68,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 61,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "slug": "kanta-hame",
+      "name": "Kanta-Häme",
+      "name_fi": "Kanta-Häme",
+      "name_official_en": "Kanta-Häme wellbeing services county",
+      "name_official_fi": "Kanta-Hämeen hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 963,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 65,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 72,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 69,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 64,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "slug": "pirkanmaa",
+      "name": "Pirkanmaa",
+      "name_fi": "Pirkanmaa",
+      "name_official_en": "Pirkanmaa wellbeing services county",
+      "name_official_fi": "Pirkanmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 970,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 68,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 77,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 74,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 73,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "slug": "paijat-hame",
+      "name": "Päijät-Häme",
+      "name_fi": "Päijät-Häme",
+      "name_official_en": "Päijät-Häme wellbeing services county",
+      "name_official_fi": "Päijät-Hämeen hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 975,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 64,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 71,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 67,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 62,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "kymenlaakso",
+      "name": "Kymenlaakso",
+      "name_fi": "Kymenlaakso",
+      "name_official_en": "Kymenlaakso wellbeing services county",
+      "name_official_fi": "Kymenlaakson hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 967,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 63,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 69,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 66,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 60,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "etela-karjala",
+      "name": "South Karelia",
+      "name_fi": "Etelä-Karjala",
+      "name_official_en": "South Karelia wellbeing services county",
+      "name_official_fi": "Etelä-Karjalan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 957,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 64,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 70,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 68,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 61,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "etela-savo",
+      "name": "South Savo",
+      "name_fi": "Etelä-Savo",
+      "name_official_en": "South Savo wellbeing services county",
+      "name_official_fi": "Etelä-Savon hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 959,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 61,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 66,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 64,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 54,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "pohjois-savo",
+      "name": "North Savo",
+      "name_fi": "Pohjois-Savo",
+      "name_official_en": "North Savo wellbeing services county",
+      "name_official_fi": "Pohjois-Savon hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 974,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 64,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 70,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 67,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 62,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "pohjois-karjala",
+      "name": "North Karelia",
+      "name_fi": "Pohjois-Karjala",
+      "name_official_en": "North Karelia wellbeing services county",
+      "name_official_fi": "Pohjois-Karjalan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 972,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 62,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 65,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 63,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 55,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "keski-suomi",
+      "name": "Central Finland",
+      "name_fi": "Keski-Suomi",
+      "name_official_en": "Central Finland wellbeing services county",
+      "name_official_fi": "Keski-Suomen hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 965,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 66,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 73,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 70,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 66,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "slug": "etela-pohjanmaa",
+      "name": "South Ostrobothnia",
+      "name_fi": "Etelä-Pohjanmaa",
+      "name_official_en": "South Ostrobothnia wellbeing services county",
+      "name_official_fi": "Etelä-Pohjanmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 958,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 65,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 71,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 68,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 63,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "slug": "pohjanmaa",
+      "name": "Ostrobothnia",
+      "name_fi": "Pohjanmaa",
+      "name_official_en": "Ostrobothnia wellbeing services county",
+      "name_official_fi": "Pohjanmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 971,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 67,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 74,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 71,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 68,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "slug": "keski-pohjanmaa",
+      "name": "Central Ostrobothnia",
+      "name_fi": "Keski-Pohjanmaa",
+      "name_official_en": "Central Ostrobothnia wellbeing services county",
+      "name_official_fi": "Keski-Pohjanmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 964,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 63,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 68,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 65,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 56,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "slug": "pohjois-pohjanmaa",
+      "name": "North Ostrobothnia",
+      "name_fi": "Pohjois-Pohjanmaa",
+      "name_official_en": "North Ostrobothnia wellbeing services county",
+      "name_official_fi": "Pohjois-Pohjanmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 973,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 65,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 70,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 67,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 61,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "slug": "kainuu",
+      "name": "Kainuu",
+      "name_fi": "Kainuu",
+      "name_official_en": "Kainuu wellbeing services county",
+      "name_official_fi": "Kainuun hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 962,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 60,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 64,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 62,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 51,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "slug": "lappi",
+      "name": "Lapland",
+      "name_fi": "Lappi",
+      "name_official_en": "Lapland wellbeing services county",
+      "name_official_fi": "Lapin hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 968,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 61,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 63,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 62,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 53,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "slug": "helsinki",
+      "name": "Helsinki",
+      "name_fi": "Helsinki",
+      "name_official_en": "City of Helsinki",
+      "name_official_fi": "Helsingin kaupunki",
+      "type": "city",
+      "sotkanet_id": 960,
+      "include_in_national": true,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 70,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 80,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 76,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 76,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "slug": "ahvenanmaa",
+      "name": "Åland",
+      "name_fi": "Ahvenanmaa",
+      "name_official_en": "Åland",
+      "name_official_fi": "Ahvenanmaa",
+      "type": "autonomous_region",
+      "sotkanet_id": 956,
+      "include_in_national": false,
+      "indicators": [
+        {
+          "id": "early_stage_share",
+          "value": 67,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "referral_within_target_share",
+          "value": 74,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "diagnosis_within_target_share",
+          "value": 72,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        },
+        {
+          "id": "treatment_within_target_share",
+          "value": 70,
+          "year": null,
+          "source_id": "src-example-synthetic",
+          "is_example": true
+        }
+      ]
+    }
+  ]
+}

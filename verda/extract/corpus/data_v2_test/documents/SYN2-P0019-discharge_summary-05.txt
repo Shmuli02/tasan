@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0019
+document_id: SYN2-P0019-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-04-28
+display_name: Ingrid Inventerad SYN2-P0019 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 28.4.2026. Potilas: Ingrid Inventerad SYN2-P0019 (SYN2-P0019), s. 3.1.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Morforloginen tulos tuli 04-04-2026 (pienisoluinen keuhkosyöpä).
+Tiimikokous pidettiin 08-04-2026 ja suositus kirjattiin.
+Konsultaatiopyyntö kirjattiin saapuneeksi viikolla 11 torstaina (2026).
+Kerroskuvaus toteutettiin 28. maaliskuuta 2026.
+Tähystyksen yhteydessä punktionäyte 31. maaliskuuta 2026.
+Aktiivinen hoito käynnistyi elien.
+Sovittiin hoitomuodosta 8. huhtikuuta 2026 (solunsalpaaja).
+
+Kirjaaja: synteettinen testikäyttjä. Tämä ei ole oikea potilaskertom us.

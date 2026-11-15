@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0011
+document_id: SYN2-P0011-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-04-01
+display_name: Tuula Testinen SYN2-P0011 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 1.4.2026. Potilas: Tuula Testinen S-YN2-P0011 (SYN2-P0011), s. 4.5.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Leikekuvaus on suoritettu maaliskuun 6. päivänä 2026.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 27. helmikuuta 2026.
+Yhteispalaveri jä-rjestettiin 30. maaliskuuta 2026; linja muodostettiin siellä.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 17.5.2016: syntymäaika 4.5.1962; sappirakon poisto 17.5.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

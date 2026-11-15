@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0013
+document_id: SYN2-P0013-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-04-26
+display_name: Ritva Rakennettu SYN2-P0013 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjau-späivä 26.4.2026. Potilas: Ritva Rakennettu SYN2-P0013 (SYN2-P0013), s. 19.2.1960.
+SYNTEETTINE N potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvit tel ystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön maaliskuun 23. päivänä 2026.
+Tiimikokous pidettiin 26-04-2026 ja suositus kirjattiin.
+Kuvantaminen tehtiin viikolla 15 maanantaina (2026) (va raus oli aiemmin).
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+Edellinen keuhkokuume hoidettu 17.12.2013.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole o ikea potilaskertomus.

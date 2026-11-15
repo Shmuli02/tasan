@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0014
+document_id: SYN-P0014-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-03-10
+display_name: Juhani Jäljitelmä SYN-P0014 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 10.3.2026. Potilas: Juhani Jäljitelmä SYN-P0014 (SYN-P0014), s. 8.6.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkiilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 9/3/2026.
+MDT siirtyy esi viikkoon, kokousta ei pidetty tänään.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

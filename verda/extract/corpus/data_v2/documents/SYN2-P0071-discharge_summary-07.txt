@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0071
+document_id: SYN2-P0071-discharge_summary-07
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-05
+display_name: Anna Anonyymi SYN2-P0071 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 5.5.2026. Pot-ilas: Anna Anonyyrni SYN2-P0071 (SYN2-P0071), s. 13.1.1963.
+SYNTEETTINEN potilask ertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Valittiin etenemistapa huhtikuun 20. päivänä 2026: kiilaresektio.
+M-ikroskooppinen lausunto valmistui viikolla 16 perjantaina (2026): levyepiteelikarsinooma.
+Aktiivinen hoito käynnistyi toukokuun 3. päivänä 2026.
+Kokoontuminen 20-04-2026: eri erikoi salojen yhteinen kanta merkitty.
+Kuvantaminen tehtiin huhtikuun 3. päivänä 2026 (varaus oli aiemmin).
+Tähystyksen yhteydessä punktionäyte 6. huhtikuuta 2026.
+Lähete saapui toimistoon maaliskuun 24. päivänä 2026 (kirjoituspäivä on eri, ks. alla).
+— ote vanhasta kirjauksesta 19.2.2015: syntymäaika 13.1.1963; sappirakon poisto 19.2.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiem-min jossain tammikuun alussa oli käynyt kontrol1issa; tarkkaa päivää ei ole tässä.
+Lonkkaproteesi operoitu 10.3.2017.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

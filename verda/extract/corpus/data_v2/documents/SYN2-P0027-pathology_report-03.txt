@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0027
+document_id: SYN2-P0027-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-06-02
+display_name: Helen Mockpatient SYN2-P0027 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 2.6.2026. Potilas: Helen Mockpatient SYN2-P0027 (SYN2-P0027), s. 26.1.1959.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkiloa.
+
+Diktoitu merkintä keuhk0selvittelystä (synteettin en harjoitusteksti).
+Konsu-ltaatiopyyntö kirjattiin saapuneeksi 15. toukokuuta 2026.
+Morforloginen tulos tuli 2. kesäkuuta 2026 (pienisoluinen keuhkosyöpä).
+Leikekuvaus on suoritettu 20. toukokuuta 2026.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 8.4.2014: syntymäaika 26.1.1959; sappirakon poisto 8.4.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; ta-rkkaa päivää ei ole t ässä.
+
+Kirjaaja: synteettinen t-estikäyttäjä. Tämä ei ole oikea potilaskertomus.

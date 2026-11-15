@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0112
+document_id: SYN-P0112-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-04-21
+display_name: Peter Samplecase SYN-P0112 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 21.4.2026. Potilas: Peter Samplecase SYN-P0112 (SYN-P0112), s. 22.9.1956.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esmerkki).
+Keuhkoklinikan lähete saapui 28.3.2026.
+TT-tutkimus tehty 11.4. Kuvauksessa todettiin oikean ylälohkon 3,1 cm tuumori.
+Biopsiat otettu bronkoskopiassa viikko sitten.
+PAD-vastaus valmistui 21.4.2026: NSCLC, ei tarkemmin luokiteltu.
+Biopsia peruttiin potilaan toiveesta; toimenpidettä ei tehty.
+TT suunniteltu 3.5.2026 (ei vielä tehty).
+PET-TT varattu 3.5.2026, tutkimus on vasta suunnitelmissa.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Lonkkaproteesi operoitu 11.12.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

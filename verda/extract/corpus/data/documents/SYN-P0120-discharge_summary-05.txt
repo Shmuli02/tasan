@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0120
+document_id: SYN-P0120-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-31
+display_name: Hannu Harjoitus SYN-P0120 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 31.5.2026. Potilas: Hannu Harjoitus SYN-P0120 (SYN-P0120), s. 18.4.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 12.4.2026.
+TT-tutkimus tehty 20.4.2026.
+EBUS-bronkoskopia suoritettu 28.4.2026; biopsiat otettu.
+PAD-vastaus valmistui 8.5.26: levyepiteelikarsinooma.
+SBRT-sädehoito aloitettu 2026-05-31.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Lonkkaproteesi operoitu 19.12.2023.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

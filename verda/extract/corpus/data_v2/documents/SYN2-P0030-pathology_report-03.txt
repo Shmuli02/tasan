@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0030
+document_id: SYN2-P0030-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-09-16
+display_name: Matti Mallipotilas SYN2-P0030 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointia lueen keskussairaala
+Kirjauspäivä 16.9.2026. Potilas: Matti Mallipotilas SYN2-P0030 (SYN2-P0030), s. 26.12.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Morforloginen tulos tuli 15-09-2026 (adenokarsinooma).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 25. elokuuta 2026.
+Aiemmin jossain tammikuun alussa oli käynyt kontrolli ssa; tarkkaa päivää ei ole tässä.
+Edellinen keuhkokuume hoidettu 8.8.2023.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

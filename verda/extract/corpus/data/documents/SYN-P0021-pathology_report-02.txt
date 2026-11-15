@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0021
+document_id: SYN-P0021-pathology_report-02
+document_type: pathology_report
+language: en
+note_date: 2026-09-20
+display_name: Karin Konstruerad SYN-P0021 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Invented University Hospital
+Note date 20.9.2026. Patient: Karin Konstruerad SYN-P0021 (SYN-P0021), DOB 25.7.1956.
+SYNTHETIC record, not a real person.
+
+Reason for vvisit: work-up of suspected lung cancer (synthetic example).
+History: referral received by the lung clinic on 23/8/2026.
+CT thorax was carried out on 6.9.26.
+Biopsies were obtained during bronchoscopy on 15.9.2026.
+Pathology result issued on 19.9.2026: squamous cell carcinoma.
+Bronchoscopy was not performed at this visit.
+Cholecystectomy perfrmed on 8.5.2021 (unrelated to the present work-up).
+Hip replacement on 8.5.2021.
+
+Entered by: synthetic test user. This is not a real clinical record.

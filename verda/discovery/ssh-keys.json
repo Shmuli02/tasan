@@ -1,0 +1,13 @@
+{
+  "http_status": 200,
+  "fetched_at_eet": "2026-11-14 20:42:23 EET",
+  "body": [
+    {
+      "id": "9d759129-e78b-4d7e-9c7a-82f13da6748f",
+      "name": "tasan-full-ephemeral",
+      "key": "<ssh-public-key-redacted>",
+      "fingerprint": "<redacted>",
+      "created_by_user_id": "83d23065-8fbf-4354-927f-23b34d46af9c"
+    }
+  ]
+}

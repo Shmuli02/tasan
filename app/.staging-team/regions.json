@@ -1,0 +1,1649 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "title": "Tasan — public aggregate cancer-pathway dataset",
+    "disclaimer": "Public aggregate data only, compiled 2026-11-14. Lung diagnosis-to-treatment times are published only for collaborative areas (YTA), not counties — county cells are shown as “No public data”, never interpolated. Sotkanet 6411, 2676 and 6410 (all-cause primary-care waits, not cancer; Avohilmo gaps in Vantaa, Kerava and Helsinki) are excluded and not shown. The map and county treatment panel use age-adjusted curative-treatment shares (Kuva 16 chart estimates, ±1 pp). The crude Taulukko 11 shares are not shown there. The THL 6-week target starts at referral; published lung intervals start at diagnosis.",
+    "updated": "2026-11-14",
+    "national_aggregation": "National colorectal screening and referral figures are the Sotkanet “Whole country” (code 358) rows. National lung curative share 27.0% is the published Taulukko 11 / key_findings figure (matches the 22-county numerator sum)."
+  },
+  "stages": [
+    {
+      "id": "detection",
+      "label": "Detection",
+      "label_fi": "Toteaminen",
+      "order": 1,
+      "short": "Detect"
+    },
+    {
+      "id": "referral",
+      "label": "Primary → specialist referral",
+      "label_fi": "Lähete",
+      "order": 2,
+      "short": "Refer"
+    },
+    {
+      "id": "diagnosis",
+      "label": "Diagnosis → treatment",
+      "label_fi": "Diagnoosista hoitoon",
+      "order": 3,
+      "short": "Dx→Tx"
+    },
+    {
+      "id": "treatment",
+      "label": "Treatment (curative share)",
+      "label_fi": "Hoidon aloitus / parantava hoito",
+      "order": 4,
+      "short": "Treat"
+    }
+  ],
+  "indicator_catalog": [
+    {
+      "id": "colorectal_screening_share",
+      "stage": "detection",
+      "label": "Colorectal screening participation (invited who attended)",
+      "label_fi": "Suolistosyövän seulontaan osallistuneiden osuus kutsutuista",
+      "unit": "%",
+      "higher_is_better": true,
+      "decimals": 1,
+      "target": 80,
+      "target_source_id": "src-strategy-2026",
+      "target_note": "Official Goal 2 follow-up metric: 80% participation in every wellbeing services county and Helsinki (S p. 5; R p. 48). Not a Goal 3 indicator — shown as pathway context.",
+      "goal": "2",
+      "goal3_indicator": null
+    },
+    {
+      "id": "referral_within_3d_share",
+      "stage": "referral",
+      "label": "Specialist-care referrals processed within 3 days (all specialties)",
+      "unit": "%",
+      "higher_is_better": true,
+      "decimals": 1,
+      "target": null,
+      "target_source_id": "src-sotkanet-13",
+      "target_note": "No official cancer-specific target. This is an all-specialty referral indicator, not a Goal 3 lung-cancer measure.",
+      "goal": null,
+      "goal3_indicator": null
+    },
+    {
+      "id": "lung_dx_to_surgery_days",
+      "stage": "diagnosis",
+      "label": "Lung cancer: median days from diagnosis to first surgery",
+      "unit": "days",
+      "higher_is_better": false,
+      "decimals": 1,
+      "target": 42,
+      "target_source_id": "src-thl-2016",
+      "target_note": "THL Ohjaus 21/2016: 6 weeks (42 days) from referral arrival to first treatment. The published medians start at diagnosis, so they understate time from referral. County-level values are not published.",
+      "goal": "3",
+      "goal3_indicator": "g3-treatment-within-target",
+      "geo_level": "yta"
+    },
+    {
+      "id": "lung_curative_share",
+      "stage": "treatment",
+      "label": "Lung cancer: age-adjusted share with curative treatment within 12 months (chart estimate, not survival)",
+      "unit": "%",
+      "higher_is_better": true,
+      "decimals": 1,
+      "target": null,
+      "target_source_id": "src-lung-2026-kuva16",
+      "target_note": "Chart estimate from Kuva 16 (±1 pp), age-adjusted, not stage-adjusted, not survival. Men's figure is used for the map colour. The crude Taulukko 11 share is shown only as a secondary line on the hero card.",
+      "goal": "3",
+      "goal3_indicator": "g3-survival-poor-prognosis"
+    }
+  ],
+  "national": {
+    "id": "FI",
+    "name": "Finland (national)",
+    "name_fi": "Koko maa",
+    "sotkanet_id": 658,
+    "indicators": [
+      {
+        "id": "colorectal_screening_share",
+        "value": 73.5,
+        "abs_value": 309871.0,
+        "year": 2024,
+        "source_id": "src-sotkanet-6103",
+        "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+        "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+      },
+      {
+        "id": "referral_within_3d_share",
+        "value": 76.8,
+        "year": 2025,
+        "source_id": "src-sotkanet-13",
+        "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+        "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+        "note": "All specialties, not cancer-specific. Producer-based reporting."
+      },
+      {
+        "id": "lung_dx_to_surgery_days",
+        "value": 37.0,
+        "iqr": [
+          0,
+          56
+        ],
+        "unit": "days",
+        "source_id": "src-lung-2024-yta",
+        "source_table": "Keuhkosyöpä Suomessa (2024), national median from report text p.27; Taulukko 4.1 is YTA-only",
+        "note": "National median 37 d (IQR 0–56, report text p.27); counties not published — YTA only.",
+        "year": "2018-2022",
+        "missing": false
+      },
+      {
+        "id": "lung_curative_share",
+        "value": null,
+        "year": null,
+        "source_id": "src-lung-2026-kuva16",
+        "missing": true,
+        "missing_reason": "No published national age-adjusted figure in Kuva 16 (the chart is by county). The map uses the county chart estimates."
+      }
+    ]
+  },
+  "regions": [
+    {
+      "id": "01",
+      "slug": "ita-uusimaa",
+      "name": "East Uusimaa",
+      "name_fi": "Itä-Uusimaa",
+      "name_official_en": "East Uusimaa wellbeing services county",
+      "name_official_fi": "Itä-Uudenmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 961,
+      "include_in_national": true,
+      "yta_id": "yta-etela",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 72.0,
+          "abs_value": 5679.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": null,
+          "year": null,
+          "source_id": "src-sotkanet-13",
+          "missing": true,
+          "missing_reason": "No public county figure. Sotkanet 13 is missing for this area in 2025 (HUS reports Uusimaa as a producer; Åland is outside the series)."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-etela"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 23.5,
+          "ci95_low": 16.9,
+          "ci95_high": 32.6,
+          "men": {
+            "value": 23.5,
+            "ci95": [
+              16.9,
+              32.6
+            ]
+          },
+          "women": {
+            "value": 34.9,
+            "ci95": [
+              25.8,
+              46.6
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "slug": "keski-uusimaa",
+      "name": "Central Uusimaa",
+      "name_fi": "Keski-Uusimaa",
+      "name_official_en": "Central Uusimaa wellbeing services county",
+      "name_official_fi": "Keski-Uudenmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 966,
+      "include_in_national": true,
+      "yta_id": "yta-etela",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 74.0,
+          "abs_value": 11236.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": null,
+          "year": null,
+          "source_id": "src-sotkanet-13",
+          "missing": true,
+          "missing_reason": "No public county figure. Sotkanet 13 is missing for this area in 2025 (HUS reports Uusimaa as a producer; Åland is outside the series)."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-etela"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 30.5,
+          "ci95_low": 24.6,
+          "ci95_high": 37.8,
+          "men": {
+            "value": 30.5,
+            "ci95": [
+              24.6,
+              37.8
+            ]
+          },
+          "women": {
+            "value": 35.5,
+            "ci95": [
+              28.6,
+              44.2
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "slug": "lansi-uusimaa",
+      "name": "West Uusimaa",
+      "name_fi": "Länsi-Uusimaa",
+      "name_official_en": "West Uusimaa wellbeing services county",
+      "name_official_fi": "Länsi-Uudenmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 969,
+      "include_in_national": true,
+      "yta_id": "yta-etela",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 71.5,
+          "abs_value": 22976.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": null,
+          "year": null,
+          "source_id": "src-sotkanet-13",
+          "missing": true,
+          "missing_reason": "No public county figure. Sotkanet 13 is missing for this area in 2025 (HUS reports Uusimaa as a producer; Åland is outside the series)."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-etela"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 32.3,
+          "ci95_low": 28.1,
+          "ci95_high": 36.5,
+          "men": {
+            "value": 32.3,
+            "ci95": [
+              28.1,
+              36.5
+            ]
+          },
+          "women": {
+            "value": 33.1,
+            "ci95": [
+              27.9,
+              38.7
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "slug": "vantaa-kerava",
+      "name": "Vantaa-Kerava",
+      "name_fi": "Vantaa-Kerava",
+      "name_official_en": "Vantaa and Kerava wellbeing services county",
+      "name_official_fi": "Vantaan ja Keravan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 977,
+      "include_in_national": true,
+      "yta_id": "yta-etela",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 71.3,
+          "abs_value": 12433.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": null,
+          "year": null,
+          "source_id": "src-sotkanet-13",
+          "missing": true,
+          "missing_reason": "No public county figure. Sotkanet 13 is missing for this area in 2025 (HUS reports Uusimaa as a producer; Åland is outside the series)."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-etela"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 29.8,
+          "ci95_low": 24.2,
+          "ci95_high": 36.1,
+          "men": {
+            "value": 29.8,
+            "ci95": [
+              24.2,
+              36.1
+            ]
+          },
+          "women": {
+            "value": 39.7,
+            "ci95": [
+              33.1,
+              47.0
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "slug": "varsinais-suomi",
+      "name": "Southwest Finland",
+      "name_fi": "Varsinais-Suomi",
+      "name_official_en": "Southwest Finland wellbeing services county",
+      "name_official_fi": "Varsinais-Suomen hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 978,
+      "include_in_national": true,
+      "yta_id": "yta-lansi",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 73.5,
+          "abs_value": 26943.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 78.2,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-lansi"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 22.8,
+          "ci95_low": 19.7,
+          "ci95_high": 26.0,
+          "men": {
+            "value": 22.8,
+            "ci95": [
+              19.7,
+              26.0
+            ]
+          },
+          "women": {
+            "value": 27.7,
+            "ci95": [
+              23.4,
+              31.7
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "slug": "satakunta",
+      "name": "Satakunta",
+      "name_fi": "Satakunta",
+      "name_official_en": "Satakunta wellbeing services county",
+      "name_official_fi": "Satakunnan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 976,
+      "include_in_national": true,
+      "yta_id": "yta-lansi",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 72.6,
+          "abs_value": 13115.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 77.7,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-lansi"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 21.5,
+          "ci95_low": 17.6,
+          "ci95_high": 26.0,
+          "men": {
+            "value": 21.5,
+            "ci95": [
+              17.6,
+              26.0
+            ]
+          },
+          "women": {
+            "value": 30.0,
+            "ci95": [
+              23.8,
+              37.6
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "slug": "kanta-hame",
+      "name": "Kanta-Häme",
+      "name_fi": "Kanta-Häme",
+      "name_official_en": "Kanta-Häme wellbeing services county",
+      "name_official_fi": "Kanta-Hämeen hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 963,
+      "include_in_national": true,
+      "yta_id": "yta-sisa",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 74.3,
+          "abs_value": 10705.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 88.7,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-sisa"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 21.8,
+          "ci95_low": 16.9,
+          "ci95_high": 26.3,
+          "men": {
+            "value": 21.8,
+            "ci95": [
+              16.9,
+              26.3
+            ]
+          },
+          "women": {
+            "value": 27.7,
+            "ci95": [
+              21.3,
+              35.2
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "slug": "pirkanmaa",
+      "name": "Pirkanmaa",
+      "name_fi": "Pirkanmaa",
+      "name_official_en": "Pirkanmaa wellbeing services county",
+      "name_official_fi": "Pirkanmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 970,
+      "include_in_national": true,
+      "yta_id": "yta-sisa",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 74.3,
+          "abs_value": 28058.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 72.4,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-sisa"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 30.9,
+          "ci95_low": 27.0,
+          "ci95_high": 34.7,
+          "men": {
+            "value": 30.9,
+            "ci95": [
+              27.0,
+              34.7
+            ]
+          },
+          "women": {
+            "value": 34.2,
+            "ci95": [
+              29.3,
+              39.4
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "slug": "paijat-hame",
+      "name": "Päijät-Häme",
+      "name_fi": "Päijät-Häme",
+      "name_official_en": "Päijät-Häme wellbeing services county",
+      "name_official_fi": "Päijät-Hämeen hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 975,
+      "include_in_national": true,
+      "yta_id": "yta-etela",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 75.2,
+          "abs_value": 12996.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 85.3,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-etela"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 30.2,
+          "ci95_low": 25.3,
+          "ci95_high": 36.1,
+          "men": {
+            "value": 30.2,
+            "ci95": [
+              25.3,
+              36.1
+            ]
+          },
+          "women": {
+            "value": 28.6,
+            "ci95": [
+              22.7,
+              34.9
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "kymenlaakso",
+      "name": "Kymenlaakso",
+      "name_fi": "Kymenlaakso",
+      "name_official_en": "Kymenlaakso wellbeing services county",
+      "name_official_fi": "Kymenlaakson hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 967,
+      "include_in_national": true,
+      "yta_id": "yta-etela",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 70.0,
+          "abs_value": 10098.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 82.0,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-etela"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 18.0,
+          "ci95_low": 14.1,
+          "ci95_high": 22.8,
+          "men": {
+            "value": 18.0,
+            "ci95": [
+              14.1,
+              22.8
+            ]
+          },
+          "women": {
+            "value": 22.7,
+            "ci95": [
+              17.2,
+              29.3
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "etela-karjala",
+      "name": "South Karelia",
+      "name_fi": "Etelä-Karjala",
+      "name_official_en": "South Karelia wellbeing services county",
+      "name_official_fi": "Etelä-Karjalan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 957,
+      "include_in_national": true,
+      "yta_id": "yta-etela",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 74.0,
+          "abs_value": 8241.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 88.1,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-etela"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 19.0,
+          "ci95_low": 13.8,
+          "ci95_high": 25.6,
+          "men": {
+            "value": 19.0,
+            "ci95": [
+              13.8,
+              25.6
+            ]
+          },
+          "women": {
+            "value": 19.9,
+            "ci95": [
+              13.7,
+              29.0
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "etela-savo",
+      "name": "South Savo",
+      "name_fi": "Etelä-Savo",
+      "name_official_en": "South Savo wellbeing services county",
+      "name_official_fi": "Etelä-Savon hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 959,
+      "include_in_national": true,
+      "yta_id": "yta-ita",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 76.9,
+          "abs_value": 10093.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 78.1,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-ita"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 22.2,
+          "ci95_low": 17.3,
+          "ci95_high": 27.7,
+          "men": {
+            "value": 22.2,
+            "ci95": [
+              17.3,
+              27.7
+            ]
+          },
+          "women": {
+            "value": 25.9,
+            "ci95": [
+              19.2,
+              35.2
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "pohjois-savo",
+      "name": "North Savo",
+      "name_fi": "Pohjois-Savo",
+      "name_official_en": "North Savo wellbeing services county",
+      "name_official_fi": "Pohjois-Savon hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 974,
+      "include_in_national": true,
+      "yta_id": "yta-ita",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 75.4,
+          "abs_value": 16465.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 71.5,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-ita"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 24.9,
+          "ci95_low": 20.4,
+          "ci95_high": 29.8,
+          "men": {
+            "value": 24.9,
+            "ci95": [
+              20.4,
+              29.8
+            ]
+          },
+          "women": {
+            "value": 25.3,
+            "ci95": [
+              19.6,
+              33.1
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "pohjois-karjala",
+      "name": "North Karelia",
+      "name_fi": "Pohjois-Karjala",
+      "name_official_en": "North Karelia wellbeing services county",
+      "name_official_fi": "Pohjois-Karjalan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 972,
+      "include_in_national": true,
+      "yta_id": "yta-ita",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 73.2,
+          "abs_value": 10833.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 76.9,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-ita"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 17.6,
+          "ci95_low": 13.8,
+          "ci95_high": 22.5,
+          "men": {
+            "value": 17.6,
+            "ci95": [
+              13.8,
+              22.5
+            ]
+          },
+          "women": {
+            "value": 27.3,
+            "ci95": [
+              20.6,
+              35.9
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "keski-suomi",
+      "name": "Central Finland",
+      "name_fi": "Keski-Suomi",
+      "name_official_en": "Central Finland wellbeing services county",
+      "name_official_fi": "Keski-Suomen hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 965,
+      "include_in_national": true,
+      "yta_id": "yta-ita",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 76.5,
+          "abs_value": 16219.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 78.1,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-ita"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 27.5,
+          "ci95_low": 22.8,
+          "ci95_high": 32.6,
+          "men": {
+            "value": 27.5,
+            "ci95": [
+              22.8,
+              32.6
+            ]
+          },
+          "women": {
+            "value": 27.7,
+            "ci95": [
+              21.7,
+              34.9
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "slug": "etela-pohjanmaa",
+      "name": "South Ostrobothnia",
+      "name_fi": "Etelä-Pohjanmaa",
+      "name_official_en": "South Ostrobothnia wellbeing services county",
+      "name_official_fi": "Etelä-Pohjanmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 958,
+      "include_in_national": true,
+      "yta_id": "yta-sisa",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 74.6,
+          "abs_value": 11899.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 68.9,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-sisa"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 26.6,
+          "ci95_low": 21.8,
+          "ci95_high": 32.3,
+          "men": {
+            "value": 26.6,
+            "ci95": [
+              21.8,
+              32.3
+            ]
+          },
+          "women": {
+            "value": 36.9,
+            "ci95": [
+              29.7,
+              46.3
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "slug": "pohjanmaa",
+      "name": "Ostrobothnia",
+      "name_fi": "Pohjanmaa",
+      "name_official_en": "Ostrobothnia wellbeing services county",
+      "name_official_fi": "Pohjanmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 971,
+      "include_in_national": true,
+      "yta_id": "yta-lansi",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 75.9,
+          "abs_value": 9334.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 76.5,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-lansi"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 26.6,
+          "ci95_low": 21.5,
+          "ci95_high": 33.3,
+          "men": {
+            "value": 26.6,
+            "ci95": [
+              21.5,
+              33.3
+            ]
+          },
+          "women": {
+            "value": 32.1,
+            "ci95": [
+              24.5,
+              42.1
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "slug": "keski-pohjanmaa",
+      "name": "Central Ostrobothnia",
+      "name_fi": "Keski-Pohjanmaa",
+      "name_official_en": "Central Ostrobothnia wellbeing services county",
+      "name_official_fi": "Keski-Pohjanmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 964,
+      "include_in_national": true,
+      "yta_id": "yta-pohjoinen",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 73.3,
+          "abs_value": 3612.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 71.7,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-pohjoinen"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 22.5,
+          "ci95_low": 14.5,
+          "ci95_high": 35.4,
+          "men": {
+            "value": 22.5,
+            "ci95": [
+              14.5,
+              35.4
+            ]
+          },
+          "women": {
+            "value": 29.0,
+            "ci95": [
+              16.8,
+              50.1
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "slug": "pohjois-pohjanmaa",
+      "name": "North Ostrobothnia",
+      "name_fi": "Pohjois-Pohjanmaa",
+      "name_official_en": "North Ostrobothnia wellbeing services county",
+      "name_official_fi": "Pohjois-Pohjanmaan hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 973,
+      "include_in_national": true,
+      "yta_id": "yta-pohjoinen",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 75.6,
+          "abs_value": 22423.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 78.0,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-pohjoinen"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 23.2,
+          "ci95_low": 19.7,
+          "ci95_high": 26.7,
+          "men": {
+            "value": 23.2,
+            "ci95": [
+              19.7,
+              26.7
+            ]
+          },
+          "women": {
+            "value": 25.3,
+            "ci95": [
+              21.0,
+              30.7
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "slug": "kainuu",
+      "name": "Kainuu",
+      "name_fi": "Kainuu",
+      "name_official_en": "Kainuu wellbeing services county",
+      "name_official_fi": "Kainuun hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 962,
+      "include_in_national": true,
+      "yta_id": "yta-pohjoinen",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 76.5,
+          "abs_value": 5362.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 75.2,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-pohjoinen"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2026-kuva16",
+          "missing": true,
+          "missing_reason": "No public age-adjusted figure in Kuva 16 for this county (chart estimate; some small counties are suppressed)."
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "slug": "lappi",
+      "name": "Lapland",
+      "name_fi": "Lappi",
+      "name_official_en": "Lapland wellbeing services county",
+      "name_official_fi": "Lapin hyvinvointialue",
+      "type": "wellbeing_services_county",
+      "sotkanet_id": 968,
+      "include_in_national": true,
+      "yta_id": "yta-pohjoinen",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 73.7,
+          "abs_value": 11925.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 80.2,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-pohjoinen"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 16.2,
+          "ci95_low": 12.7,
+          "ci95_high": 20.4,
+          "men": {
+            "value": 16.2,
+            "ci95": [
+              12.7,
+              20.4
+            ]
+          },
+          "women": {
+            "value": 23.1,
+            "ci95": [
+              17.9,
+              29.0
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "slug": "helsinki",
+      "name": "Helsinki",
+      "name_fi": "Helsinki",
+      "name_official_en": "City of Helsinki",
+      "name_official_fi": "Helsingin kaupunki",
+      "type": "city",
+      "sotkanet_id": 960,
+      "include_in_national": true,
+      "yta_id": "yta-etela",
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": 69.6,
+          "abs_value": 29226.0,
+          "year": 2024,
+          "source_id": "src-sotkanet-6103",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+          "source_table": "THL Sotkanet indicator 6103 (REST API https://sotkanet.fi/rest/1.1/json?indicator=6103); data source: Screening statistics (Finnish Cancer Registry); data-updated 2026-06-12"
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": 76.8,
+          "year": 2025,
+          "source_id": "src-sotkanet-13",
+          "source_url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+          "source_table": "THL Sotkanet indicator 13 (REST API https://sotkanet.fi/rest/1.1/json?indicator=13); data source: Access to specialised health care (THL); data-updated 2026-06-05",
+          "note": "All specialties, not cancer-specific. Producer-based reporting."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": "yta-etela"
+        },
+        {
+          "id": "lung_curative_share",
+          "value": 29.5,
+          "ci95_low": 25.6,
+          "ci95_high": 33.3,
+          "men": {
+            "value": 29.5,
+            "ci95": [
+              25.6,
+              33.3
+            ]
+          },
+          "women": {
+            "value": 36.6,
+            "ci95": [
+              32.4,
+              40.8
+            ]
+          },
+          "source_id": "src-lung-2026-kuva16",
+          "source_table": "Kuva 16 (Parantava panel), chart-digitised ±1 pp",
+          "measure_label": "chart estimate, age-adjusted, not stage-adjusted, not survival",
+          "note": "Chart estimate from the report's age-standardised chart (Kuva 16, ±1 percentage point), not a printed table. Men's figure is used for the map colour. Not stage-adjusted, not survival. The crude share is shown only as a secondary line on the hero card.",
+          "year": "2019-2023",
+          "missing": false
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "slug": "ahvenanmaa",
+      "name": "Åland",
+      "name_fi": "Ahvenanmaa",
+      "name_official_en": "Åland",
+      "name_official_fi": "Ahvenanmaa",
+      "type": "autonomous_region",
+      "sotkanet_id": 956,
+      "include_in_national": false,
+      "yta_id": null,
+      "indicators": [
+        {
+          "id": "colorectal_screening_share",
+          "value": null,
+          "year": null,
+          "source_id": "src-sotkanet-6103",
+          "missing": true,
+          "missing_reason": "No public figure for this region in Sotkanet 6103 (2024)."
+        },
+        {
+          "id": "referral_within_3d_share",
+          "value": null,
+          "year": null,
+          "source_id": "src-sotkanet-13",
+          "missing": true,
+          "missing_reason": "No public county figure. Sotkanet 13 is missing for this area in 2025 (HUS reports Uusimaa as a producer; Åland is outside the series)."
+        },
+        {
+          "id": "lung_dx_to_surgery_days",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2024-yta",
+          "missing": true,
+          "missing_reason": "No public county-level statistic. Lung diagnosis-to-treatment times are published only for the five collaborative areas (YTA).",
+          "yta_id": null
+        },
+        {
+          "id": "lung_curative_share",
+          "value": null,
+          "year": null,
+          "source_id": "src-lung-2026-kuva16",
+          "missing": true,
+          "missing_reason": "No public age-adjusted figure in Kuva 16 for this county (chart estimate; some small counties are suppressed)."
+        }
+      ]
+    }
+  ],
+  "target_days": {
+    "referral_to_treatment_days": 42,
+    "label": "6 weeks from referral arrival to first treatment",
+    "source_id": "src-thl-2016"
+  }
+}

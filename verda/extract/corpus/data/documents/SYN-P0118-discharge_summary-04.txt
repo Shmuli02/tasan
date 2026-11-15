@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0118
+document_id: SYN-P0118-discharge_summary-04
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-14
+display_name: Pekka Paikkamerkki SYN-P0118 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 14.5.2026. Potilas: Pekka Paikkamerkki SYN-P0118 (SYN-P0118), s. 21.2.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 14.4.2026.
+Tietokonetomografia (TT) suoritettiin 19.4.
+Bronkoskopia ja biopsia tehty 30.4.2026.
+Esitiedot: päätettiin 6.5.26 aloittaa solunsalpaaja.
+PAD-vastaus valmistui 2026-05-08: levyepiteelikarsinooma.
+Solunsalpaajahoito käynnistetty 13.5.2026.
+Lonkkaproteesi operoitu 1.4.2014.
+Syntymäaika 21.2.1951 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,39 @@
+18 | SUOMEN SYOPAREKISTERI
+TAULUKKO 3.4: Hoitotoimenpiteet kuuden kuukauden kuluessa diagnoosipaivasta yhteistyoalueittain
+Hoitotoimenpide | Yhteistyoalue | Lkm | Yhteensa | Osuus (%)
+Etela-Suomi | 603 | 4 972 | 12,1
+Ita-Suomi | 255 | 2 019 | 12,6
+Leikkaushoito | Lansi-Suomi | 238 | 2 284 | 10,4
+Pohjois-Suomi | 202 | 1 930 | 10,5
+Sisa-Suomi | 324 | 2 033 | 15,9
+Etela-Suomi | 1 270 | 4 972 | 25,5
+Ita-Suomi | 439 | 2 019 | 21,7
+Muu kuin palli-
+ativinen sade- | Lansi-Suomi | 435 | 2 284 | 19,0
+hoito
+Pohjois-Suomi | 300 | 1 930 | 15,5
+Sisa-Suomi | 403 | 2 033 | 19,8
+Etela-Suomi | 868 | 4 972 | 17,5
+Ita-Suomi | 565 | 2 019 | 28,0
+Laakehoito | Lansi-Suomi | 365 | 2 284 | 16,0
+Pohjois-Suomi | 455 | 1 930 | 23,6
+Sisa-Suomi | 2 033 | 31,0
+Etela-Suomi | 1079 | 4 972 | 21,7
+Ita-Suomi | 593 | 2 019 | 29,4
+Palliatiivinen hoito | Lansi-Suomi | 317 | 2 284 | 13,9
+Pohjois-Suomi | 389 | 1 930 | 20,2
+Sisa-Suomi | 437 | 2 033 | 21,5
+Etela-Suomi | 2 329 | 4 972 | 46,8
+Ita-Suomi | 929 | 2 019 | 46,0
+Kuollut | Lansi-Suomi | 1 083 | 2 284 | 47,4
+Pohjois-Suomi | 906 | 1 930 | 46,9
+Sisa-Suomi | 914 | 2 033 | 45,0
+Leikkaushoidoista yleisin on keuhkolohkon poisto rintaontelon tahystyksessa (59 % leikatuista ja 7 % kai-
+kista keuhkosyovista). Muita tahystysleikkauksia on lisaksi 18 %:lla leikatuista ja muita lohkonpoistoja noin
+27 %:lla leikatuista. Koko keuhkon poistoja on tehty runsaalle 3 %:lle leikatuista (Litetaulukko 6.1).
+Sadehoidon osalta yleisin toimenpide on etapesakkeen sadehoito (53 % sadehoidetuista ja I9 % kaikista keuh-
+kosyovista) ja primaarikasvaimen palliativinen sadehoito (44 % sadehoidetuista ja I5 % kaikista keuhko-
+syovista). Radikaali primaarikasvaimen sadehoito on annettu kolmannekselle sadehoidetuista (11 % kaikista
+keuhkosyovista) (Litetaulukko 6.2).
+Laakehoidoista suurin osuus on laajalle levinneen kasvaimen vaativa solusalpaajahoito (63 % laakehoide-
+tuista ja I5 % kaikista tapauksista) ja toiseksi laajalle levinneen kasvaimen yksinkertainen tavanomainen

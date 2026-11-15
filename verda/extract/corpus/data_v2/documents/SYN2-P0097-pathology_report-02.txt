@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0097
+document_id: SYN2-P0097-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-05-05
+display_name: Ritva Rakennettu SYN2-P0097 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mal1ikylän keuhkoklinikka
+Kirjauspäivä 5.5.2026. Potilas: Ritva Rakennettu SYN2-P0097 (SYN2-P0097), s. 5.1.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henki löä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tähyst-yksen yhteydessä punktionäyte perjantaina.
+Morforloginen tulos tuli toukokuun 5. päivänä 2026 (NSCLC, ei tarkemmin luokiteltu).
+Kuvausaika merkittiin kalenteriin huhtikuun 25. päivänä 2026; itse tutkimus toteutettiin viikolla 18 tiistaina (2026).
+Konsultaatiopyyntö kirjattiin saapuneeksi 20. huhtikuuta 2026.
+Kuvissa erottui oikean keskilohohon 4,0 cm massa.
+Aktiivista hoitoa ei o1e a loitettu, vasta pohditaan vaihtoeh toja.
+— ote vanhasta kirjauksesta 1.2.2016: syntymäaika 5.1.1957; sappirakon poisto 1.2.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0015
+document_id: SYN2-P0015-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-06-11
+display_name: Anna Anonyymi SYN2-P0015 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteet tisen hyvinvo intialueen keskussairaala
+Kirjauspäivä 11.6.2026. Potilas: Anna Anonyymi SYN2-P0015 (SYN2-P0015), s. 10.3.1960.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitustekst i).
+Lähete saapui toimistoon huhtikuun 20. päivänä 2026 (kirjoituspäivä on eri, ks. alla).
+Kokoontuminen 26. toukokuuta 2026: eri erikoisalojen yhteinen kanta merkitty.
+Näyte otettiin tähystyksessä toukokuun 14. päivänä 2026.
+Valittiin etenemistapa 26. toukok-uuta 2026: sytostaatti.
+Morforloginen tulos tuli 21. toukokuuta 2026 (adenokarsinooma).
+Aktiivinen hoito käynnistyi 09-06-2026.
+Kerroskuvaus toteutettiin 03-05-2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhast a kirjauksesta 27.7.2015: syntymäaika 10.3.1960; sappirakon poisto 27.7.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Syntymäaika 10.3.1960 tarkistettu väestöt-iedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

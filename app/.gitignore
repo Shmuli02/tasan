@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.local
+PUBLIC_URL.txt
+deploy-result.json
+server/.run/
+server/.env
+CLAIM_URL.txt

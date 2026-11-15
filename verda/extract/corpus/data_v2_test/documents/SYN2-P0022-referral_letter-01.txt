@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0022
+document_id: SYN2-P0022-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-07-02
+display_name: Erik Exempelsson SYN2-P0022 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 2.7.2026. Potilas: Erik Exempelsson SYN2-P0022 (SYN2-P0022), s. 24.1.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkos e lvittelystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö laadittiin 30. kes-äkuuta 2026, mutta se kirjattiin saapuneeksi vasta 02-07-2026.
+Kuvantaminen on vasta ajanvaraus 10-07-2026, sitä ei ole t oteutettu.
+— ote vanhasta kirjauksesta 27.5.2021: syntymäaika 24.1.1957; sappirakon poisto 27.5.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskert0mus.

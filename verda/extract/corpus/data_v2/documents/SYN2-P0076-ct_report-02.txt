@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0076
+document_id: SYN2-P0076-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-08-13
+display_name: Johan Testdata SYN2-P0076 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 13.8.2026. Potilas: Johan Testdata SYN2-P0076 (S-YN2-P0076), s. 17.9.1958.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Lähete saa pui toimistoon 4. elokuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Kuvausaika merkittiin kalenteriin 06-08-2026; itse tutkimus toteutettiin 11. elokuuta 2026.
+Kuvissa erottui oikean keskilohohon 4,0 cm massa.
+Kuvantaminen on vasta ajanvaraus 20-08-2026, sitä ei ol e toteutettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

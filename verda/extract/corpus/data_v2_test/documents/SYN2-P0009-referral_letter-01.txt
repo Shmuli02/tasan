@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0009
+document_id: SYN2-P0009-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-05-22
+display_name: Sari Sijaisnimi SYN2-P0009 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 22.5.2026. Patient: Sari Sijaisnimi SYN2-P0009 (SYN2-P0009), f. 8.10.1951.
+SYNTET1S K patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutr-edni-ngen (syntetisk övningstext).
+Konsultationsbegäran skrevs den 20 maj 2026, men registrerades som inkommen först den 21 maj 2026.
+Något teammöte hölls inte vid detta besök.
+Kontrollprov har beställts; svaren finns inte i denna anteckning.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

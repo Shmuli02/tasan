@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0079
+document_id: SYN2-P0079-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-06-10
+display_name: Jane Synthetic SYN2-P0079 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 10.6.2026. Potilas: Jane Synthetic SYN2-P0079 (SYN2-P0079), s. 10.12.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Morforloginen tulos tuli 10-06-2026 (NSCLC, ei tarkemmin luo kiteltu).
+Leikekuv aus on suoritettu 29-05-2026.
+— ote vanhasta kirjauksesta 1.7.2019: syntymäaika 10.12.1949; sappirakon poisto 1.7.2019; ei liity nykyiseen keuhkoselvittelyyn. —
+Sappir-akon poisto tehty 16.4.2012 (ei liity ny-kyiseen selvittelyyn).
+
+Kirjaaj-a: synteettinen testikäyttäjä. Tämä ei ol e oikea potilaskertomus.

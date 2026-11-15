@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0100
+document_id: SYN-P0100-mdt_minutes-03
+document_type: mdt_minutes
+language: en
+note_date: 2026-08-05
+display_name: Nils Fiktiv SYN-P0100 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 5.8.2026. Patient: Nils Fiktiv SYN-P0100 (SYN-P0100), DOB 27.10.1946.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+History: specialist referral received 7.7.2026.
+Chest CT performed on 12/7.
+Biopsies were obtained during bronchoscopy on 21/7.
+MDT conference 4.8.2026: multidisciplinary recommendation recorded.
+Hip replacement on 3.2.2019.
+
+Entered by: synthetic test user. This is not a real clinical record.

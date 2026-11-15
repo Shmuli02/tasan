@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0076
+document_id: SYN2-P0076-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-09-02
+display_name: Johan Testdata SYN2-P0076 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 2.9.2026. Potilas: Johan Testdata SYN2-P0076 (SYN2-P0076), s. 17.9.1958.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Morforloginen tulos tuli 1. syyskuuta 2026 (NSCLC, ei tarkemmin luokiteltu).
+Tähystyksen yhteydessä punktionäyte viikolla 34 lauantaina (2026).
+Kerros-kuvaus toteutettiin elokuun 11. päivänä 2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi 4. elokuuta 2026.
+Aktiivista hoitoa ei ole aloitettu, vasta p ohditaan vaihtoehtoja.
+Aiemm in jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

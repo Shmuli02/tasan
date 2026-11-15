@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0102
+document_id: SYN2-P0102-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-06-01
+display_name: Lars Låtsas SYN2-P0102 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklin ikka
+Kirjauspä ivä 1.6.2026. Potilas: Lars Låtsas SYN2-P0102 (SYN2-P0102), s. 16.5.1966.
+SYNTEETTINEN potilaskertomus, ei o-ikeaa henk-ilöä.
+
+Diktoitu merkintä keuhkoselv ittelys-tä (synte-ettinen harjoitusteksti).
+Kuvantaminen tehtiin toukokuun 8. päivänä 2026 (varaus oli aiemmin).
+Tiimikokous pidettiin toukokuun 30. päivänä 2026 ja suositus kirjattiin.
+Näyte otettiin tähystyksessä 20. toukokuuta 2026.
+Lähete saapui toimistoon 05-05-2026 (kirjoituspäivä on eri, ks. alla).
+Morforloginen tulos tuli 23. toukokuuta 2026 (adenokarsinooma).
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 14.3.2016: syntymäaika 16.5.1966; sappirakon poisto 14.3.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+Potilas tupakoinut aiernmin; vieroi-tusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskert0mu s.

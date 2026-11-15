@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0038
+document_id: SYN2-P0038-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-09-29
+display_name: Olli Oletettu SYN2-P0038 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kir-jauspäivä 29.9.2026. Potilas: Olli Oletettu SYN2-P0038 (SYN2-P0038), s. 24.9.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Di ktoitu merkintä keuhkoselvitt elystä (synteettin-en harjoi tusteksti).
+Kerroskuvaus toteutettiin 10. syyskuuta 2026.
+Mikroskooppinen lau sunto valmistui syyskuun 29. päivänä 2026: levyepiteelikarsinooma.
+Pyyntö tuli perille viikolla 35 torstaina (2026).
+Tähys-tyksen yhteydessä punktionäyte syyskuun 19. päivänä 2026.
+— ote vanhasta kirjauksesta 21.5.2016: syntymäaika 24.9.1962; sappirakon poisto 21.5.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+Edellinen keuh-kokuume hoidettu 2.10.2017.
+
+Kirjaaja: synteettinen test ikäyttäjä. T ämä ei ole oikea potilaskertomus.

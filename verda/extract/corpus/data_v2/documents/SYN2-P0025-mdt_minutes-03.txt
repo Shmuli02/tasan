@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0025
+document_id: SYN2-P0025-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-05
+display_name: Mary Fictitious SYN2-P0025 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 5.5.2026. Potilas: Mary Fictitious SYN2-P0025 (SYN2-P0025), s. 26.4.1940.
+SYNTEETTINEN potilaskertomus, ei oike-aa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoituste-ksti).
+Konsultaatiopyyntö kirjattiin saapuneeksi maaliskuun 28. päivänä 2026.
+Tiimikokous pidettiin 4. toukokuuta 2026 ja suositus kirjattiin.
+Kuvantaminen on vasta ajanvaraus 16-05-2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 6.4.2018: syntymäaika 26.4.1940; sappirakon poi sto 6.4.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+Edellinen keuhkokuume hoidettu 2.10.2019.
+
+Kir-jaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

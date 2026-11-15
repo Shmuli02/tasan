@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0037
+document_id: SYN2-P0037-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-16
+display_name: Sari Sijaisnimi SYN2-P0037 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskus sairaala
+Kirjauspäivä 16.6.2026. Potilas: Sari Sijaisnimi SYN2-P0037 (SYN2-P0037), s. 13.10.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille touokuun 28. päivänä 2026.
+Toimenpide varattiin 12. kesäkuuta 2026, mutta näyte otettiin vasta 15-06-2026.
+Kuvantaminen tehtiin viikolla 24 tiistaina (2026) (varaus oli aiemmin).
+— ote vanhasta kirjauksesta 13.10.2015: syntymäaika 13.10.1949; sappirakon poisto 13.10.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammiuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Potilas t-upakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

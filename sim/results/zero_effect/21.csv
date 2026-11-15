@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,baseline,pct_le42_from_referral,34.4283,14.2857,33.3333,57.8207,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,baseline,pct_le42_from_diagnosis,63.9076,50.7676,63.9344,76.6667,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,baseline,median_days_referral_to_treatment,56.8327,36.0,57.0,80.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,baseline,median_days_diagnosis_to_treatment,30.6928,21.0,30.5,42.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,baseline,n_patients,141.789,119.0,142.0,166.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,baseline,n_active_treated,57.0415,42.0,57.0,73.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,baseline,n_le42_from_referral,19.629,7.0,19.0,35.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,baseline,n_untreated_at_alert_day,46.5965,31.0,46.0,64.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,scenario,pct_le42_from_referral,34.4283,14.2857,33.3333,57.8207,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,scenario,median_days_referral_to_treatment,56.8327,36.0,57.0,80.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,scenario,n_patients,141.789,119.0,142.0,166.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,scenario,n_active_treated,57.0415,42.0,57.0,73.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,scenario,n_le42_from_referral,19.629,7.0,19.0,35.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,delta,pct_le42_from_referral,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,delta,median_days_referral_to_treatment,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,delta,n_patients,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,delta,n_active_treated,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+21,Lapland wellbeing services county,YTA-POHJOIS,zero_effect,delta,n_le42_from_referral,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast

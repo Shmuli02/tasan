@@ -1,0 +1,597 @@
+{
+  "system": "Qwen/Qwen3-32B-AWQ",
+  "synthetic": true,
+  "summary": {
+    "system": "Qwen/Qwen3-32B-AWQ",
+    "synthetic": true,
+    "corpus_id": "tasan-extract-synthetic-v1",
+    "base_url_host": "127.0.0.1:8000",
+    "n_documents": 16,
+    "n_ok": 16,
+    "elapsed_s": 60.566,
+    "notes_per_sec": 0.264,
+    "concurrency": 8,
+    "latency_s": {
+      "p50": 21.83,
+      "p95": 36.6159,
+      "mean": 19.7523,
+      "max": 36.7523
+    },
+    "tokens": {
+      "prompt": 16556,
+      "completion": 4923,
+      "total": 21479
+    },
+    "finished_at_eet": "2026-11-14 21:16:32 EET"
+  },
+  "documents": {
+    "SYN-P0001-ct_report-02": {
+      "patient_id": "SYN-P0001",
+      "note_date": "2026-07-23",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "date_text": "16.7.2026",
+          "evidence_span": "specialist referral received 16.7.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "date_text": "21.7.2026",
+          "evidence_span": "Chest CT performed on 21.7.2026. Imaging showed a 3.1 cm tumour in the right upper lobe.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 12.76,
+      "prompt_tokens": 930,
+      "completion_tokens": 191,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0001-discharge_summary-05": {
+      "patient_id": "SYN-P0001",
+      "note_date": "2026-08-31",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "date_text": "16.7.2026",
+          "evidence_span": "Specialist referral received 16.7.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "date_text": "21.7.26",
+          "evidence_span": "CT thorax was carried out on 21.7.26.",
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-08-01",
+          "date_text": "2026-08-01",
+          "evidence_span": "Biopsies were obtained during bronchoscopy on 2026-08-01.",
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-08-13",
+          "date_text": "13.8",
+          "evidence_span": "History: pathology result issued on 13.8: small-cell lung cancer.",
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-08-16",
+          "date_text": "16.8.2026",
+          "evidence_span": "Multidisciplinary meeting (MDT) on 16.8.2026: recommend proceeding to treatment.",
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-08-18",
+          "date_text": "18.8.26",
+          "evidence_span": "It was decided on 18.8.26 to proceed with wedge resection.",
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_start",
+          "date": "2026-08-31",
+          "date_text": "31.8.2026",
+          "evidence_span": "Wedge resection performed on 31.8.2026.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 36.6159,
+      "prompt_tokens": 1043,
+      "completion_tokens": 574,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0001-mdt_minutes-04": {
+      "patient_id": "SYN-P0001",
+      "note_date": "2026-08-17",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "date_text": "16.7.26",
+          "evidence_span": "eSH-lähete vastaanotettu 16.7.26.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "date_text": "21.7.2026",
+          "evidence_span": "Keuhko-TT tehty 21.7.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-08-16",
+          "date_text": "16/8",
+          "evidence_span": "MDT 16/8: hoitolinja vahvistettu.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 17.0133,
+      "prompt_tokens": 1022,
+      "completion_tokens": 255,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0001-pathology_report-03": {
+      "patient_id": "SYN-P0001",
+      "note_date": "2026-08-13",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "date_text": "2026-07-16",
+          "evidence_span": "Esitiedot: eSH-lähete vastaaotettu 2026-07-16.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "date_text": "21.7.2026",
+          "evidence_span": "Esitiedot: tT-tutkimus tehty 21.7.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-08-01",
+          "date_text": "1.8.2026",
+          "evidence_span": "Biopsiat otettu bronkoskopiassa 1.8.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-08-13",
+          "date_text": "13/8/2026",
+          "evidence_span": "Histologinen vastaus saapui 13/8/2026 (levyepiteelikarsinooma).",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 23.8079,
+      "prompt_tokens": 1073,
+      "completion_tokens": 368,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0001-referral_letter-01": {
+      "patient_id": "SYN-P0001",
+      "note_date": "2026-07-17",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "date_text": "16.7.26",
+          "evidence_span": "The referral was registered on 16.7.26.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 6.7418,
+      "prompt_tokens": 918,
+      "completion_tokens": 91,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0002-biopsy_note-02": {
+      "patient_id": "SYN-P0002",
+      "note_date": "2026-03-27",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "date_text": "8.3.26",
+          "evidence_span": "lähete saapunut keuhkoklinikalle 8.3.26.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-21",
+          "date_text": "21/3/2026",
+          "evidence_span": "TT-tutkimus tehty 21/3/2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-26",
+          "date_text": "26.3.2026",
+          "evidence_span": "Biopsiat otettu bronkoskopiassa 26.3.2026.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 17.3205,
+      "prompt_tokens": 1078,
+      "completion_tokens": 259,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0002-discharge_summary-05": {
+      "patient_id": "SYN-P0002",
+      "note_date": "2026-04-27",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "date_text": "2026-03-08",
+          "evidence_span": "specialistremiss registrerad 2026-03-08.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-21",
+          "date_text": "21/3/2026",
+          "evidence_span": "datortomografi (DT) genomfördes 21/3/2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-26",
+          "date_text": "26.3.2026",
+          "evidence_span": "Bronkoskopi och biopsi utförd 26.3.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-04-05",
+          "date_text": "5.4.2026",
+          "evidence_span": "pAD-svar klart 5.4.2026: småcellig lungcancer.",
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_start",
+          "date": "2026-04-25",
+          "date_text": "25/4",
+          "evidence_span": "Cellgiftsbehandling startad 25/4.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 26.1682,
+      "prompt_tokens": 1071,
+      "completion_tokens": 417,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0002-mdt_minutes-03": {
+      "patient_id": "SYN-P0002",
+      "note_date": "2026-04-09",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "date_text": "8.3.2026",
+          "evidence_span": "Remissen mottogs 8.3.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-21",
+          "date_text": "21.3.2026",
+          "evidence_span": "dT torax utförd 21.3.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-26",
+          "date_text": "26.3.26",
+          "evidence_span": "Biopsire togs vid bronkoskopi 26.3.26.",
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-04-07",
+          "date_text": "i söndags",
+          "evidence_span": "Histologiskt svar inkom i söndags (adenokarcinom).",
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-04-09",
+          "date_text": "9.4.2026",
+          "evidence_span": "Vårdkonferens 9.4.2026: multidisciplinär rekommendation.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 28.3603,
+      "prompt_tokens": 1072,
+      "completion_tokens": 438,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0002-oncology_note-04": {
+      "patient_id": "SYN-P0002",
+      "note_date": "2026-04-11",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "date_text": "2026-03-08",
+          "evidence_span": "Specialistremiss registrerad 2026-03-08.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-21",
+          "date_text": "21.3",
+          "evidence_span": "PET-DT utförd 21.3.",
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-26",
+          "date_text": "26.3.2026",
+          "evidence_span": "eBUS-bronkoskopi genomförd 26.3.2026; biopsier tagna.",
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-04-10",
+          "date_text": "igår",
+          "evidence_span": "Behandlingsbeslut igår: strålbehandling.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 21.83,
+      "prompt_tokens": 1053,
+      "completion_tokens": 343,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0002-referral_letter-01": {
+      "patient_id": "SYN-P0002",
+      "note_date": "2026-03-08",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "date_text": "8.3.2026",
+          "evidence_span": "ESH-lähete vastaanotettu 8.3.2026.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 7.1023,
+      "prompt_tokens": 1017,
+      "completion_tokens": 97,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0003-ct_report-02": {
+      "patient_id": "SYN-P0003",
+      "note_date": "2026-04-25",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-20",
+          "date_text": "20.4.2026",
+          "evidence_span": "lähete saapunut keuhkoklinikalle 20.4.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-24",
+          "date_text": "24/4/2026",
+          "evidence_span": "Thoraxin TT tehty 24/4/2026.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 11.6593,
+      "prompt_tokens": 1012,
+      "completion_tokens": 180,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0003-discharge_summary-05": {
+      "patient_id": "SYN-P0003",
+      "note_date": "2026-06-05",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-20",
+          "date_text": "20.4.2026",
+          "evidence_span": "eSH-lähete vastaanotettu 20.4.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-24",
+          "date_text": "2026-04-24",
+          "evidence_span": "PET-TT tehty 2026-04-24.",
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-05-05",
+          "date_text": "5.5.2026",
+          "evidence_span": "Biopsiat otettu bronkoskopiassa 5.5.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-05-15",
+          "date_text": "15.5",
+          "evidence_span": "PAD-vastaus valmistui 15.5: pienisoluinen keuhkosyöpä.",
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-05-18",
+          "date_text": "18.5.2026",
+          "evidence_span": "Hoitokokous 18.5.2026: moniammatillinen suositus kirjattu.",
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-05-21",
+          "date_text": "21.5",
+          "evidence_span": "Päätettiin 21.5 aloittaa sytostaatti.",
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_start",
+          "date": "2026-06-05",
+          "date_text": "5/6/2026",
+          "evidence_span": "Sytostaattihoito aloitettu 5/6/2026.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 36.7523,
+      "prompt_tokens": 1132,
+      "completion_tokens": 598,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0003-mdt_minutes-04": {
+      "patient_id": "SYN-P0003",
+      "note_date": "2026-05-19",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-20",
+          "date_text": "20.4.2026",
+          "evidence_span": "keuhkoklinikan lähete saapui 20.4.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-24",
+          "date_text": "2026-04-24",
+          "evidence_span": "thoraxin TT tehty 2026-04-24.",
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-05-05",
+          "date_text": "5.5.2026",
+          "evidence_span": "EBUS-bronkoskopia suoritettu 5.5.2026; biopsiat otettu.",
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-05-15",
+          "date_text": "15/5/2026",
+          "evidence_span": "histologinen vastaus saapui 15/5/2026 (NSCLC, ei tarkemmin lukoiteltu).",
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-05-18",
+          "date_text": "18.5.2026",
+          "evidence_span": "MDT 18.5.2026: hoitolinja vahvistettu.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 29.6863,
+      "prompt_tokens": 1109,
+      "completion_tokens": 478,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0003-pathology_report-03": {
+      "patient_id": "SYN-P0003",
+      "note_date": "2026-05-17",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-20",
+          "date_text": "20.4.2026",
+          "evidence_span": "lähete saapunut keuhkoklinikalle 20.4.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-24",
+          "date_text": "24.4.2026",
+          "evidence_span": "Thoraxin TT tehty 24.4.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-05-05",
+          "date_text": "5/5",
+          "evidence_span": "EBUS-bronkoskopia suoritettu 5/5; biopsiat otettu.",
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-05-15",
+          "date_text": "2026-05-15",
+          "evidence_span": "Histologinen vastaus saapui 2026-05-15 (pienisoluinen keuhkosyöpä).",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 22.5915,
+      "prompt_tokens": 1063,
+      "completion_tokens": 360,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0003-referral_letter-01": {
+      "patient_id": "SYN-P0003",
+      "note_date": "2026-04-22",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-20",
+          "date_text": "20.4.2026",
+          "evidence_span": "Keuhkoklinikan lähete saapui 20.4.2026.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 6.7389,
+      "prompt_tokens": 1006,
+      "completion_tokens": 101,
+      "http_status": 200,
+      "ok": true
+    },
+    "SYN-P0004-ct_report-01": {
+      "patient_id": "SYN-P0004",
+      "note_date": "2026-02-09",
+      "events": [
+        {
+          "type": "referral_received",
+          "date": "2026-02-04",
+          "date_text": "4.2.2026",
+          "evidence_span": "The referral was registered on 4.2.2026.",
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-02-09",
+          "date_text": "9.2.2026",
+          "evidence_span": "PET-CT performed on 9.2.2026.",
+          "confidence": 0.95
+        }
+      ],
+      "latency_s": 10.889,
+      "prompt_tokens": 957,
+      "completion_tokens": 173,
+      "http_status": 200,
+      "ok": true
+    }
+  }
+}

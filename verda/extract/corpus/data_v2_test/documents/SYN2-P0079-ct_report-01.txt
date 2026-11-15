@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0079
+document_id: SYN2-P0079-ct_report-01
+document_type: ct_report
+language: fi
+note_date: 2026-05-31
+display_name: Jane Synthetic SYN2-P0079 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspä-ivä 31.5.2026. Po-tilas: Jane Synthetic SYN2-P0079 (SYN2-P0079), s. 10.12.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu m erkintä keuhk-oselvittelystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin 29. toukokuuta 2026.
+Kuvissa erottui oikean keskilo-hohon 4,0 cm massa.
+— ote vanhasta kirjauksesta 15.1.2020: syntymäaika 10.12.1949; sappirakon poisto 15.1.2020; ei liity nykyiseen keuhkoselvittelyyn. —
+Edellinen keuhkokuume hoidettu 18.1.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

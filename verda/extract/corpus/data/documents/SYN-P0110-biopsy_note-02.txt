@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0110
+document_id: SYN-P0110-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-03
+display_name: Alan Invented SYN-P0110 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 3.3.2026. Potilas: Alan Invented SYN-P0110 (SYN-P0110), s. 9.11.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 15.2.2026.
+Tietokonetomografia (TT) suoritettiin viime torstaina. Kuvauksessa todettiin oikean keskilohohon 4,0 cm massa.
+Biopsia peruttiin potilaan toiveesta; toimenpidettä ei tehty.
+Biopsia peruttiin potilaan toiveesta.
+Bronkoskopiaa ei tehty tässä käynnissä.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Edellinen keuhkokuume hoidettu 6.11.2021.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

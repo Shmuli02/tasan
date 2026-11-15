@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0037
+document_id: SYN2-P0037-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-06-30
+display_name: Sari Sijaisnimi SYN2-P0037 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 30.6.2026. Potilas: Sari Sijaisnimi SYN2-P0037 (SYN2-P0037), s. 13.10.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Dikt-oitu merkintä keuhkoselv ittelystä (synteettinen harjoitusteksti).
+Morforloginen tulos tuli 22-06-2026 (adenokarsinooma).
+Tutkimus käytiin kuvaamassa 9. kesäkuuta 2026.
+Sovittiin hoitomuodosta 30. kesäkuuta 2026 (SBRT).
+Kudosnäy-tteet haettiin toimenpiteessä 15. kesäkuuta 2026.
+Pyyntö tuli perille 28-05-2026.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea pot ilaskertomus.

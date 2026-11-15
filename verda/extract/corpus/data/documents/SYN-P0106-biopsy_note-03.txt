@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0106
+document_id: SYN-P0106-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-02
+display_name: Erik Exempelsson SYN-P0106 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 2.3.2026. Potilas: Erik Exempelsson SYN-P0106 (SYN-P0106), s. 24.9.1968.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Lähete saapunut keuhkoklinikalle 6.2.26.
+TT-tutkimus tehty 19.2.
+Bronkoskopia 1/3, näytteet otettu.
+
+(Synteettinen lyhyt kirjaus.)

@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0071
+document_id: SYN-P0071-pathology_report-04
+document_type: pathology_report
+language: sv
+note_date: 2026-09-12
+display_name: Anna Anonyymi SYN-P0071 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 12.9.2026. Patient: Anna Anonyymi SYN-P0071 (SYN-P0071), f. 3.1.1947.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Föregående uppgifter: remissen mottogs 21.8.2026.
+PET-DT utförd 3.9.26.
+Biopsier togs vid bronkoskopi 6/9/2026.
+Patologiskt utlåtande 12/9: småcellig lungcancer.
+Kontrollprov har beställts; svaren finns inte i denna anteckning.
+Födelsedatum 3.1.1947 kontrollerat i befolkningsuppgifterna.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

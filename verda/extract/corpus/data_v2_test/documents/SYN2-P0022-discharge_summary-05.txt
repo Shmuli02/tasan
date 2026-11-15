@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0022
+document_id: SYN2-P0022-discharge_summary-05
+document_type: discharge_summary
+language: sv
+note_date: 2026-09-05
+display_name: Erik Exempelsson SYN2-P0022 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Tes tdata universitetssjukhus
+Anteckningsdatum 5.9.2026. Patient: Erik Exempelsson SYN2-P0022 (SYN2-P0022), f. 24.1.1957.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (synteti-s-k övningstext).
+Åtgärden genomfördes 2026-09-03 (kurativ lobektomi).
+Handlingen antecknades som mottagen på enheten juli den 2 år 2026.
+Undersökningen avbildades 2026-07-16.
+Aktiv behandling har inte kommit i gång.
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag saknas hä-r.
+Höftprotes opererad 24.6.2013.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verk lig journal.

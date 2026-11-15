@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0014
+document_id: SYN-P0014-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-03-24
+display_name: Juhani Jäljitelmä SYN-P0014 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 24.3.2026. Potilas: Juhani Jäljitelmä SYN-P0014 (SYN-P0014), s. 8.6.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 9.3.2026.
+Tietokonetomografia (TT) suoritettiin 24.3.2026. Kuvauksessa todettiin vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Sappirakon poisto tehty 7.9.2019 (ei liity nykyiseen selvittelyn).
+Edellinen keuhkokuume hoidettu 22.3.2020.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

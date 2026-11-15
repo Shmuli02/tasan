@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0073
+document_id: SYN-P0073-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-01-31
+display_name: Eva Påhittad SYN-P0073 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 31.1.2026. Potilas: Eva Påhittad SYN-P0073 (SYN-P0073), s. 25.5.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 13.1.
+Esitiedot: tietokonetomografia (TT) suoritettiin 2026-01-21.
+Esitiedot: eBUS-bronkoskopia suoritettu 27.1.26; biopsiat otettu.
+PAD-vastaus valmistui 31.1.2026: levyepiteelikarsinooma.
+Hoitoa ei ole aloitettu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Lonkkaproteesi operoitu 23.3.2013.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

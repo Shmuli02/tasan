@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0004
+document_id: SYN2-P0004-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-08-10
+display_name: Yrjö Yksikkötesti SYN2-P0004 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteetti sen hyvinvointialueen keskussairaala
+Kirjauspäivä 10.8.2026. Potilas: Yrjö Yksikkötesti SYN2-P0004 (SYN2-P0004), s. 3.6.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvit telystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin 23. kesäkuuta 2026.
+Konsultaatiopyyntö kirjattiiin saapuneeks i 20-06-2026.
+Morforloginen tulos tuli viikolla 29 tiistaina (2026) (adenokarsinooma).
+Aktiivinen hoito käy nnistyi 10. elokuuta 2026.
+Kudosnäytteet haettiin toimenpiteessä 3. heinäkuuta 2026.
+— ote vanhastaa kirjauksesta 16.5.2014: syntymäaika 3.6.1962; sappirak on poisto 16.5.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

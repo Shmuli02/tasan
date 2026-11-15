@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0119
+document_id: SYN2-P0119-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-04-30
+display_name: Laura Loremten SYN2-P0119 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 30.4.2026. Potilas: Laura Loremten SYN2-P0119 (SYN2-P0119), s. 8.5.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelyst ä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin 04-04-2026.
+Lähete saapui toimistoon 26. maaliskuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Morforloginen tuls tuli 21. huhtikuuta 2026 (levyepiteelikarsinooma).
+Näyte 0tettiin tähystyksessä viikolla 15 perjantaina (2026).
+Kliininen valinta tehtiin huhtikuun 29. päivänä 2026: syttostaatti.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+
+Kirjaaja: synteettinen testik-äyttäjä. Tämä ei ole oi-kea potilaskertomus.

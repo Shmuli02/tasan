@@ -1,0 +1,42 @@
+# Secrets and local environment
+.env
+.env.*
+*.local
+*.pem
+*.key
+id_ed25519
+id_ed25519.pub
+CLAIM_URL.txt
+PUBLIC_URL.txt
+deploy-result.json
+server/.env
+server/.run/
+.run/
+.run_p2/
+last_launch_log.json
+
+# Dependencies and virtualenvs
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Build artifacts and archives
+dist/
+dist-offline/
+*.zip
+*.tgz
+*.tar
+*.tar.gz
+
+# Model weights / checkpoints
+*.pt
+*.pth
+*.safetensors
+*.gguf
+*.ckpt
+*.onnx
+weights/
+checkpoints/

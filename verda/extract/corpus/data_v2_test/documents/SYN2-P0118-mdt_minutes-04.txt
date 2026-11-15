@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0118
+document_id: SYN2-P0118-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-09-15
+display_name: Pekka Paikkamerkki SYN2-P0118 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keks-ityn yliopistollinen sairaala
+Kirjauspäivä 15.9.2026. Potilas: Pekka Paikkamerkki SYN2-P0118 (SYN2-P0118), s. 13.5.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henk-ilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tiimikokous pidettiin viikolla 38 maanantaina (2026) ja suositus kirjattiin.
+Morforloginen tulos tuli 06-09-2026 (pienisoluinen keuhkosyöpä).
+Tähystyksen yhteydessä punktion äyte 2. syyskuuta 2026.
+Kerroskuvaus toteutettiin 25. elokuuta 2026.
+Lähete saapui toimistoon 16-08-2026 (kirjoituspäivä on eri, ks. alla).
+— ote vanhasta kirjauksest-a 28.4.2015: syntymäaika 13.5.1957; sappirakon poisto 28.4.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmi-n jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivä-ä ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

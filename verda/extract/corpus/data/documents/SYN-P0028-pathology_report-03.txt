@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0028
+document_id: SYN-P0028-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-04-06
+display_name: Peter Samplecase SYN-P0028 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 6.4.2026. Potilas: Peter aSmplecase SYN-P0028 (SYN-P0028), s. 24.10.1949.
+SYNTEETTINEN ppotilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvitely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 9.3.2026.
+TT-tutkimus tehty 20.3.2026.
+Bronkoskopia 25/3, näytteet otettu.
+Patologin lausunto 5.4.2026: levyepiteelikarsinooma.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

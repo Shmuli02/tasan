@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0112
+document_id: SYN2-P0112-biopsy_note-01
+document_type: biopsy_note
+language: sv
+note_date: 2026-01-29
+display_name: Peter Samplecase SYN2-P0112 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 29.1.2026. Patient: Peter Samplecase SYN2-P0112 (SYN2-P0112), f. 6.7.1938.
+SYNTETISK patientjournal, ingen verklig perso n.
+
+Dikte rad anteckning från lungutredningen (syntetisk övningstext).
+Konsultationsbegäran skrevs den 15 januari 2026, men registrerades som inkom men först 2026-01-21.
+Bildtiden lades in i kalendern 2026-01-20; själva un dersökningen genomfördes vecka 5 på onsdagen (2026).
+På bilderna sågs en 2,4 cm förändrin-g i vänster nedre lob.
+Speglingen ställdes in i sista stund och ing et pr0v togs då.
+Aktiv behandling har inte ko-mmit i gång.
+Något teammöte hölls inte vid detta besök.
+— utdrag ur äldre anteckning 22.12.2019: födelsedatum 6.7.1938; galloperation 22.12.2019; hör inte till den aktuella lungu-tredningen. —
+Tidigare, någon gång i början av janua-ri, hade hen ett kontrollbesök; exakt dag saknas här.
+Höftprotes opererad 1.5.2012.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

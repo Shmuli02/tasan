@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0087
+document_id: SYN2-P0087-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-24
+display_name: Eeva Esimerkki SYN2-P0087 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+yn teettisen hyvinvoin tialueen keskussairaala
+Kirja uspäivä 24.5.2026. Potilas: Eeva Esimerkki S YN2-P0087 (SYN2-P0087), s. 24.5.1938.
+SYNT EETTINEN potila-s-kertomus, ei oik eaa henkilöä.
+
+Diktoitu mekrintä keuhkoselvittelystä (synteettinen h-a rjoitusteksti).
+P yynto tuli perrille huhtikuun 18. päiänä 2026.
+Kerrosk uvauus toteutettiin toukokunu 3. päivänä 2026.
+Tiimikokous pidettiin eien ja suositus kirjattiin.
+Toimennpide varattii toukokkuun 10. päivänä 2026, mutta näyte otettiiin vasta viikolal 20 tiistaina (2026).
+Mikroskooppinen lausunto valmistui 15. toukokuuta 2026: levyeptieelikarsinooma.
+Lonkkaproteesi o peroitu 20.7.2020.
+
+Kirjaaja: synteetti-nen testik-aytt aja. Tämmä ei ole oikea potilaskertomus.

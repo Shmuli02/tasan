@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0032
+document_id: SYNTR-P0032-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-07-09
+display_name: Aino Harjoitus SYNTR-P0032 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Keksitty keuhkoyksikkö
+Kirjauspäivä 9.7.2026. Potilas: Aino Harjoitus SYNTR-P0032, s. 1.1.1950.
+SYNTEETTINEN record, not a real person.
+
+Yksikkö otti läheteen käsittelyyn 4.6.2026.
+Kuvausprotokolla ajettiin su 14.6.2026.
+Näytteenotto tähystyksellä 21.6.2026.
+Patologian tulos kirjattiin 3.7.2026 (levyepiteelikarsinooma).
+Hoitoryhmä kokoontui 5. heinäkuuta 2026.
+Hoidon valinta vahvistettiin 8. heinäkuuta 2026: lobektomia.
+
+Kirjaaja: synteettinen testikäyttäjä.

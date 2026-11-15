@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0084
+document_id: SYN-P0084-discharge_summary-05
+document_type: discharge_summary
+language: sv
+note_date: 2026-04-16
+display_name: Peter Samplecase SYN-P0084 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 16.4.2026. Patient: Peter Samplecase SYN-P0084 (SYN-P0084), f. 7.6.1954.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 28.2.2026.
+DT torax utförd 9.3.26.
+EBUS-bronkoskopi genomförd 2026-03-14; biopsier tagna.
+PAD-svar kllart 25/3: adneokarcinom.
+Föregående uppgifter: mDT/MDK 29.3.2026: behandlingslinje bekräftad.
+Beslutades för två veckor sedan att gå vidare med cytostatika.
+Cytostatikabehandling påbörjad i förrgår.
+Födelsedatum 7.6.1954 kontrollerat i befolkningsuppgifterna.
+Gallblåsan opererades bort 25.4.2018 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. eDtta är inte en verklig journal.

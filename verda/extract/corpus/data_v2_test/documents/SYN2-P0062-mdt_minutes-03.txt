@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0062
+document_id: SYN2-P0062-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-21
+display_name: Pekka Paikkamerkki SYN2-P0062 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvin-vointialueen keskussairaala
+Kirjauspäivä 21.8.2026. Potilas: Pekka Paikkamerkki SYN2-P0062 (SYN2-P0062), s. 16.3.1938.
+SYNTEETTINEN potilaskertomus, ei oik-eaa henkilöä.
+
+Diktoitu m erkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tutkimus käytiin kuvaamassa viikolla 31 sunnuntaina (2026).
+Kokoontuminen 21. elokuuta 2026: er i erikoisalojen yhteinen kanta merkitty.
+Laboratorio ilmoitti histologian lauantaina: adenokarsinooma.
+Pyyntö tuli perille 24-07-2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaih-toehtoja.
+— ote vanhasta kirjau-ksesta 13.7.2021: syntymäaika 16.3.1938; sappirakon poisto 13.7.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää e-i ole tässä.
+Sappirakon poisto tehty 25.6.2016 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäj ä. Tämä ei ole oikea potilaskertomus.

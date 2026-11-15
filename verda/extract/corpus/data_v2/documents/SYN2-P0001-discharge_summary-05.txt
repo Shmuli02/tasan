@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0001
+document_id: SYN2-P0001-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-03-10
+display_name: Aino Synteettinen SYN2-P0001 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjausp äivä 10.3.2026. Potilas: Aino Synteettinen SYN2-P0001 (SYN2-P0001), s. 11.9.1950.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu me-rkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+L ähete saapui toimistoon 15. tammikuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Näyte otettiin tähystyksessä helmikuun 2. päivänä 2026.
+Kerroskuvaus toteutettiin viikolla 4 perjantaina (2026).
+Mikroskooppinen lausunto valmistui viikolla 7 keskiviikkona (2026): levyepiteelikarsinooma.
+Aktiivinen hoito käynnistyi viikolla 10 sunnuntaina (2026).
+Valittiin etenemistapa viikolla 8 tiistaina (2026): SBRT.
+Yhteispalaveri järjestettiin 14-02-2026; linja muodostettiin siellä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

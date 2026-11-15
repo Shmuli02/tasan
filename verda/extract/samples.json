@@ -1,0 +1,1045 @@
+{
+  "synthetic": true,
+  "banner": "SYNTHETIC DOCUMENT — NOT A REAL PATIENT. All names, dates and findings are invented.",
+  "n": 10,
+  "note_ids": [
+    "SYN-P0002-referral_letter-01",
+    "SYN-P0003-ct_report-02",
+    "SYN-P0002-biopsy_note-02",
+    "SYN-P0001-mdt_minutes-04",
+    "SYN-P0002-mdt_minutes-03",
+    "SYN-P0001-discharge_summary-05",
+    "SYN-P0087-pathology_report-02",
+    "SYN-P0051-oncology_note-04",
+    "SYN2-P0010-referral_letter-01",
+    "SYN2-P0014-ct_report-02"
+  ],
+  "source_now": "qwen3-32b",
+  "source_after_gpu": "qwen3-32b",
+  "notes": [
+    {
+      "note_id": "SYN-P0002-referral_letter-01",
+      "patient_id": "SYN-P0002",
+      "lang": "fi",
+      "doc_type": "referral_letter",
+      "note_date": "2026-03-08",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "title": "Finnish referral (v1, easy)",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0002\ndocument_id: SYN-P0002-referral_letter-01\ndocument_type: referral_letter\nlanguage: fi\nnote_date: 2026-03-08\ndisplay_name: Matti Mallipotilas SYN-P0002 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nKeksityn yliopistollinen sairaala\nKirjauspäivä 8.3.2026. Potilas: Matti Mallipotilas SYN-P0002 (SYN-P0002), s. 11.11.1943.\nSYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.\n\nKäynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).\nESH-lähete vastaanotettu 8.3.2026.\nHoitoa ei ole aloitettu.\nSappirakon poisto tehty 15.2.2015 (ei liity nykyiseen selvittelyyn).\nKontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.\n\nKirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "evidence_span": "ESH-lähete vastaanotettu 8.3.2026.",
+          "start": 804,
+          "end": 838,
+          "confidence": 1.0
+        }
+      ],
+      "regex_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "evidence_span": "ESH-lähete vastaanotettu 8.3.2026.",
+          "start": 804,
+          "end": 838,
+          "confidence": 0.45
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "evidence_span": "ESH-lähete vastaanotettu 8.3.2026.",
+          "start": 804,
+          "end": 838,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 0,
+      "alert": false,
+      "patient_day_count": 50,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b"
+    },
+    {
+      "note_id": "SYN-P0003-ct_report-02",
+      "patient_id": "SYN-P0003",
+      "lang": "fi",
+      "doc_type": "ct_report",
+      "note_date": "2026-04-25",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "title": "Finnish CT report (v1, easy)",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0003\ndocument_id: SYN-P0003-ct_report-02\ndocument_type: ct_report\nlanguage: fi\nnote_date: 2026-04-25\ndisplay_name: Eeva Esimerkki SYN-P0003 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nKeksityn yliopistollinen sairaala\nKirjauspäivä 25.4.2026. Potilas: Eeva Esimerkki SYN-P0003 (SYN-P0003), s. 26.8.1948.\nSYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.\n\nKäynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).\nEsitiedot: lähete saapunut keuhkoklinikalle 20.4.2026.\nThoraxin TT tehty 24/4/2026. Kuvauksessa todettiin vasemman alalohkon 2,4 cm muutos.\nLonkkaproteesi operoitu 10.11.2015.\n\nKirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-20",
+          "evidence_span": "Esitiedot: lähete saapunut keuhkoklinikalle 20.4.2026.",
+          "start": 784,
+          "end": 838,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-24",
+          "evidence_span": "Thoraxin TT tehty 24/4/2026. Kuvauksessa todettiin vasemman alalohkon 2,4 cm muutos.",
+          "start": 839,
+          "end": 923,
+          "confidence": 1.0
+        }
+      ],
+      "regex_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-20",
+          "evidence_span": "Esitiedot: lähete saapunut keuhkoklinikalle 20.4.2026.",
+          "start": 784,
+          "end": 838,
+          "confidence": 0.45
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-24",
+          "evidence_span": "Thoraxin TT tehty 24/4/2026.",
+          "start": 839,
+          "end": 867,
+          "confidence": 0.45
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-20",
+          "evidence_span": "lähete saapunut keuhkoklinikalle 20.4.2026.",
+          "start": 795,
+          "end": 838,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-04-24",
+          "evidence_span": "Thoraxin TT tehty 24/4/2026.",
+          "start": 839,
+          "end": 867,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 5,
+      "alert": false,
+      "patient_day_count": 46,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b"
+    },
+    {
+      "note_id": "SYN-P0002-biopsy_note-02",
+      "patient_id": "SYN-P0002",
+      "lang": "fi",
+      "doc_type": "biopsy_note",
+      "note_date": "2026-03-27",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "title": "Finnish bronchoscopy / biopsy (v1, easy)",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0002\ndocument_id: SYN-P0002-biopsy_note-02\ndocument_type: biopsy_note\nlanguage: fi\nnote_date: 2026-03-27\ndisplay_name: Matti Mallipotilas SYN-P0002 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nKeksityn yliopistollinen sairaala\nKirjauspäivä 27.3.2026. Potilas: Matti Mallipotilas SYN-P0002 (SYN-P0002), s. 11.11.1943.\nSYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.\n\nKäynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).\nEsitiedot: lähete saapunut keuhkoklinikalle 8.3.26.\nTT-tutkimus tehty 21/3/2026. Kuvauksessa todettiin vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.\nBiopsiat otettu bronkoskopiassa 26.3.2026.\nKontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.\nLonkkaproteesi operoitu 24.8.2022.\n\nKirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "evidence_span": "Esitiedot: lähete saapunut keuhkoklinikalle 8.3.26.",
+          "start": 797,
+          "end": 848,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-21",
+          "evidence_span": "TT-tutkimus tehty 21/3/2026. Kuvauksessa todettiin vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.",
+          "start": 849,
+          "end": 962,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-26",
+          "evidence_span": "Biopsiat otettu bronkoskopiassa 26.3.2026.",
+          "start": 963,
+          "end": 1005,
+          "confidence": 1.0
+        }
+      ],
+      "regex_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "evidence_span": "Esitiedot: lähete saapunut keuhkoklinikalle 8.3.26.",
+          "start": 797,
+          "end": 848,
+          "confidence": 0.45
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-21",
+          "evidence_span": "TT-tutkimus tehty 21/3/2026.",
+          "start": 849,
+          "end": 877,
+          "confidence": 0.45
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-26",
+          "evidence_span": "Biopsiat otettu bronkoskopiassa 26.3.2026.",
+          "start": 963,
+          "end": 1005,
+          "confidence": 0.45
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "evidence_span": "lähete saapunut keuhkoklinikalle 8.3.26.",
+          "start": 808,
+          "end": 848,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-21",
+          "evidence_span": "TT-tutkimus tehty 21/3/2026.",
+          "start": 849,
+          "end": 877,
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-26",
+          "evidence_span": "Biopsiat otettu bronkoskopiassa 26.3.2026.",
+          "start": 963,
+          "end": 1005,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 19,
+      "alert": false,
+      "patient_day_count": 50,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b"
+    },
+    {
+      "note_id": "SYN-P0001-mdt_minutes-04",
+      "patient_id": "SYN-P0001",
+      "lang": "fi",
+      "doc_type": "mdt_minutes",
+      "note_date": "2026-08-17",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "title": "Finnish MDT minutes (v1, easy)",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0001\ndocument_id: SYN-P0001-mdt_minutes-04\ndocument_type: mdt_minutes\nlanguage: fi\nnote_date: 2026-08-17\ndisplay_name: Aino Synteettinen SYN-P0001 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nKeksityn yliopistollinen sairaala\nKirjauspäivä 17.8.2026. Potilas: Aino Synteettinen SYN-P0001 (SYN-P0001), s. 15.4.1945.\nSYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.\n\nKäynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).\nEsitiedot: eSH-lähete vastaanotettu 16.7.26.\nKeuhko-TT tehty 21.7.2026.\nMDT 16/8: hoitolinja vahvistettu.\nBiopsia peruttiin potilaan toiveesta.\nEdellinen keuhkokuume hoidettu 20.9.2016.\n\nKirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "evidence_span": "Esitiedot: eSH-lähete vastaanotettu 16.7.26.",
+          "start": 794,
+          "end": 838,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "evidence_span": "Keuhko-TT tehty 21.7.2026.",
+          "start": 839,
+          "end": 865,
+          "confidence": 1.0
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-08-16",
+          "evidence_span": "MDT 16/8: hoitolinja vahvistettu.",
+          "start": 866,
+          "end": 899,
+          "confidence": 1.0
+        }
+      ],
+      "regex_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "evidence_span": "Esitiedot: eSH-lähete vastaanotettu 16.7.26.",
+          "start": 794,
+          "end": 838,
+          "confidence": 0.45
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "evidence_span": "Keuhko-TT tehty 21.7.2026.",
+          "start": 839,
+          "end": 865,
+          "confidence": 0.45
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-08-16",
+          "evidence_span": "MDT 16/8: hoitolinja vahvistettu.",
+          "start": 866,
+          "end": 899,
+          "confidence": 0.45
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "evidence_span": "eSH-lähete vastaanotettu 16.7.26.",
+          "start": 805,
+          "end": 838,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "evidence_span": "Keuhko-TT tehty 21.7.2026.",
+          "start": 839,
+          "end": 865,
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-08-16",
+          "evidence_span": "MDT 16/8: hoitolinja vahvistettu.",
+          "start": 866,
+          "end": 899,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 32,
+      "alert": true,
+      "patient_day_count": 46,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b"
+    },
+    {
+      "note_id": "SYN-P0002-mdt_minutes-03",
+      "patient_id": "SYN-P0002",
+      "lang": "sv",
+      "doc_type": "mdt_minutes",
+      "note_date": "2026-04-09",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "title": "Swedish MDT minutes (v1)",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0002\ndocument_id: SYN-P0002-mdt_minutes-03\ndocument_type: mdt_minutes\nlanguage: sv\nnote_date: 2026-04-09\ndisplay_name: Matti Mallipotilas SYN-P0002 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nFiktiva valfardsomradets centralsjukhus\nAnteckningsdatum 9.4.2026. Patient: Matti Mallipotilas SYN-P0002 (SYN-P0002), f. 11.11.1943.\nSYNTETISK patientjournal, ingen verklig person.\n\nBesöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).\nRemissen mottogs 8.3.2026.\nFöregående uppgifter: dT torax utförd 21.3.2026.\nBiopsire togs vid bronkoskopi 26.3.26.\nHistologiskt svar inkom i söndags (adenokarcinom).\nVårdkonferens 9.4.2026: multidisciplinär rekommendation.\nFödelsedatum 11.11.1943 kontrollerat i befolkningsuppgitferna.\nGallblåsan opererades bort 18.3.2012 (ej relaterat till nuvarande utredning).\n\nAntecknat av: syntetisk tetanvändare. Detta är inte en verklig journal.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "evidence_span": "Remissen mottogs 8.3.2026.",
+          "start": 804,
+          "end": 830,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-21",
+          "evidence_span": "Föregående uppgifter: dT torax utförd 21.3.2026.",
+          "start": 831,
+          "end": 879,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-26",
+          "evidence_span": "Biopsire togs vid bronkoskopi 26.3.26.",
+          "start": 880,
+          "end": 918,
+          "confidence": 1.0
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-04-05",
+          "evidence_span": "Histologiskt svar inkom i söndags (adenokarcinom).",
+          "start": 919,
+          "end": 969,
+          "confidence": 1.0
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-04-09",
+          "evidence_span": "Vårdkonferens 9.4.2026: multidisciplinär rekommendation.",
+          "start": 970,
+          "end": 1026,
+          "confidence": 1.0
+        }
+      ],
+      "regex_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "evidence_span": "Remissen mottogs 8.3.2026.",
+          "start": 804,
+          "end": 830,
+          "confidence": 0.45
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-21",
+          "evidence_span": "Föregående uppgifter: dT torax utförd 21.3.2026.",
+          "start": 831,
+          "end": 879,
+          "confidence": 0.45
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-04-05",
+          "evidence_span": "Histologiskt svar inkom i söndags (adenokarcinom).",
+          "start": 919,
+          "end": 969,
+          "confidence": 0.45
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-04-09",
+          "evidence_span": "Vårdkonferens 9.4.2026: multidisciplinär rekommendation.",
+          "start": 970,
+          "end": 1026,
+          "confidence": 0.45
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-08",
+          "evidence_span": "Remissen mottogs 8.3.2026.",
+          "start": 804,
+          "end": 830,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-21",
+          "evidence_span": "dT torax utförd 21.3.2026.",
+          "start": 853,
+          "end": 879,
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-26",
+          "evidence_span": "Biopsire togs vid bronkoskopi 26.3.26.",
+          "start": 880,
+          "end": 918,
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-04-02",
+          "evidence_span": "Histologiskt svar inkom i söndags (adenokarcinom).",
+          "start": 919,
+          "end": 969,
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-04-09",
+          "evidence_span": "Vårdkonferens 9.4.2026: multidisciplinär rekommendation.",
+          "start": 970,
+          "end": 1026,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 32,
+      "alert": true,
+      "patient_day_count": 50,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b"
+    },
+    {
+      "note_id": "SYN-P0001-discharge_summary-05",
+      "patient_id": "SYN-P0001",
+      "lang": "en",
+      "doc_type": "discharge_summary",
+      "note_date": "2026-08-31",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "title": "English discharge summary (v1, full pathway)",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0001\ndocument_id: SYN-P0001-discharge_summary-05\ndocument_type: discharge_summary\nlanguage: en\nnote_date: 2026-08-31\ndisplay_name: Aino Synteettinen SYN-P0001 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nPlaceholder Lung Clinic\nNote date 31.8.2026. Patient: Aino Synteettinen SYN-P0001 (SYN-P0001), DOB 15.4.1945.\nSYNTHETIC record, not a real person.\n\nReason for visit: work-up of suspected lung cncer (synthetic eexample).\nSpecialist erferral received 16.7.2026.\nCT thorax was carried out on 21.7.26.\nBiopsies were obtained during bronchoscopy on 2026-08-01.\nHistory: pathology result issued on 13.8: small-cell lung cancer.\nMultidisciplinary meeting (MDT) on 16.8.2026: recommend proceeding to treatment.\nIt was decided on 18.8.26 to proceed with wedge resection.\nWedge resection performed on 31.8.2026.\nHip replacement on 21.10.2013.\nCholecystectomy performed on 21.10.2013 (unrelated to the present work-up).\n\nEntered by: synthetic test user. This is not a reall clinical record.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "evidence_span": "Specialist erferral received 16.7.2026.",
+          "start": 784,
+          "end": 823,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "evidence_span": "CT thorax was carried out on 21.7.26.",
+          "start": 824,
+          "end": 861,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-08-01",
+          "evidence_span": "Biopsies were obtained during bronchoscopy on 2026-08-01.",
+          "start": 862,
+          "end": 919,
+          "confidence": 1.0
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-08-13",
+          "evidence_span": "History: pathology result issued on 13.8: small-cell lung cancer.",
+          "start": 920,
+          "end": 985,
+          "confidence": 1.0
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-08-16",
+          "evidence_span": "Multidisciplinary meeting (MDT) on 16.8.2026: recommend proceeding to treatment.",
+          "start": 986,
+          "end": 1066,
+          "confidence": 1.0
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-08-18",
+          "evidence_span": "It was decided on 18.8.26 to proceed with wedge resection.",
+          "start": 1067,
+          "end": 1125,
+          "confidence": 1.0
+        },
+        {
+          "type": "treatment_start",
+          "date": "2026-08-31",
+          "evidence_span": "Wedge resection performed on 31.8.2026.",
+          "start": 1126,
+          "end": 1165,
+          "confidence": 1.0
+        }
+      ],
+      "regex_events": [
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "evidence_span": "CT thorax was carried out on 21.7.26.",
+          "start": 824,
+          "end": 861,
+          "confidence": 0.45
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-08-01",
+          "evidence_span": "Biopsies were obtained during bronchoscopy on 2026-08-01.",
+          "start": 862,
+          "end": 919,
+          "confidence": 0.45
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-08-13",
+          "evidence_span": "History: pathology result issued on 13.8: small-cell lung cancer.",
+          "start": 920,
+          "end": 985,
+          "confidence": 0.45
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-08-16",
+          "evidence_span": "Multidisciplinary meeting (MDT) on 16.8.2026: recommend proceeding to treatment.",
+          "start": 986,
+          "end": 1066,
+          "confidence": 0.45
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-08-18",
+          "evidence_span": "It was decided on 18.8.26 to proceed with wedge resection.",
+          "start": 1067,
+          "end": 1125,
+          "confidence": 0.45
+        },
+        {
+          "type": "treatment_start",
+          "date": "2026-08-31",
+          "evidence_span": "Wedge resection performed on 31.8.2026.",
+          "start": 1126,
+          "end": 1165,
+          "confidence": 0.45
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-07-16",
+          "evidence_span": "Specialist referral received 16.7.2026.",
+          "start": -1,
+          "end": -1,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-07-21",
+          "evidence_span": "CT thorax was carried out on 21.7.26.",
+          "start": 824,
+          "end": 861,
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-08-01",
+          "evidence_span": "Biopsies were obtained during bronchoscopy on 2026-08-01.",
+          "start": 862,
+          "end": 919,
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-08-13",
+          "evidence_span": "History: pathology result issued on 13.8: small-cell lung cancer.",
+          "start": 920,
+          "end": 985,
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-08-16",
+          "evidence_span": "Multidisciplinary meeting (MDT) on 16.8.2026: recommend proceeding to treatment.",
+          "start": 986,
+          "end": 1066,
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-08-18",
+          "evidence_span": "It was decided on 18.8.26 to proceed with wedge resection.",
+          "start": 1067,
+          "end": 1125,
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_start",
+          "date": "2026-08-31",
+          "evidence_span": "Wedge resection performed on 31.8.2026.",
+          "start": 1126,
+          "end": 1165,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 46,
+      "alert": false,
+      "patient_day_count": 46,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b"
+    },
+    {
+      "note_id": "SYN-P0087-pathology_report-02",
+      "patient_id": "SYN-P0087",
+      "lang": "fi",
+      "doc_type": "pathology_report",
+      "note_date": "2026-09-05",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "title": "Finnish pathology with typo_heavy noise (v1)",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0087\ndocument_id: SYN-P0087-pathology_report-02\ndocument_type: pathology_report\nlanguage: fi\nnote_date: 2026-09-05\ndisplay_name: Eeva Esimerkki SYN-P0087 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nKekistyn yliopistollinen sairaala\nKirjauspäivä 5.9.2026. Potilas: Eeeva Esimerkki SYN-P0087 (SYN-P0087), s. 12.6.1946.\nSYNTEETTINEN potilaskerttomus, ei oikeaa heniklöä.\n\nKäynnin syy: keuhkosyöpäepäilyn selvittely (synteetinen esimerkki).\nESH-lähete vastaanotettu 2.8.26.\nThoraxin TT tehty 14.8.2026. Kuvauksessa todettiin vasemman alalohkon 2,4 cm muutos.\nBiopsiat otettuu bronkoskopiassa 2026-08-25.\nHistologinen vastaus saapui 4.9 (NSCLC, ei tarkemmin luokiteltu).\nSappirakon poisto tehty 9.7.2012 (ei liity nyykiseen selvittelyyn).\n\nKirjaaja: synteettinen testikäytäjä. Tää ei ole oikea potilaskertomus.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-08-02",
+          "evidence_span": "ESH-lähete vastaanotettu 2.8.26.",
+          "start": 798,
+          "end": 830,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-08-14",
+          "evidence_span": "Thoraxin TT tehty 14.8.2026. Kuvauksessa todettiin vasemman alalohkon 2,4 cm muutos.",
+          "start": 831,
+          "end": 915,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-08-25",
+          "evidence_span": "Biopsiat otettuu bronkoskopiassa 2026-08-25.",
+          "start": 916,
+          "end": 960,
+          "confidence": 1.0
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-09-04",
+          "evidence_span": "Histologinen vastaus saapui 4.9 (NSCLC, ei tarkemmin luokiteltu).",
+          "start": 961,
+          "end": 1026,
+          "confidence": 1.0
+        }
+      ],
+      "regex_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-08-02",
+          "evidence_span": "ESH-lähete vastaanotettu 2.8.26.",
+          "start": 798,
+          "end": 830,
+          "confidence": 0.45
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-08-14",
+          "evidence_span": "Thoraxin TT tehty 14.8.2026.",
+          "start": 831,
+          "end": 859,
+          "confidence": 0.45
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-08-25",
+          "evidence_span": "Biopsiat otettuu bronkoskopiassa 2026-08-25.",
+          "start": 916,
+          "end": 960,
+          "confidence": 0.45
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-09-04",
+          "evidence_span": "Histologinen vastaus saapui 4.9 (NSCLC, ei tarkemmin luokiteltu).",
+          "start": 961,
+          "end": 1026,
+          "confidence": 0.45
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-08-02",
+          "evidence_span": "ESH-lähete vastaanotettu 2.8.26.",
+          "start": 798,
+          "end": 830,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-08-14",
+          "evidence_span": "Thoraxin TT tehty 14.8.2026.",
+          "start": 831,
+          "end": 859,
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-08-25",
+          "evidence_span": "Biopsiat otettuu bronkoskopiassa 2026-08-25.",
+          "start": 916,
+          "end": 960,
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-09-04",
+          "evidence_span": "Histologinen vastaus saapui 4.9 (NSCLC, ei tarkemmin luokiteltu).",
+          "start": 961,
+          "end": 1026,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 34,
+      "alert": true,
+      "patient_day_count": 53,
+      "patient_alert": false,
+      "patient_archetype": "typo_heavy",
+      "source": "qwen3-32b"
+    },
+    {
+      "note_id": "SYN-P0051-oncology_note-04",
+      "patient_id": "SYN-P0051",
+      "lang": "fi",
+      "doc_type": "oncology_note",
+      "note_date": "2026-05-08",
+      "corpus_id": "tasan-extract-synthetic-v1",
+      "split": null,
+      "title": "Finnish oncology note, late wait, day-28 alert (v1)",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v1\npatient_id: SYN-P0051\ndocument_id: SYN-P0051-oncology_note-04\ndocument_type: oncology_note\nlanguage: fi\nnote_date: 2026-05-08\ndisplay_name: Jane Synthetic SYN-P0051 (invented)\nDO NOT treat this text as a clinical record.\n==============================================================================\nSynteettisen hyvinvointialueen keskussairaala\nKirjauspäivä 8.5.2026. Potilas: Jane Synthetic SYN-P0051 (SYN-P0051), s. 19.2.1960.\nSYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.\n\nKäynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).\nLähete saapunut keuhkoklinikalle 16.3.26.\nThoraxin TT tehty 23.3.2026.\nEsitiedot: bronkoskopia ja biopsia tehty 27.3.2026.\nPAD-vastaus valmistui 8.4.2026: NSCLC, ei tarkemmin luokiteltu.\nEsitiedot: moniammatillinen kokous (MDT) 12.4: suositellaan etenemistä hoitoon.\nHoitopäätös 2026-04-12: kuratiivinen lobektomia.\nOdotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.\nSyntymäaika 19.2.1960 tarkistettu väestötiedoista.\nSappirakon poisto tehty 14.6.2022 (ei liity nykyiseen selvittelyyn).\n\nKirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-16",
+          "evidence_span": "Lähete saapunut keuhkoklinikalle 16.3.26.",
+          "start": 803,
+          "end": 844,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-23",
+          "evidence_span": "Thoraxin TT tehty 23.3.2026.",
+          "start": 845,
+          "end": 873,
+          "confidence": 1.0
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-27",
+          "evidence_span": "Esitiedot: bronkoskopia ja biopsia tehty 27.3.2026.",
+          "start": 874,
+          "end": 925,
+          "confidence": 1.0
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-04-08",
+          "evidence_span": "PAD-vastaus valmistui 8.4.2026: NSCLC, ei tarkemmin luokiteltu.",
+          "start": 926,
+          "end": 989,
+          "confidence": 1.0
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-04-12",
+          "evidence_span": "Esitiedot: moniammatillinen kokous (MDT) 12.4: suositellaan etenemistä hoitoon.",
+          "start": 990,
+          "end": 1069,
+          "confidence": 1.0
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-04-12",
+          "evidence_span": "Hoitopäätös 2026-04-12: kuratiivinen lobektomia.",
+          "start": 1070,
+          "end": 1118,
+          "confidence": 1.0
+        }
+      ],
+      "regex_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-16",
+          "evidence_span": "Lähete saapunut keuhkoklinikalle 16.3.26.",
+          "start": 803,
+          "end": 844,
+          "confidence": 0.45
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-23",
+          "evidence_span": "Thoraxin TT tehty 23.3.2026.",
+          "start": 845,
+          "end": 873,
+          "confidence": 0.45
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-27",
+          "evidence_span": "Esitiedot: bronkoskopia ja biopsia tehty 27.3.2026.",
+          "start": 874,
+          "end": 925,
+          "confidence": 0.45
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-04-08",
+          "evidence_span": "PAD-vastaus valmistui 8.4.2026: NSCLC, ei tarkemmin luokiteltu.",
+          "start": 926,
+          "end": 989,
+          "confidence": 0.45
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-04-12",
+          "evidence_span": "Esitiedot: moniammatillinen kokous (MDT) 12.4: suositellaan etenemistä hoitoon.",
+          "start": 990,
+          "end": 1069,
+          "confidence": 0.45
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-04-12",
+          "evidence_span": "Hoitopäätös 2026-04-12: kuratiivinen lobektomia.",
+          "start": 1070,
+          "end": 1118,
+          "confidence": 0.45
+        }
+      ],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-03-16",
+          "evidence_span": "Lähete saapunut keuhkoklinikalle 16.3.26.",
+          "start": 803,
+          "end": 844,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-03-23",
+          "evidence_span": "Thoraxin TT tehty 23.3.2026.",
+          "start": 845,
+          "end": 873,
+          "confidence": 0.95
+        },
+        {
+          "type": "biopsy_done",
+          "date": "2026-03-27",
+          "evidence_span": "Esitiedot: bronkoskopia ja biopsia tehty 27.3.2026.",
+          "start": 874,
+          "end": 925,
+          "confidence": 0.95
+        },
+        {
+          "type": "pathology_result",
+          "date": "2026-04-08",
+          "evidence_span": "PAD-vastaus valmistui 8.4.2026: NSCLC, ei tarkemmin luokiteltu.",
+          "start": 926,
+          "end": 989,
+          "confidence": 0.95
+        },
+        {
+          "type": "mdt_decision",
+          "date": "2026-04-12",
+          "evidence_span": "Esitiedot: moniammatillinen kokous (MDT) 12.4: suositellaan etenemistä hoitoon.",
+          "start": 990,
+          "end": 1069,
+          "confidence": 0.95
+        },
+        {
+          "type": "treatment_decision",
+          "date": "2026-04-12",
+          "evidence_span": "Hoitopäätös 2026-04-12: kuratiivinen lobektomia.",
+          "start": 1070,
+          "end": 1118,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 53,
+      "alert": true,
+      "patient_day_count": 53,
+      "patient_alert": true,
+      "patient_archetype": "late_wait",
+      "source": "qwen3-32b"
+    },
+    {
+      "note_id": "SYN2-P0010-referral_letter-01",
+      "patient_id": "SYN2-P0010",
+      "lang": "fi",
+      "doc_type": "referral_letter",
+      "note_date": "2026-04-15",
+      "corpus_id": "tasan-extract-synthetic-v2",
+      "split": "test",
+      "title": "v2 test: written-vs-received referral (held-out phrasing)",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v2\npatient_id: SYN2-P0010\ndocument_id: SYN2-P0010-referral_letter-01\ndocument_type: referral_letter\nlanguage: fi\nnote_date: 2026-04-15\ndisplay_name: Olli Oletettu SYN2-P0010 (invented)\nDO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.\n==============================================================================\nKeksityn yliop istollinen sairaala\nKirjauspäivä 15.4.2026. Potilas: Olli Oletettu SYN2-P0010 (SYN2-P0010), s. 19.5.1960.\nSYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.\n\nDiktoitu merkintä keuhkoselvittelystä (synteettinen harjoi tusteksti).\nKonsultaatiopyyntö laadittiin lauantaina, mutta se kirjattiin saapuneeksi vasta 14. huhtikuuta 2026.\nKuvantaminen on vasta ajanvaraus viikolla 18 keskiviikkona (2026), sitä ei ole toteutettu.\n— ote vanhasta kirjauksesta 2.7.2023: syntymäaika 19.5.1960; sappirakon poisto 2.7.2023; ei liity nykyiseen keuhkoselvittelyyn. —\nAiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.\nLonkkaproteesi operoitu 4.4.2022.\n\nKirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilask ertomus.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-14",
+          "evidence_span": "Konsultaatiopyyntö laadittiin lauantaina, mutta se kirjattiin saapuneeksi vasta 14. huhtikuuta 2026.",
+          "start": 832,
+          "end": 932,
+          "confidence": 1.0
+        }
+      ],
+      "regex_events": [],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-04-14",
+          "evidence_span": "Konsultaatiopyyntö laadittiin lauantaina, mutta se kirjattiin saapuneeksi vasta 14. huhtikuuta 2026.",
+          "start": 832,
+          "end": 932,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 1,
+      "alert": false,
+      "patient_day_count": 40,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b"
+    },
+    {
+      "note_id": "SYN2-P0014-ct_report-02",
+      "patient_id": "SYN2-P0014",
+      "lang": "fi",
+      "doc_type": "ct_report",
+      "note_date": "2026-08-19",
+      "corpus_id": "tasan-extract-synthetic-v2",
+      "split": "test",
+      "title": "v2 test: booked-vs-performed CT (held-out phrasing)",
+      "synthetic": true,
+      "text": "==============================================================================\nSYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.\ncorpus_id: tasan-extract-synthetic-v2\npatient_id: SYN2-P0014\ndocument_id: SYN2-P0014-ct_report-02\ndocument_type: ct_report\nlanguage: fi\nnote_date: 2026-08-19\ndisplay_name: Juhani Jäljitelmä SYN2-P0014 (invented)\nDO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.\n==============================================================================\nK-eksityn yliopisto1linen sairaala\nKirjauspäivä 19.8.2026. Potilas: Juhani Jäljitelmä SYN2-P0014 (SYN2-P0014), s. 28.7.1957.\nSYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.\n\nDiktoitu merkintä keuhk-oselvittelystä (synteettinen harjoitu-steksti).\nLä-hete saapui toimistoon viikolla 32 tiistaina (2026) (kirjoituspäivä on eri, ks. alla).\nKuvausaika merkittiin kalenteriin viikolla 33 tiistaina (2026); itse tutkimus toteutettiin viikolla 34 maanantaina (2026).\nKuvissa erottui oikean ylälohkon 3,1 cm tuumori.\nAktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.\nA iemmin jossain tammikuun a lussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.\n\nKirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.\n",
+      "gold_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-08-04",
+          "evidence_span": "Lä-hete saapui toimistoon viikolla 32 tiistaina (2026) (kirjoituspäivä on eri, ks. alla).",
+          "start": 829,
+          "end": 918,
+          "confidence": 1.0
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-08-17",
+          "evidence_span": "Kuvausaika merkittiin kalenteriin viikolla 33 tiistaina (2026); itse tutkimus toteutettiin viikolla 34 maanantaina (2026).",
+          "start": 919,
+          "end": 1041,
+          "confidence": 1.0
+        }
+      ],
+      "regex_events": [],
+      "model_events": [
+        {
+          "type": "referral_received",
+          "date": "2026-08-09",
+          "evidence_span": "Lä-hete saapui toimistoon viikolla 32 tiistaina (2026) (kirjoituspäivä on eri, ks. alla).",
+          "start": 829,
+          "end": 918,
+          "confidence": 0.95
+        },
+        {
+          "type": "ct_done",
+          "date": "2026-08-19",
+          "evidence_span": "Kuvausaika merkittiin kalenteriin viikolla 33 tiistaina (2026); itse tutkimus toteutettiin viikolla 34 maanantaina (2026).",
+          "start": 919,
+          "end": 1041,
+          "confidence": 0.95
+        }
+      ],
+      "model_name": "Qwen/Qwen3-32B-AWQ",
+      "day_count": 15,
+      "alert": false,
+      "patient_day_count": 60,
+      "patient_alert": false,
+      "patient_archetype": "complete_treated",
+      "source": "qwen3-32b"
+    }
+  ]
+}

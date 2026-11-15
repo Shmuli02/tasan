@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "is_example": true,
+    "updated": "2026-11-14",
+    "note": "src-strategy-2026, src-roadmap-2026 and src-thl-2016 are real public documents. src-example-synthetic is the placeholder citation for all schematic indicator values and demo effect sizes."
+  },
+  "sources": [
+    {
+      "id": "src-example-synthetic",
+      "title": "EXAMPLE DATASET – schematic values for the Equal Care demo UI (not official statistics)",
+      "publisher": "Junction 2026 team (JN Builder placeholder)",
+      "url": null,
+      "accessed": "2026-11-14",
+      "year": 2026,
+      "note": "This source marks every invented indicator value, cost figure, and simulator effect size. Replace these citations when real data and recommendations arrive."
+    },
+    {
+      "id": "src-strategy-2026",
+      "title": "Kansallinen syöpästrategia 2026–2035. Yhdessä syöpää vastaan – ihmislähtöistä syövän ehkäisyä ja hoitoa",
+      "publisher": "Sosiaali- ja terveysministeriö / FICAN / THL / Syöpäjärjestöt",
+      "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_2026_2035_FINAL.pdf",
+      "accessed": "2026-11-14",
+      "year": 2026,
+      "note": "Defines four strategic goals. Goal 3: Varmistetaan yhdenvertainen ja vaikuttava syövänhoito. Goal 3 follow-up metrics include: 5-year survival of poor-prognosis cancers reaching Nordic level; 10% reduction in cancer mortality; patients start treatment within target timeframes. Goal 2 includes the ≥70% stage I–II diagnosis metric."
+    },
+    {
+      "id": "src-roadmap-2026",
+      "title": "Kansallinen syöpästrategia: Toimeenpanon tiekartta vuosille 2026–2031",
+      "publisher": "Sosiaali- ja terveysministeriö / FICAN",
+      "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+      "accessed": "2026-11-14",
+      "year": 2026,
+      "note": "Implementation roadmap. Chapter 3 covers Goal 3 actions, including 3.1 national treatment guidelines and care pathways for equal, timely and effective care."
+    },
+    {
+      "id": "src-thl-2016",
+      "title": "Hoitoonpääsyn seuranta syövän hoidossa (THL Ohjaus 21/2016)",
+      "publisher": "Terveyden ja hyvinvoinnin laitos (THL)",
+      "url": "https://www.julkari.fi/handle/10024/131577",
+      "accessed": "2026-11-14",
+      "year": 2016,
+      "note": "Cited by the National Cancer Strategy 2026–2035 as the reference for monitoring access to cancer treatment within target timeframes (Goal 3 footnote ***)."
+    },
+    {
+      "id": "src-geo-statfin-2026",
+      "title": "Wellbeing services county boundaries 2026, scale 1:4 500 000 (hyvinvointialue4500k_2026)",
+      "publisher": "Statistics Finland (Tilastokeskus), geo.stat.fi",
+      "url": "https://geo.stat.fi/",
+      "accessed": "2026-11-14",
+      "year": 2026,
+      "note": "Licence: CC BY 4.0. Used only for the map geometry bundled in the app."
+    }
+  ]
+}

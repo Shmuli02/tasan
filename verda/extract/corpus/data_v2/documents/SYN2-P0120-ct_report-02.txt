@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0120
+document_id: SYN2-P0120-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-03-22
+display_name: Hannu Harjoitus SYN2-P0120 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 22.3.2026. Potilas: Hannu Harjoitus SYN2-P0120 (SYN2-P0120), s. 18.5.1944.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettine-n harjoitusteksti).
+Kuvausaika merkittiin kalenteriin maaliskuun 14. päivänä 2026; itse tutkimus toteutettiin toissapäivänä.
+Pyyntö tuli perille viikolla 10 torstaina (2026).
+Kuvissa erottui vasemman alalohkon 2,4 cm muutos.
+Aktiivista hoitoa ei ole aloitettu, vasta p-ohditaan vaitoehtoja.
+— ote vanhasta kirjauksesta 11.8.2020: synty-mäaika 18.5.1944; sappirakon poisto 11.8.2020; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammik uun alu-ssa o1i käynyt kontrollissa; tarkkaa päivää ei ole tassa.
+Sappirakon poisto tehty 19.8.2018 (ei l-iity nykyiseen selvittelyynn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

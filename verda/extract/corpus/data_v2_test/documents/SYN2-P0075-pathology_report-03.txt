@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0075
+document_id: SYN2-P0075-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-09-20
+display_name: Ingrid Inventerad SYN2-P0075 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 20.9.2026. Potilas: Ingrid Inventerad SYN2-P0075 (SYN2-P0075), s. 19.11.1941.
+SYNT-EETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tähystyksen yhteyde-ssä punktionäyte 14. syyskuuta 2026.
+Mikroskooppinen lausunto valmistui syyskuun 20. päivänä 2026: levyepiteelikarsinooma.
+Kuvantaminen tehtiin 3. syyskuuta 2026 (varaus oli aiemmin).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 18. elokuuta 2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohd itaan vaihtoehtoja.
+Aiemmin jossain tammikuun alus sa oli käynyt kontrollissa; tarkkaa pä ivää ei ole tässä.
+Sappirakon poisto tehty 13.1.2022 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilask ertomus.

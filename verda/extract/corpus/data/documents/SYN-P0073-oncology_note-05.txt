@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0073
+document_id: SYN-P0073-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-02-08
+display_name: Eva Påhittad SYN-P0073 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 8.2.2026. Potilas: Eva Påhittad SYN-P0073 (SYN-P0073), s. 25.5.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 13.1.26.
+PET-TT tehty 21.1.26.
+Esitiedot: bronkoskopia ja biopsia tehty 27.1.2026.
+Patologin lausunto 31.1.2026: NSCLC, ei tarkemmin luokiteltu.
+Hoitokokous 5.2.2026: moniammatillinen suositus kirjattu.
+Päätettiin 7/2/2026 aloittaa kiilaresektio.
+Bronkoskopiaa ei tehty tässä käynnissä.
+Edellinen keuhkokuume hoidettu 5.5.2023.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

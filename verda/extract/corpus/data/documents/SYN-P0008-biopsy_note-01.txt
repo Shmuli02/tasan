@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0008
+document_id: SYN-P0008-biopsy_note-01
+document_type: biopsy_note
+language: en
+note_date: 2026-03-06
+display_name: Hannu Harjoitus SYN-P0008 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 6.3.2026. Patent: Hannu Harjoitus SYN-P0008 (SYN-P0008), DOB 15.3.1961.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Referral received by the lung clnic on 20.2.2026.
+CT thorax was carried out on last Sunday. Imaging showed a 3.1 cm tumour in the right upper lobe.
+Bronchoscopy and biopsy performed on 4.3.2026.
+Hip replacement on 27.5.2012.
+
+Entered by: synthetic test user. This is not a real clinical record.

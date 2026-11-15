@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0087
+document_id: SYN2-P0087-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-06-17
+display_name: Eeva Esimerkki SYN2-P0087 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 17.6.2026. Potilas: Eev Esimerkki SYN2-P0087 (SYN2-P0087), s. 24.5.1938.
+SYNTEETTINEN potilaksertomus, ei oieaa hnekilöä.
+
+D ik-tooitu merkinntä keuhkoselvittelystä (synteettin-en harjoituste ksti).
+Toimenpide toteutui eilenn (solunsalpaaja).
+Morf orloginen tlos tuli 15. tokokuuta 2026 (pienisolunien keuhkosyöpä).
+Asiakirja merkittiin saapuneesi keuhkoyksikköön huhtiku-un 18. päivänää 2026.
+Thystyksen yhteydessä punkt-ionä yte 12. toukokuu ta 2026.
+Leikekuvaus on suoritettu 03-05-2026.
+Tähystys peruttiin vime het kellä eikä näytettä saau.
+Edelline n keuhkokuume hoidettu 7.10.2016.
+
+Kirjajaa: synteettinen testi kayttaja. Tämä ei ole oikea poti-laskertomus.

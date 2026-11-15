@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0058
+document_id: SYNTR-P0058-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-06-19
+display_name: Aino Harjoitus SYNTR-P0058 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Keksitty keuhkoyksikkö
+Kirjauspäivä 19.6.2026. Potilas: Aino Harjoitus SYNTR-P0058, s. 1.1.1950.
+SYNTEETTINEN record, not a real person.
+
+Lähetemerkintä avattiin to 11.6.2026.
+Kuvausprotokolla ajettiin su 14.6.2026.
+Näytteenotto tähystyksellä 18.6.2026.
+
+Kirjaaja: synteettinen testikäyttäjä.

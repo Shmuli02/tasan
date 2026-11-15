@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0047
+document_id: SYN2-P0047-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-02-22
+display_name: Ingrid Inventerad SYN2-P0047 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen kesku-ssairaala
+Kirjauspäivä 22.2.2026. Potilas: Ingrid Inventerad SYN2-P0047 (SYN2-P0047), s. 24.8.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Konsul-taatiopyyntö kirjattiin saapuneeksi viikolla 6 tiistaina (2026).
+Kuvantaminen tehtiin viikolla 7 maanantaina (2026) (v araus oli aiemmin).
+Näyte otettiin tähystyksessä eilen.
+— ote vanhasta kirjauksesta 26.7.2023: syntymäaika 24.8.1953; sappirakon poisto 26.7.2023; ei li ity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteet-tinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,33 @@
+KEUHKOSYOPA SUOMESSA-KATSAUS KEUHKOSYOVAN HOIDON LAADUSTA | 17
+3.1.1 Hoitotoimenpiteet yhteistyoalueittain
+Yhteistyoalueiden valilla on kuitenkin selkeita eroja eri hoitomuotojen osuuksissa diagnoosia seuraavien
+6 kuukauden aikana (Taulukot 3.3-3-4). Leikkaushoitojen osuus on suurin Sisa-Suomen yhteistyoalueella
+ %      ! (% )    (% )
+kuolemien osuuksissa erot olivat pienia.
+TAULUKKO 3.3: Hoitotoimenpiteet kuuden kuukauden kuluessa diagnoosipaivasta yhteistyoalueittain.
+Yhteistyoalue | Hoitotoimenpide | Lkm | Yhteensa | Osuus (%)
+Leikkaushoito | 603 | 4 972 | 12,1
+Muu kuin palliatiivinen sadehoito | 1 270 | 4 972 | 25,5
+Etela-Suomi | Laakehoito | 868 | 4 972 | 17,5
+Palliativinen hoito | 1079 | 4 972 | 21,7
+Kuollut | 2 329 | 4 972 | 46,8
+Leikkaushoito | 255 | 2 019 | 12,6
+Muu kuin palliativinen sadehoito | 439 | 2 019 | 21,7
+Ita-Suomi | Laakehoito | 565 | 2 019 | 28,0
+Palliativinen hoito | 593 | 2 019 | 29,4
+Kuollut | 929 | 2 019 | 46,0
+Leikkaushoito | 238 | 2 284 | 10,4
+Muu kuin palliativinen sadehoito | 435 | 2 284 | 19,0
+Lansi-Suomi | Laakehoito | 365 | 2 284 | 16,0
+Palliativinen hoito | 317 | 2 284 | 13,9
+Kuollut | 1083 | 2 284 | 47,4
+Leikkaushoito | 202 | 1930 | 10,5
+Muu kuin palliativinen sadehoito | 300 | 1 930 | 15,5
+Pohjois-Suomi | Laakehoito | 455 | 1 930 | 23,6
+Palliativinen hoito | 389 | 1 930 | 20,2
+Kuollut | 906 | 1 930 | 46,9
+Leikkaushoito | 324 | 2 033 | 15,9
+Muu kuin palliativinen sadehoito | 403 | 2 033 | 19,8
+Sisa-Suomi | Laakehoito | 630 | 2 033 | 31,0
+Palliativinen hoito | 437 | 2 033 | 21,5
+Kuollut | 914 | 2 033 | 45,0

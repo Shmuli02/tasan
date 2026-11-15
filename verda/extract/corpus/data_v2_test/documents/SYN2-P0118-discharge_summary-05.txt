@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0118
+document_id: SYN2-P0118-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-09-16
+display_name: Pekka Paikkamerkki SYN2-P0118 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 16.9.2026. Potilas: Pekka Paikkamerkki SYN2-P0118 (SYN2-P0118), s. 13.5.1957.
+SYNTEETTINEN potilasker-tomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Sovittiin hoitomuodosta 07-09-2026 (sädehoito).
+Lähete saapui toimistoon viikolla 33 sunnuntaina (2026) (kirjoituspäivä on eri, ks. alla).
+Aktiivinen hoito käynnistyi toissapäivänä.
+Näyte otettiin tähystyksessä 2. syyskuuta 2026.
+Kuvantaminen tehtiin 25. elokuuta 2026 (varaus oli aiemmin).
+Morforloginen tulos tuli viikolla 36 sunnuntaina (2026) (levyepiteelikarsinooma).
+Kuvantaminen on vasta ajanvaraus lokakuun 2. päivänä 2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 22.7.2015: syntymäaika 13.5.1957; sappirakon poisto 22.7.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun aluss-a oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

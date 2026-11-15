@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0037
+document_id: SYN2-P0037-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-25
+display_name: Sari Sijaisnimi SYN2-P0037 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 25.7.2026. Potilas: Sari Sija i-snimi SYN2-P0037 (SYN2-P0037), s. 13.10.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merk-intä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Ensimmäinen hoitokerta oli 23. heinäkuuta 2026.
+Leikekuvaus on suoritettu viikolla 24 tiistaina (2026).
+Pyyntö tuli perille viikolla 22 torstaina (2026).
+Aktiivista h-oitoa ei ole aloitettu, vasta poh-ditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 14.9.2019: syntymäaika 13.10.1949; sappirakon poisto 14.9.2019; ei liity n-ykyiseen keuhkoselvitt-elyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskerto-mus.

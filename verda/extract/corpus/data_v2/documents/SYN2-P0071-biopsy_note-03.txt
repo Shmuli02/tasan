@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0071
+document_id: SYN2-P0071-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-04-07
+display_name: Anna Anonyymi SYN2-P0071 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 7.4.2026. Potilas: Anna Anonyymi SYN2-P0071 (SYN2-P0071), s. 13.1.1963.
+SYNTEETTINEN potilaskertomus, e-i oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille 24. maaliskuuta 2026.
+Kerroskuvaus toteutettiin 03-04-2026.
+Toimenpide varattiin maaliskuun 30. päivänä 2026, mutta näyte otettiin vasta huhtikuun 6. päivän-ä 2026.
+— ote vanhasta kirjauksesta 28.10.2016: syntymäaika 13.1.1963; sappirakon poisto 28.10.2016; ei liity nykyiseen keuhk0selvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käyn-yt kontrollissa; tarkkaa päivää ei o le tässä.
+Syntymäaik-a 13.1.1963 tarkistet tu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

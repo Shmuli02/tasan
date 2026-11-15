@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0018
+document_id: SYN-P0018-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-03-12
+display_name: Lars Låtsas SYN-P0018 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 12.3.2026. Potilas: Lars Låtsas SYN-P0018 (SYN-P0018), s. 25.12.1952.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 14/2/2026.
+Keuhko-TT tehty 23.2.26.
+Bronkoskopia ja biopsia tehty 4/3.
+PAD-vastaus valmistui 8/3: adenokarsinooma.
+Esitiedot: moniammatillinen kokous (MDT) toissapäivänä: suositellaan etenemistä hoitoon.
+Päätettiin 2026-03-12 aloittaa sytostaatti.
+Lonkkaproteesi operoitu 20.9.2012.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

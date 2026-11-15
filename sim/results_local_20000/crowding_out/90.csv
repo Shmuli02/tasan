@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+90,City of Helsinki,YTA-ETELA,crowding_out,baseline,pct_le42_from_referral,27.0329,11.2903,25.7576,47.0149,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,baseline,pct_le42_from_diagnosis,58.1755,49.5933,58.1967,66.8919,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,baseline,median_days_referral_to_treatment,62.0854,44.5,62.0,81.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,baseline,median_days_diagnosis_to_treatment,36.6015,31.0,36.5,43.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,baseline,n_patients,297.1639,264.0,297.0,331.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,baseline,n_active_treated,134.7527,112.0,135.0,158.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,baseline,n_le42_from_referral,36.4286,15.0,35.0,66.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,baseline,n_untreated_at_alert_day,118.0079,92.0,118.0,145.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,scenario,pct_le42_from_referral,46.4836,27.0073,45.9459,67.8571,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,scenario,median_days_referral_to_treatment,46.1745,30.0,46.0,65.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,scenario,n_patients,297.1639,264.0,297.0,331.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,scenario,n_active_treated,134.7527,112.0,135.0,158.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,scenario,n_le42_from_referral,62.6424,35.0,62.0,96.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,delta,pct_le42_from_referral,19.4507,11.6788,19.3333,27.8912,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,delta,median_days_referral_to_treatment,-15.9108,-16.0,-16.0,-14.5,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,delta,n_patients,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,delta,n_active_treated,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,crowding_out,delta,n_le42_from_referral,26.2138,15.0,26.0,39.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast

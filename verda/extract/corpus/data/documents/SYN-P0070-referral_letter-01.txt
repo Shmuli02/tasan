@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0070
+document_id: SYN-P0070-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-01-21
+display_name: Juhani Jäljitelmä SYN-P0070 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Invented University Hospital
+Note date 21.1.2026. Patient: Juhani Jäljitelmä SYN-P0070 (SYN-P0070), DOB 19.4.1952.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Referral received by the lung clinic on yesterday.
+Bronchoscopy was not performed at this visit.
+Laboratory tests have been ordered; results are not in this note.
+
+Entered by: synthetic test user. This is not a real clinical record.

@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0089
+document_id: SYN-P0089-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-07-12
+display_name: Kirsi Keksitty SYN-P0089 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 12.7.2026. Potilas: Kirsi Keksitty SYN-P0089 (SYN-P0089), s. 20.8.1963.
+SYNTEETTINEN potilaskretomus, ei okieaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ähete kirjattu 28.6.2026.
+Esiteidot: tT-tutkimus tehty 2/7/2026.
+Moniammatillinen kokous (MDT) 12.7.26: suositellaan etenemistä hotoon.
+Sappirakon poisto tehty 6.1.2014 (ei liity nykyiseen selvittelyyn).
+
+Kirjajaa: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

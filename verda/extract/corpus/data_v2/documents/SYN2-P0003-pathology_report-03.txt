@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0003
+document_id: SYN2-P0003-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-02-12
+display_name: Eeva Esimerkki SYN2-P0003 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirj-auspäivä 12.2.2026. Potilas: Eeva Esimerkki SYN2-P0003 (SYN2-P0003), s. 12.3.1942.
+SYNTEETTINEN p0tilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkin tä keuhkoselvittelystä (synteettinen harjoitusteks ti).
+Morforloginen tulos tuli 12. helmikuuta 2026 (adenokarsinooma).
+Asiakirja merkittiin saapuneeksi keuhkoyk-sikköön tammikuun 17. päivänä 2026.
+Tähystyksen yhteydessä punktionäyte 04-02-2026.
+Kerroskuvaus toteutettiin viikolla 5 tiistaina (2026).
+Tiimikokousta ei järjestetty tällä käynni-ll-ä, se on siirretty.
+— o te vanhasta kirjauksesta 15.8.2014: syntymäaika 12.3.1942; sappirakon poisto 15.8.2014; ei liity nykyiseen keuhkoselv ittelyyn. —
+Sappirakon poisto tehty 10.2.2020 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

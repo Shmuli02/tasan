@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0028
+document_id: SYN2-P0028-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-10-16
+display_name: Peter Samplecase SYN2-P0028 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinik-ka
+Kirjauspäivä 16.10.2026. Potilas: Peter Samplecase SYN2-P0028 (SYN2-P0028), s. 25.1.1968.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Näyte otettiin tähystyksessä 3. syyskuuta 2026.
+Pyyntö tuli perille 26-08-2026.
+Tiimikokous pidettiin syyskuun 21. päivänä 2026 ja suositus kirjattiin.
+Leikekuvaus on suoritettu 30. elokuuta 2026.
+Morforloginen tulos tuli viikolla 37 sunnuntaina (2026) (NSCLC, ei tarkemmin luokiteltu).
+Valittiin etenemistapa 23-09-2026: solunsalpaaja.
+Toimenpide toteutui 14. lokakuuta 2026 (solunsalpaaja).
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea poti laskertomus.

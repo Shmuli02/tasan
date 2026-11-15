@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0060
+document_id: SYN-P0060-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-13
+display_name: Yrjö Yksikkötesti SYN-P0060 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 13.8.2026. Potilas: Yrjö Yksikkötesti SYN-P0060 (SYN-P0060), s. 17.3.1941.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 24.7.2026.
+TT-tutkimus tehty 29.7.2026.
+Biopsiat otettu bronkoskopiassa 2.8.2026.
+Histologinen vastaus saapui 2026-08-09 (levyepiteelikarsinooma).
+Päätettiin 11.8.2026 aloittaa kuratiivinen lobektomia.
+Moniammatillinen kokous (MDT) 11/8: suositellaan etenemistä hoitoon.
+Bronkoskopiaa ei tehty tässä käynnissä.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

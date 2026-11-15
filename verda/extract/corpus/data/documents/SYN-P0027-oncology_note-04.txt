@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0027
+document_id: SYN-P0027-oncology_note-04
+document_type: oncology_note
+language: sv
+note_date: 2026-09-22
+display_name: Helen Mockpatient SYN-P0027 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 22.9.2026. Patient: Helen Mockpatient SYN-P0027 (SYN-P0027), f. 26.5.1961.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 11/8.
+Datortomografi (DT) genomfördes 23.8.2026.
+EBUS-bronkoskopi genomförd 2026-09-04; biopsier tagna.
+Patologiskt utlåtande 14.9.2026: småcellig lungcancer.
+Vårdkonferens i förrgår: multidisciplinär rekommendation.
+Beslutades 21.9.26 att gå vidare med strålbehandling.
+Behandling har inte påbörjats.
+Gallblåsan opererades bort 4.3.2020 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0118
+document_id: SYN-P0118-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-04-30
+display_name: Pekka Paikkamerkki SYN-P0118 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 30.4.2026. Potilas: Pekka Paikkamerkki SYN-P0118 (SYN-P0118), s. 21.2.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 14.4.26.
+Thoraxin TT tehty 19/4. Kuvauksessa todettiin vasemman alalohkon 2,4 cm muutos.
+EBUS-bronkoskopia suoritettu 30.4.2026; biopsiat otettu.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0085
+document_id: SYN2-P0085-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-04-27
+display_name: Aino Synteettinen SYN2-P0085 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 27.4.2026. Potilas: Aino Synteettinen SYN2-P0085 (SYN2-P0085), s. 7.8.1948.
+SYNTEETTINEN potilaskertomus, ei oike aa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelys-tä (synteettinen harjoituste ksti).
+Kudosnäytteet haettiin toimenpiteessä 9. huhtikuuta 2026.
+Pyyntö tuli eprille maaliskuun 28. päivänä 2026.
+Kuvantaminen tehtiin 4. huhtikuuta 2026 (varaus oli aiemmin).
+Morforlog inen tulos tuli huhtikuun 19. päivänä 2026 (adenokarsinooma).
+Yhteispalaveri järjestettiin eiln; linja muodostettiin siell.
+Kuvantaminen on vasta ajanvaraus 02-05-2026, sitä ei ole toteutettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

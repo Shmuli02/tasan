@@ -1,0 +1,3617 @@
+{
+  "corpus_id": "tasan-extract-synthetic-v2/test",
+  "synthetic": true,
+  "documents": [
+    {
+      "document_id": "SYN2-P0001-referral_letter-01",
+      "patient_id": "SYN2-P0001",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-01-17",
+      "path": "documents/SYN2-P0001-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0001-biopsy_note-02",
+      "patient_id": "SYN2-P0001",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-02-04",
+      "path": "documents/SYN2-P0001-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0001-mdt_minutes-03",
+      "patient_id": "SYN2-P0001",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-02-15",
+      "path": "documents/SYN2-P0001-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0001-oncology_note-04",
+      "patient_id": "SYN2-P0001",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-02-17",
+      "path": "documents/SYN2-P0001-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0001-discharge_summary-05",
+      "patient_id": "SYN2-P0001",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-03-10",
+      "path": "documents/SYN2-P0001-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0003-referral_letter-01",
+      "patient_id": "SYN2-P0003",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-01-17",
+      "path": "documents/SYN2-P0003-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0003-biopsy_note-02",
+      "patient_id": "SYN2-P0003",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-02-06",
+      "path": "documents/SYN2-P0003-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0003-pathology_report-03",
+      "patient_id": "SYN2-P0003",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-02-12",
+      "path": "documents/SYN2-P0003-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0003-mdt_minutes-04",
+      "patient_id": "SYN2-P0003",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-02-21",
+      "path": "documents/SYN2-P0003-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0003-discharge_summary-05",
+      "patient_id": "SYN2-P0003",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-03-15",
+      "path": "documents/SYN2-P0003-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0006-referral_letter-01",
+      "patient_id": "SYN2-P0006",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-18",
+      "path": "documents/SYN2-P0006-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0006-pathology_report-02",
+      "patient_id": "SYN2-P0006",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-15",
+      "path": "documents/SYN2-P0006-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0006-mdt_minutes-03",
+      "patient_id": "SYN2-P0006",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-08-23",
+      "path": "documents/SYN2-P0006-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0006-oncology_note-04",
+      "patient_id": "SYN2-P0006",
+      "document_type": "oncology_note",
+      "lang": "en",
+      "note_date": "2026-08-23",
+      "path": "documents/SYN2-P0006-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0006-discharge_summary-05",
+      "patient_id": "SYN2-P0006",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-09-17",
+      "path": "documents/SYN2-P0006-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0007-ct_report-01",
+      "patient_id": "SYN2-P0007",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-02-22",
+      "path": "documents/SYN2-P0007-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0007-biopsy_note-02",
+      "patient_id": "SYN2-P0007",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-03-07",
+      "path": "documents/SYN2-P0007-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0007-mdt_minutes-03",
+      "patient_id": "SYN2-P0007",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-03-16",
+      "path": "documents/SYN2-P0007-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0007-oncology_note-04",
+      "patient_id": "SYN2-P0007",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-03-17",
+      "path": "documents/SYN2-P0007-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0007-discharge_summary-05",
+      "patient_id": "SYN2-P0007",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-04-06",
+      "path": "documents/SYN2-P0007-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0009-referral_letter-01",
+      "patient_id": "SYN2-P0009",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-05-22",
+      "path": "documents/SYN2-P0009-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0009-biopsy_note-02",
+      "patient_id": "SYN2-P0009",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-06",
+      "path": "documents/SYN2-P0009-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0009-pathology_report-03",
+      "patient_id": "SYN2-P0009",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-16",
+      "path": "documents/SYN2-P0009-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0009-mdt_minutes-04",
+      "patient_id": "SYN2-P0009",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-06-19",
+      "path": "documents/SYN2-P0009-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0009-discharge_summary-05",
+      "patient_id": "SYN2-P0009",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-07-05",
+      "path": "documents/SYN2-P0009-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0010-referral_letter-01",
+      "patient_id": "SYN2-P0010",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-04-15",
+      "path": "documents/SYN2-P0010-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0010-pathology_report-02",
+      "patient_id": "SYN2-P0010",
+      "document_type": "pathology_report",
+      "lang": "en",
+      "note_date": "2026-05-04",
+      "path": "documents/SYN2-P0010-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0010-mdt_minutes-03",
+      "patient_id": "SYN2-P0010",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-05-10",
+      "path": "documents/SYN2-P0010-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0010-oncology_note-04",
+      "patient_id": "SYN2-P0010",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-12",
+      "path": "documents/SYN2-P0010-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0010-discharge_summary-05",
+      "patient_id": "SYN2-P0010",
+      "document_type": "discharge_summary",
+      "lang": "en",
+      "note_date": "2026-05-24",
+      "path": "documents/SYN2-P0010-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0013-ct_report-01",
+      "patient_id": "SYN2-P0013",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-04-08",
+      "path": "documents/SYN2-P0013-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0013-biopsy_note-02",
+      "patient_id": "SYN2-P0013",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-16",
+      "path": "documents/SYN2-P0013-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0013-pathology_report-03",
+      "patient_id": "SYN2-P0013",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-20",
+      "path": "documents/SYN2-P0013-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0013-mdt_minutes-04",
+      "patient_id": "SYN2-P0013",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-04-26",
+      "path": "documents/SYN2-P0013-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0013-discharge_summary-05",
+      "patient_id": "SYN2-P0013",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-05-07",
+      "path": "documents/SYN2-P0013-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0014-referral_letter-01",
+      "patient_id": "SYN2-P0014",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-08-05",
+      "path": "documents/SYN2-P0014-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0014-ct_report-02",
+      "patient_id": "SYN2-P0014",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-19",
+      "path": "documents/SYN2-P0014-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0014-biopsy_note-03",
+      "patient_id": "SYN2-P0014",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-24",
+      "path": "documents/SYN2-P0014-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0014-pathology_report-04",
+      "patient_id": "SYN2-P0014",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-09-04",
+      "path": "documents/SYN2-P0014-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0014-discharge_summary-05",
+      "patient_id": "SYN2-P0014",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-10-03",
+      "path": "documents/SYN2-P0014-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0015-ct_report-01",
+      "patient_id": "SYN2-P0015",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-05",
+      "path": "documents/SYN2-P0015-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0015-pathology_report-02",
+      "patient_id": "SYN2-P0015",
+      "document_type": "pathology_report",
+      "lang": "en",
+      "note_date": "2026-05-22",
+      "path": "documents/SYN2-P0015-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0015-oncology_note-03",
+      "patient_id": "SYN2-P0015",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-26",
+      "path": "documents/SYN2-P0015-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0015-mdt_minutes-04",
+      "patient_id": "SYN2-P0015",
+      "document_type": "mdt_minutes",
+      "lang": "en",
+      "note_date": "2026-05-28",
+      "path": "documents/SYN2-P0015-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0015-discharge_summary-05",
+      "patient_id": "SYN2-P0015",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-06-11",
+      "path": "documents/SYN2-P0015-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0016-ct_report-01",
+      "patient_id": "SYN2-P0016",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-08-31",
+      "path": "documents/SYN2-P0016-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0016-pathology_report-02",
+      "patient_id": "SYN2-P0016",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-09-21",
+      "path": "documents/SYN2-P0016-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0016-mdt_minutes-03",
+      "patient_id": "SYN2-P0016",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-09-24",
+      "path": "documents/SYN2-P0016-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0016-oncology_note-04",
+      "patient_id": "SYN2-P0016",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-09-25",
+      "path": "documents/SYN2-P0016-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0016-discharge_summary-05",
+      "patient_id": "SYN2-P0016",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-10-10",
+      "path": "documents/SYN2-P0016-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0018-referral_letter-01",
+      "patient_id": "SYN2-P0018",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-06-03",
+      "path": "documents/SYN2-P0018-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0018-biopsy_note-02",
+      "patient_id": "SYN2-P0018",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-20",
+      "path": "documents/SYN2-P0018-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0018-mdt_minutes-03",
+      "patient_id": "SYN2-P0018",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-07-05",
+      "path": "documents/SYN2-P0018-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0018-oncology_note-04",
+      "patient_id": "SYN2-P0018",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-05",
+      "path": "documents/SYN2-P0018-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0018-discharge_summary-05",
+      "patient_id": "SYN2-P0018",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-07-20",
+      "path": "documents/SYN2-P0018-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0019-ct_report-01",
+      "patient_id": "SYN2-P0019",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-03-28",
+      "path": "documents/SYN2-P0019-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0019-biopsy_note-02",
+      "patient_id": "SYN2-P0019",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-04-02",
+      "path": "documents/SYN2-P0019-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0019-pathology_report-03",
+      "patient_id": "SYN2-P0019",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-04",
+      "path": "documents/SYN2-P0019-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0019-mdt_minutes-04",
+      "patient_id": "SYN2-P0019",
+      "document_type": "mdt_minutes",
+      "lang": "sv",
+      "note_date": "2026-04-09",
+      "path": "documents/SYN2-P0019-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0019-discharge_summary-05",
+      "patient_id": "SYN2-P0019",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-04-28",
+      "path": "documents/SYN2-P0019-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0020-referral_letter-01",
+      "patient_id": "SYN2-P0020",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-04-01",
+      "path": "documents/SYN2-P0020-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0020-biopsy_note-02",
+      "patient_id": "SYN2-P0020",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-23",
+      "path": "documents/SYN2-P0020-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0020-mdt_minutes-03",
+      "patient_id": "SYN2-P0020",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-05-02",
+      "path": "documents/SYN2-P0020-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0020-oncology_note-04",
+      "patient_id": "SYN2-P0020",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-04",
+      "path": "documents/SYN2-P0020-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0020-discharge_summary-05",
+      "patient_id": "SYN2-P0020",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-05-10",
+      "path": "documents/SYN2-P0020-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0022-referral_letter-01",
+      "patient_id": "SYN2-P0022",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-02",
+      "path": "documents/SYN2-P0022-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0022-pathology_report-02",
+      "patient_id": "SYN2-P0022",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-05",
+      "path": "documents/SYN2-P0022-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0022-oncology_note-03",
+      "patient_id": "SYN2-P0022",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-12",
+      "path": "documents/SYN2-P0022-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0022-mdt_minutes-04",
+      "patient_id": "SYN2-P0022",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-08-14",
+      "path": "documents/SYN2-P0022-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0022-discharge_summary-05",
+      "patient_id": "SYN2-P0022",
+      "document_type": "discharge_summary",
+      "lang": "sv",
+      "note_date": "2026-09-05",
+      "path": "documents/SYN2-P0022-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0023-ct_report-01",
+      "patient_id": "SYN2-P0023",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-02-19",
+      "path": "documents/SYN2-P0023-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0023-biopsy_note-02",
+      "patient_id": "SYN2-P0023",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-02-23",
+      "path": "documents/SYN2-P0023-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0023-pathology_report-03",
+      "patient_id": "SYN2-P0023",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-03-07",
+      "path": "documents/SYN2-P0023-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0023-mdt_minutes-04",
+      "patient_id": "SYN2-P0023",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-03-07",
+      "path": "documents/SYN2-P0023-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0023-discharge_summary-05",
+      "patient_id": "SYN2-P0023",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-03-22",
+      "path": "documents/SYN2-P0023-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0024-referral_letter-01",
+      "patient_id": "SYN2-P0024",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-08-08",
+      "path": "documents/SYN2-P0024-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0024-ct_report-02",
+      "patient_id": "SYN2-P0024",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-20",
+      "path": "documents/SYN2-P0024-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0024-pathology_report-03",
+      "patient_id": "SYN2-P0024",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-09-03",
+      "path": "documents/SYN2-P0024-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0024-mdt_minutes-04",
+      "patient_id": "SYN2-P0024",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-09-08",
+      "path": "documents/SYN2-P0024-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0024-discharge_summary-05",
+      "patient_id": "SYN2-P0024",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-10-04",
+      "path": "documents/SYN2-P0024-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0026-referral_letter-01",
+      "patient_id": "SYN2-P0026",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-03-02",
+      "path": "documents/SYN2-P0026-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0026-biopsy_note-02",
+      "patient_id": "SYN2-P0026",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-03-29",
+      "path": "documents/SYN2-P0026-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0026-pathology_report-03",
+      "patient_id": "SYN2-P0026",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-02",
+      "path": "documents/SYN2-P0026-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0026-oncology_note-04",
+      "patient_id": "SYN2-P0026",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-06",
+      "path": "documents/SYN2-P0026-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0026-discharge_summary-05",
+      "patient_id": "SYN2-P0026",
+      "document_type": "discharge_summary",
+      "lang": "en",
+      "note_date": "2026-04-24",
+      "path": "documents/SYN2-P0026-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0027-referral_letter-01",
+      "patient_id": "SYN2-P0027",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-05-16",
+      "path": "documents/SYN2-P0027-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0027-biopsy_note-02",
+      "patient_id": "SYN2-P0027",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-25",
+      "path": "documents/SYN2-P0027-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0027-pathology_report-03",
+      "patient_id": "SYN2-P0027",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-02",
+      "path": "documents/SYN2-P0027-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0027-mdt_minutes-04",
+      "patient_id": "SYN2-P0027",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-06-11",
+      "path": "documents/SYN2-P0027-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0027-discharge_summary-05",
+      "patient_id": "SYN2-P0027",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-07-04",
+      "path": "documents/SYN2-P0027-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0028-ct_report-01",
+      "patient_id": "SYN2-P0028",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-09-01",
+      "path": "documents/SYN2-P0028-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0028-biopsy_note-02",
+      "patient_id": "SYN2-P0028",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-09-03",
+      "path": "documents/SYN2-P0028-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0028-pathology_report-03",
+      "patient_id": "SYN2-P0028",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-09-15",
+      "path": "documents/SYN2-P0028-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0028-mdt_minutes-04",
+      "patient_id": "SYN2-P0028",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-09-22",
+      "path": "documents/SYN2-P0028-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0028-discharge_summary-05",
+      "patient_id": "SYN2-P0028",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-10-16",
+      "path": "documents/SYN2-P0028-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0029-referral_letter-01",
+      "patient_id": "SYN2-P0029",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-05-26",
+      "path": "documents/SYN2-P0029-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0029-ct_report-02",
+      "patient_id": "SYN2-P0029",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-03",
+      "path": "documents/SYN2-P0029-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0029-pathology_report-03",
+      "patient_id": "SYN2-P0029",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-11",
+      "path": "documents/SYN2-P0029-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0029-oncology_note-04",
+      "patient_id": "SYN2-P0029",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-06-20",
+      "path": "documents/SYN2-P0029-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0029-discharge_summary-05",
+      "patient_id": "SYN2-P0029",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-07-03",
+      "path": "documents/SYN2-P0029-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0031-referral_letter-01",
+      "patient_id": "SYN2-P0031",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-03-25",
+      "path": "documents/SYN2-P0031-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0031-ct_report-02",
+      "patient_id": "SYN2-P0031",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-29",
+      "path": "documents/SYN2-P0031-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0031-biopsy_note-03",
+      "patient_id": "SYN2-P0031",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-04",
+      "path": "documents/SYN2-P0031-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0031-oncology_note-04",
+      "patient_id": "SYN2-P0031",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-06",
+      "path": "documents/SYN2-P0031-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0031-oncology_note-05",
+      "patient_id": "SYN2-P0031",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-09",
+      "path": "documents/SYN2-P0031-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0032-referral_letter-01",
+      "patient_id": "SYN2-P0032",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-01-16",
+      "path": "documents/SYN2-P0032-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0032-ct_report-02",
+      "patient_id": "SYN2-P0032",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-01-30",
+      "path": "documents/SYN2-P0032-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0032-biopsy_note-03",
+      "patient_id": "SYN2-P0032",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-02-06",
+      "path": "documents/SYN2-P0032-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0032-pathology_report-04",
+      "patient_id": "SYN2-P0032",
+      "document_type": "pathology_report",
+      "lang": "sv",
+      "note_date": "2026-02-16",
+      "path": "documents/SYN2-P0032-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0032-mdt_minutes-05",
+      "patient_id": "SYN2-P0032",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-02-19",
+      "path": "documents/SYN2-P0032-mdt_minutes-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0032-oncology_note-06",
+      "patient_id": "SYN2-P0032",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-02-21",
+      "path": "documents/SYN2-P0032-oncology_note-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0033-referral_letter-01",
+      "patient_id": "SYN2-P0033",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-04-05",
+      "path": "documents/SYN2-P0033-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0033-ct_report-02",
+      "patient_id": "SYN2-P0033",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-04-21",
+      "path": "documents/SYN2-P0033-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0033-biopsy_note-03",
+      "patient_id": "SYN2-P0033",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-04-30",
+      "path": "documents/SYN2-P0033-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0033-mdt_minutes-04",
+      "patient_id": "SYN2-P0033",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-05-18",
+      "path": "documents/SYN2-P0033-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0033-oncology_note-05",
+      "patient_id": "SYN2-P0033",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-20",
+      "path": "documents/SYN2-P0033-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0033-discharge_summary-06",
+      "patient_id": "SYN2-P0033",
+      "document_type": "discharge_summary",
+      "lang": "sv",
+      "note_date": "2026-06-03",
+      "path": "documents/SYN2-P0033-discharge_summary-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0035-referral_letter-01",
+      "patient_id": "SYN2-P0035",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-04-23",
+      "path": "documents/SYN2-P0035-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0035-ct_report-02",
+      "patient_id": "SYN2-P0035",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-04",
+      "path": "documents/SYN2-P0035-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0035-biopsy_note-03",
+      "patient_id": "SYN2-P0035",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-08",
+      "path": "documents/SYN2-P0035-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0035-pathology_report-04",
+      "patient_id": "SYN2-P0035",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-20",
+      "path": "documents/SYN2-P0035-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0035-mdt_minutes-05",
+      "patient_id": "SYN2-P0035",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-05-23",
+      "path": "documents/SYN2-P0035-mdt_minutes-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0035-oncology_note-06",
+      "patient_id": "SYN2-P0035",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-25",
+      "path": "documents/SYN2-P0035-oncology_note-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0036-referral_letter-01",
+      "patient_id": "SYN2-P0036",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-08-09",
+      "path": "documents/SYN2-P0036-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0036-ct_report-02",
+      "patient_id": "SYN2-P0036",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-08-12",
+      "path": "documents/SYN2-P0036-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0036-biopsy_note-03",
+      "patient_id": "SYN2-P0036",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-08-21",
+      "path": "documents/SYN2-P0036-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0036-pathology_report-04",
+      "patient_id": "SYN2-P0036",
+      "document_type": "pathology_report",
+      "lang": "sv",
+      "note_date": "2026-08-30",
+      "path": "documents/SYN2-P0036-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0036-mdt_minutes-05",
+      "patient_id": "SYN2-P0036",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-09-07",
+      "path": "documents/SYN2-P0036-mdt_minutes-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0036-oncology_note-06",
+      "patient_id": "SYN2-P0036",
+      "document_type": "oncology_note",
+      "lang": "sv",
+      "note_date": "2026-09-12",
+      "path": "documents/SYN2-P0036-oncology_note-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0037-ct_report-01",
+      "patient_id": "SYN2-P0037",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-06-09",
+      "path": "documents/SYN2-P0037-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0037-biopsy_note-02",
+      "patient_id": "SYN2-P0037",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-16",
+      "path": "documents/SYN2-P0037-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0037-pathology_report-03",
+      "patient_id": "SYN2-P0037",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-24",
+      "path": "documents/SYN2-P0037-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0037-oncology_note-04",
+      "patient_id": "SYN2-P0037",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-06-30",
+      "path": "documents/SYN2-P0037-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0037-mdt_minutes-05",
+      "patient_id": "SYN2-P0037",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-07-02",
+      "path": "documents/SYN2-P0037-mdt_minutes-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0037-discharge_summary-06",
+      "patient_id": "SYN2-P0037",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-07-25",
+      "path": "documents/SYN2-P0037-discharge_summary-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0039-referral_letter-01",
+      "patient_id": "SYN2-P0039",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-08-02",
+      "path": "documents/SYN2-P0039-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0039-ct_report-02",
+      "patient_id": "SYN2-P0039",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-09",
+      "path": "documents/SYN2-P0039-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0039-oncology_note-03",
+      "patient_id": "SYN2-P0039",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-13",
+      "path": "documents/SYN2-P0039-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0039-oncology_note-04",
+      "patient_id": "SYN2-P0039",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-16",
+      "path": "documents/SYN2-P0039-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0039-oncology_note-05",
+      "patient_id": "SYN2-P0039",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-20",
+      "path": "documents/SYN2-P0039-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0039-oncology_note-06",
+      "patient_id": "SYN2-P0039",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-23",
+      "path": "documents/SYN2-P0039-oncology_note-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0040-referral_letter-01",
+      "patient_id": "SYN2-P0040",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-04-02",
+      "path": "documents/SYN2-P0040-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0040-ct_report-02",
+      "patient_id": "SYN2-P0040",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-04-14",
+      "path": "documents/SYN2-P0040-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0040-biopsy_note-03",
+      "patient_id": "SYN2-P0040",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-23",
+      "path": "documents/SYN2-P0040-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0040-pathology_report-04",
+      "patient_id": "SYN2-P0040",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-29",
+      "path": "documents/SYN2-P0040-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0040-mdt_minutes-05",
+      "patient_id": "SYN2-P0040",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-05-05",
+      "path": "documents/SYN2-P0040-mdt_minutes-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0040-oncology_note-06",
+      "patient_id": "SYN2-P0040",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-07",
+      "path": "documents/SYN2-P0040-oncology_note-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0041-referral_letter-01",
+      "patient_id": "SYN2-P0041",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-07-09",
+      "path": "documents/SYN2-P0041-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0041-ct_report-02",
+      "patient_id": "SYN2-P0041",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-12",
+      "path": "documents/SYN2-P0041-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0041-oncology_note-03",
+      "patient_id": "SYN2-P0041",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-17",
+      "path": "documents/SYN2-P0041-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0041-oncology_note-04",
+      "patient_id": "SYN2-P0041",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-22",
+      "path": "documents/SYN2-P0041-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0041-oncology_note-05",
+      "patient_id": "SYN2-P0041",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-24",
+      "path": "documents/SYN2-P0041-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0041-oncology_note-06",
+      "patient_id": "SYN2-P0041",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-27",
+      "path": "documents/SYN2-P0041-oncology_note-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0042-referral_letter-01",
+      "patient_id": "SYN2-P0042",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-05-22",
+      "path": "documents/SYN2-P0042-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0042-ct_report-02",
+      "patient_id": "SYN2-P0042",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-29",
+      "path": "documents/SYN2-P0042-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0042-biopsy_note-03",
+      "patient_id": "SYN2-P0042",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-06",
+      "path": "documents/SYN2-P0042-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0042-pathology_report-04",
+      "patient_id": "SYN2-P0042",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-15",
+      "path": "documents/SYN2-P0042-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0042-mdt_minutes-05",
+      "patient_id": "SYN2-P0042",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-06-17",
+      "path": "documents/SYN2-P0042-mdt_minutes-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0042-oncology_note-06",
+      "patient_id": "SYN2-P0042",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-06-22",
+      "path": "documents/SYN2-P0042-oncology_note-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0045-referral_letter-01",
+      "patient_id": "SYN2-P0045",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-06-17",
+      "path": "documents/SYN2-P0045-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0045-ct_report-02",
+      "patient_id": "SYN2-P0045",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-22",
+      "path": "documents/SYN2-P0045-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0045-oncology_note-03",
+      "patient_id": "SYN2-P0045",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-06-24",
+      "path": "documents/SYN2-P0045-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0045-oncology_note-04",
+      "patient_id": "SYN2-P0045",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-06-29",
+      "path": "documents/SYN2-P0045-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0045-oncology_note-05",
+      "patient_id": "SYN2-P0045",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-03",
+      "path": "documents/SYN2-P0045-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0045-oncology_note-06",
+      "patient_id": "SYN2-P0045",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-07",
+      "path": "documents/SYN2-P0045-oncology_note-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0046-ct_report-01",
+      "patient_id": "SYN2-P0046",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-06-20",
+      "path": "documents/SYN2-P0046-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0046-pathology_report-02",
+      "patient_id": "SYN2-P0046",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-07-10",
+      "path": "documents/SYN2-P0046-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0046-mdt_minutes-03",
+      "patient_id": "SYN2-P0046",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-07-16",
+      "path": "documents/SYN2-P0046-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0046-oncology_note-04",
+      "patient_id": "SYN2-P0046",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-16",
+      "path": "documents/SYN2-P0046-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0046-discharge_summary-05",
+      "patient_id": "SYN2-P0046",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-08-09",
+      "path": "documents/SYN2-P0046-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0049-referral_letter-01",
+      "patient_id": "SYN2-P0049",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-06-25",
+      "path": "documents/SYN2-P0049-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0049-ct_report-02",
+      "patient_id": "SYN2-P0049",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-06",
+      "path": "documents/SYN2-P0049-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0049-biopsy_note-03",
+      "patient_id": "SYN2-P0049",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-11",
+      "path": "documents/SYN2-P0049-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0049-oncology_note-04",
+      "patient_id": "SYN2-P0049",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-13",
+      "path": "documents/SYN2-P0049-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0049-oncology_note-05",
+      "patient_id": "SYN2-P0049",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-16",
+      "path": "documents/SYN2-P0049-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0049-oncology_note-06",
+      "patient_id": "SYN2-P0049",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-18",
+      "path": "documents/SYN2-P0049-oncology_note-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0051-referral_letter-01",
+      "patient_id": "SYN2-P0051",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-03-05",
+      "path": "documents/SYN2-P0051-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0051-biopsy_note-02",
+      "patient_id": "SYN2-P0051",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-03-21",
+      "path": "documents/SYN2-P0051-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0051-pathology_report-03",
+      "patient_id": "SYN2-P0051",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-02",
+      "path": "documents/SYN2-P0051-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0051-oncology_note-04",
+      "patient_id": "SYN2-P0051",
+      "document_type": "oncology_note",
+      "lang": "sv",
+      "note_date": "2026-05-10",
+      "path": "documents/SYN2-P0051-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0052-referral_letter-01",
+      "patient_id": "SYN2-P0052",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-03-22",
+      "path": "documents/SYN2-P0052-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0052-ct_report-02",
+      "patient_id": "SYN2-P0052",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-04-03",
+      "path": "documents/SYN2-P0052-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0052-pathology_report-03",
+      "patient_id": "SYN2-P0052",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-23",
+      "path": "documents/SYN2-P0052-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0052-oncology_note-04",
+      "patient_id": "SYN2-P0052",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-13",
+      "path": "documents/SYN2-P0052-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0053-ct_report-01",
+      "patient_id": "SYN2-P0053",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-05",
+      "path": "documents/SYN2-P0053-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0053-mdt_minutes-02",
+      "patient_id": "SYN2-P0053",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-07-26",
+      "path": "documents/SYN2-P0053-mdt_minutes-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0053-oncology_note-03",
+      "patient_id": "SYN2-P0053",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-27",
+      "path": "documents/SYN2-P0053-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0053-oncology_note-04",
+      "patient_id": "SYN2-P0053",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-26",
+      "path": "documents/SYN2-P0053-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0056-ct_report-01",
+      "patient_id": "SYN2-P0056",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-25",
+      "path": "documents/SYN2-P0056-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0056-mdt_minutes-02",
+      "patient_id": "SYN2-P0056",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-07-16",
+      "path": "documents/SYN2-P0056-mdt_minutes-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0056-oncology_note-03",
+      "patient_id": "SYN2-P0056",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-16",
+      "path": "documents/SYN2-P0056-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0056-oncology_note-04",
+      "patient_id": "SYN2-P0056",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-26",
+      "path": "documents/SYN2-P0056-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0057-referral_letter-01",
+      "patient_id": "SYN2-P0057",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-02-23",
+      "path": "documents/SYN2-P0057-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0057-ct_report-02",
+      "patient_id": "SYN2-P0057",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-08",
+      "path": "documents/SYN2-P0057-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0057-biopsy_note-03",
+      "patient_id": "SYN2-P0057",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-03-12",
+      "path": "documents/SYN2-P0057-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0057-oncology_note-04",
+      "patient_id": "SYN2-P0057",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-26",
+      "path": "documents/SYN2-P0057-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0059-ct_report-01",
+      "patient_id": "SYN2-P0059",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-25",
+      "path": "documents/SYN2-P0059-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0059-biopsy_note-02",
+      "patient_id": "SYN2-P0059",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-05",
+      "path": "documents/SYN2-P0059-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0059-pathology_report-03",
+      "patient_id": "SYN2-P0059",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-13",
+      "path": "documents/SYN2-P0059-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0059-oncology_note-04",
+      "patient_id": "SYN2-P0059",
+      "document_type": "oncology_note",
+      "lang": "en",
+      "note_date": "2026-06-25",
+      "path": "documents/SYN2-P0059-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0060-ct_report-01",
+      "patient_id": "SYN2-P0060",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-03-19",
+      "path": "documents/SYN2-P0060-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0060-pathology_report-02",
+      "patient_id": "SYN2-P0060",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-03-29",
+      "path": "documents/SYN2-P0060-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0060-oncology_note-03",
+      "patient_id": "SYN2-P0060",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-01",
+      "path": "documents/SYN2-P0060-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0060-oncology_note-04",
+      "patient_id": "SYN2-P0060",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-20",
+      "path": "documents/SYN2-P0060-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0062-ct_report-01",
+      "patient_id": "SYN2-P0062",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-08-03",
+      "path": "documents/SYN2-P0062-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0062-biopsy_note-02",
+      "patient_id": "SYN2-P0062",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-12",
+      "path": "documents/SYN2-P0062-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0062-mdt_minutes-03",
+      "patient_id": "SYN2-P0062",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-08-21",
+      "path": "documents/SYN2-P0062-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0062-oncology_note-04",
+      "patient_id": "SYN2-P0062",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-09-29",
+      "path": "documents/SYN2-P0062-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0063-referral_letter-01",
+      "patient_id": "SYN2-P0063",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-03-14",
+      "path": "documents/SYN2-P0063-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0063-biopsy_note-02",
+      "patient_id": "SYN2-P0063",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-03-24",
+      "path": "documents/SYN2-P0063-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0063-mdt_minutes-03",
+      "patient_id": "SYN2-P0063",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-03-24",
+      "path": "documents/SYN2-P0063-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0063-pathology_report-04",
+      "patient_id": "SYN2-P0063",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-03-26",
+      "path": "documents/SYN2-P0063-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0063-discharge_summary-05",
+      "patient_id": "SYN2-P0063",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-03-30",
+      "path": "documents/SYN2-P0063-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0064-referral_letter-01",
+      "patient_id": "SYN2-P0064",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-07-24",
+      "path": "documents/SYN2-P0064-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0064-mdt_minutes-02",
+      "patient_id": "SYN2-P0064",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-08-03",
+      "path": "documents/SYN2-P0064-mdt_minutes-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0064-oncology_note-03",
+      "patient_id": "SYN2-P0064",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-05",
+      "path": "documents/SYN2-P0064-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0064-biopsy_note-04",
+      "patient_id": "SYN2-P0064",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-12",
+      "path": "documents/SYN2-P0064-biopsy_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0064-pathology_report-05",
+      "patient_id": "SYN2-P0064",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-25",
+      "path": "documents/SYN2-P0064-pathology_report-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0067-referral_letter-01",
+      "patient_id": "SYN2-P0067",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-08-03",
+      "path": "documents/SYN2-P0067-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0067-ct_report-02",
+      "patient_id": "SYN2-P0067",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-12",
+      "path": "documents/SYN2-P0067-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0067-oncology_note-03",
+      "patient_id": "SYN2-P0067",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-13",
+      "path": "documents/SYN2-P0067-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0067-biopsy_note-04",
+      "patient_id": "SYN2-P0067",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-21",
+      "path": "documents/SYN2-P0067-biopsy_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0067-pathology_report-05",
+      "patient_id": "SYN2-P0067",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-27",
+      "path": "documents/SYN2-P0067-pathology_report-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0068-referral_letter-01",
+      "patient_id": "SYN2-P0068",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-05-18",
+      "path": "documents/SYN2-P0068-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0068-oncology_note-02",
+      "patient_id": "SYN2-P0068",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-28",
+      "path": "documents/SYN2-P0068-oncology_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0068-biopsy_note-03",
+      "patient_id": "SYN2-P0068",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-30",
+      "path": "documents/SYN2-P0068-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0068-pathology_report-04",
+      "patient_id": "SYN2-P0068",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-04",
+      "path": "documents/SYN2-P0068-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0068-discharge_summary-05",
+      "patient_id": "SYN2-P0068",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-06-06",
+      "path": "documents/SYN2-P0068-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0069-referral_letter-01",
+      "patient_id": "SYN2-P0069",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-06-15",
+      "path": "documents/SYN2-P0069-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0069-oncology_note-02",
+      "patient_id": "SYN2-P0069",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-06-23",
+      "path": "documents/SYN2-P0069-oncology_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0069-biopsy_note-03",
+      "patient_id": "SYN2-P0069",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-25",
+      "path": "documents/SYN2-P0069-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0069-pathology_report-04",
+      "patient_id": "SYN2-P0069",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-07-01",
+      "path": "documents/SYN2-P0069-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0069-discharge_summary-05",
+      "patient_id": "SYN2-P0069",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-07-01",
+      "path": "documents/SYN2-P0069-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0072-referral_letter-01",
+      "patient_id": "SYN2-P0072",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-07-12",
+      "path": "documents/SYN2-P0072-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0072-ct_report-02",
+      "patient_id": "SYN2-P0072",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-29",
+      "path": "documents/SYN2-P0072-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0072-biopsy_note-03",
+      "patient_id": "SYN2-P0072",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-06",
+      "path": "documents/SYN2-P0072-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0072-pathology_report-04",
+      "patient_id": "SYN2-P0072",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-16",
+      "path": "documents/SYN2-P0072-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0072-oncology_note-05",
+      "patient_id": "SYN2-P0072",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-18",
+      "path": "documents/SYN2-P0072-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0072-discharge_summary-06",
+      "patient_id": "SYN2-P0072",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-09-08",
+      "path": "documents/SYN2-P0072-discharge_summary-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0073-referral_letter-01",
+      "patient_id": "SYN2-P0073",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-03-04",
+      "path": "documents/SYN2-P0073-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0073-ct_report-02",
+      "patient_id": "SYN2-P0073",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-13",
+      "path": "documents/SYN2-P0073-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0073-pathology_report-03",
+      "patient_id": "SYN2-P0073",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-03-30",
+      "path": "documents/SYN2-P0073-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0073-mdt_minutes-04",
+      "patient_id": "SYN2-P0073",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-04-02",
+      "path": "documents/SYN2-P0073-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0073-oncology_note-05",
+      "patient_id": "SYN2-P0073",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-04",
+      "path": "documents/SYN2-P0073-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0073-discharge_summary-06",
+      "patient_id": "SYN2-P0073",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-04-26",
+      "path": "documents/SYN2-P0073-discharge_summary-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0075-referral_letter-01",
+      "patient_id": "SYN2-P0075",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-08-20",
+      "path": "documents/SYN2-P0075-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0075-biopsy_note-02",
+      "patient_id": "SYN2-P0075",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-09-15",
+      "path": "documents/SYN2-P0075-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0075-pathology_report-03",
+      "patient_id": "SYN2-P0075",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-09-20",
+      "path": "documents/SYN2-P0075-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0075-oncology_note-04",
+      "patient_id": "SYN2-P0075",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-09-28",
+      "path": "documents/SYN2-P0075-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0075-mdt_minutes-05",
+      "patient_id": "SYN2-P0075",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-09-30",
+      "path": "documents/SYN2-P0075-mdt_minutes-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0075-discharge_summary-06",
+      "patient_id": "SYN2-P0075",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-10-10",
+      "path": "documents/SYN2-P0075-discharge_summary-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0076-referral_letter-01",
+      "patient_id": "SYN2-P0076",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-08-05",
+      "path": "documents/SYN2-P0076-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0076-ct_report-02",
+      "patient_id": "SYN2-P0076",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-13",
+      "path": "documents/SYN2-P0076-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0076-biopsy_note-03",
+      "patient_id": "SYN2-P0076",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-22",
+      "path": "documents/SYN2-P0076-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0076-pathology_report-04",
+      "patient_id": "SYN2-P0076",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-09-02",
+      "path": "documents/SYN2-P0076-pathology_report-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0076-mdt_minutes-05",
+      "patient_id": "SYN2-P0076",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-09-07",
+      "path": "documents/SYN2-P0076-mdt_minutes-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0076-discharge_summary-06",
+      "patient_id": "SYN2-P0076",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-09-26",
+      "path": "documents/SYN2-P0076-discharge_summary-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0077-ct_report-01",
+      "patient_id": "SYN2-P0077",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-03-27",
+      "path": "documents/SYN2-P0077-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0077-biopsy_note-02",
+      "patient_id": "SYN2-P0077",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-04-03",
+      "path": "documents/SYN2-P0077-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0077-pathology_report-03",
+      "patient_id": "SYN2-P0077",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-12",
+      "path": "documents/SYN2-P0077-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0077-mdt_minutes-04",
+      "patient_id": "SYN2-P0077",
+      "document_type": "mdt_minutes",
+      "lang": "sv",
+      "note_date": "2026-04-16",
+      "path": "documents/SYN2-P0077-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0079-ct_report-01",
+      "patient_id": "SYN2-P0079",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-31",
+      "path": "documents/SYN2-P0079-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0079-biopsy_note-02",
+      "patient_id": "SYN2-P0079",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-04",
+      "path": "documents/SYN2-P0079-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0079-pathology_report-03",
+      "patient_id": "SYN2-P0079",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-10",
+      "path": "documents/SYN2-P0079-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0079-mdt_minutes-04",
+      "patient_id": "SYN2-P0079",
+      "document_type": "mdt_minutes",
+      "lang": "sv",
+      "note_date": "2026-06-17",
+      "path": "documents/SYN2-P0079-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0080-ct_report-01",
+      "patient_id": "SYN2-P0080",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-03-02",
+      "path": "documents/SYN2-P0080-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0080-biopsy_note-02",
+      "patient_id": "SYN2-P0080",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-03-09",
+      "path": "documents/SYN2-P0080-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0080-pathology_report-03",
+      "patient_id": "SYN2-P0080",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-03-13",
+      "path": "documents/SYN2-P0080-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0080-mdt_minutes-04",
+      "patient_id": "SYN2-P0080",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-03-15",
+      "path": "documents/SYN2-P0080-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0083-biopsy_note-01",
+      "patient_id": "SYN2-P0083",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-05-23",
+      "path": "documents/SYN2-P0083-biopsy_note-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0083-pathology_report-02",
+      "patient_id": "SYN2-P0083",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-26",
+      "path": "documents/SYN2-P0083-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0083-mdt_minutes-03",
+      "patient_id": "SYN2-P0083",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-05-30",
+      "path": "documents/SYN2-P0083-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0083-oncology_note-04",
+      "patient_id": "SYN2-P0083",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-06-01",
+      "path": "documents/SYN2-P0083-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0083-discharge_summary-05",
+      "patient_id": "SYN2-P0083",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-06-11",
+      "path": "documents/SYN2-P0083-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0084-referral_letter-01",
+      "patient_id": "SYN2-P0084",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-05-06",
+      "path": "documents/SYN2-P0084-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0084-ct_report-02",
+      "patient_id": "SYN2-P0084",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-11",
+      "path": "documents/SYN2-P0084-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0084-mdt_minutes-03",
+      "patient_id": "SYN2-P0084",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-05-26",
+      "path": "documents/SYN2-P0084-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0084-oncology_note-04",
+      "patient_id": "SYN2-P0084",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-27",
+      "path": "documents/SYN2-P0084-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0084-discharge_summary-05",
+      "patient_id": "SYN2-P0084",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-06-07",
+      "path": "documents/SYN2-P0084-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0085-referral_letter-01",
+      "patient_id": "SYN2-P0085",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-03-28",
+      "path": "documents/SYN2-P0085-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0085-ct_report-02",
+      "patient_id": "SYN2-P0085",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-04-05",
+      "path": "documents/SYN2-P0085-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0085-biopsy_note-03",
+      "patient_id": "SYN2-P0085",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-09",
+      "path": "documents/SYN2-P0085-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0085-mdt_minutes-04",
+      "patient_id": "SYN2-P0085",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-04-27",
+      "path": "documents/SYN2-P0085-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0085-oncology_note-05",
+      "patient_id": "SYN2-P0085",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-28",
+      "path": "documents/SYN2-P0085-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0087-referral_letter-01",
+      "patient_id": "SYN2-P0087",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-04-20",
+      "path": "documents/SYN2-P0087-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0087-ct_report-02",
+      "patient_id": "SYN2-P0087",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-04",
+      "path": "documents/SYN2-P0087-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0087-mdt_minutes-03",
+      "patient_id": "SYN2-P0087",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-05-24",
+      "path": "documents/SYN2-P0087-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0087-oncology_note-04",
+      "patient_id": "SYN2-P0087",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-24",
+      "path": "documents/SYN2-P0087-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0087-discharge_summary-05",
+      "patient_id": "SYN2-P0087",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-06-17",
+      "path": "documents/SYN2-P0087-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0088-ct_report-01",
+      "patient_id": "SYN2-P0088",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-03",
+      "path": "documents/SYN2-P0088-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0088-biopsy_note-02",
+      "patient_id": "SYN2-P0088",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-13",
+      "path": "documents/SYN2-P0088-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0088-pathology_report-03",
+      "patient_id": "SYN2-P0088",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-07-14",
+      "path": "documents/SYN2-P0088-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0088-mdt_minutes-04",
+      "patient_id": "SYN2-P0088",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-07-20",
+      "path": "documents/SYN2-P0088-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0088-discharge_summary-05",
+      "patient_id": "SYN2-P0088",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-08-08",
+      "path": "documents/SYN2-P0088-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0090-ct_report-01",
+      "patient_id": "SYN2-P0090",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-04-08",
+      "path": "documents/SYN2-P0090-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0090-biopsy_note-02",
+      "patient_id": "SYN2-P0090",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-13",
+      "path": "documents/SYN2-P0090-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0090-pathology_report-03",
+      "patient_id": "SYN2-P0090",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-24",
+      "path": "documents/SYN2-P0090-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0090-mdt_minutes-04",
+      "patient_id": "SYN2-P0090",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-04-28",
+      "path": "documents/SYN2-P0090-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0090-discharge_summary-05",
+      "patient_id": "SYN2-P0090",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-05-13",
+      "path": "documents/SYN2-P0090-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0091-referral_letter-01",
+      "patient_id": "SYN2-P0091",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-06",
+      "path": "documents/SYN2-P0091-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0091-ct_report-02",
+      "patient_id": "SYN2-P0091",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-20",
+      "path": "documents/SYN2-P0091-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0091-pathology_report-03",
+      "patient_id": "SYN2-P0091",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-03",
+      "path": "documents/SYN2-P0091-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0091-oncology_note-04",
+      "patient_id": "SYN2-P0091",
+      "document_type": "oncology_note",
+      "lang": "sv",
+      "note_date": "2026-08-08",
+      "path": "documents/SYN2-P0091-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0091-discharge_summary-05",
+      "patient_id": "SYN2-P0091",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-08-18",
+      "path": "documents/SYN2-P0091-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0092-referral_letter-01",
+      "patient_id": "SYN2-P0092",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-06-16",
+      "path": "documents/SYN2-P0092-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0092-ct_report-02",
+      "patient_id": "SYN2-P0092",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-22",
+      "path": "documents/SYN2-P0092-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0092-pathology_report-03",
+      "patient_id": "SYN2-P0092",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-07-09",
+      "path": "documents/SYN2-P0092-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0092-mdt_minutes-04",
+      "patient_id": "SYN2-P0092",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-07-10",
+      "path": "documents/SYN2-P0092-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0092-discharge_summary-05",
+      "patient_id": "SYN2-P0092",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-07-24",
+      "path": "documents/SYN2-P0092-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0093-referral_letter-01",
+      "patient_id": "SYN2-P0093",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-03-09",
+      "path": "documents/SYN2-P0093-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0093-pathology_report-02",
+      "patient_id": "SYN2-P0093",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-14",
+      "path": "documents/SYN2-P0093-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0093-mdt_minutes-03",
+      "patient_id": "SYN2-P0093",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-04-22",
+      "path": "documents/SYN2-P0093-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0093-oncology_note-04",
+      "patient_id": "SYN2-P0093",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-22",
+      "path": "documents/SYN2-P0093-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0093-discharge_summary-05",
+      "patient_id": "SYN2-P0093",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-05-08",
+      "path": "documents/SYN2-P0093-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0096-referral_letter-01",
+      "patient_id": "SYN2-P0096",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-03-25",
+      "path": "documents/SYN2-P0096-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0096-pathology_report-02",
+      "patient_id": "SYN2-P0096",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-15",
+      "path": "documents/SYN2-P0096-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0096-oncology_note-03",
+      "patient_id": "SYN2-P0096",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-24",
+      "path": "documents/SYN2-P0096-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0096-discharge_summary-04",
+      "patient_id": "SYN2-P0096",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-05-02",
+      "path": "documents/SYN2-P0096-discharge_summary-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0096-oncology_note-05",
+      "patient_id": "SYN2-P0096",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-03",
+      "path": "documents/SYN2-P0096-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0097-referral_letter-01",
+      "patient_id": "SYN2-P0097",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-04-21",
+      "path": "documents/SYN2-P0097-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0097-pathology_report-02",
+      "patient_id": "SYN2-P0097",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-05",
+      "path": "documents/SYN2-P0097-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0097-oncology_note-03",
+      "patient_id": "SYN2-P0097",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-11",
+      "path": "documents/SYN2-P0097-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0097-discharge_summary-04",
+      "patient_id": "SYN2-P0097",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-05-29",
+      "path": "documents/SYN2-P0097-discharge_summary-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0097-oncology_note-05",
+      "patient_id": "SYN2-P0097",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-05-30",
+      "path": "documents/SYN2-P0097-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0098-referral_letter-01",
+      "patient_id": "SYN2-P0098",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-07-09",
+      "path": "documents/SYN2-P0098-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0098-biopsy_note-02",
+      "patient_id": "SYN2-P0098",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-20",
+      "path": "documents/SYN2-P0098-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0098-oncology_note-03",
+      "patient_id": "SYN2-P0098",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-02",
+      "path": "documents/SYN2-P0098-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0098-discharge_summary-04",
+      "patient_id": "SYN2-P0098",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-08-09",
+      "path": "documents/SYN2-P0098-discharge_summary-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0098-oncology_note-05",
+      "patient_id": "SYN2-P0098",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-10",
+      "path": "documents/SYN2-P0098-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0099-referral_letter-01",
+      "patient_id": "SYN2-P0099",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-02-03",
+      "path": "documents/SYN2-P0099-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0099-biopsy_note-02",
+      "patient_id": "SYN2-P0099",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-02-25",
+      "path": "documents/SYN2-P0099-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0099-mdt_minutes-03",
+      "patient_id": "SYN2-P0099",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-03-07",
+      "path": "documents/SYN2-P0099-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0099-oncology_note-04",
+      "patient_id": "SYN2-P0099",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-03-07",
+      "path": "documents/SYN2-P0099-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0099-discharge_summary-05",
+      "patient_id": "SYN2-P0099",
+      "document_type": "discharge_summary",
+      "lang": "sv",
+      "note_date": "2026-04-01",
+      "path": "documents/SYN2-P0099-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0100-ct_report-01",
+      "patient_id": "SYN2-P0100",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-12",
+      "path": "documents/SYN2-P0100-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0100-biopsy_note-02",
+      "patient_id": "SYN2-P0100",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-15",
+      "path": "documents/SYN2-P0100-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0100-pathology_report-03",
+      "patient_id": "SYN2-P0100",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-18",
+      "path": "documents/SYN2-P0100-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0100-mdt_minutes-04",
+      "patient_id": "SYN2-P0100",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-08-22",
+      "path": "documents/SYN2-P0100-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0100-oncology_note-05",
+      "patient_id": "SYN2-P0100",
+      "document_type": "oncology_note",
+      "lang": "sv",
+      "note_date": "2026-08-26",
+      "path": "documents/SYN2-P0100-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0102-referral_letter-01",
+      "patient_id": "SYN2-P0102",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-05-06",
+      "path": "documents/SYN2-P0102-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0102-ct_report-02",
+      "patient_id": "SYN2-P0102",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-09",
+      "path": "documents/SYN2-P0102-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0102-pathology_report-03",
+      "patient_id": "SYN2-P0102",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-25",
+      "path": "documents/SYN2-P0102-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0102-mdt_minutes-04",
+      "patient_id": "SYN2-P0102",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-06-01",
+      "path": "documents/SYN2-P0102-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0102-oncology_note-05",
+      "patient_id": "SYN2-P0102",
+      "document_type": "oncology_note",
+      "lang": "en",
+      "note_date": "2026-06-01",
+      "path": "documents/SYN2-P0102-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0103-referral_letter-01",
+      "patient_id": "SYN2-P0103",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-03-09",
+      "path": "documents/SYN2-P0103-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0103-biopsy_note-02",
+      "patient_id": "SYN2-P0103",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-05",
+      "path": "documents/SYN2-P0103-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0103-pathology_report-03",
+      "patient_id": "SYN2-P0103",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-10",
+      "path": "documents/SYN2-P0103-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0103-mdt_minutes-04",
+      "patient_id": "SYN2-P0103",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-04-18",
+      "path": "documents/SYN2-P0103-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0103-oncology_note-05",
+      "patient_id": "SYN2-P0103",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-23",
+      "path": "documents/SYN2-P0103-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0103-discharge_summary-06",
+      "patient_id": "SYN2-P0103",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-04-30",
+      "path": "documents/SYN2-P0103-discharge_summary-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0104-referral_letter-01",
+      "patient_id": "SYN2-P0104",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-06-11",
+      "path": "documents/SYN2-P0104-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0104-ct_report-02",
+      "patient_id": "SYN2-P0104",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-13",
+      "path": "documents/SYN2-P0104-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0104-biopsy_note-03",
+      "patient_id": "SYN2-P0104",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-25",
+      "path": "documents/SYN2-P0104-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0104-mdt_minutes-04",
+      "patient_id": "SYN2-P0104",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-07-12",
+      "path": "documents/SYN2-P0104-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0104-oncology_note-05",
+      "patient_id": "SYN2-P0104",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-16",
+      "path": "documents/SYN2-P0104-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0104-discharge_summary-06",
+      "patient_id": "SYN2-P0104",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-07-30",
+      "path": "documents/SYN2-P0104-discharge_summary-06.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0107-referral_letter-01",
+      "patient_id": "SYN2-P0107",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-07-14",
+      "path": "documents/SYN2-P0107-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0107-ct_report-02",
+      "patient_id": "SYN2-P0107",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-26",
+      "path": "documents/SYN2-P0107-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0107-oncology_note-03",
+      "patient_id": "SYN2-P0107",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-07-29",
+      "path": "documents/SYN2-P0107-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0107-oncology_note-04",
+      "patient_id": "SYN2-P0107",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-04",
+      "path": "documents/SYN2-P0107-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0108-referral_letter-01",
+      "patient_id": "SYN2-P0108",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-02-03",
+      "path": "documents/SYN2-P0108-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0108-ct_report-02",
+      "patient_id": "SYN2-P0108",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-02-11",
+      "path": "documents/SYN2-P0108-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0108-biopsy_note-03",
+      "patient_id": "SYN2-P0108",
+      "document_type": "biopsy_note",
+      "lang": "en",
+      "note_date": "2026-02-18",
+      "path": "documents/SYN2-P0108-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0108-oncology_note-04",
+      "patient_id": "SYN2-P0108",
+      "document_type": "oncology_note",
+      "lang": "en",
+      "note_date": "2026-02-22",
+      "path": "documents/SYN2-P0108-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0109-biopsy_note-01",
+      "patient_id": "SYN2-P0109",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-03-19",
+      "path": "documents/SYN2-P0109-biopsy_note-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0109-pathology_report-02",
+      "patient_id": "SYN2-P0109",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-03-29",
+      "path": "documents/SYN2-P0109-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0109-mdt_minutes-03",
+      "patient_id": "SYN2-P0109",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-04-03",
+      "path": "documents/SYN2-P0109-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0109-discharge_summary-04",
+      "patient_id": "SYN2-P0109",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-04-14",
+      "path": "documents/SYN2-P0109-discharge_summary-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0111-ct_report-01",
+      "patient_id": "SYN2-P0111",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-06",
+      "path": "documents/SYN2-P0111-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0111-biopsy_note-02",
+      "patient_id": "SYN2-P0111",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-10",
+      "path": "documents/SYN2-P0111-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0111-pathology_report-03",
+      "patient_id": "SYN2-P0111",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-07-26",
+      "path": "documents/SYN2-P0111-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0111-discharge_summary-04",
+      "patient_id": "SYN2-P0111",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-08-12",
+      "path": "documents/SYN2-P0111-discharge_summary-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0112-biopsy_note-01",
+      "patient_id": "SYN2-P0112",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-01-29",
+      "path": "documents/SYN2-P0112-biopsy_note-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0112-pathology_report-02",
+      "patient_id": "SYN2-P0112",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-02-10",
+      "path": "documents/SYN2-P0112-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0112-mdt_minutes-03",
+      "patient_id": "SYN2-P0112",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-02-16",
+      "path": "documents/SYN2-P0112-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0112-discharge_summary-04",
+      "patient_id": "SYN2-P0112",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-03-02",
+      "path": "documents/SYN2-P0112-discharge_summary-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0114-referral_letter-01",
+      "patient_id": "SYN2-P0114",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-07-07",
+      "path": "documents/SYN2-P0114-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0114-ct_report-02",
+      "patient_id": "SYN2-P0114",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-17",
+      "path": "documents/SYN2-P0114-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0114-pathology_report-03",
+      "patient_id": "SYN2-P0114",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-04",
+      "path": "documents/SYN2-P0114-pathology_report-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0114-oncology_note-04",
+      "patient_id": "SYN2-P0114",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-04",
+      "path": "documents/SYN2-P0114-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0114-oncology_note-05",
+      "patient_id": "SYN2-P0114",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-08-04",
+      "path": "documents/SYN2-P0114-oncology_note-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0116-ct_report-01",
+      "patient_id": "SYN2-P0116",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-11",
+      "path": "documents/SYN2-P0116-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0116-oncology_note-02",
+      "patient_id": "SYN2-P0116",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-03-17",
+      "path": "documents/SYN2-P0116-oncology_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0116-biopsy_note-03",
+      "patient_id": "SYN2-P0116",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-03-20",
+      "path": "documents/SYN2-P0116-biopsy_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0116-discharge_summary-04",
+      "patient_id": "SYN2-P0116",
+      "document_type": "discharge_summary",
+      "lang": "sv",
+      "note_date": "2026-03-24",
+      "path": "documents/SYN2-P0116-discharge_summary-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0116-pathology_report-05",
+      "patient_id": "SYN2-P0116",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-03-30",
+      "path": "documents/SYN2-P0116-pathology_report-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0118-ct_report-01",
+      "patient_id": "SYN2-P0118",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-08-26",
+      "path": "documents/SYN2-P0118-ct_report-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0118-biopsy_note-02",
+      "patient_id": "SYN2-P0118",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-09-02",
+      "path": "documents/SYN2-P0118-biopsy_note-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0118-oncology_note-03",
+      "patient_id": "SYN2-P0118",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-09-09",
+      "path": "documents/SYN2-P0118-oncology_note-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0118-mdt_minutes-04",
+      "patient_id": "SYN2-P0118",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-09-15",
+      "path": "documents/SYN2-P0118-mdt_minutes-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0118-discharge_summary-05",
+      "patient_id": "SYN2-P0118",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-09-16",
+      "path": "documents/SYN2-P0118-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0119-referral_letter-01",
+      "patient_id": "SYN2-P0119",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-03-26",
+      "path": "documents/SYN2-P0119-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0119-pathology_report-02",
+      "patient_id": "SYN2-P0119",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-21",
+      "path": "documents/SYN2-P0119-pathology_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0119-mdt_minutes-03",
+      "patient_id": "SYN2-P0119",
+      "document_type": "mdt_minutes",
+      "lang": "en",
+      "note_date": "2026-04-30",
+      "path": "documents/SYN2-P0119-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0119-oncology_note-04",
+      "patient_id": "SYN2-P0119",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-30",
+      "path": "documents/SYN2-P0119-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0119-discharge_summary-05",
+      "patient_id": "SYN2-P0119",
+      "document_type": "discharge_summary",
+      "lang": "en",
+      "note_date": "2026-05-16",
+      "path": "documents/SYN2-P0119-discharge_summary-05.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0120-referral_letter-01",
+      "patient_id": "SYN2-P0120",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-03-07",
+      "path": "documents/SYN2-P0120-referral_letter-01.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0120-ct_report-02",
+      "patient_id": "SYN2-P0120",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-22",
+      "path": "documents/SYN2-P0120-ct_report-02.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0120-mdt_minutes-03",
+      "patient_id": "SYN2-P0120",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-04-09",
+      "path": "documents/SYN2-P0120-mdt_minutes-03.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0120-oncology_note-04",
+      "patient_id": "SYN2-P0120",
+      "document_type": "oncology_note",
+      "lang": "fi",
+      "note_date": "2026-04-11",
+      "path": "documents/SYN2-P0120-oncology_note-04.txt",
+      "split": "test"
+    },
+    {
+      "document_id": "SYN2-P0120-discharge_summary-05",
+      "patient_id": "SYN2-P0120",
+      "document_type": "discharge_summary",
+      "lang": "fi",
+      "note_date": "2026-05-03",
+      "path": "documents/SYN2-P0120-discharge_summary-05.txt",
+      "split": "test"
+    }
+  ],
+  "split": "test",
+  "note": "Held-out v2 TEST only. Not used for LoRA training."
+}

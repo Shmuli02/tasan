@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0034
+document_id: SYN2-P0034-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-08-06
+display_name: Pekka Paikkamerkki SYN2-P0034 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Påhittade l ungklin-iken
+Anteckning-sdatum 6.8.2026. Patien t: Pekka Paikkamerkki SYN2-P0034 (SYN2-P0034), f. 13.9.1944.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutr-edningen (syntetisk övningstext).
+Konsultationsbegäran skrevs på måndagen, men registrerades som inkomm en först i förrgår.
+— utdra-g ur äldre anteckning 13.4.2014: födelsedatum 13.9.1944; galloperation 13.4.2014; hör inte till den aktuella lungutredningen. —
+Tidigare, någon gång i början av januari, hade hen ett kontr0llbesök; exakt dag saknas här.
+Kontrollprov har beställts; sv aren finns inte i denna anteckning.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

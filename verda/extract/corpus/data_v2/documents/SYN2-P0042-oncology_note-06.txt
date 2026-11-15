@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0042
+document_id: SYN2-P0042-oncology_note-06
+document_type: oncology_note
+language: fi
+note_date: 2026-06-22
+display_name: Juhani Jäljitelmä SYN2-P0042 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mall-ikylän keuhkoklinikka
+Kirjauspäivä 22.6.2026. Potials: Juhani Jäljitelmä SYN2-P0042 (SYN2-P0042), s. 26.10.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvantaminen tehtiin 29-05-2026 (varaus oli aiemmin).
+Näyte otettiin tähystyksessä 5. ksäkuuta 2026.
+Pyyntö tuli perille 22. toukokuuta 2026.
+Morforlloginen tulos tuli 14. kesäkuuta 2026 (levyepiteelikarsinooma).
+Kokoontuminen kesäkuun 16. päivänä 2026: eri erikoisalojen yhteinen kanta m erkitty.
+Jatko on auk i. Aktiivista hoitoa ei ole käynnistetty täässä vaiheessa.
+Edellinen keuhkokuume hoidettu 22.7.2018.
+
+Kirjaaja: synteettinen testikäyttä-jä. Tämä ei ole oikea potilaskertomus.

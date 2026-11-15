@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0030
+document_id: SYN-P0030-discharge_summary-05
+document_type: discharge_summary
+language: sv
+note_date: 2026-02-23
+display_name: Matti Mallipotilas SYN-P0030 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 23.2.2026. Patient: Matti Mallipotilas SYN-P0030 (SYN-P0030), f. 7.1.1938.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Specialistremiss registrerad 13.1.2026.
+Datortomografi (DT) genomfördes 2026-01-25.
+Föregående uppgifter: biopsier togs vid bronkoskopi 6.2.2026.
+Föregående uppgifter: histologiskt svar inkom 9.2 (NSCLC, ej närmare klassificerad).
+MDT/MDK 2026-02-12: behandlingslinje bekräftad.
+Behandlingsbeslut 12/2: SBRT.
+SBRT-strålbehandling påbörjad 21/2.
+MDK flyttas till nästa vecka; ingen konferens hölls idag.
+Föregående pneumoni behandlad 11.8.2018.
+Höftprotes opererad 4.1.2018.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

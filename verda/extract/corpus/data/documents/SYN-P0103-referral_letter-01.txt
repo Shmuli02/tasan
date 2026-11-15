@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0103
+document_id: SYN-P0103-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-03-18
+display_name: Ingrid Inventerad SYN-P0103 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 18.3.2026. Paitent: Ingrid Inventerad SYN-P0103 (SYN-P0103), f. 26.6.1948.
+SYNTETISK patientjournal, ngen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss iinkommen till lungkliniken 17/3/2026.
+MDK flyttas tilll nästa vvecka; ingen konferenss hölls idag.
+Höftprotes opererad 24.5.2023.
+Kontrollprov har beställts; svaren finns inte i denna anteckning.
+Gallblåsan opererades bor 24.5.2023 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verkklig journal.

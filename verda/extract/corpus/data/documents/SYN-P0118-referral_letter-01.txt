@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0118
+document_id: SYN-P0118-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-04-14
+display_name: Pekka Paikkamerkki SYN-P0118 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 14.4.2026. Patient: Pekka Paikkamerkki SYN-P0118 (SYN-P0118), f. 21.2.1951.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Specialistremiss registrerad 2026-04-14.
+Bronkoskopi utfördes inte vid detta besök.
+Höftprotes opererad 1.7.2013.
+Föregående pneumoni behandlad 7.3.2022.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0068
+document_id: SYN-P0068-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-07-07
+display_name: Kari Keinotekoinen SYN-P0068 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 7.7.2026. Patient: Kari Keinotekoinen SYN-P0068 (SYN-P0068), f. 27.8.1957.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 5.7.
+MDK flyttas till nästa vecka; ingen konferens hölls idag.
+Kontrollprov har beställts; svaren finns inte i denna anteckning.
+Höftprotes opererad 20.3.2015.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

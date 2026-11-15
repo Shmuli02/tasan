@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0102
+document_id: SYN2-P0102-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-05-09
+display_name: Lars Låtsas SYN2-P0102 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 9.5.2026. Potilas: Lars Latsas SYN2-P0102 (SYN2-P0102), s. 16.5.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettin-en harojitusteksti).
+Kuvausaika merkittiin kalenteriin 05-05-2026; itse tutkimus toteutettiin eilen.
+Pyyntö tuli perille tiistaina.
+Kuvissa erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusol-mukkeet.
+Akt iivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potil-askerto-mus.

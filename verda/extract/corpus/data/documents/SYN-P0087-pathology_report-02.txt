@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0087
+document_id: SYN-P0087-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-09-05
+display_name: Eeva Esimerkki SYN-P0087 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Kekistyn yliopistollinen sairaala
+Kirjauspäivä 5.9.2026. Potilas: Eeeva Esimerkki SYN-P0087 (SYN-P0087), s. 12.6.1946.
+SYNTEETTINEN potilaskerttomus, ei oikeaa heniklöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteetinen esimerkki).
+ESH-lähete vastaanotettu 2.8.26.
+Thoraxin TT tehty 14.8.2026. Kuvauksessa todettiin vasemman alalohkon 2,4 cm muutos.
+Biopsiat otettuu bronkoskopiassa 2026-08-25.
+Histologinen vastaus saapui 4.9 (NSCLC, ei tarkemmin luokiteltu).
+Sappirakon poisto tehty 9.7.2012 (ei liity nyykiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäytäjä. Tää ei ole oikea potilaskertomus.

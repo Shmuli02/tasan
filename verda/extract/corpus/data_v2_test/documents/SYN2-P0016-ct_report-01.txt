@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0016
+document_id: SYN2-P0016-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-08-31
+display_name: Nils Fiktiv SYN2-P0016 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 31.8.2026. Patient: Nils Fiktiv SY N2-P0016 (SYN2-P0016), f. 2.7.1940.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Bildtiden lades in i kalendern vecka 35 på lördagen (2026); själva undersökningen genomfördes 2026-08-31.
+Konsultationsbegäran skrevs den 25 augusti 2026, men registrerades som inkommen först 2026-08-27.
+På bilderna sågs en 1,8 cm knuta i vänster övre lob och mediastinala lymfkörtlar.
+Aktiv behandling har inte kommit i gång.
+— utdrag ur äldre anteckning 1.11.2020: födels-edatum 2.7.1940; galloperation 1.11.2020; hör inte till den aktuella lungutredningen. —
+
+Antecknat av: syntetisk testanvändare. Detta är nte en verklig journal.

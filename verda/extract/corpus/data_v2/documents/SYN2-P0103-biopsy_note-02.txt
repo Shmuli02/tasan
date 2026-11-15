@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0103
+document_id: SYN2-P0103-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-04-05
+display_name: Ingrid Inventerad SYN2-P0103 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 5.4.2026. Potilas: Ingrid Inventerad SYN2-P0103 (SYN2-P0103), s. 22.12.1949.
+SYNTEETT-INEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Leikekuvaus on suoritettu maaliskuun 23. päivänä 2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi viikolla 10 sunnuntaina (2026).
+Toimenpide varattiin 31-03-2026, mutta näyte otettiin vasta toissapäivänä.
+Kuvissa erottui oikean keskilo-hohon 4,0 cm massa.
+— ote vanhasta kirjauksesta 26.10.2019: syntymäaika 22.12.1949; sappirakon p-oist0 26.10.2019; ei liity n ykyiseen keuhkoselvittelyyn. —
+Aiemmin jos-sain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Kontrollilaboratoriokokeet tilattu, vas taukset eivät ole tässä kirjauksessa.
+Edellinen keuhkokuume hoidettu 20.3.2011.
+
+Kirjaaja: synteet-tinen testikäyttäjä. Tämä ei o l e oikea potilasker tomus.

@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0026
+document_id: SYN2-P0026-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-04-06
+display_name: Alan Invented SYN2-P0026 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 6.4.2026. Potilas: Alan Invented SYN2-P0026 (SYN2-P0026), s. 26.11.1955.
+SYNTEETTINEN poti laskertomus, ei oikeaa hennkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kliininen valinta tehtiin eilen: kiilaresektio.
+Kokoontuminen 02-04-2026: eri erikoisalojen yhteinen k-anta merkitty.
+Näyte otettiin tähysyksessä 28-03-2026.
+Kerroskuvaus toteutettiin 18. maaliskuuta 2026.
+Morforloginen tulos tuli tiistaina (levyepiteelikarsinooma).
+Lähete saapui toimistoon 02-03-2026 (kirjoituspäivä on eri, ks. alla).
+— ote vanhasta kirjauksesta 13.10.2020: syntymäaika 26.11.1955; s appirakon poisto 13.10.2020; ei 1iity nykyiseen keuh-koselvittelyyn. —
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskert omus.

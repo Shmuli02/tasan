@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0026
+document_id: SYN-P0026-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-21
+display_name: Alan Invented SYN-P0026 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 21.7.2026. Potilas: Alan Invented SYN-P0026 (SYN-P0026), s. 5.8.1958.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 22.5.2026.
+Esitiedot: keuhko-TT tehty 7.6.2026.
+Esitiedot: bronkoskopia ja biopsia tehty 19.6.
+Esitiedot: pAD-vastaus valmistui 27.6.26: pienisoluinen keuhkosyöpä.
+MDT 29/6: hoitolinja vahvistettu.
+Linjaus 2.7.2026: solunsalpaaja.
+Solunsalpaajahoito käynnistetty 21.7.2026.
+Syntymäaika 5.8.1958 tarkistettu väestötiedoista.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

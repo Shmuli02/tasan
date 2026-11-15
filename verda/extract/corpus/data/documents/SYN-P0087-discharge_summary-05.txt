@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0087
+document_id: SYN-P0087-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-09-24
+display_name: Eeva Esimerkki SYN-P0087 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylään keuhkoklinikka
+Kirjauspäivä 24.9.2026. Potilsa: Eeva Esimerkki SYN-P0087 (SYN-P0087), s. 12.6.1946.
+SYNTEETTINEN potilaskertommus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvitteely (syntetetinen esimerkki).
+Esitieodt: lähete ikrjattu 2.8.2026.
+Esitiedot: pET-TT ethty 14.8.2026.
+Esitiedot: eBUS-bronkoskopia suoritettu 25/8/2026; biopsiat otettu.
+Histologinen vastaus saapui 4/9/2026 (pienisoluinen keuhkosyöpä).
+Esitiedot: hoitokokous 12.9.2026: moniammatillinen suositsu kirjattu.
+Päätettiin 12.9.2026 aloittaa sytostaatti.
+Sytstaattihoito aloitettu 2026-09-23.
+Broknoskopiaa ei tehty tässä käynnissä.
+Syntymäaika 12.6.1946 tarksitettu väestötiedoista.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivat ole tässä kirjauksessa.
+
+Kirjaaja: ssynteettinen testikäyttäjä. Tama ei ole oikea potilaskertomus.

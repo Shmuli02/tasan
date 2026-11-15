@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0031
+document_id: SYN-P0031-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-03-14
+display_name: Eeva Esimerkki SYN-P0031 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 14.3.2026. Potils: Eeva Esimerkki SYN-P0031 (SYN-P0031), s. 28.8.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 1.2.2026.
+Esitiedot: tT-tutkimus tehty 15.2.26.
+Esitedot: eBUS-bronkoskopia suoritettu 2026-02-26; biopsiat otettu.
+Patologin lausunto 5.3.2026: levyepiteelikarsinooma.
+MDT 9.3.2026: hoitolinja vahvistettu.
+Hoitopäätös 2026-03-12: SBRT.
+Lonkkaproteesi operoitu 10.1.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskeromus.

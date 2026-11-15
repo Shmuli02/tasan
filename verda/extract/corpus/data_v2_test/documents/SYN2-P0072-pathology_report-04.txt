@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0072
+document_id: SYN2-P0072-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-08-16
+display_name: Nils Fiktiv SYN2-P0072 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 16.8.2026. Potilas: Nils Fiktiv SYN2-P0072 (SYN2-P0072), s. 2.5.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilö-ä.
+
+Dikto-itu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 11-07-2026.
+Mikroskooppinen lausunto valmistui viikolla 33 sunnuntaina (2026): levyepiteelikarsinooma.
+Aiemmin jossain tammikuun alussa oli käynyt kontr0lli-ssa; tarkkaa päivää ei ole täss-ä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0061
+document_id: SYN2-P0061-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-02-12
+display_name: Kirsi Keksitty SYN2-P0061 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 12.2.2026. Patient: Kirsi Keksitty SYN2-P0061 (SYN2-P0061), f. 13.1.1955.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Konsultationsbegäran skrevs januar-i den 30 år 2026, men registrerades som inkommen först februari den 5 år 2026.
+Bildtiden lades in i kalendern 2026-02-07; själva undersökningen genomfördes den 12 februari 2026.
+På bilderna sågs en 3,1 cm tumör i höger övre lob.
+— utdrag ur äldre anteckning 27.1.2014: födelsedatum 13.1.1955; galloperation 27.1.2014; hör inte till den ak tuella lungutredningen. —
+Tidigare, någon gång i börj-an av januari, hade hen ett kontrollbesök; exakt dag saknas här.
+Höftprotes opererad 13.3.2020.
+
+Antecknat av: syntetisk testanvändare. Detta är i nte e-n verklig journal.

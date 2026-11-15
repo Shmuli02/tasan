@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0085
+document_id: SYN2-P0085-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-04-28
+display_name: Aino Synteettinen SYN2-P0085 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 28.4.2026. Potilas: Aino Synteettinen SYN2-P0085 (SYN2-P0085), s. 7.8.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Yhteispalaveri järjestettiin toissapäivänä; linja muodostettiin siellä.
+Tähystyksen yhteydessä punktionäyte 9. huhtikuuta 2026.
+Morforloginen tulos tuli viikolla 16 sunnuntaina (2026) (adenokarsinooma).
+Kerroskuvaus toteutettiin 4. huhtikuuta 2026.
+Valit tiin etenemistapa eilen: SBRT.
+Konsultaatiopyyntö kirjattiin saapuneeksi 28. maalisku-uta 2026.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 11.9.2020: syntymäaika 7.8.1948; s-appirakon poisto 11.9.2020; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemm in jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Edellinen keuhkokuume hoidettu 4.8.2016.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

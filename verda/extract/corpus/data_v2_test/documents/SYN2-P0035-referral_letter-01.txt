@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0035
+document_id: SYN2-P0035-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-04-23
+display_name: Laura Loremten SYN2-P0035 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Pl aceholder Lung Clinic
+Note date 23.4.2026. Patient: Laura Loremten SYN2-P0035 (SYN2-P0035), DOB 6.9.1947.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The consultation request was written on 22 April 2026, but was only logged as having arrived on 23 April 2026.
+— excerpt from an olde-r note dated 15.8.2017: date of birth 6.9.1947; cholecystectomy 15.8.2017; unrelated to the present lung work-up. —
+
+Entered by: synthetic test user. This is not a real clinical record.

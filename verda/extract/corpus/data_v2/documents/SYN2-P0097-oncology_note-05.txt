@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0097
+document_id: SYN2-P0097-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-05-30
+display_name: Ritva Rakennettu SYN2-P0097 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 30.5.2026. Potilas: Ritva Rakenn-ettu SYN2-P0097 (SYN2-P0097), s. 5.1.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa he nkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kokoontuminen toukokuun 10. päivänä 2026: eri erikoisalojen yhteinen kanta merkitty.
+Morforloginen tulos tuli 5. toukokuuta 2026 (NSCLC, ei tarkemmin luokiteltu).
+Kuvantaminen tehtiin viikolla 18 perjantaina (2026) (varaus oli aiemmin).
+Pyyntö tuli perille 20-04-2026.
+Aktiivinen hoito käynnistyi 28. toukokuuta 2026.
+Sovittiin hoitomuodosta viikolla 19 sunnuntaina (2026) (solunsalpaaja).
+Tähystyksen yhteydessä punktionäyte 1. toukokuuta 2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 6.5.2020: syntymäaika 5.1.1957; sappirakon poisto 6.5.2020; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaproteesi operoitu 13.5.2016.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole o ikea potilaskertomus.

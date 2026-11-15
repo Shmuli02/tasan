@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0070
+document_id: SYN2-P0070-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-04-08
+display_name: Juhani Jäljitelmä SYN2-P0070 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keu hkoklinikka
+Kirjauspäivä 8.4.2026. Potilas: Juhani Jäljitelmä SYN2-P0070 (SYN2-P0070), s. 21.8.1965.
+SYNTEETTINEN pot-ilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittel-ystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö kirjattiin saapuneeksi 02-04-2026.
+Kuvantaminen tehtiin 6. huhtik uuta 2026 (varaus oli aiemmin).
+Kuvissa erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmuk keet.
+
+Kirjaaja: synteettinen testikäytt-äjä. Tämä ei ole oikea potilaskertomus.

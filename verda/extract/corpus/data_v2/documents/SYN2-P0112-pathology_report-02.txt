@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0112
+document_id: SYN2-P0112-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-02-10
+display_name: Peter Samplecase SYN2-P0112 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 10.2.2026. Potilas: Peter Samplecase SYN2-P0112 (S YN2-P0112), s. 6.7.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synte ettinen harjoitusteksti).
+Konsultaatiopyyntö kirjattiin saapuneeksi tammikuun 21. päivänä 2026.
+Toimenpide varattiin tammikuun 31. päivänä 2026, mutta näyte otetti-in vasta 5. helmikuuta 2026.
+Mikroskooppinen lausunto valmistui 10. helmikuuta 2026: adenokarsinooma.
+Kerroskuvaus toteutettiin viikolla 5 keskiviikkona (2026).
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

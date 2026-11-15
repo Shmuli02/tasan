@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0098
+document_id: SYN2-P0098-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-08-10
+display_name: Juhani Jäljitelmä SYN2-P0098 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 10.8.2026. Potilas: Juhani Jäljitelmä SYN2-P0098 (SY-N2-P0098), s. 27.12.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteet tinen harjoitusteksti).
+Morforloginen tulos tuli 22-07-2026 (NSCLC, ei tarkemmin luokiteltu).
+Lähete saapui toimistoon heinäkuun 8. päi-vänä 2026 (kirjoituspäivä on eri, ks. alla).
+Näyte ote-ttiin tähystyksessä heinäkuun 18. päivänä 2026.
+Ensimmäinen hoitokerta oli 8. elo kuuta 2026.
+Leikekuvaus on suoritettu 16. heinäkuuta 2026.
+Valittiin etenemistapa viikolla 31 perjantaina (2026): solunsalpaaja.
+Kokoontuminen 30. heinäkuuta 2026: eri erikoisalojen yhteinen kanta merkitty.
+Tähystys peruttiin viime hetkellä eikä näyt-että saatu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole t ässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

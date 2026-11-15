@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0114
+document_id: SYN2-P0114-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-08-04
+display_name: Matti Mallipotilas SYN2-P0114 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+M-allikylän keuhkoklinikka
+Kirjauspäivä 4.8.2026. Potilas: Matti Mallipotilas SYN2-P0114 (SYN2-P0114), s. 22.8.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Valittiin etenemistapa viikolla 33 lauantaina (2026): SBRT.
+Morforloginen tulos tuli elokuun 5. päivänä 2026 (adenokarsinooma).
+Näyte otettiin tähystyksessä 24-07-2026.
+Kuvantaminen tehtiin 15-07-2026 (varaus oli aiemmin).
+Tiimikokous pidettiin 13. elokuuta 2026 ja suositus kirjattiin.
+Pyyntö tuli perille viikolla 28 tiista-ina (2026).
+Tähystys peruttiin viime hetke llä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 17.2.2022: syntymäaika 22.8.1957; sappirakon poisto 17.2.2022; ei liit y nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

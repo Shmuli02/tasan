@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0052
+document_id: SYN2-P0052-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-05-13
+display_name: John Placeholder SYN2-P0052 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjaus-päivä 13.5.2026. Potilas: John Placeholder SYN2-P0052 (SYN2-P0052), s. 23.10.1950.
+S YNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tiimikokous pidettiin huhtikuun 24. päivänä 2026 ja suositus kirjattiin.
+Valittiin e-tenemistapa 24-04-2026: SBRT.
+Lähete saapui toimistoon 22. maaliskuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Mikroskooppinen lausunto valmistui 21-04-2026: levyepiteelikarsinooma.
+Tutkimus käytiin kuvaamassa viikolla 14 torstaina (2026).
+Näyte otettiin tähystyksessä huhtikuun 14. päivänä 2026.
+Jatko on auki. Aktiivi sta hoitoa ei o-le käynnistetty tässä vaiheessa.
+Sappirakon poisto tehty 12.1.2014 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

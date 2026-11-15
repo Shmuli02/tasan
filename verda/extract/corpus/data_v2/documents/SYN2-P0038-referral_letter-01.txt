@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0038
+document_id: SYN2-P0038-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-08-28
+display_name: Olli Oletettu SYN2-P0038 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synt hetic Wellbeing County Hospital
+Note date 28.8.2026. Patient: Olli Oletettu SYN2-P0038 (SYN2-P0038), D0B 24.9.1962.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The consultation request was written on 21 August 2026, but was only logged as having arrived on August the 27, 2026.
+— excerpt from an older note dated 14.5.2016: date of birth 24.9.1962; cholecystectomy 14.5.2016; unrelated to the present lung work-up. —
+Previously, sometime in early Januar y, there w as a fol low-up v isit; the exact day is not in this note.
+
+Entered by: synthetic test user. This is not a real clinical record.

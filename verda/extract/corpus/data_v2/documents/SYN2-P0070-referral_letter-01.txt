@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0070
+document_id: SYN2-P0070-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-04-03
+display_name: Juhani Jäljitelmä SYN2-P0070 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synthtic Wellbeing County Hospital
+Not-e dtae 3.4.2026. Patient: Juhani Jäljitelmä SYN2-P0070 (SYN2-P0070), DOB 21.8.1965.
+SYNTHETIC rcord, not a real person.
+
+Dict-ated entry from the lung work-up (synthetic training text).
+The consultation request was written on 31 March 2026, but was only logged as having arrived on yesterday.
+The endosopy was called off at short notice and no sample was obtained.
+— excerpt from an older note dated 1.2.2021: date of birth 21.8.1965; choleccystectomy 1.2.2021; unrelated to the present lung work-up. —
+Previously, sometime in early January, there was a follow-up visit; the exact day is not in this note.
+
+Entered by: synthetic test user. This is no t a real clinica1 record.

@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0006
+document_id: SYN2-P0006-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-08-15
+display_name: Pekka Paikkamerkki SYN2-P0006 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keu hkoklinikka
+Kirjauspäivä 15.8.2026. Potilas: Pekka Paikkamerkki SYN2-P0006 (SYN2-P0006), s. 4.7.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Näyte otettiin tähystyksessä elokuun 6. päivänä 2026.
+Kuvausaika merkittiin kalenteriin 25-07-2026; itse tutkimus toteutettiin 28. heinäkuuta 2026.
+Morforloginen tulos tuli elokuun 15. päivänä 2026 (NSCLC, ei tarkemmin luokiteltu).
+Py yntö tuli perille heinäkuun 18. päivänä 2026.
+Kuvissa erottui oikean keskilohoh0n 4,0 cm massa.
+Kuvantami-n-en on vasta ajanvaraus 30. elokuuta 2026, sitä ei ole toteutettu.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea pot-ilaskertomus.

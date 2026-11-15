@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0092
+document_id: SYN-P0092-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-04-14
+display_name: Hannu Harjoitus SYN-P0092 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 14.4.2026. Potilas: Hannu Harjoitus SYN-P0092 (SYN-P0092), s. 5.10.1942.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 15.2.2026.
+Keuhko-TT tehty 28.2.26.
+Biopsiat otettu bronkoskopiassa 7.3.2026.
+PAD-vastaus valmistui 15.3.26: NSCLC, ei tarkemmin luokiteltu.
+Hoitokokous 19.3: moniammatillinen suositus kirjattu.
+Esitiedot: päätettiin 20.3.2026 aloittaa kuratiivinen lobektomia.
+Leikkaus (lobektomia) tehty eilen.
+TT suunniteltu 26.4.2026 (ei vielä tehty).
+Biopsia peruttiin potilaan toiveesta.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Syntymäaika 5.10.1942 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

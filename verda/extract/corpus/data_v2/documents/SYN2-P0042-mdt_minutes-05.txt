@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0042
+document_id: SYN2-P0042-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-06-17
+display_name: Juhani Jäljitelmä SYN2-P0042 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 17.6.2026. Potilas: Juhani Jäljitelmä SYN2-P0042 (SYN2-P0042), s. 26.10.1951.
+SYNTEETTINEN potilaske-rtomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuh koselvittelystä (sy nteettinen harjoitusteksti).
+Pyyntö tuli perille toukokuun 22. päivänä 2026.
+Laboratorio ilmoitti histologian 14-06-2026: adenokarsinooma.
+Tiimikokous pidettiin viikolla 25 tiistaina (2026) ja suositus kirjattiin.
+Tähystyksen yhteydessä punktionäyte 5. kesäkuuta 2026.
+Kerroskuvaus toteutettiin 29-05-2026.
+— ote vanhasta kirjauksesta 4.7.2022: syntymäaika 26.10.1951; sappirakon poisto 4.7.2022; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Syntymäaika 26.10.1951 tarkistettu väestötiedoista.
+
+Kirjaaja: synte-ettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

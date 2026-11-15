@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0004
+document_id: SYN-P0004-mdt_minutes-04
+document_type: mdt_minutes
+language: en
+note_date: 2026-02-23
+display_name: Yrjö Yksikkötesti SYN-P0004 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Invented University Hospital
+Note date 23.2.2026. Patient: Yrjö Yksikkötesti SYN-P0004 (SYN-P0004), DOB 12.6.1964.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Referral received by the lung clinic on 2026-02-04.
+History: pET-CT performed on 9.2.
+History: eBUS bronchoscopy carried out on 12/2; biopsies taken.
+MDT conference 21.2.26: multidisciplinary recommendation recorded.
+Treatment has not been started.
+Previous pneumonia treated on 13.10.2019.
+
+Entered by: synthetic test user. This is not a real clinical record.

@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0023
+document_id: SYN-P0023-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-05-30
+display_name: Jane Synthetic SYN-P0023 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 30.5.2026. Patient: Jane Synthetic SYN-P0023 (SYN-P0023), f. 11.3.1940.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 28.5.2026.
+Bronkoskopi utfördes inte vid detta besök.
+Födelsedatum 11.3.1940 kontrollerat i befolkningsuppgifterna.
+Föregående pneumoni behandlad 5.6.2015.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

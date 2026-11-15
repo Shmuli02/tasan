@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0057
+document_id: SYN2-P0057-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-03-08
+display_name: Aino Synteettinen SYN2-P0057 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteet-tisen hyvinvointialueen keskussaira ala
+Kirjauspäivä 8.3.2026. Potilas: Aino Synteettinen SYN2-P0057 (SYN2-P0057), s. 7.8.1963.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhk oselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille 21. helmikuuta 2026.
+Kuvausaika merkittiin kalenteriin helmikuun 28. päivänä 2026; itse tutkimus toteutettiin 6. maaliskuuta 2026.
+Kuvis-sa erottui okiean ylälohkon 3,1 cm tuumori.
+— ote vanhasta kirjauksesta 2.9.2023: syntymäaika 7.8.1963; sappirakon poisto 2.9.2023; ei liity nykyiseen keuhkose-lvittelyyn. —
+Lonkkaproteesi operoitu 8.11.2020.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

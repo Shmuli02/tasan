@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0055
+document_id: SYN-P0055-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-05-29
+display_name: Helen Mockpatient SYN-P0055 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 29.5.2026. Potilas: Helen Mockpatient SYN-P0055 (SYN-P0055), s. 19.2.1960.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esiimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 3.5.2026.
+Tietokonetomograafia (TT) suoritettiin 9.5.2026.
+Bronkoskopia ja biopsia tety 21.5.2026.
+PAD-vastaus valmistui 28.5.26: pienisoluinen keuhkosyöpä.
+Biopsia peruttii potilaan toiveesta.
+Syntymäaika 19.2.1960 tarkistettu väestötiedoista.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

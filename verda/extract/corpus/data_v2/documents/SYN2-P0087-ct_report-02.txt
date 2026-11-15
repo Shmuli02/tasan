@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0087
+document_id: SYN2-P0087-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-05-04
+display_name: Eeva Esimerkki SYN2-P0087 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen e-sk ussairaala
+Kirjauspäivä 4.5.2026. Potilas: Eeva Esimerkki SYN2-P0087 (SYN2-P0087), s. 24.5.1938.
+SYNTEETTINEN potilaskerrtomus, ei oikeaa henkilöä.
+
+iDktoitu merkintä keuhkose-lvittelystä (sy-nteettinen harjoitusteksti).
+Konsultaatiopyytnö kir-jattiin saap-uneeksi 18-04-2026.
+Kuvausaika meerkittiin kalenteriin 27. huhtikuut 2026; itse tutkimus toteutettiin 3. toukokuuta 2026.
+Kuvissa erottui vaasemman alalohon 2,4 cm muutos.
+Tähystys peruttiin viime hetkel1ä eikä näytettä saatu.
+— ote vanhastta ki-rjauksesta 6.11.2016: syntymäaika 24.5.1938; sappirakon poist0 6.11.2016; ei liity nykyisen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskerotmus.

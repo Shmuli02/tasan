@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0074
+document_id: SYN2-P0074-oncology_note-04
+document_type: oncology_note
+language: en
+note_date: 2026-06-02
+display_name: Lars Låtsas SYN2-P0074 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 2.6.2026. Patient: Lars Låtsas SYN2-P0074 (SYN2-P0074), DOB 1.3.1953.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The scan itself took place on 12 May 2026 (the slot had been booked earlier).
+The lab released th e histology on in week 22 on Friday (2026): NSCLC, not otherwise specified.
+An agreement on the modality was reached on 2 June 2026 (cytotoxic therapy).
+The document was marked as having reached the unit on 08-05-2026.
+Sampling was carried out at the procedure on May the 17, 2026.
+
+Entered by: synthetic test user. This is not a real c1inical record.

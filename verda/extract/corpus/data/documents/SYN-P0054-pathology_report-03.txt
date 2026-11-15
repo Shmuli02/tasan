@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0054
+document_id: SYN-P0054-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-05-10
+display_name: Alan Invented SYN-P0054 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 10.5.2026. Potilas: Alan Invented SYN-P0054 (SYN-P0054), s. 22.2.1967.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 16/4/2026.
+Keuhko-TT tehty 28.4.
+Biopsiat otettu bronkoskopiassa 1.5.
+Histologinen vastaus saapui eilen (NSCLC, ei tarkemmin luokiteltu).
+Sappirakon poisto tehty 11.11.2014 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

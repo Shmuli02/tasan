@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0119
+document_id: SYN-P0119-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-04-20
+display_name: Laura Loremten SYN-P0119 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 20.4.2026. Potilas: Laura Loremten SYN-P0119 (SYN-P0119), s. 3.10.1961.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 14.3.26.
+Tietokonetomografia (TT) suoritettiin 22.3.2026.
+Biopsiat otettu bronkoskopiassa 3.4.26.
+Patologin lausunto 9.4: levyepiteelikarsinooma.
+MDT 15.4.2026: hoitolinja vahvistettu.
+Hoitopäätös 18.4.2026: SBRT.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

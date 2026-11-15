@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0041
+document_id: SYN-P0041-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-09-29
+display_name: Ritva Rakennettu SYN-P0041 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 29.9.2026. Potilas: Ritva Rakennettu SYN-P0041 (SYN-P0041), s. 2.11.1944.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 24.8.2026.
+Tietokonetomografia (TT) suoritettiin 9.9.
+Esitiedot: bronkoskopia 19/9, näytteet otettu.
+Histologinen vastaus saapui 27.9 (levyepiteelikarsinooma).
+Edellinen keuhkokuume hoidettu 10.4.2023.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

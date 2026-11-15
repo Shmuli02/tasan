@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0087
+document_id: SYN2-P0087-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-05-24
+display_name: Eeva Esimerkki SYN2-P0087 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Syn-teettisen hyvinvointialueen kesk ussairaala
+K irjasupäivä 24.5.2026. Potilas: Eeav Esimerkki SYN2-P0087 (SYN2-P0087), s. 24.5.1938.
+SY-NTEETTINEN potilaskertoums, ei oikaea henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Laboratorio ilmoitti histologian toukokuun 15. päivännä 2026: pienislouinen keuhkosyöpä.
+Näytee otetitin tähystyk sessä viikolla 20 tiistaina (2026).
+Kerroskuvaus toteuutettiin 3. toukokuuta 2026.
+Lähete saapui toimistoon huhtikuun 18. päivänä 2026 (ki-rjoituspäivä on eri, ks. alla).
+Kliininen vaalinta tehtiin 23-05-2026: kiilaresektio.
+T-ähystys peruttii-n viime hetkellä eiäk näytettä saatu.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkkaa päivää ei ole tässä.
+Syntymäaiak 24.5.1938 tarkiistettu väestötiedoista.
+
+Kirjaa ja: s-ynteettinen tes-tikyttäjä. T ämä ei ole oikea potilaskertomus.

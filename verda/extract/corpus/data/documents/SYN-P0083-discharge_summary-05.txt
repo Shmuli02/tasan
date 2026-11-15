@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0083
+document_id: SYN-P0083-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-09-25
+display_name: Helen Mockpatient SYN-P0083 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 25.9.2026. Potilas: Helen Mockpatient SYN-P0083 (SYN-P0083), s. 11.8.1968.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 19.7.26.
+Esitiedot: tietokonetomografia (TT) suoritettiin 2026-08-03.
+Esitiedot: bronkoskopia ja biopsia tehty 2026-08-13.
+Patologin lausunto 22.8.2026: NSCLC, ei tarkemmin luokiteltu.
+Esitiedot: moniammatillinen kokous (MDT) 30.8.2026: suositellaan etenemistä hoitoon.
+Hoitopäätös 1.9.2026: kuratiivinen lobektomia.
+Leikkaus (lobektomia) tehty 25.9.2026.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Lonkkaproteesi operoitu 5.2.2023.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

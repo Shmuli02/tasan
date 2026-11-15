@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0045
+document_id: SYNTR-P0045-pathology_report-04
+document_type: pathology_report
+language: en
+note_date: 2026-04-11
+display_name: Jane Synthetic SYNTR-P0045 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Placeholder lung unit
+Note date 11.4.2026. Patient: Jane Synthetic SYNTR-P0045, DOB 1.1.1950.
+SYNTHETIC record, not a real person.
+
+The unit opened the referral on 27.2.2026.
+The tomographic acquisition was stored on 5.3.2026.
+A tissue fragment was removed at the procedure on 14.3.2026.
+Pathology was filed on 22.3.2026 (adenocarcinoma).
+The care team met on 30 March 2026 and recorded a recommendation.
+The treatment choice was confirmed on 2026-03-30: lobectomy.
+Treatment commenced on 9 April 2026 (lobectomy).
+
+Entered by: synthetic test user.

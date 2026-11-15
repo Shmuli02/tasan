@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0046
+document_id: SYN2-P0046-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-06-20
+display_name: Lars Låtsas SYN2-P0046 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fikti-va välfärd-sområdets centralsjukhus
+Anteckningsdatum 20.6.2026. Patient: Lars Låtsas SYN2-P0046 (SYN2-P0046), f. 23.5.1946.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckni-ng från lun-gutredningen (syntetisk övning-stext).
+Konsultationsbegäran skrevs vecka 24 på torsdagen (2026), men registrerades som inkommen först 2026-06-13.
+Bildtiden lades in i kalendern 2026-06-13; själva undersökningen genomfördes vecka 25 på fredagen (2026).
+På bilderna sågs e n 1,8 cm knuta i vänster övre lob och mediastinala lymfkörtlar.
+Aktiv behandling har inte kommi-t i gång.
+— utdrag ur äldre anteckning 23.6.2021: födelsedatum 23.5.1946; galloperation 23.6.2021; hör inte till den aktuella lungutredningen. —
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag saknas här.
+Föregående pneumoni behandlad 15.10.2019.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

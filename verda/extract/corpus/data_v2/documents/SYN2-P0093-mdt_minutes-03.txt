@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0093
+document_id: SYN2-P0093-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-04-22
+display_name: Sari Sijaisnimi SYN2-P0093 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 22.4.2026. Potilas: Sari Sijaisnimi SYN2-P0093 (SYN2-P0093), s. 26.6.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Näyte otettiin tähystyksessä 4. huhtikuuta 2026.
+Kerroskuvaus toteutettiin 23-03-2026.
+Pyyntö tuli perille 09-03-2026.
+Tiimikokous pidettiin 21. huhtikuuta 2026 ja suositus kirjattiin.
+Laboratorio ilmoitti histologian 13. huhtikuuta 2026: pienisoluinen keuhkosyöpä.
+Tähystys peruttiin viime hetkellä eikä n äytettä saatu.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 12.3.2020: syntymäai ka 26.6.1943; sappirakon poisto 12.3.2020; ei liity nykyiseen keuhkoselvittely-yn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

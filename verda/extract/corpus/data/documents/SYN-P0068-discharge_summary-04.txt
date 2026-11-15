@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0068
+document_id: SYN-P0068-discharge_summary-04
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-24
+display_name: Kari Keinotekoinen SYN-P0068 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 24.7.2026. Potilas: Kari Keinotekoinen SYN-P0068 (SYN-P0068), s. 27.8.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 5.7.2026.
+Tietokonetomografia (TT) suoritettiin 15.7.2026.
+Moniammatillinen kokous (MDT) 15.7: suositellaan etenemistä hoitoon.
+Päätettiin 15.7 aloittaa solunsalpaaja.
+Bronkoskopia 21.7.2026, näytteet otettu.
+Solunsalpaajahoito käynnistetty eilen.
+Biopsia peruttiin potilaan toiveesta.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjaukssessa.
+Lonkkaproteesi operoitu 15.6.2013.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskkertomus.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0090
+document_id: SYN2-P0090-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-04-28
+display_name: Pekka Paikkamerkki SYN2-P0090 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sai-raala
+Kirjau-späivä 28.4.2026. Potilas: PPekka Paiikkamerkki SYN2-P0090 (SYN2-P0090), s. 7.3.1949.
+SYNTEETTINEN potilaskert-0rnus, ei oikeaa henki1öä.
+
+Diktoit-u me rkintä keuhkoselvittelystää (s-ynteettinen harjoitusteksti).
+Konsultaatiopyyntö kirjattiinn saapuneeksi viikolla 12 lauantaina (2026).
+Tähystyksen yhteydess ä punktionäyte 11-04-2026.
+Yhteispalaveri j ärrjestettiin toissapäivänä; linja muodosetttiin siellä.
+Tuktim-us käytiin kuvaamassa 6. huhtikuuta 2026.
+— ote vanhasta kirjauksesta 10.4.2018: syntymäaika 7.3.1949; sappirakon poisto 10.4.2018; ei litiy nykyiseen keuhkoselvittelyyn. —
+
+Kir-jaaja: synteettine-n te stikäyttäjjä. Tämä ei 0le oikea potilaskertomus.

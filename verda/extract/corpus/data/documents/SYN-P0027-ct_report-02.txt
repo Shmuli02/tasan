@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0027
+document_id: SYN-P0027-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-08-24
+display_name: Helen Mockpatient SYN-P0027 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 24.8.2026. Potilas: Helen Mockpatient SYN-P0027 (SYN-P0027), s. 26.5.1961.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 11.8.2026.
+TT-tutkimus tehty 23.8.2026. Kuvauksessa todettiin vasemman alalohkon 2,4 cm muutos.
+Syntymäaika 26.5.1961 tarkistettu väestötiedoista.
+Edellinen keuhkokuume hoidettu 27.11.2012.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,24 @@
+{
+  "http_status": 200,
+  "fetched_at_eet": "2026-11-14 20:42:22 EET",
+  "body": [
+    {
+      "location_code": "FIN-01",
+      "availabilities": [
+        "1A100.22V"
+      ]
+    },
+    {
+      "location_code": "FIN-02",
+      "availabilities": [
+        "1RTX6000ADA.10V"
+      ]
+    },
+    {
+      "location_code": "FIN-03",
+      "availabilities": [
+        "8B300.240V.CC.AMD"
+      ]
+    }
+  ]
+}

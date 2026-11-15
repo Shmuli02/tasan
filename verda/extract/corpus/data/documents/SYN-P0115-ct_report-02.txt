@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0115
+document_id: SYN-P0115-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-09-02
+display_name: Eeva Esimerkki SYN-P0115 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 2.9.2026. Potilas: Eeva Esimerkki SYN-P0115 (SYN-P0115), s. 22.9.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 28.8.2026.
+Keuhko-TT tehty 1/9. Kuvauksessa todettiin oikean ylälohkon 3,1 cm tuumori.
+Lonkkaproteesi operoitu 1.6.2017.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

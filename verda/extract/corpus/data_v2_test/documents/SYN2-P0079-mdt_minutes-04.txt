@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0079
+document_id: SYN2-P0079-mdt_minutes-04
+document_type: mdt_minutes
+language: sv
+note_date: 2026-06-17
+display_name: Jane Synthetic SYN2-P0079 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Tes tdata universitetssjukhus
+Anteckningsdatum 17.6.2026. Patient: Jane Synthe tic SYN2-P0079 (SYN2-P0079), f. 10.12.1949.
+SYNTETISK patientjournal, in-gen verklig person.
+
+Dikterad a-n teckning från lungutredningen (syntetisk övningstext).
+Mikroskopiskt utlåtande blev klart den 10 juni 2026: småcellig lungcancer.
+Gemensamt möte de n 15 juni 2026: den samlade bedömningen skrevs in.
+Prov togs i samband med speglingen den 2 juni 2026.
+Skiktröntgen genomfördes 2026-05-29.
+— utdrag ur äldre anteckning 26.6.2020: födelsedatum 10.12.1949; galloperation 26.6.2020; hör inte till den aktuella lungutredningen. —
+Kontrollprov har beställts; svaren finns inte i denna ant-eckning.
+
+Antecknat av: syntetisk testanvändare. Detta är i-nte en verklig journal.

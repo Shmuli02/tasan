@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0041
+document_id: SYN2-P0041-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-07-22
+display_name: Ritva Rakennettu SYN2-P0041 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 22.7.2026. Potila-s: Ritva Rakennettu SYN2-P0041 (SYN2-P0041), s. 11.6.1968.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö kirjattiin saapuneeksi heinäkuun 7. päivänä 2026.
+Tutkimus käytiin kuvaamassa heinäkuun 11. päivänä 2026.
+Tähystys perutti-in viime hetkellä eikä näytettä saatu.
+Jatko on auki. Aktiivista hoitoa ei ole käynnistetty tässä vaiheessa.
+Aiemrnin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Syntymäaika 11.6.1968 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettin en testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0030
+document_id: SYN2-P0030-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-10-19
+display_name: Matti Mallipotilas SYN2-P0030 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synt eettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 19.10.2026. Potilas: Matti Mal lipotilas SYN2-P0030 (SYN2-P0030), s. 26.12.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvitt-elystä (syntee-ttinen harjoitusteksti).
+Morforloginen tulos tuli 15. syysk uuta 2026 (pienisoluinen keuhkosyöpä).
+Tiimikokous pidettiin 21. syyskuuta 2026 ja suositus kirjattiin.
+Näyte otettiin tähystyksessä viikolla 37 torstaina (2026).
+Kerroskuvaus toteutettiin viikolla 35 sunnuntaina (2026).
+Toimenpide toteutui viikolla 42 lauantaina (2026) (kuratiivinen lobektomia).
+Lähete saapui toimistoon 25-08-2026 (kirjoituspäivä on eri, ks. alla).
+Sovittiin hoitomuodosta syyskuun 24. päivänä 2026 (kuratiivinen lobektomia).
+Aiemmin jossai n tammikuun alussa o-li käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

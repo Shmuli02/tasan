@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0011
+document_id: SYN-P0011-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-09-09
+display_name: Tuula Testinen SYN-P0011 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 9.9.2026. Potilas: Tuula Testienn SYN-P0011 (SYN-P0011), s. 6.11.1965.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: keuhkoklinikan lähete sapaui 10.8.2026.
+Thoraxin TT tehty 21.8.
+Biopsiat otettu bronkoskopiassa kaksi viikkoa sitten.
+PAD-vastaus valmistui 7.9.26: NSCLC, ei tarkemmin luokiteltu.
+Biopsia peruttiin potilaan toiveesta.
+Syntymäaika 6.11.1965 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

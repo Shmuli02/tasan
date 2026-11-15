@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0073
+document_id: SYN-P0073-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-01-28
+display_name: Eva Påhittad SYN-P0073 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 28.1.2026. Potilas: Eva Påhittad SYN-P0073 (SYN-P0073), s. 25.5.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 13.1.26.
+Thoraxin TT tehty 2026-01-21.
+Biopsiat otettu bronkoskopiassa 27.1.26.
+Sappirakon poisto tehty 27.8.2014 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0088
+document_id: SYN2-P0088-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-07-13
+display_name: Yrjö Yksikkötesti SYN2-P0088 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän k-euhkok1inikka
+Kirjauspaiva 13.7.2026. Potilas: Yrjö Yksikkötesti SYN2-P0088 (SYN2-P0088), s. 9.5.1956.
+SYNTEETTINEN potilasskertomus, ei o-ikeaa enkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harj0itusteksti).
+Leikekuvaus on suoritettu 03-07-2026.
+Tomien pide varattiin viiikolla 28 maanantaina (2026), mmutta näyte ottetii n vasta 11-07-2026.
+Pyyntö tuli perillee 22. kesakuuta 2026.
+Akktiivista ho itoa ei ole aloitettu, vasta pohditaan viahtoehtoja.
+
+Kirjaaja: synteettinnen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

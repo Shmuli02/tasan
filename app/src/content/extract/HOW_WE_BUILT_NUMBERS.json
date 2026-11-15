@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "title": "Tasan / Verda — numbers for the How we built it page",
+    "written": "2026-11-14, updated after measuring stopped at 23:12 Europe/Helsinki (EET, UTC+2)",
+    "rule": "Every value is copied from a project file. rounded = as published in RESULTS.md / SPEND.md; precise = raw eval JSON when it has more digits. Extract data is SYNTHETIC. Measured 32B eval numbers are unchanged. LoRA and the concurrency 1/8/32/64 sweep are not completed. Any figure that is not a completed measurement is labelled as an estimate.",
+    "public_app": "https://petaled-trowel-90.beacon.host/"
+  },
+  "extract": {
+    "model": {
+      "value": "Qwen3-32B-AWQ",
+      "hf_id": "Qwen/Qwen3-32B-AWQ",
+      "thinking": "off",
+      "decoding": "openai_json_schema",
+      "source": "verda/extract/RESULTS.md"
+    },
+    "serving": {
+      "value": "vLLM on Verda GPU instance, bound to 127.0.0.1",
+      "source": "verda/extract/RESULTS.md"
+    },
+    "gpu": {
+      "value": "1x A100 SXM4 80GB",
+      "instance_type": "1A100.22V",
+      "billing": "on-demand",
+      "source": "verda/extract/RESULTS.md"
+    },
+    "location": {
+      "value": "FIN-01",
+      "country": "FI",
+      "note": "GET /v1/locations returned only FIN-01, FIN-02, FIN-03; no non-Finnish instance location",
+      "source": "verda/EXTRACT_PLAN.md"
+    },
+    "price_usd_per_hour": {
+      "value": 2.386,
+      "source": "data/SPEND.md"
+    },
+    "instance": {
+      "id_prefix": "e60ea3d7",
+      "hostname": "tasan-extract",
+      "created_eet": "2026-11-14 21:06:41",
+      "deleted_eet": "2026-11-14 22:35:03",
+      "life_min": 88.49,
+      "source": "data/SPEND.md"
+    },
+    "corpus": {
+      "synthetic": true,
+      "v1": {
+        "documents": 600,
+        "patients": 120,
+        "seed": 20261114,
+        "fi_share": 0.745,
+        "sv_share": 0.1567,
+        "en_share": 0.0983,
+        "source": "verda/extract/corpus/data/stats.json"
+      },
+      "v2": {
+        "documents": 600,
+        "patients": 120,
+        "seed": 20261142,
+        "dev_documents": 199,
+        "test_documents": 401,
+        "fi_share": 0.7483,
+        "sv_share": 0.1517,
+        "en_share": 0.1,
+        "source": "verda/extract/corpus/data_v2/stats.json"
+      }
+    },
+    "exact_f1": {
+      "qwen3_32b_v1_all": {
+        "rounded": 0.954,
+        "precise": 0.9539,
+        "precision_rounded": 0.955,
+        "recall_rounded": 0.953,
+        "precision_precise": 0.9552,
+        "recall_precise": 0.9525,
+        "n_documents": 600,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v1_report.json"
+      },
+      "regex_v1_all": {
+        "rounded": 0.96,
+        "precise": 0.9597,
+        "precision_rounded": 0.976,
+        "recall_rounded": 0.944,
+        "n_documents": 600,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/regex_report.json"
+      },
+      "qwen3_32b_v2_all": {
+        "rounded": 0.742,
+        "precise": 0.7417,
+        "precision_rounded": 0.765,
+        "recall_rounded": 0.72,
+        "precision_precise": 0.7649,
+        "recall_precise": 0.7199,
+        "n_documents": 600,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v2_report.json"
+      },
+      "qwen3_32b_v2_test": {
+        "rounded": 0.739,
+        "precise": 0.7392,
+        "precision_rounded": 0.765,
+        "recall_rounded": 0.715,
+        "precision_precise": 0.7647,
+        "recall_precise": 0.7153,
+        "n_documents": 401,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v2_report.json"
+      },
+      "regex_untuned_v2_test": {
+        "rounded": 0.0,
+        "precise": 0.0,
+        "n_documents": 401,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/regex_report_v2.json"
+      }
+    },
+    "plus_minus_1_day_f1": {
+      "qwen3_32b_v1_all": {
+        "rounded": 0.964,
+        "precise": 0.9638,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v1_report.json"
+      },
+      "qwen3_32b_v2_all": {
+        "rounded": 0.763,
+        "precise": 0.7628,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v2_report.json"
+      },
+      "qwen3_32b_v2_test": {
+        "rounded": 0.761,
+        "precise": 0.7612,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v2_report.json"
+      },
+      "regex_untuned_v2_test": {
+        "rounded": 0.0,
+        "source": "verda/extract/RESULTS.md"
+      }
+    },
+    "alert_accuracy": {
+      "qwen3_32b_v1_all": {
+        "rounded": 0.983,
+        "precise": 0.9833,
+        "precision": 1.0,
+        "recall_rounded": 0.938,
+        "recall_precise": 0.9375,
+        "f1_rounded": 0.968,
+        "f1_precise": 0.9677,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v1_report.json"
+      },
+      "qwen3_32b_v2_all": {
+        "rounded": 0.958,
+        "precise": 0.9583,
+        "precision_rounded": 0.913,
+        "recall_rounded": 0.875,
+        "f1_rounded": 0.894,
+        "f1_precise": 0.8936,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v2_report.json"
+      },
+      "qwen3_32b_v2_test": {
+        "rounded": 0.963,
+        "precise": 0.9625,
+        "precision": 0.875,
+        "recall_rounded": 0.933,
+        "recall_precise": 0.9333,
+        "f1_rounded": 0.903,
+        "f1_precise": 0.9032,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v2_report.json"
+      },
+      "regex_untuned_v2_test": {
+        "rounded": 0.812,
+        "precise": 0.8125,
+        "precision": 0.0,
+        "recall": 0.0,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/regex_report_v2.json"
+      }
+    },
+    "throughput": {
+      "concurrency_measured": 16,
+      "sweep_1_8_32_64": "not completed",
+      "v1": {
+        "notes_per_sec": 0.746,
+        "latency_p50_s": 18.2,
+        "latency_p95_s": 40.7,
+        "latency_p50_s_precise": 18.2121,
+        "latency_p95_s_precise": 40.7113,
+        "wall_s": 803.8,
+        "wall_s_precise": 803.819,
+        "usd_per_1000_notes": 0.89,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v1_predictions_metrics.json"
+      },
+      "v2": {
+        "notes_per_sec": 0.669,
+        "latency_p50_s": 20.5,
+        "latency_p95_s": 45.8,
+        "latency_p50_s_precise": 20.5245,
+        "latency_p95_s_precise": 45.801,
+        "wall_s": 896.3,
+        "wall_s_precise": 896.333,
+        "usd_per_1000_notes": 0.99,
+        "source": "verda/extract/RESULTS.md",
+        "precise_source": "verda/extract/eval/results/qwen3_32b_v2_predictions_metrics.json"
+      }
+    },
+    "nationwide_yearly_sketch": {
+      "patients_per_year": 2994,
+      "patients_per_year_note": "Finnish Cancer Registry 2020-2024 average, lung and tracheal cancers (1780 men + 1214 women). Preliminary 2024 count 2892.",
+      "notes_per_patient": 5,
+      "notes_per_patient_note": "ASSUMPTION for costing: mean length of the SYNTHETIC corpora (600 docs / 120 patients). Not a published clinical figure.",
+      "notes_per_year": 14970,
+      "usd_per_year_v2_like": 15,
+      "usd_per_year_v1_like": 13,
+      "unit_cost_v2": 0.99,
+      "unit_cost_v1": 0.89,
+      "exclusions": "GPU list price for extraction only; no engineer time, HA, or idle",
+      "source": "verda/extract/RESULTS.md"
+    },
+    "spend_usd": {
+      "preferred_total": 4.24,
+      "increment_grossed_total": 5.23,
+      "eval_run_preferred_subtotal": 3.77,
+      "eval_run_increment_grossed_subtotal": 4.62,
+      "eval_run_short_note_total": 4.5,
+      "rtx_aborts_preferred": 0.17,
+      "rtx_aborts_increment_grossed": 0.96,
+      "eval_a100_preferred": 3.6,
+      "idle_after_2147_min_approx": 48,
+      "idle_usd_approx": 1.91,
+      "phase2_first_abort_preferred": 0.31,
+      "phase2_first_abort_increment_grossed": 0.4,
+      "phase2_lora_retry_preferred": 0.16,
+      "phase2_lora_retry_increment_grossed": 0.21,
+      "source": "data/SPEND.md"
+    },
+    "deletion_verified": {
+      "eval_a100_deleted_eet": "2026-11-14 22:35:03",
+      "phase2_first_deleted_eet": "2026-11-14 22:50:39",
+      "phase2_retry_deleted_eet": "2026-11-14 23:03:47",
+      "final_check_eet": "2026-11-14 23:13",
+      "instances": 0,
+      "volumes": 0,
+      "verified": true,
+      "source": "data/SPEND.md"
+    },
+    "live_gpu_endpoint": {
+      "running": false,
+      "fallback": "verda/extract/app_export.json",
+      "app_export_source": "qwen3-32b",
+      "n_notes": 10,
+      "source": "verda/extract/app_export.json"
+    },
+    "samples": {
+      "path": "verda/extract/SAMPLES.md",
+      "n_notes": 10
+    },
+    "phase2": {
+      "lora_status": "not completed",
+      "concurrency_sweep_status": "not completed",
+      "first_attempt": {
+        "instance_id_prefix": "d81e14db",
+        "hostname": "tasan-extract-p2",
+        "instance_type": "1A100.22V",
+        "billing": "on-demand",
+        "location": "FIN-01",
+        "price_usd_per_hour": 2.386,
+        "window_eet": "22:43:04-22:50:39",
+        "life_min": 7.58,
+        "cost_usd_preferred": 0.31,
+        "cost_usd_increment_grossed": 0.4,
+        "outcome": "Train step failed early (likely pip/PEP 668 / TRL API). No results tarball. Not a scored LoRA run.",
+        "source": "data/SPEND.md"
+      },
+      "lora_retry": {
+        "instance_id_prefix": "715c7100",
+        "hostname": "tasan-extract-p2",
+        "instance_type": "1A100.22V",
+        "billing": "spot",
+        "location": "FIN-01",
+        "price_usd_per_hour": 1.193,
+        "window_eet": "22:56:19-23:03:47",
+        "life_min": 7.47,
+        "life_min_approx_label": 7.5,
+        "cost_usd_preferred": 0.16,
+        "cost_usd_increment_grossed": 0.21,
+        "got_as_far_as": "481 SYNTHETIC SFT rows loaded; Qwen3-8B loaded; PEFT LoRA applied (43646976 trainable params, 0.5301%)",
+        "crash": "Crashed before the first optimizer step: transformers 5.20.2 TrainingArguments unexpected keyword warmup_ratio",
+        "adapter_written": false,
+        "eval_completed": false,
+        "source": "data/SPEND.md",
+        "also": "verda/extract/eval/results/phase2/LORA_STATUS.md"
+      },
+      "concurrency_sweep": {
+        "status": "not completed",
+        "reason": "Estimate written 23:11 (data/SPEND.md §13, estimates only, not incurred). User stopped all measuring at 23:12. Sweep instance was never created.",
+        "source": "data/SPEND.md"
+      }
+    }
+  },
+  "pathway_twin": {
+    "hardware": {
+      "instance_type": "1V100.4V",
+      "billing": "spot",
+      "location": "FIN-01",
+      "price_usd_per_hour": 0.122,
+      "gpu_used_for_compute": false,
+      "reason": "No CPU instance type was available in FIN-01/02/03",
+      "source": "data/SPEND.md"
+    },
+    "smoke": {
+      "window_eet": "20:30-20:34",
+      "jobs": 2,
+      "http_batch_calls": 1,
+      "n_runs_each": 2000,
+      "runtimes_s": {
+        "lapland_baseline": 3.7,
+        "lapland_zero_effect": 3.2
+      },
+      "docker_build_s": 23,
+      "image_mb": 271,
+      "byte_identical_to_local": true,
+      "cost_usd_approx": 0.01,
+      "cost_usd_at_most": 0.02,
+      "source": "data/SPEND.md"
+    },
+    "full_run_a": {
+      "window_eet": "20:37:33-21:10:16",
+      "scenario_jobs": 132,
+      "counties": 22,
+      "scenarios": 6,
+      "simulated_years_per_job": 20000,
+      "simulated_county_years": 2640000,
+      "calibration_jobs": 5,
+      "calibration_particles": 4000,
+      "docker_build_s": 21,
+      "scenario_wall_s": 1372,
+      "scenario_mean_s_per_job": 41.5,
+      "workers": 4,
+      "calibration_runtime_s_range": [
+        7,
+        21
+      ],
+      "byte_identical_to_local": true,
+      "instance_life_min": 32.7,
+      "cost_usd_approx": 0.08,
+      "cost_usd_range": [
+        0.07,
+        0.08
+      ],
+      "results_dir": "sim/results_verda",
+      "source": "data/SPEND.md",
+      "also": "sim/README.md"
+    },
+    "serverless_b": {
+      "window_eet": "21:37-21:42",
+      "jobs_submitted_successfully": 0,
+      "blocker": "TLS handshake to tasks.verda.com failed from the dev box",
+      "push_instance_life_min": 1.4,
+      "build_s": 18,
+      "push_s": 8,
+      "cost_usd_approx": 0.02,
+      "source": "data/SPEND.md"
+    },
+    "spend_usd_total_approx": {
+      "value": 0.11,
+      "source": "data/SPEND.md"
+    },
+    "validation": {
+      "result": "PASS",
+      "when_eet": "2026-11-14 ~20:28",
+      "source": "sim/README.md"
+    }
+  },
+  "ask_tasan": {
+    "wired_in_app": true,
+    "only_planned": false,
+    "model": {
+      "value": "kimi-k3-1-pro",
+      "product": "Verda Inference API",
+      "source": "app/server/SPEND.md"
+    },
+    "inference_location": {
+      "value": "Germany (DE), EU-hosted",
+      "do_not_say": "Finland-hosted",
+      "app_badge": "EU-hosted inference · Verda",
+      "source": "app/server/SPEND.md"
+    },
+    "proxy": {
+      "kind": "Beacon Worker, not a Verda CPU instance",
+      "url": "https://petaled-trowel-90-ask.worker.beacon.host",
+      "reason": "CPU.4V.16G-class returned no capacity (probe create 503)",
+      "source": "app/server/SPEND.md"
+    },
+    "public_app": {
+      "value": "https://petaled-trowel-90.beacon.host/",
+      "source": "app/PUBLIC_URL.txt"
+    },
+    "eval": {
+      "kind": "trick suite, 18 prompts, 18 live LLM calls plus local path",
+      "when_eet": "2026-11-14 21:34:55",
+      "thirty_question_report_present": false,
+      "source": "app/server/TRICK_SUITE.md"
+    },
+    "spend_usd": {
+      "cloud_vm": 0.0,
+      "inference_approx_range": [
+        2,
+        3
+      ],
+      "inference_central_under": 2,
+      "chat_completion_calls_approx": 26,
+      "source": "app/server/SPEND.md"
+    },
+    "fallback": "deterministic local facts pack (app/src/lib/askLocal.ts); ?ask=offline forces it"
+  },
+  "spend_totals_usd": {
+    "twin_preferred_approx": 0.11,
+    "extract_preferred_approx": 4.24,
+    "extract_increment_grossed_approx": 5.23,
+    "extract_eval_run_preferred_subtotal": 3.77,
+    "ask_inference_range": [
+      2,
+      3
+    ],
+    "team_preferred_range": [
+      6.35,
+      7.35
+    ],
+    "team_increment_grossed_extract_plus_ask_range": [
+      7.34,
+      8.34
+    ],
+    "note": "Team totals are the sum of sourced component subtotals, not a figure found in one file. Preferred: $0.11 + $4.24 + $2–$3. Increment-grossed Extract $5.23 + Twin $0.11 + Ask $2–$3. Project-balance snapshots in data/SPEND.md include other agents and are not used here. Measuring stopped at 23:12; 0 instances / 0 volumes verified at 23:13.",
+    "sources": [
+      "data/SPEND.md",
+      "app/server/SPEND.md",
+      "verda/extract/RESULTS.md",
+      "sim/README.md",
+      "verda/extract/eval/results/phase2/LORA_STATUS.md"
+    ]
+  }
+}

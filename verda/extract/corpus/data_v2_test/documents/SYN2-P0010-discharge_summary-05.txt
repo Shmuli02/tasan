@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0010
+document_id: SYN2-P0010-discharge_summary-05
+document_type: discharge_summary
+language: en
+note_date: 2026-05-24
+display_name: Olli Oletettu SYN2-P0010 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 24.5.2026. Patient: Olli Oletettu SYN2-P0010 (SYN2-P0010), DOB 19.5.1960.
+SYNTHETIC record, not a real pers on.
+
+Dictated entry from the lung work-up (synthetic training text).
+The document was marked as having reached the unit on 14 April 2026.
+Tissue was obtained during the endoscopy on in week 17 on Sunday (2026).
+The way forward was chosen on 10 May 2026: radiotherapy.
+A joint case conference took place on 08-05-2026; the shared view was recorded.
+The lab released t he histology on 4 May 2026: small-cell lung cancer.
+The procedure went ahead on yesterday (radiotherapy).
+Imaging was completed on 20-04-2026.
+— excerpt from an older note dated 14.7.2023: date of birth 19.5.1960; cholecystectomy 14.7.2023; unrelat-ed to the present lung work-up. —
+Previously, sometime in early Janua-ry, there was a follow-up visit; the exact day is not in this note.
+
+Entered by: synthetic test user. This is not a real clinical record.

@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0056
+document_id: SYN2-P0056-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-07-26
+display_name: Peter Samplecase SYN2-P0056 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 26.7.2026. Potilas: Peter Samplecase SYN2-P0056 (SYN2-P0056), s. 22.4.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa hen kilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Leikekuvaus on suoritettu 25-06-2026.
+Näyte otettiin tähystyksessä 06-07-2026.
+Kokoontuminen 15-07-2026: eri erikoisalojen yhteinen kanta merkitty.
+Valittiin etenemistapa 15. heinäkuuta 2026: SBRT.
+Pyyntö tuli perille viikolla 25 sunnuntaina (2026).
+Morforloginen tulos tuli 12. heinäkuuta 2026 (adenokars-inooma).
+Tiimikokousta ei jä rjestetty tällä käynnillä, se on siirretty.
+Ja-tko on auki. Aktiivista hoitoa ei ole käynnistetty tässä vaiheessa.
+— ote vanhasta kirjauksesta 16.2.2015: syntymäaika 22.4.1954; sappirakon poisto 16.2.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Syntymäaika 22.4.1954 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole 0ikea p otilaskertomus.

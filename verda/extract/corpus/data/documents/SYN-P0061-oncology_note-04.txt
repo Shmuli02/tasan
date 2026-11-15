@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0061
+document_id: SYN-P0061-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-08-22
+display_name: Kirsi Keksitty SYN-P0061 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 22.8.2026. Potilas: Kirsi Keksitty SYN-P0061 (SYN-P0061), s. 22.7.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 4/7.
+Esitiedot: pET-TT tehty 12.7.2026.
+Esitiedot: bronkoskopia ja biopsia tehty 2026-07-20.
+PAD-vastaus valmistui 1.8: levyepiteelikarsinooma.
+MDT 8.8.2026: hoitolinja vahvistettu.
+Hoitopäätös 10.8.2026: kuratiivinen lobektomia.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

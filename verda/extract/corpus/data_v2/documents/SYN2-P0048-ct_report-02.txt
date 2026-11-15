@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0048
+document_id: SYN2-P0048-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-01-13
+display_name: Johan Testdata SYN2-P0048 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspä ivä 13.1.2026. Potilas: Johan Testdata SYN2-P0048 (SYN2-P0048), s. 9.5.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille 5. tammikuuta 2026.
+Tutkimus käytiin kuvaamassa viik0lla 3 tiistaina (2026).
+Kuvissa erottui oikean ylälohkon 3,1 cm tuumori.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 10.1.2015: syntymäa-ika 9.5.1945; sappirakon p oisto 10.1.2015; ei liity nykyiseen keuhkos elvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

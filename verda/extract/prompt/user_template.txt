@@ -1,0 +1,6 @@
+Note date (kirjauspäivä / as_of): {note_date}
+Language hint: {lang}
+
+Extract pathway events from this note:
+
+{text}

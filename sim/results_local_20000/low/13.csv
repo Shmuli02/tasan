@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+13,North Savo wellbeing services county,YTA-ITA,low,baseline,pct_le42_from_referral,37.0297,16.3934,36.0656,61.3646,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,baseline,pct_le42_from_diagnosis,67.4501,54.9296,67.5676,79.3651,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,baseline,median_days_referral_to_treatment,54.0591,34.0,54.0,76.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,baseline,median_days_diagnosis_to_treatment,28.2198,19.0,28.0,38.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,baseline,n_patients,128.2586,106.0,128.0,151.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,baseline,n_active_treated,62.4586,48.0,62.0,79.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,baseline,n_le42_from_referral,23.1353,10.0,22.0,41.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,baseline,n_untreated_at_alert_day,49.8659,33.0,50.0,68.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,scenario,pct_le42_from_referral,51.1241,28.7874,50.8197,74.1379,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,scenario,median_days_referral_to_treatment,42.4824,28.0,42.0,64.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,scenario,n_patients,128.2586,106.0,128.0,151.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,scenario,n_active_treated,62.4586,48.0,62.0,79.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,scenario,n_le42_from_referral,31.9371,17.0,31.0,50.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,delta,pct_le42_from_referral,14.0944,5.6604,13.8462,23.7308,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,delta,median_days_referral_to_treatment,-11.5767,-12.0,-12.0,-6.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,delta,n_patients,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,delta,n_active_treated,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+13,North Savo wellbeing services county,YTA-ITA,low,delta,n_le42_from_referral,8.8018,3.0,9.0,15.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast

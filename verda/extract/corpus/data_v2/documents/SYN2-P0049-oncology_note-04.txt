@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0049
+document_id: SYN2-P0049-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-07-13
+display_name: Karin Konstruerad SYN2-P0049 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Kksityn yliopistollinen sairaala
+K-irjauspäivä 13.7.2026. Potilas: Karin Konstruerad SYN2-P0049 (SYN2-P0049), s. 25.12.1968.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelyystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille viikolla 26 torstaina (2026).
+Tähystyksen yhteydessä punkktionäyte toissapäivänä.
+Kuvantaminen tehtiin heinäkuun 4. päivänä 2026 (va raus oli aiemmin).
+Jatko on auki. Aktiivistta hoitoa ei o1e käynnistetty t ässä vaiheessa.
+— ote vanhasta kirjaksesta 17.3.2021: syntymäaika 25.12.1968; sappirakon poisto 17.3.2021; ei liity nykyiseen keuhkoselvit telyyn. —
+Lonkk aproteesi operoitu 21.11.2012.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

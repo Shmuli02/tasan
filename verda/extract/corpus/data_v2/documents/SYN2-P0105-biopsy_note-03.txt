@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0105
+document_id: SYN2-P0105-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-18
+display_name: Karin Konstruerad SYN2-P0105 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 18.6.2026. Potilas: Karin Konstruerad SYN2-P0105 (SYN2-P0105), s. 2.10.1952.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoituste ksti).
+Toimenpide varattiin kesäkuun 11. päivänä 2026, mutat näyte otettiin vasta eilen.
+Kerroskuvaus toteutettiin 05-06-2026.
+Läehte saapui toimistoon 24. toukokuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 6.9.2018: syntymäaika 2.10.1952; sappirakon poisto 6.9.2018; ei liity nyk yiseen keuhkoselvittelyyn. —
+AAiemmin jossain tam mikuun alussa oli kyänyt kontrollissa; tarkkaa päivää ei ole täss ä.
+Syntymäaika 2.10.1952 tarkistettu väestötiedoista.
+Lonkkaproteesi operoitu 3.11.2020.
+
+Kirjaaja: synteettinen t-estikäyttäjä. Tämä ei ole oike-a potil-askertomus.

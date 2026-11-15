@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0010
+document_id: SYN2-P0010-pathology_report-02
+document_type: pathology_report
+language: en
+note_date: 2026-05-04
+display_name: Olli Oletettu SYN2-P0010 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 4.5.2026. Patient: Olli Oletet-tu SYN2-P0010 (SYN2-P0010), DOB 19.5.1960.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+Sampling was carried out at the procedure on 26-04-2026.
+The lab released the histology on 04-05-2026: small-cell lung cancer.
+The scan slot was put in the calendar on in week 16 on Wednesday (2026); the examination itself was carried out on 20-04-2026.
+The document was marked as having reached the unit on April the 14, 2026.
+The pictures showed a 1.8 cm nodule in the left upper lobe with mediastinal nodes.
+Previousl y, sometime in early January, there was a follow-u-p visit; the exact day is not in this note.
+H ip replacement on 28.6.2021.
+
+Entered by: synthetic test user. This is not a real clinical record.

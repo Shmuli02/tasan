@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0100
+document_id: SYN-P0100-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-08-02
+display_name: Nils Fiktiv SYN-P0100 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 2.8.2026. Ptoilas: Nils Fiktiv SYN-P0100 (SYN-P0100), s. 27.10.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkklinikan lähete saapui 7.7.2026.
+PET-TT tehty 12/7. Kuvauksessa todettiin vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Bronkoskopia ja biopsia tehty 21.7.2026.
+Patologin lausunto 2026-08-02: pienisoluinen keuhkosyöpä.
+Syntymäaika 27.10.1946 tarkistettu väestötiedoista.
+Lonkkaproteesi operoitu 15.6.2022.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

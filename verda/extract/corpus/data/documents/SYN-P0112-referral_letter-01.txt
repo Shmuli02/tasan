@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0112
+document_id: SYN-P0112-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-03-28
+display_name: Peter Samplecase SYN-P0112 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 28.3.2026. Patient: Peter Samplecase SYN-P0112 (SYN-P0112), f. 22.9.1956.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 28.3.26.
+Höftprotes opererad 10.4.2022.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

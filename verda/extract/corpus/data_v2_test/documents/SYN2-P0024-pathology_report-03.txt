@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0024
+document_id: SYN2-P0024-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-09-03
+display_name: John Placeholder SYN2-P0024 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Syn-teettisen hyvinvointialueen keskussaira ala
+Kirjauspäivä 3.9.2026. Potilas: John Placeholder SYN2-P0024 (SYN2-P0024), s. 19.2.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Leikekuvaus on suoritettu elokuun 19. päivänä 2026.
+Toimenpide varattiin 25. elokuuta 2026, mutta näyte otettiin vasta 29. elokuuta 2026.
+Mikroskooppinen lausunto valmistui viikolla 36 torstaina (2026): adenokarsinooma.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 6. elokuuta 2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+Aiemmin jossai-n tammikuun alussa oli käynyt ko-ntrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

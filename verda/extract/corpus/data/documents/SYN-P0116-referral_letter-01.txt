@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0116
+document_id: SYN-P0116-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-08-09
+display_name: Yrjö Yksikkötesti SYN-P0116 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 9.8.2026. Patient: Yrjö Yksikkötesti SYN-P0116 (SYN-P0116), f. 10.10.1955.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 9.8.
+Födelsedatum 10.10.1955 kontrollerat i befolkningsuppgifterna.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

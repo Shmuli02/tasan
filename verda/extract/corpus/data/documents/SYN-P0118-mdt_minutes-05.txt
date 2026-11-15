@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0118
+document_id: SYN-P0118-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-15
+display_name: Pekka Paikkamerkki SYN-P0118 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspaiva 15.5.2026. Potilas: Pekka Paikkamerkki SYN-P0118 (SYN-P0118), s. 21.2.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Kaynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 14/4/2026.
+Hoitokokou 14.5.2026: moniammatillinen suositus kirjattu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Sappirakon poissto tehty 16.3.2016 (ei liity nykyisee selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

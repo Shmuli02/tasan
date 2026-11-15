@@ -1,0 +1,50 @@
+{
+ "_doc": "ABC rejection calibration per collaborative area (YTA) and first-event type. Tolerances are pre-declared here, not tuned after seeing results.",
+ "month_days": 30.4375,
+ "horizon_days": 182.625,
+ "tolerance": {
+  "curve_abs_pp": 1.5,
+  "curve_abs_pp_rationale": "Max absolute error, in percentage points of ALL patients, at each published month 1-5 of Taulukko 4.5 (month 6 is matched exactly by construction). 1.5 pp is inside the half-width of the team's Wilson 95% CIs for the derived first-active-treatment curve (1.1-2.2 pp, csv/lung_derived_first_active_treatment_by_month_yta.csv).",
+  "quantile_abs_days": 7.0,
+  "quantile_abs_days_rationale": "Max absolute error on published Q1/median/Q3 (Taulukko 4.1). 7 days = one week, the step granularity of the THL Ohjaus 21/2016 section 4.1 targets. Taulukko 4.1 and 4.5 describe slightly different populations (4.1: first TREATMENT; 4.5: first EVENT incl. palliative care and death, smoothed by a multistate model), so a perfect joint fit is not expected."
+ },
+ "prior": {
+  "pi0": {
+   "active": [
+    0.0,
+    0.6
+   ],
+   "other": [
+    0.0,
+    0.3
+   ],
+   "dist": "uniform",
+   "meaning": "probability mass at day 0 (treatment/event recorded on the diagnosis date)"
+  },
+  "median_days": [
+   2.0,
+   200.0
+  ],
+  "median_dist": "log-uniform",
+  "sigma": [
+   0.15,
+   2.5
+  ],
+  "sigma_dist": "uniform"
+ },
+ "abc": {
+  "batch": 400000,
+  "max_draws": 6000000,
+  "target_particles": 400,
+  "min_particles": 50,
+  "seed": 20261114
+ },
+ "posterior_predictive": {
+  "n_patients_per_area": 200000,
+  "seed": 7
+ },
+ "structural_sensitivity": {
+  "curve_abs_pp": 0.5,
+  "_doc": "Variant posterior fitted to Taulukko 4.5 curves only (no 4.1 quartiles) with a tighter 0.5 pp curve tolerance; used only to report how much the 4.1-vs-4.5 population difference moves the diagnosis-anchored outputs. Not used for scenario runs."
+ }
+}

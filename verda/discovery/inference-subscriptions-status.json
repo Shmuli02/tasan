@@ -1,0 +1,11 @@
+{
+  "http_status": 200,
+  "fetched_at_eet": "2026-11-14 20:42:24 EET",
+  "body": {
+    "status": "active",
+    "is_manual_suspend": false,
+    "suspend_reason": null,
+    "public_comment": null,
+    "has_minimum_balance": true
+  }
+}

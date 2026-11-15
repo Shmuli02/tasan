@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0077
+document_id: SYN-P0077-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-03-18
+display_name: Karin Konstruerad SYN-P0077 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 18.3.2026. Patient: Karin Konstruerad SYN-P0077 (SYN-P0077), DOB 8.8.1954.
+SYNTHETIC record, not a real person.
+
+Reason for visit: wok-up of suspected lung cancer (synthetic example).
+CT thorax was carried out on 16.3. Imaging showed a 3.1 cm tumour in the right upper lobe.
+Hip replacement on 19.2.2015.
+
+Enterred by: synthetic test user. This is not a real clinical record.

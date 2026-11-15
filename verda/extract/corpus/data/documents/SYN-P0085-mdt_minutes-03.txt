@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0085
+document_id: SYN-P0085-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-09-04
+display_name: Aino Synteettinen SYN-P0085 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 4.9.2026. Potilas: Aino Synteettinen SYN-P0085 (SYN-P0085), s. 22.7.1950.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 25.7.
+Esitiedot: keuhko-TT tehty 8.8.2026.
+EBUS-bronkoskopia suoritettu 19.8; biopsiat otettu.
+Moniammatillinen kokous (MDT) toissapäivänä: suositellaan etenemistä hoitoon.
+Sappirakon poisto tehty 28.8.2015 (ei liity nykyiseen selvittelyyn).
+Syntymäaika 22.7.1950 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

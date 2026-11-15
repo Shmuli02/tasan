@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0112
+document_id: SYN2-P0112-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-02-16
+display_name: Peter Samplecase SYN2-P0112 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 16.2.2026. Potilas: Peter Samplecase SYN2-P0112 (SYN2-P0112), s. 6.7.1938.
+SYNTEETTINEN potilas kertomus, ei oike-aa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Leikekuvaus on suoritettu 28. tammikuuta 2026.
+Yhteispalaveri järjestettiin viikolla 8 maanantaina (2026); linja muodostettiin siellä.
+Kudosnäytteet haettiin toimenpiteessä helmikuun 5. päivänä 2026.
+Pyyntö tuli perille viikolla 4 keskiviikkona (2026).
+Laboratorio ilmoitti histologian 10. helmikuuta 2026: levyepiteelikarsinooma.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 20.10.2018: sy-ntymäaika 6.7.1938; sappirakon poisto 20.10.2018; ei liity n-ykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Syntymäaika 6.7.1938 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen t estikäyttäjä. Tämä ei ole o-ikea potilaskertomus.

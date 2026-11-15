@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0045
+document_id: SYN2-P0045-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-06-17
+display_name: Eva Påhittad SYN2-P0045 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 17.6.2026. Patientt: Eva Påhittad SYN2-P0045 (SYN2-P0045), f. 28.7.1959.
+SYNTETISK patientjournal, ingen verkig person.
+
+Dikterad an tecknin g från lungutredningen (syntetisk övningstext).
+Konsultationsbegäran skrevs på torsdagen, men registrerades som inkommen först den 16 jun i 2026.
+— utdrag ur äldre anteckning 2.12.2019: födelsedatum 28.7.1959; galloperat-ion 2.12.2019; hör inte till den aktuella lungutredningen. —
+
+Antecknat av: s-yntetisk testanvän dare. Detta är inte en verklig journal.

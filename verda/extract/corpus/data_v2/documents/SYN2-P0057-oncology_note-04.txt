@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0057
+document_id: SYN2-P0057-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-04-26
+display_name: Aino Synteettinen SYN2-P0057 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylä n keuhkoklinikka
+Kirjauspäivä 26.4.2026. Potilas: Aino Synteettinen SYN2-P0057 (SYN2-P0057), s. 7.8.1963.
+SYNTEETTINEN potilaske-rtom-us, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Svittiin hoitomuodosta viikolla 12 perjantaina (2026) (sytostaatti).
+Kudosnäytteet haettiin toimenpiteessä viikolla 11 tiistaina (2026).
+Kokoontuminen 19. maaliskuuta 2026: eri erikoisalojen yhteinen kanta merkitty.
+Lähete saapui toimistoon viikolla 8 lauantaina (2026) (kirjoituspäivä on eri, ks. alla).
+Kuvantaminen tehtiin maaliskuun 6. päivänä 2026 (varaus oli aiemmin).
+Morforloginen tulos tuli 14-03-2026 (levyepiteelikarsinooma).
+Jatko on auki. Aktiivista hoitoa ei ole käynnistetty tässä vaiheessa.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen te stikayttaja. Tämä ei ole oikea potilaskertomus.

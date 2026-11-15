@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0111
+document_id: SYN-P0111-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-07-07
+display_name: Helen Mockpatient SYN-P0111 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 7.7.2026. Potilas: Helen Mockpatient SYN-P0111 (SYN-P0111), s. 26.1.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 24.6.
+Tietokonetomografia (TT) suoritettiin 7/7. Kuvauksessa todettiin oikean ylälohkon 3,1 cm tuumori.
+Syntymäaika 26.1.1945 tarkistettu väestötiedoista.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

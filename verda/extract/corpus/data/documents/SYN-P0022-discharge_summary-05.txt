@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0022
+document_id: SYN-P0022-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-04-16
+display_name: Erik Exempelsson SYN-P0022 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 16.4.2026. Potilas: Erik Exempelsson SYN-P0022 (SYN-P0022), s. 13.9.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 26.2.2026.
+Keuhko-TT tehty 5.3.
+Esitiedot: bronkoskopia 13.3, näytteet otettu.
+Histologinen vastaus saapui 23/3/2026 (levyepiteelikarsinooma).
+MDT 31.3.2026: hoitolinja vahvistettu.
+Linjaus 1.4.2026: SBRT.
+SBRT-sädehoito aloitettu 15.4.2026.
+Syntymäaika 13.9.1951 tarkistettu väestötiedoista.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

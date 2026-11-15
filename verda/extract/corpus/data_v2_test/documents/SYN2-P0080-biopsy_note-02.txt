@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0080
+document_id: SYN2-P0080-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-09
+display_name: John Placeholder SYN2-P0080 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettise-n hyvinvointi-alueen kes-kussairaala
+Kirjauspäivä 9.3.2026. Potilas: John Placeholde r SYN2-P0080 (SYN2-P0080), s. 15.3.1960.
+SYNTEETTINEN potilask-ertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvantaminen tehtiin viikolla 10 maanantaina (2026) (varaus oli aiemmin).
+Toimenpide varattiin 5. maaliskuuta 2026, mutta näyte otettiin vasta 9. maaliskuuta 2026.
+Tähystys peruttiin viime h etkellä eikä näytettä saatu.
+Syntymäaika 15.3.1960 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

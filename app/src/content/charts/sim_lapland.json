@@ -1,0 +1,101 @@
+{
+  "chip": "MODEL OUTPUT \u00b7 assumptions shown \u00b7 not a forecast",
+  "output_scope": "pathway timings and shares only (time to first treatment, % within 42 days); no outcome effects are modelled",
+  "region_code": "21",
+  "region": "Lapland",
+  "baseline_pct_le42_from_referral": {
+    "mean": 34.4283,
+    "p2_5": 14.2857,
+    "median": 33.3333,
+    "p97_5": 57.8207,
+    "n_runs_valid": 2000
+  },
+  "scenarios": {
+    "baseline": {
+      "label": "Current pathway (calibrated to registry curves)",
+      "pct_le42_from_referral": {
+        "mean": 34.4283,
+        "p2_5": 14.2857,
+        "median": 33.3333,
+        "p97_5": 57.8207,
+        "n_runs_valid": 2000
+      },
+      "delta_pct_le42_from_referral": {
+        "mean": 0.0,
+        "p2_5": 0.0,
+        "median": 0.0,
+        "p97_5": 0.0,
+        "n_runs_valid": 2000
+      }
+    },
+    "high": {
+      "label": "Alert + navigator, high what-if (-24 days, 95% CI 12-35)",
+      "pct_le42_from_referral": {
+        "mean": 59.1486,
+        "p2_5": 33.8959,
+        "median": 59.5491,
+        "p97_5": 82.462,
+        "n_runs_valid": 2000
+      },
+      "delta_pct_le42_from_referral": {
+        "mean": 24.7203,
+        "p2_5": 9.5216,
+        "median": 24.6154,
+        "p97_5": 41.6667,
+        "n_runs_valid": 2000
+      }
+    },
+    "low": {
+      "label": "Alert + navigator, low what-if (-12 days)",
+      "pct_le42_from_referral": {
+        "mean": 48.1735,
+        "p2_5": 26.5291,
+        "median": 47.619,
+        "p97_5": 70.9699,
+        "n_runs_valid": 2000
+      },
+      "delta_pct_le42_from_referral": {
+        "mean": 13.7452,
+        "p2_5": 5.1724,
+        "median": 13.4875,
+        "p97_5": 24.0,
+        "n_runs_valid": 2000
+      }
+    },
+    "mid": {
+      "label": "Alert + navigator, mid what-if (-16 days)",
+      "pct_le42_from_referral": {
+        "mean": 52.2817,
+        "p2_5": 30.6661,
+        "median": 51.8519,
+        "p97_5": 74.5115,
+        "n_runs_valid": 2000
+      },
+      "delta_pct_le42_from_referral": {
+        "mean": 17.8534,
+        "p2_5": 8.3299,
+        "median": 17.6471,
+        "p97_5": 28.8462,
+        "n_runs_valid": 2000
+      }
+    },
+    "zero_effect": {
+      "label": "Day-28 alert + navigator, NO effect",
+      "pct_le42_from_referral": {
+        "mean": 34.4283,
+        "p2_5": 14.2857,
+        "median": 33.3333,
+        "p97_5": 57.8207,
+        "n_runs_valid": 2000
+      },
+      "delta_pct_le42_from_referral": {
+        "mean": 0.0,
+        "p2_5": 0.0,
+        "median": 0.0,
+        "p97_5": 0.0,
+        "n_runs_valid": 2000
+      }
+    }
+  },
+  "caveat": "MODEL OUTPUT; referral-to-diagnosis time is an assumption; county timing inherited from the collaborative area; not a forecast; no outcome effects are modelled."
+}

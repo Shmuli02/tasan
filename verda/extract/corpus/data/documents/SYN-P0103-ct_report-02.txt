@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0103
+document_id: SYN-P0103-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-03-25
+display_name: Ingrid Inventerad SYN-P0103 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 25.3.2026. Potilas: Ingrid Inventerad SYN-P0103 (SYN-P0103), s. 26.6.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 17.3.26.
+Tietokonetomografia (TT) suoritettiin 2026-03-23. Kuvauksessa todettiin vasemman alalohkon 2,4 cm muutos.
+Hoitoa ei ole aloitettu.
+Sappirakon poisto tehty 8.2.2024 (ei liity nykyiseen selvittelyyn).
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Edellinen keuhkokuume hoidettu 20.4.2015.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

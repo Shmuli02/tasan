@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0017
+document_id: SYNTR-P0017-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-08-15
+display_name: Eeva Esimerkki SYNTR-P0017 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Keksitty keuhkoyksikkö
+Kirjauspäivä 15.8.2026. Potilas: Eeva Esimerkki SYNTR-P0017, s. 1.1.1950.
+SYNTEETTINEN record, not a real person.
+
+Saapumispäivä merkitty potilastietojärjestelmään 2026-07-19.
+Keuhkojen viipalekuvaus tehtiin 28.7.2026.
+Näytteenotto tähystyksellä 31.7.2026.
+Kudosanalyysi valmistui 2026-08-11: NSCLC.
+Moniammatillinen linjapalaveri 14.8.2026; suositus kirjattu.
+
+Kirjaaja: synteettinen testikäyttäjä.

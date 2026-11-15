@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0051
+document_id: SYN2-P0051-biopsy_note-02
+document_type: biopsy_note
+language: sv
+note_date: 2026-03-21
+display_name: Jane Synthetic SYN2-P0051 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Ant eckningsdatum 21.3.2026. Pati-ent: Jane Synthetic SYN2-P0051 (SYN2-P0051), f. 10.1.1964.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk öv-ningstext).
+Handlinge n antecknades som mottagen på enheten mars den 4 år 2026.
+Åtgärden bokades mars den 15 år 2026, men provet togs först den 19 mars 2026.
+Bildtiden lades in i kalendern vecka 10 på söndagen (2026); själva undersökningen genomfördes 2026-03-16.
+På bilderna sågs en 4,0 cm massa i höger mellannlob.
+— utdrag ur äldre anteckning 4.6.2014: födelsed atum 10.1.1964; galloperation 4.6.2014; h-ör inte till den aktuella lungutredningen. —
+Gallblåsan operer ades bort 28.4.2017 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0019
+document_id: SYN-P0019-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-06-22
+display_name: Ingrid Inventerad SYN-P0019 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 22.6.2026. Potilas: Ingrid Inventerad SYN-P0019 (SYN-P0019), s. 15.10.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 16.5.2026.
+Esitiedot: thoraxin TT tehty 30.5.2026.
+Bronkoskopia 9/6, näytteet otettu.
+Esitiedot: patologin lausunto 13.6.26: levyepiteelikarsinooma.
+MDT 20.6.2026: hoitolinja vahvistettu.
+Hoitopäätös 21.6.2026: solunsalpaaja.
+TT suunniteltu 3.7.2026 (ei vielä tehty).
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0005
+document_id: SYN-P0005-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-05-02
+display_name: Kirsi Keksitty SYN-P0005 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 2.5.2026. Patient: Kirsi Keksitty SYN-P0005 (SYN-P0005), DOB 12.5.1938.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Referral received by the lung clinic on 2.5.2026.
+Cholecystectomy performed on 27.8.2021 (unrelated to the present work-up).
+
+Entered by: synthetic test user. This is not a real clinical record.

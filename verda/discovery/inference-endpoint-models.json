@@ -1,0 +1,24 @@
+{
+  "http_status": 200,
+  "fetched_at_eet": "2026-11-14 20:43:24 EET",
+  "headers": {
+    "access-control-expose-headers": "x-request-id",
+    "content-length": "97",
+    "content-type": "application/json",
+    "date": "Sat, 14 Nov 2026 18:43:24 GMT",
+    "vary": "Origin",
+    "x-request-id": "01a1db5f-176b-7384-a2ce-39462199c394",
+    "connection": "close"
+  },
+  "body": {
+    "object": "list",
+    "data": [
+      {
+        "id": "kimi-k3-1-pro",
+        "object": "model",
+        "created": 0,
+        "owned_by": "verda"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0085
+document_id: SYN2-P0085-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-03-28
+display_name: Aino Synteettinen SYN2-P0085 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Invented University Hospital
+Note date 28.3.2026. Patient: Aino Synteettinen SYN2-P0085 (SYN2-P0085), DOB 7.8.1948.
+SYNTHETIC record, not a real pers on.
+
+Dictated entry from the lung work-up (synthetic training text).
+The consultatio-n request was written on 25 March 2026, but was only logged as having arrived on March the 28, 2026.
+— excerpt from an older note dated 1.1.2018: date of birth 7.8.1948; cholecystectomy 1.1.2018; unrelated to the present lung work-up. —
+
+Entered by: synthetic test user. This is not a real clinical record.

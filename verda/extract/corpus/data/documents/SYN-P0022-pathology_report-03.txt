@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0022
+document_id: SYN-P0022-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-03-23
+display_name: Erik Exempelsson SYN-P0022 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 23.3.2026. Potilas: Erik Exempelsson SYN-P0022 (SYN-P0022), s. 13.9.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 26/2.
+Esitiedot: keuhko-TT tehty 5/3.
+EBUS-bronkoskopia suoritettu 13/3; biopsiat otettu.
+Histologinen vastaus saapui 23.3.26 (NSCLC, ei tarkemmin luokiteltu).
+PET-TT varattu 1.4.2026, tutkimus on vasta suunnitelmissa.
+Edelllinen keuhkokuume hoidettu 6.1.2019.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

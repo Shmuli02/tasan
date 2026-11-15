@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0043
+document_id: SYN2-P0043-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-30
+display_name: Anna Anonyymi SYN2-P0043 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaa1a
+Kirjauspäivä 30.3.2026. Potilas: Anna Anonyymi SYN2-P0043 (SYN2-P0043), s. 2.4.1962.
+SYNTEETT INEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö t uli perille maaliskuun 14. päivänä 2026.
+Toimenpide varattiin 21. maaliskuuta 2026, mutta näyte otettiin vasta 28-03-2026.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteet tinen testikäyttäjä. Tämä ei ole oikea potilas-kertomus.

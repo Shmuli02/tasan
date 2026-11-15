@@ -1,0 +1,37 @@
+KEUHKOSYOPA SUOMESSA-KATSAUS KEUHKOSYOVAN HOIDON LAADUSTA | 39
+Liitteet
+TAULUKKO 6.1: Keuhkosyovan leikkaushoidon toimenpidekoodit ja niden yleisyys aineistossa.
+Lahde: THL - Hoitoonpaasyn seuranta syovan hoidossa.
+Toimenpide- | Toimenpide | Leikattujen | Osuus | Osuus kaikista
+koodi | Ikm | leikatuista (%) | tapauksista (%)
+Keuhkolohkon poisto rintaontelon
+GDC01 | 986 | 58,8 | 7.4
+tahystyksessa
+GDCoO | Keuhkolohkon poistoleikkaus | 298 | 17,8 | 2,2
+Keuhkojaokkeen poisto rintaontelon
+GDB21 | 183 | 10,9 | 1,4
+tahystyksessa
+Keuhkon kiilapoisto rintaontelon
+GDB11 | 75 | 4,5 | 0,6
+tahystyksessa
+GDC10 | Kahden keuhkolohkon poistoleikkaus | 53 | 3,2 | 0,4
+Laajennettu yhden tai kahden
+GDC13 | 41 | 2,4 | 0,3
+keuhkolohkon poisto poisto
+GDDoO | Keuhkonpoistoleikkaus | 41 | 2,4 | 0,3
+Kahden keuhkolohkon poisto
+GDC11 | 36 | 2,1 | 0,3
+rintaontelon tahystyksessa
+Keuhkolohkon poistoleikkaus ja
+GDC20 | 31 | 1,8 | 0,2
+sleeveresektio
+GDB10 | Keuhkon kilapoisto | 13 | 0,8 | O,1
+GDB20 | Keuhkojaokkeen poisto | 0,5 | O,1
+Keuhkolohkon ja -jaokkeen
+GDC23 | 0,5 | O,1
+poistoleikkaus
+GBC03 | Henkitorven osan poisto | 0,3 | 0,0
+GDD20 | Laajennettu keuhkonpoistoleikkaus | 0,2 | 0,0
+Keuhkonpoisto rintaontelon
+GDD01 | O,1 | 0,0
+tahystyksessa

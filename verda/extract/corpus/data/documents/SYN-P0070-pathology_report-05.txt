@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0070
+document_id: SYN-P0070-pathology_report-05
+document_type: pathology_report
+language: fi
+note_date: 2026-02-20
+display_name: Juhani Jäljitelmä SYN-P0070 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 20.2.2026. Potilas: Juhani Jäljitelmä SYN-P0070 (SYN-P0070), s. 19.4.1952.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saaupi 20.1.2026.
+TT-tutkimus tehty 4.2.2026.
+Esitiedot: hoitokokous 30.1: moniammatillinen suositus kirjattu.
+Päätettiin 30.1.26 aloittaa kuratiivinen lobektomia.
+Leikkaus (lobektomia) tehty 7.2.2026.
+EBUS-bronkoskopia suoritettu 16.2.26; biopsiat otettu.
+Histologinen vastaus saapui 20/2 (pienisoluinen keuhkosyöpä).
+Hoito ei ole aloitettu.
+Lonkkaproteesi operoitu 10.8.2023.
+Syntymäaika 19.4.1952 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

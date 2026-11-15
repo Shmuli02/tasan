@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0018
+document_id: SYN2-P0018-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-20
+display_name: Lars Låtsas SYN2-P0018 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistolisen sairaalan potilaskirjaus
+Päivämäärä 20.7.2026. Potilas: Lars Låtsas SYN2-P0018 (SYN2-P0018), syntynyt 28.10.1947.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synettinen harjoitusteksti).
+Yhteispalaveri toteutettiin 03.07.2026; hoidon suunnittelu tehtiin kyseisessä palaverissa.
+Hoidon muoto päätettiin 5. heinäkuuta 2026 (kuratiivinen lobe-ktomia).
+Ensimmäinen hoitokerta toteutettiin 20. heinäkuuta 2026.
+Kuvantaminen suoritettiin 6. kesäkuuta 2026 (varaus tehtiin aiemmin).
+Morforologinen tutkimustulos tuli 26. kesäkuuta 2026 (adenokarsinooma).
+Tähystyksen yhteydessä otettiin punktio-näyte 18. kesäkuuta 2026.
+Lähite saapui toimistoon 3. kesäkuuta 2026 (kirjauspäivä on eri, ks. alla).
+Kuvantaminen on vasta varattu 25. heinäkuuta 2026, sitä ei ole vielä toteutettu.
+— ote aiemmasta kirjauksesta 16.2.2023: syntymäaika 28.10.1947; sappirakon poisto 16.2.2023; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin, jossain tammi-kuun alussa, oli käynyt kontrollissa; tarkkaa päivämäärää ei ole tässä.
+Sappirakon poisto tehtiin 10.3.2018 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: syn-teettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

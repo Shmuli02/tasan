@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0009
+document_id: SYN-P0009-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-06-12
+display_name: Sari Sijaisnimi SYN-P0009 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 12.6.2026. Potilas: Sari Sijaisnimi SYN-P0009 (SYN-P0009), s. 4.8.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 20.5.
+Tietokonetomografia (TT) suoritettiin 23.5.26.
+Bronkoskopia ja biopsia tehty 1/6/2026.
+Histologinen vastaus saapui viime maanantaina (NSCLC, ei tarkemmin luokiteltu).
+Moniammatillinen kokous (MDT) 12.6.2026: suositellaan etenemistä hoitoon.
+Päätettiin 12.6.2026 aloittaa sytostaatti.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Syntymäaika 4.8.1953 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

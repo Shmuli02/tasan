@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0020
+document_id: SYN2-P0020-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-04-01
+display_name: Johan Testdata SYN2-P0020 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhk-okli nikka
+Kirjauspäivä 1.4.2026. Potilas: Johan Testdata SYN2-P0020 (SYN2-P0020), s. 11.2.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö laadittiin 28. maaliskuuta 2026, mutta se kirjatti in saapuneeksi vasta viikolla 14 keskiviikkona (2026).
+— ote vanhasta kirjauksesta 23.3.2020: syntymäaika 11.2.1948; sappirakon poisto 23.3.2020; ei liity ny kyiseen keuhkoselvittelyyn. —
+Aiemmin jossa-in tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: sy nteettinen testikäyttäjä. Tämä ei ole oikea poti-laskertomus.

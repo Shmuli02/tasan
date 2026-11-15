@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0099
+document_id: SYN2-P0099-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-02-25
+display_name: Anna Anonyymi SYN2-P0099 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikk a
+Kirjauspäivä 25.2.2026. Potilas: Anna Anonyymi SYN2-P0099 (SYN2-P0099), s. 17.12.1945.
+SYNTEETTIN EN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvausaika merkittiin kalenteriin 11. helmikuuta 2026; itse tutkimus toteutettiin 16-02-2026.
+Lähete saapui toimistoon 1. hel-mikuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Toimenpide varattiin 17. helmikuuta 2026, mutta näyte otettiin vasta 24-02-2026.
+Kuvissa erottui oikean keskilohohon 4,0 cm massa.
+Kuvantaminen on vasta ajanvaraus 8. maaliskuuta 2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 9.11.2016: syntymäaika 17.12.1945; sappirakon poisto 9.11.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaproteesi operoitu 10.2.2012.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

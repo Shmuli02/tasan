@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0077
+document_id: SYN-P0077-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-03-27
+display_name: Karin Konstruerad SYN-P0077 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 27.3.2026. Potilas: Karin Konstruerad SYN-P0077 (SYN-P0077), s. 8.8.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhko-TT tehty 2026-03-16.
+Patologin lausunto 26.3.2026: levyepiteelikarsinooma.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Syntymäaika 8.8.1954 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

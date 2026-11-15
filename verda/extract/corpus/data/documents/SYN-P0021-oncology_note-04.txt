@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0021
+document_id: SYN-P0021-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-09-21
+display_name: Karin Konstruerad SYN-P0021 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 21.9.2026. Potilas: Karin Konstruerad SYN-P0021 (SYN-P0021), s. 25.7.1956.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: keuhkoklinikan lähete saapui 23.8.2026.
+Keuhko-TT tehty kaksi viikkoa sitten.
+Esitiedot: bronkoskopia ja biopsia tehty 15.9.26.
+Päätettiin 21.9.2026 aloittaa kuratiivinen lobektomia.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

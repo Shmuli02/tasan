@@ -1,0 +1,23 @@
+34 | SUOMEN SYOPAREKISTERI
+TAULUKKO 4.6: Osuus keuhkosyopatapauksista, jotka ovat paasseet hoitoon kuuden kuukauden aikana
+diagnoosipaivasta yhteistyoalueittain ja ensimmaisen hoidon mukaan.
+Kumulativinen osuus (%)
+Ensimmainen hoito | Yhteistyoalue
+6kkdiagnoosipaivasta
+Etela-Suomi | 11.8
+Ita-Suomi | 11.5
+Leikkaushoito | Lansi-Suomi | 10.2
+Pohjois-Suomi | 9.5
+Sisa-Suomi | 14.8
+Etela-Suomi | 11.7
+Ita-Suomi | 20.8
+Laakehoito | Lansi-Suomi | 12.2
+Pohjois-Suomi | 17.4
+Sisa-Suomi | 22.4
+Etela-Suomi | 21.9
+Ita-Suomi | 16.4
+Muu kuin
+palliativinen | Lansi-Suomi | 15.6
+sadehoito
+Pohjois-Suomi | 13.3
+Sisa-Suomi | 14.9

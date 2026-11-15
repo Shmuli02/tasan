@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0079
+document_id: SYN-P0079-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-03-13
+display_name: Jane Synthetic SYN-P0079 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 13.3.2026. Potilas: Jane Synthetic SYN-P0079 (SYN-P0079), s. 19.2.1939.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+PET-TT tehty 28.2.2026.
+Esitiedot: biopsiat otettu bronkoskopiassa viikko sitten.
+Patologin lausunto 12.3.2026: pienisoluinen keuhkosyöpä.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+Sappirakon poisto tehty 19.7.2022 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

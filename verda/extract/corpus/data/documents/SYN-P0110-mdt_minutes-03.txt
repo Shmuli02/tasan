@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0110
+document_id: SYN-P0110-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-03-23
+display_name: Alan Invented SYN-P0110 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 23.3.2026. Potilas: Alan Invented SYN-P0110 (SYN-P0110), s. 9.11.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 15.2.2026.
+Esitiedot: tT-tutkimus tehty 26.2.2026.
+Biopsiat otettu bronkoskopiassa 8.3.
+PAD-vastaus valmistui 16/3/2026: NSCLC, ei tarkemmin luokiteltu.
+Hoitokokous toissapäivänä: moniammatillinen suositus kirjattu.
+PET-TT varattu 2.4.2026, tutkimus on vasta suunnitelmissa.
+Sappirakon poisto tehty 3.8.2021 (ei liity nykyiseen selvittelyyn).
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

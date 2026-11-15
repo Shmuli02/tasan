@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0084
+document_id: SYN2-P0084-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-05-27
+display_name: Peter Samplecase SYN2-P0084 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 27.5.2026. Potilas: Peter Samplecase SYN2-P0084 (SYN2-P0084), s. 16.4.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Näyte otettiin tähystyksessä toukokuun 15. päivänä 2026.
+Kliininen valinta tehtiin toissapäivänä: sädehoito.
+Leikekuvaus on suoritettu viikolla 20 maanantaina (2026).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 4. toukokuuta 2026.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 12.12.2016: syntymäaika 16.4.1946; sappirakon poisto 12.12.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaa ja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

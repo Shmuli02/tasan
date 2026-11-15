@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0059
+document_id: SYN2-P0059-oncology_note-04
+document_type: oncology_note
+language: en
+note_date: 2026-06-25
+display_name: Eeva Esimerkki SYN2-P0059 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 25.6.2026. Patient: Eeva Esimerkki SYN2-P0059 (SYN2-P0059), DOB 18.7.1948.
+SYNTHETIC reco rd, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+Imaging was completed on 24 May 2026.
+The lab released the histology on 13 June 2026: adenocarcinoma.
+Tissue was obtained during the endoscopy on 04-06-2026.
+An agreement on the modality was reached on 21 June 2026 (SBRT).
+The consultation request was logged as having arrived on 13-05-2026.
+A joint case conference took place on on Sunday; the shared view was recorded.
+Active therapy has not got under way; options are still being weighed.
+Next steps remain open. Active therapy has not got under way at this stage.
+— excerpt from an older note dated 5.5.2018: date of birth 18.7.1948; cholecystectomy 5.5.2018; unrelated to the present lung work-up. —
+Previously, sometime in early January, there was a follow-up visit; the exact day is not in this note.
+Laboratory tests have been ordered; results are not in this note.
+
+Entered by: synthetic test user. This is not a real clinical record.

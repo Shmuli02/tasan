@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0050
+document_id: SYN2-P0050-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-06-28
+display_name: Erik Exempelsson SYN2-P0050 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 28.6.2026. Potil-as: Erik Exempelsson SYN2-P0050 (SYN2-P0050), s. 25.6.1942.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin 9. kesäkuuta 2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi kesäkuun 5. päivänä 2026.
+Kudosnäytteet haettiin toimenpiteessä viikolla 25 torstaina (2026).
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+Jatko on auki. Aktiivista hoitoa ei ole käynnistetty tässä vaiheessa.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tar kkaa päivä ä ei ole tässä.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

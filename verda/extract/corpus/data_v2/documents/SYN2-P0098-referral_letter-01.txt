@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0098
+document_id: SYN2-P0098-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-07-09
+display_name: Juhani Jäljitelmä SYN2-P0098 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centralsju-khus
+Anteckningsdatum 9.7.2026. Patient: Juhani Jäljitelmä SYN2-P0098 (SYN2-P0098), f. 27.12.1954.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övning-stext).
+Konsultationsb-egäran skrevs 2026-07-03, men registrerades som inkommen först igår.
+Något teammöte hölls inte vid detta besök.
+— utdrag ur äldre anteckning 2.11.2019: födelsedatum 27.12.1954; galloperation 2.11.2019; hör inte till den aktuella lungutredningen. —
+
+Antecknat av: syntetisk testanvändare. De tta är inte en verklig journal.

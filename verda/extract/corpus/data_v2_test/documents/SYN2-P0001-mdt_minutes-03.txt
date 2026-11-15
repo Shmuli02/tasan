@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0001
+document_id: SYN2-P0001-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-02-15
+display_name: Aino Synteettinen SYN2-P0001 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 15.2.2026. Potilas: Aino Synteettinen SYN2-P0001 (SYN2-P0001), s. 11.9.1950.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvantaminen tehtiin 23-01-2026 (varau-s oli aiemmin).
+Tiimikokous pidettiin 14. helmikuuta 2026 ja suositus kirjattiin.
+Pyyntö tuli perille 15-01-2026.
+Mikroskooppinen lausunto valmistui 11. helmikuuta 2026: pienisoluinen keuhkosyöpä.
+Kudosnäytteet haettiin toimenpiteessä 02-02-2026.
+A-ktiivista hoitoa ei ole aloitet tu, vasta pohdita-an vaihtoehtoja.
+— ote va nhasta kirjauksesta 3.12.2015: syntymäaika 11.9.1950; sappirakon poisto 3.12.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

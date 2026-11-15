@@ -1,0 +1,571 @@
+{
+  "http_status": 200,
+  "fetched_at_eet": "2026-11-14 20:42:23 EET",
+  "body": {
+    "data": [
+      {
+        "code": "kimi-k3-1-pro",
+        "name": "Kimi K3.1 Pro",
+        "provider_id": "moonshotai",
+        "provider_name": "Moonshot AI",
+        "slug": "moonshotai/kimi-k3-1-pro",
+        "endpoint_model": "kimi-k3-1-pro",
+        "category": "text",
+        "status": "available",
+        "accept_new_subscriptions": true,
+        "dashboard_priority": 1,
+        "tagline": "Kimi's flagship for long-horizon coding, 3D creation and finance",
+        "description": "Moonshot AI's most capable open-weight model, for long-horizon coding, agents and research, with a 1M-token context window.",
+        "about": "Kimi K3.1 Pro is the first model in Moonshot AI's K3.1 series, and its most capable 3T-class open-weight model to date. It's a post-trained version of Kimi K3, with substantially more reinforcement learning, and keeps K3's 1M-token context window and native image understanding, with configurable reasoning effort.",
+        "tags": [
+          "Chat",
+          "Reasoning",
+          "Vision",
+          "Coding"
+        ],
+        "uses": [
+          "Agentic coding",
+          "3D modeling and CAD",
+          "Financial research",
+          "Tool use"
+        ],
+        "logo_url": "https://objects.fin-03.verda.storage/verda-cloud/inference/logo/moonshot-ai.svg",
+        "input_modalities": [
+          "text",
+          "image"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "supported_sampling_parameters": [],
+        "supported_features": [
+          "tools",
+          "reasoning",
+          "json_mode"
+        ],
+        "pricing": {
+          "cache_read": "0.0000002",
+          "input": "0.000002",
+          "output": "0.00001"
+        },
+        "service_tiers": [
+          "standard"
+        ],
+        "service_tier_pricing": [
+          {
+            "service_tier": "standard",
+            "pricing": {
+              "cache_read": "0.0000002",
+              "input": "0.000002",
+              "output": "0.00001"
+            }
+          }
+        ],
+        "is_free": false,
+        "context_length": 1048576,
+        "max_output_length": 131072,
+        "quantization": "mxfp4",
+        "request_rate_limit_per_min": null,
+        "datacenters": [
+          {
+            "country_code": "DE"
+          }
+        ],
+        "total_parameters_b": 2800,
+        "active_parameters_b": 104,
+        "tokenizer": "Moonshot",
+        "hugging_face_id": "moonshotai/Kimi-K3.1-Pro",
+        "weights_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "license": "Kimi K3.1 Pro License",
+        "license_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro/blob/main/LICENSE",
+        "release_date": "2026-11-04",
+        "knowledge_cutoff": null,
+        "replacement_code": null,
+        "reasoning": {
+          "optional": true,
+          "default_effort": "max",
+          "supported_efforts": [
+            "low",
+            "high",
+            "max"
+          ]
+        },
+        "capabilities": [
+          {
+            "title": "Long-horizon coding",
+            "description": "Handles everything from quick fixes in real codebases to full-project builds, including games in Unity, Unreal Engine and Godot, sustained over many steps of tool use."
+          },
+          {
+            "title": "3D creation and spatial reasoning",
+            "description": "Turns a brief, sketch or reference image into usable 3D models, writing and running Blender and CAD scripts to build and refine parametric assets."
+          },
+          {
+            "title": "Financial research",
+            "description": "Carries investment and fiscal analysis end to end across real financial documents, with a markedly lower hallucination rate than Kimi K3."
+          },
+          {
+            "title": "Native vision, 1M context",
+            "description": "Reads images and video directly and keeps up to 1,048,576 tokens in context, so whole repositories and long document sets fit in one request."
+          }
+        ],
+        "benchmarks": {
+          "groups": [
+            {
+              "items": [
+                {
+                  "name": "OCRBench",
+                  "value": 87.8,
+                  "description": "Reading text in images"
+                },
+                {
+                  "name": "MMMU-Pro Vision",
+                  "value": 84.6,
+                  "description": "Reasoning over images across subjects"
+                },
+                {
+                  "name": "Kimi Tool Call",
+                  "value": 100,
+                  "description": "Tool-call triggering and JSON schema accuracy"
+                },
+                {
+                  "name": "BEAM (1M)",
+                  "value": 39.76,
+                  "description": "Memory over conversations of about 1M tokens"
+                },
+                {
+                  "name": "DeepSWE",
+                  "value": 75.7,
+                  "description": "Coding-agent tasks in real repositories"
+                }
+              ],
+              "title": "Verified by Moonshot AI (Kimi Vendor Verifier)"
+            },
+            {
+              "items": [
+                {
+                  "name": "Terminal-Bench 4.0",
+                  "value": 65.7,
+                  "description": "Coding agents on realistic, resource-constrained terminal tasks"
+                },
+                {
+                  "name": "SWE Marathon v1.1",
+                  "value": 51.7,
+                  "description": "Long-running software engineering"
+                },
+                {
+                  "name": "Kimi Code Bench 3.0 Long-horizon",
+                  "value": 61.2,
+                  "description": "Moonshot's internal multi-step coding agent benchmark"
+                },
+                {
+                  "name": "Terminal-Bench Science 0.1",
+                  "value": 38.1,
+                  "description": "Scientific computing tasks in the terminal"
+                }
+              ],
+              "title": "Coding"
+            },
+            {
+              "items": [
+                {
+                  "name": "Agents' Last Exam",
+                  "value": 43.2,
+                  "description": "Hard end-to-end agent tasks"
+                },
+                {
+                  "name": "HLE Full with tools",
+                  "value": 70,
+                  "description": "Humanity's Last Exam with tool use"
+                },
+                {
+                  "name": "OSWorld V2.1",
+                  "value": 79.6,
+                  "description": "Operating a desktop computer"
+                }
+              ],
+              "title": "Agentic"
+            },
+            {
+              "items": [
+                {
+                  "name": "OfficeQA Pro v2",
+                  "value": 64.4,
+                  "description": "Fiscal data analysis over real financial documents"
+                },
+                {
+                  "name": "Frontier Finance",
+                  "value": 58.6,
+                  "description": "Investment workflows from screening to profitability analysis"
+                },
+                {
+                  "name": "GDP.pdf",
+                  "value": 34.6,
+                  "description": "Reasoning over long PDF reports, without tools"
+                }
+              ],
+              "title": "Finance and documents"
+            },
+            {
+              "items": [
+                {
+                  "name": "BenchCAD with tools",
+                  "value": 92.7,
+                  "description": "3D reconstruction from multi-view renders via CAD code"
+                },
+                {
+                  "name": "ChartoGraphy with Python",
+                  "value": 90.2,
+                  "description": "Chart understanding"
+                },
+                {
+                  "name": "ZeroBench main with Python (pass@5)",
+                  "value": 63,
+                  "description": "Hard visual reasoning"
+                }
+              ],
+              "title": "Vision and 3D"
+            }
+          ],
+          "indices": [],
+          "comparison": {
+            "rows": [
+              {
+                "label": "Terminal-Bench 4.0",
+                "values": [
+                  65.7,
+                  66.4,
+                  58.2,
+                  42.3
+                ]
+              },
+              {
+                "label": "SWE Marathon v1.1",
+                "values": [
+                  51.7,
+                  46.3,
+                  42.5,
+                  40
+                ]
+              },
+              {
+                "label": "Agents' Last Exam",
+                "values": [
+                  43.2,
+                  42.6,
+                  41.8,
+                  37.7
+                ]
+              },
+              {
+                "label": "HLE Full with tools",
+                "values": [
+                  70,
+                  67.7,
+                  57.2,
+                  58.8
+                ]
+              },
+              {
+                "label": "OfficeQA Pro v2",
+                "values": [
+                  64.4,
+                  62.2,
+                  54.4,
+                  40.4
+                ]
+              },
+              {
+                "label": "BenchCAD with tools",
+                "values": [
+                  92.7,
+                  96.2,
+                  95.9,
+                  81.6
+                ]
+              },
+              {
+                "label": "OSWorld V2.1",
+                "values": [
+                  79.6,
+                  81.8,
+                  75.8,
+                  69.3
+                ]
+              }
+            ],
+            "columns": [
+              "Kimi K3.1 Pro",
+              "Claude Opus 5.5",
+              "GPT-6 Astra",
+              "DeepSeek V4.1 Flash 1017"
+            ]
+          }
+        },
+        "created_at": "2026-11-04T09:04:52.492Z",
+        "updated_at": "2026-11-13T09:53:01.476Z"
+      },
+      {
+        "code": "deepseek-4-1-flash-1017",
+        "name": "DeepSeek 4.1 Flash 1017",
+        "provider_id": "deepseek-ai",
+        "provider_name": "DeepSeek",
+        "slug": "deepseek-ai/deepseek-4-1-flash-1017",
+        "endpoint_model": "deepseek-4-1-flash-1017",
+        "category": "text",
+        "status": "available",
+        "accept_new_subscriptions": true,
+        "dashboard_priority": null,
+        "tagline": "DeepSeek's fast, low-cost model for coding, agents and vision",
+        "description": "The right balance of capability and cost for coding and agents, with a 1M-token context window.",
+        "about": "DeepSeek V4.1 Flash is the cost-efficient tier of DeepSeek's V4.1 family, and this release, 1017, is its October 2026 update. It's a 552B-parameter Mixture-of-Experts model that activates 8B parameters while reading input and 16B while generating output, which keeps costs low for input-heavy work like agents. It has a 1M-token context window and native image understanding.",
+        "tags": [
+          "Fast",
+          "Coding",
+          "Agents",
+          "Vision",
+          "Reasoning"
+        ],
+        "uses": [
+          "Chat assistants",
+          "Coding assistance",
+          "Agentic workflows",
+          "Summarisation and extraction"
+        ],
+        "logo_url": "https://objects.fin-03.verda.storage/verda-cloud/inference/logo/deepseek.svg",
+        "input_modalities": [
+          "text",
+          "image"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "supported_sampling_parameters": [],
+        "supported_features": [
+          "tools",
+          "json_mode",
+          "reasoning"
+        ],
+        "pricing": {
+          "cache_read": "0.000000006",
+          "input": "0.00000015",
+          "output": "0.0000006"
+        },
+        "service_tiers": [
+          "standard"
+        ],
+        "service_tier_pricing": [
+          {
+            "service_tier": "standard",
+            "pricing": {
+              "cache_read": "0.000000006",
+              "input": "0.00000015",
+              "output": "0.0000006"
+            }
+          }
+        ],
+        "is_free": false,
+        "context_length": 1048576,
+        "max_output_length": 393216,
+        "quantization": "mxfp4",
+        "request_rate_limit_per_min": null,
+        "datacenters": [
+          {
+            "country_code": "DE"
+          }
+        ],
+        "total_parameters_b": 748,
+        "active_parameters_b": 16,
+        "tokenizer": "DeepSeek",
+        "hugging_face_id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "weights_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "license": "MIT License",
+        "license_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017/blob/main/LICENSE",
+        "release_date": "2026-10-17",
+        "knowledge_cutoff": null,
+        "replacement_code": null,
+        "reasoning": {
+          "optional": true,
+          "default_effort": null,
+          "supported_efforts": [
+            "low",
+            "high",
+            "max"
+          ]
+        },
+        "capabilities": [
+          {
+            "title": "Agentic coding",
+            "description": "Builds and fixes code over many tool-use steps: 77.0 on DeepSWE v1.1 and 68.2 on NL2Repo-Bench, ahead of the previous V4.1 Flash."
+          },
+          {
+            "title": "Image input",
+            "description": "Reads screenshots, charts and documents alongside text, and uses tools to work through visual tasks."
+          },
+          {
+            "title": "Optional reasoning",
+            "description": "Answers directly by default, or reasons first when the request sets reasoning_effort to low, high or max."
+          },
+          {
+            "title": "Low cost, 1M context",
+            "description": "Priced for high-volume workloads, with discounted cached input tokens, and keeps up to 1,048,576 tokens in context."
+          }
+        ],
+        "benchmarks": {
+          "groups": [
+            {
+              "items": [
+                {
+                  "name": "DeepSWE v1.1",
+                  "value": 77,
+                  "description": "Coding-agent tasks in real repositories"
+                },
+                {
+                  "name": "NL2Repo-Bench",
+                  "value": 68.2,
+                  "description": "Building a repository from a natural-language spec"
+                },
+                {
+                  "name": "Terminal-Bench 4.0",
+                  "value": 42.3,
+                  "description": "Coding agents on realistic terminal tasks"
+                },
+                {
+                  "name": "ProgramBench",
+                  "value": 29.1,
+                  "description": "Writing complete programs"
+                }
+              ],
+              "title": "Coding"
+            },
+            {
+              "items": [
+                {
+                  "name": "Apex Bench v1.1",
+                  "value": 72.1,
+                  "description": "Professional knowledge-work tasks"
+                },
+                {
+                  "name": "Automation-Bench v1.0.6",
+                  "value": 60.5,
+                  "description": "Workflow automation with tools"
+                },
+                {
+                  "name": "Agents' Last Exam",
+                  "value": 35.4,
+                  "description": "Hard end-to-end agent tasks"
+                }
+              ],
+              "title": "Agentic"
+            },
+            {
+              "items": [
+                {
+                  "name": "HLE without tools",
+                  "value": 42.6,
+                  "description": "Humanity's Last Exam, no tool use"
+                }
+              ],
+              "title": "Reasoning"
+            },
+            {
+              "items": [
+                {
+                  "name": "BabyVision with tools",
+                  "value": 92.5,
+                  "description": "Basic visual reasoning"
+                },
+                {
+                  "name": "ChartoGraphy with tools",
+                  "value": 83,
+                  "description": "Chart understanding"
+                },
+                {
+                  "name": "ZeroBench main with tools (pass@5)",
+                  "value": 51,
+                  "description": "Hard visual reasoning"
+                }
+              ],
+              "title": "Vision"
+            }
+          ],
+          "indices": [],
+          "comparison": {
+            "rows": [
+              {
+                "label": "DeepSWE v1.1",
+                "values": [
+                  77,
+                  74.2,
+                  67.5,
+                  74
+                ]
+              },
+              {
+                "label": "NL2Repo-Bench",
+                "values": [
+                  68.2,
+                  65.4,
+                  58,
+                  75.3
+                ]
+              },
+              {
+                "label": "Terminal-Bench 4.0",
+                "values": [
+                  42.3,
+                  31.2,
+                  12.6,
+                  51.8
+                ]
+              },
+              {
+                "label": "Apex Bench v1.1",
+                "values": [
+                  72.1,
+                  64.6,
+                  47.8,
+                  65.8
+                ]
+              },
+              {
+                "label": "Agents' Last Exam",
+                "values": [
+                  35.4,
+                  31.8,
+                  27.6,
+                  28.6
+                ]
+              },
+              {
+                "label": "HLE without tools",
+                "values": [
+                  42.6,
+                  36.8,
+                  43.5,
+                  56.3
+                ]
+              },
+              {
+                "label": "ChartoGraphy with tools",
+                "values": [
+                  83,
+                  78.9,
+                  68.1,
+                  84
+                ]
+              }
+            ],
+            "columns": [
+              "DeepSeek V4.1 Flash 1017",
+              "DeepSeek V4.1 Flash",
+              "Kimi K3",
+              "Claude Opus 5"
+            ]
+          }
+        },
+        "created_at": "2026-10-30T11:37:31.977Z",
+        "updated_at": "2026-11-13T09:52:12.953Z"
+      }
+    ]
+  }
+}

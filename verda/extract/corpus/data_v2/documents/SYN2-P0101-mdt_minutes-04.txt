@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0101
+document_id: SYN2-P0101-mdt_minutes-04
+document_type: mdt_minutes
+language: en
+note_date: 2026-04-21
+display_name: Eva Påhittad SYN2-P0101 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 21.4.2026. Patient: Eva Påhittad SYN2-P0101 (SYN2-P0101), DOB 8.9.1965.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+Imaging was completed on 30-03-2026.
+A joint case conference took place on 20 April 2026; the shared view was recorded.
+The microscopic report was issued on 12-04-2026: squamous cell carcinoma.
+Tissue was obtained durin-g the endoscopy on 5 April 2026.
+The consultation request was logged as having arrived on in week 13 on Tuesday (2026).
+Imaging is only a reserved slot on 5 May 2026 and has not been carried out.
+Previously, sometime in early January, there was a follow-up visit; the exact day is not in this no-te.
+
+Entered by: synthetic test user. This is not a real clinical record.

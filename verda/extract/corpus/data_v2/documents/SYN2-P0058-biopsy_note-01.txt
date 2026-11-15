@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0058
+document_id: SYN2-P0058-biopsy_note-01
+document_type: biopsy_note
+language: sv
+note_date: 2026-01-17
+display_name: Matti Mallipotilas SYN2-P0058 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+F iktiva välfärdsområdets centralsjukhus
+Antecknin gsdatum 17.1.2026. Patient: Matti Mallipotilas SYN2-P0058 (SYN2-P0058), f. 15.8.1961.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övning-stext).
+Åtgärden bokades 2026-01-13, men provet togs först januari den 17 år 2026.
+Konsultationsbegäran skrevs 2025-12-31, men registrerades som inkommen först januari den 5 år 2026.
+Bildtiden lades in i kalendern 2026-01-04; själva undersökn-ingen genomfördes januari den 8 år 2026.
+På bilderna sågs en 3,1 cm tum ör i höger övre lob.
+— utdrag ur äldre anteckning 24.7.2022: födelsedatum 15.8.1961; gal-loperation 24.7.2022; hör inte till den aktuel la lungutredningen. —
+Gallblå san opererades bort 9.6.2021 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,baseline,pct_le42_from_referral,25.0518,10.084,23.5294,46.1559,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,baseline,pct_le42_from_diagnosis,56.0929,45.6137,56.2763,66.103,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,baseline,median_days_referral_to_treatment,63.8672,45.0,64.0,83.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,baseline,median_days_diagnosis_to_treatment,38.378,32.0,38.0,45.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,baseline,n_patients,287.252,255.0,287.0,320.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,baseline,n_active_treated,108.9635,89.0,109.0,130.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,baseline,n_le42_from_referral,27.2855,10.0,26.0,50.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,baseline,n_untreated_at_alert_day,96.459,73.0,96.0,119.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,scenario,pct_le42_from_referral,52.8295,28.9713,52.4272,77.6811,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,scenario,median_days_referral_to_treatment,40.8329,28.0,40.033,62.5474,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,scenario,n_patients,287.252,255.0,287.0,320.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,scenario,n_active_treated,108.9635,89.0,109.0,130.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,scenario,n_le42_from_referral,57.561,30.0,57.0,88.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,delta,pct_le42_from_referral,27.7777,11.3811,27.6923,43.9671,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,delta,median_days_referral_to_treatment,-23.0343,-34.1585,-22.9147,-12.5481,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,delta,n_patients,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,delta,n_active_treated,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+05,Southwest Finland wellbeing services county,YTA-LANSI,high,delta,n_le42_from_referral,30.2755,12.0,30.0,50.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast

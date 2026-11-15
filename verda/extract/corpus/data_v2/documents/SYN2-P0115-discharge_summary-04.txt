@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0115
+document_id: SYN2-P0115-discharge_summary-04
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-01
+display_name: Eeva Esimerkki SYN2-P0115 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sair-aala
+Kirjauspäivä 1.7.2026. Potilas: Eeva Esimerkki SYN2-P0115 (SYN2-P0115), s. 23.12.1949.
+SYNTE-ETTINEN potilaskertomus, ei oi keaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille viikolla 23 keskiviikkona (2026).
+Aktiivinen hoito käynnistyi 1. heinäkuuta 2026.
+Aiemmin jossain tam mikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Lonkkaproteesi operoitu 5.10.2015.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0020
+document_id: SYN2-P0020-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-04-23
+display_name: Johan Testdata SYN2-P0020 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 23.4.2026. Potilas: Johan Testdata SY-N2-P0020 (SYN2-P0020), s. 11.2.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvitte ly-stä (s-ynteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoy ksikköön 1. huhtikuuta 2026.
+Kudosnäytteet haettiin toimenpiteessä huhtikuun 21. päivänä 2026.
+Kuvausaika merki ttiin kalenteriin 06-04-2026; itse tutkimus toteutettiin huhtikuun 12. päivänä 2026.
+Kuvissa erottui vasemman alalohkon 2,4 cm muutos.
+— ote vanhasta kir-jauksesta 13.6.2021: syntymäaika 11.2.1948; sappirakon poisto 13.6.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilasker-tomus.

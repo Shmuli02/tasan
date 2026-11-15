@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0015
+document_id: SYN2-P0015-pathology_report-02
+document_type: pathology_report
+language: en
+note_date: 2026-05-22
+display_name: Anna Anonyymi SYN2-P0015 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Invented University Hospital
+Note date 22.5.2026. Patient: Anna Anonyymi SYN2-P0015 (SYN2-P0015), DOB 10.3.1960.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The mic roscopic report was issued on May the 21, 2026: NSCLC, not otherwise specified.
+Imaging was completed on 3 May 2026.
+The procedure was booked on 12 May 2026, but sampling only took p-lace on May the 14, 2026.
+The request came through on 20 April 2026.
+— excerpt from an older note dated 26.5.2014: date of birth 10.3.1960; cholecystectomy 26.5.2014; unrelated to the present lung work-up. —
+Date of birth 10.3.1960 confirmed from the population register.
+
+Entered by: syntheti c test user. This is not a real clinical record.

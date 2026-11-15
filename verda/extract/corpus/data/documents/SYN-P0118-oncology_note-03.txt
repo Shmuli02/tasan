@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0118
+document_id: SYN-P0118-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-05-08
+display_name: Pekka Paikkamerkki SYN-P0118 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 8.5.2026. Potilas: Pekka Paikkamerkki SYN-P0118 (SYN-P0118), s. 21.2.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 14.4.2026.
+Päätettiin 6/5 aloittaa kuratiivinen lobektomia.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+Syntymäaika 21.2.1951 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0114
+document_id: SYN2-P0114-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-08-04
+display_name: Matti Mallipotilas SYN2-P0114 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäiv ä 4.8.2026. Potilas: Matti Mallip0tilas SYN2-P0114 (SYN2-P0114), s. 22.8.1957.
+SYNTEETTINEN potilaske-rtomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harj oitusteksti).
+Kerroskuvaus toteutettiin 15-07-2026.
+Kliinine-n valinta tehtiin elokuun 15. päivänä 2026: kuratiivinen lobektomia.
+Mikroskooppinen lausunto valmistui elokuun 5. päivänä 2026: levyepiteelikarsinooma.
+Yhteispalaveri järjestettiin 13. elokuuta 2026; linja muodostettiin siellä.
+Lähete saapui toimistoon 7. heinäkuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Näyte otettiin tähystyksessä 24-07-2026.
+Jatko on auki. Aktiivista hoitoa ei ole käynnistetty tässä vaiheessa.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen te stikäyttäjä. Tämä ei ole oikea potilaskertomus.

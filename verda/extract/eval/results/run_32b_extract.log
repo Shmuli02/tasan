@@ -1,0 +1,137 @@
+=== v1 32B start 21:18:43 EET ===
+progress 25/600 ok=25
+progress 50/600 ok=50
+progress 75/600 ok=75
+progress 100/600 ok=100
+progress 125/600 ok=125
+progress 150/600 ok=150
+progress 175/600 ok=175
+progress 200/600 ok=200
+progress 225/600 ok=225
+progress 250/600 ok=250
+progress 275/600 ok=275
+progress 300/600 ok=300
+progress 325/600 ok=325
+progress 350/600 ok=350
+progress 375/600 ok=375
+progress 400/600 ok=400
+progress 425/600 ok=425
+progress 450/600 ok=450
+progress 475/600 ok=475
+progress 500/600 ok=500
+progress 525/600 ok=525
+progress 550/600 ok=550
+progress 575/600 ok=575
+progress 600/600 ok=600
+{
+  "system": "Qwen/Qwen3-32B-AWQ",
+  "synthetic": true,
+  "corpus_id": "tasan-extract-synthetic-v1",
+  "base_url_host": "127.0.0.1:8000",
+  "n_documents": 600,
+  "n_ok": 600,
+  "elapsed_s": 803.819,
+  "notes_per_sec": 0.746,
+  "concurrency": 16,
+  "latency_s": {
+    "p50": 18.2121,
+    "p95": 40.7113,
+    "mean": 20.9184,
+    "max": 52.3512
+  },
+  "tokens": {
+    "prompt": 625422,
+    "completion": 185619,
+    "total": 811041
+  },
+  "finished_at_eet": "2026-11-14 21:32:07 EET"
+}
+wrote eval/results/qwen3_32b_v1_predictions.json and eval/results/qwen3_32b_v1_predictions_metrics.json
+=== v1 32B done 21:32:07 EET ===
+# qwen3-32b-awq on tasan-extract-synthetic-v1
+
+SYNTHETIC corpus — no real patient data.
+
+## all (600 docs, 120 patients)
+- Exact micro P/R/F1: **0.955 / 0.953 / 0.954**
+- ±1 day micro F1: **0.964**
+- Day-28 alert accuracy 0.983 (P 1.000, R 0.938, F1 0.968)
+- Per-type exact F1: referral_received=0.979, ct_done=0.973, biopsy_done=0.950, pathology_result=0.912, mdt_decision=0.942, treatment_decision=0.903, treatment_start=0.936
+
+
+wrote eval/results/qwen3_32b_v1_report.json and eval/results/qwen3_32b_v1_report.md
+=== v2 32B start 21:32:07 EET ===
+progress 25/600 ok=25
+progress 50/600 ok=50
+progress 75/600 ok=75
+progress 100/600 ok=100
+progress 125/600 ok=125
+progress 150/600 ok=150
+progress 175/600 ok=175
+progress 200/600 ok=200
+progress 225/600 ok=225
+progress 250/600 ok=250
+progress 275/600 ok=275
+progress 300/600 ok=300
+progress 325/600 ok=325
+progress 350/600 ok=350
+progress 375/600 ok=375
+progress 400/600 ok=400
+progress 425/600 ok=425
+progress 450/600 ok=450
+progress 475/600 ok=475
+progress 500/600 ok=500
+progress 525/600 ok=525
+progress 550/600 ok=550
+progress 575/600 ok=575
+progress 600/600 ok=600
+{
+  "system": "Qwen/Qwen3-32B-AWQ",
+  "synthetic": true,
+  "corpus_id": "tasan-extract-synthetic-v1",
+  "base_url_host": "127.0.0.1:8000",
+  "n_documents": 600,
+  "n_ok": 600,
+  "elapsed_s": 896.333,
+  "notes_per_sec": 0.669,
+  "concurrency": 16,
+  "latency_s": {
+    "p50": 20.5245,
+    "p95": 45.801,
+    "mean": 23.2039,
+    "max": 51.1386
+  },
+  "tokens": {
+    "prompt": 682109,
+    "completion": 203057,
+    "total": 885166
+  },
+  "finished_at_eet": "2026-11-14 21:47:03 EET"
+}
+wrote eval/results/qwen3_32b_v2_predictions.json and eval/results/qwen3_32b_v2_predictions_metrics.json
+=== v2 32B done 21:47:04 EET ===
+# qwen3-32b-awq on tasan-extract-synthetic-v2
+
+SYNTHETIC corpus — no real patient data.
+
+## all (600 docs, 120 patients)
+- Exact micro P/R/F1: **0.765 / 0.720 / 0.742**
+- ±1 day micro F1: **0.763**
+- Day-28 alert accuracy 0.958 (P 0.913, R 0.875, F1 0.894)
+- Per-type exact F1: referral_received=0.761, ct_done=0.705, biopsy_done=0.759, pathology_result=0.721, mdt_decision=0.777, treatment_decision=0.773, treatment_start=0.652
+
+## dev (199 docs, 40 patients)
+- Exact micro P/R/F1: **0.765 / 0.730 / 0.747**
+- ±1 day micro F1: **0.766**
+- Day-28 alert accuracy 0.950 (P 1.000, R 0.778, F1 0.875)
+- Per-type exact F1: referral_received=0.754, ct_done=0.722, biopsy_done=0.769, pathology_result=0.698, mdt_decision=0.746, treatment_decision=0.872, treatment_start=0.667
+
+## test (401 docs, 80 patients)
+- Exact micro P/R/F1: **0.765 / 0.715 / 0.739**
+- ±1 day micro F1: **0.761**
+- Day-28 alert accuracy 0.963 (P 0.875, R 0.933, F1 0.903)
+- Per-type exact F1: referral_received=0.764, ct_done=0.697, biopsy_done=0.754, pathology_result=0.732, mdt_decision=0.791, treatment_decision=0.726, treatment_start=0.646
+
+
+wrote eval/results/qwen3_32b_v2_report.json and eval/results/qwen3_32b_v2_report.md
+=== 32B EXTRACTS COMPLETE 21:47:04 EET ===

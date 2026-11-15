@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0075
+document_id: SYN2-P0075-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-09-15
+display_name: Ingrid Inventerad SYN2-P0075 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistolline-n sairaala
+Kirjauspäivä 15.9.2026. Potilas: Ingrid Inventerad SYN2-P0075 (SYN2-P0075), s. 19.11.1941.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvausaika merkittiin kalenteriin 26-08-2026; itse tutkimus toteutettiin viikolla 36 torstaina (2026).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 18. elokuuta 2026.
+Toimenpide varattiin 7. syyskuuta 2026, mutta näyte otettiin vasta 14. syyskuuta 2026.
+Kuvissa erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaiht-oehtoja.
+— ote vanhasta kirjauksesta 8.9.2016: syntymäaika 19.11.1941; sappirakon pois to 8.9.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäj-ä. Tämä ei ole oikea potilaskertornus.

@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0090
+document_id: SYN2-P0090-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-13
+display_name: Pekka Paikkamerkki SYN2-P0090 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksi tyn yli opistollinen sairaala
+Kirjaus päivä 13.5.2026. Po-tilas: ekk-a Paikkamerkki SYN2-P0090 (SYN2-P0090), s. 7.3.1949.
+SYNTEETTINEN potila skertomus, ei iokeaa henkiloa.
+
+Diktotu m erki-n tä keuhkoselvit-tely-stä (synt-eettinen harjoitustekksti).
+Yhteispalaveri järjestettii-n viiolla 17 sunnuntai na (2026); linja muodostettiin siel lä.
+Sovittiin hoitomuodsota viiikolla 18 tiiistaina (2026) (solunsalpaaja).
+Lähte saapui toimistoon viikolla 12 lauantaina (2026) (kirj-oituspäivä on eri, ks. aalla).
+Aktiivinen hoito käynnistyi viikolla 20 keskiviikkona (2026).
+Tutk imus käytiin kuvaamassa huhtikuun 6. päivänä 2026.
+Mikroskooppinen lausunto valmistui viikolla 17 torstaina (2026): adenokarsinoo-ma.
+Näyte otettiin tahystyksessa huhtikuun 11. päivänä 2026.
+Kuvantam inen on vast a ajanvaraus 19-05-2026, sitä ei ole toteutet tu.
+— o-te vanhasta kirjauksesta 1.7.2023: syntymäaika 7.3.1949; sapirakon poisto 1.7.2023; ei lity nykyisseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tmä ei ole oikea potil askertomus.

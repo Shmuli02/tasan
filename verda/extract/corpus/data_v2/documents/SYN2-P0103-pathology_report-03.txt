@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0103
+document_id: SYN2-P0103-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-04-10
+display_name: Ingrid Inventerad SYN2-P0103 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 10.4.2026. Potilas: Ingrid Inventerad SYN2-P0103 (SYN2-P0103), s. 22.12.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Morforloginen tulos tuli 10. huhtikuuta 2026 (NSCLC, ei tarkemmin luokiteltu).
+Kudosnäytteet ha-ettiin toimenpiteessä huhtikuun 3. päivänä 2026.
+Tutkimus käytiin kuvaamassa 23-03-2026.
+Lähete saa pui toimistoon 8. maaliskuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoj a.
+— ote vanhasta kirjauksesta 12.4.2014: syn-tymäaika 22.12.1949; sappirakon poisto 12.4.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiem-min jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Syntymäaika 22.12.1949 tarkistettu väestötiedoista.
+Sappirakon pooisto tehty 1.3.2020 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäj ä. Tämä ei ole oikea potilaskertomus.

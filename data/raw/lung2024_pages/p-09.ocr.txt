@@ -1,0 +1,68 @@
+SUOMENSYOPAREKISTERI
+TAULUKKO 2.1: Laaturekisterin tietolahteet ja mittarit keuhkosyovan vaiheen
+(SYRE - Syoparekisteri, HILMO - hoitoilmoitusrekisteri).
+Tietolahde | Muoto
+Tieto | Vaihe | SYRE | HILMO | MUU | Mittari | Tarkennus
+Toteamisaika | Syovan toteamisaika:
+pvm
+(primaari) | pp.kk.vvvv
+Perustuu potilaan
+Alue | D+H+ P | VTJ | HVA ja YTA | kotikuntatietoon
+kunkin vuoden alussa
+Sairaala/hoito- | Kaynnin/hoitojakson
+D+H | Koodi (OID/Topi)
+paikka | toteutumispaikka
+Primaari-
+ICD-10-koodi | Klininen diagnoosi
+diagnoosi
+Kasvaimen | Topografia
+Primaaripaikka
+lahtokohta | (ICD-O-3-koodi)
+Morfologia
+Histologia | Tarkka solutyyppi
+(ICD-O-3-koodi)
+Pienisoluinen,
+levyepiteeli-, adeno-,
+Histologinen
+muu karsinooma, muu
+paatyyppi
+neuroendokriininen,
+muu tai maarittamaton
+Syoparekisterin oma
+Levinneisyys
+levinneisyys
+Klininen, histologia,
+Toteamistapa
+sytologia, kuolintodistus
+Palliativinen hoito eritelty
+Hoidon tavoite
+diagnoosikoodilla
+(palliativinen/
+Z51.5 ja toimenpide-
+kurativinen)
+koodilla WFo04
+Ensivaiheen hoito:
+Ensivaiheen | ensimmainen hoito
+Laakehoito
+hoito/jatkohoito | kuuden kuukauden
+sisalla.
+Ensivaiheen hoito:
+Ensivaiheen | ensimmainen hoito
+Sadehoito
+hoito/jatkohoito | kuuden kuukauden
+sisalla.
+Ensivaiheen hoito:
+Ensivaiheen | ensimmainen hoito
+Kirurginen hoito
+hoito/jatkohoito | kuuden kuukauden
+sisalla
+Ositettuna potilaan
+Hoidettujen | Potilaiden
+ensivaiheen hoidon
+elossaolo-osuus | elossaolo-osuus %
+mukaan
+Suhteellinen
+1 vuoden | Suhteellinen
+elossaololuku 1 vuoden
+elossaololuku | elossaololuku %
+seurannassa

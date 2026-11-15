@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0098
+document_id: SYN-P0098-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-07-04
+display_name: Juhani Jäljitelmä SYN-P0098 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 4.7.2026. Potilas: Juhani Jäljitelmä SYN-P0098 (SYN-P0098), s. 27.4.1939.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 8.5.2026.
+Esitiedot: tT-tutkimus tehty 2026-05-23.
+Esitiedot: bronkoskopia ja biopsia tehty 27.5.2026.
+Esitiedot: pAD-vastaus valmistui 7.6.2026: pienisoluinen keuhkosyöpä.
+Esitiedot: mDT 10/6/2026: hoitolinja vahvistettu.
+Esitiedot: päätettiin 2026-06-11 aloittaa solunsalpaaja.
+Keuhko-TT tehty 21.5.26.
+Solunsalpaajahoito käynnistetty 2026-07-03.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

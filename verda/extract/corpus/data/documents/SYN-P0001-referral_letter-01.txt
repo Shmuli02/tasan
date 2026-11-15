@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0001
+document_id: SYN-P0001-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-07-17
+display_name: Aino Synteettinen SYN-P0001 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 17.7.2026. Patient: Aino Synteettinen SYN-P0001 (SYN-P0001), DOB 15.4.1945.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+The referral was registered on 16.7.26.
+Previous pneumonia treated on 18.5.2021.
+Cholecystectomy performed on 2.7.2023 (unrelated to the present work-up).
+
+Entered by: synthetic test user. This is not a real clinical record.

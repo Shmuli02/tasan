@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0111
+document_id: SYN2-P0111-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-07-26
+display_name: Helen Mockpatient SYN2-P0111 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 26.7.2026. Potilas: Helen Mockpatient SYN2-P0111 (SYN2-P0111), s. 7.10.1943.
+SYNTEETTINEN potilaskerto mus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhk0selvittelystä (synteettinen harjoitusteksti).
+Toimenpide varattiin heinäkuun 16. päivänä 2026, mutta näyte otettiin vasta viikolla 29 lauantaina (2026).
+Pyyntö tuli perille viikolla 26 tiistaina (2026).
+Laboratorio ilmoitti histologian 25. heinäkuuta 2026: adenokarsinooma.
+Kerroskuvaus toteutettiin heinäkuun 6. päivänä 2026.
+— ote vanhasta kirjauksesta 21.10.2015: syntymäaika 7.10.1943; sappirakon poisto 21.10.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaproteesi operoitu 27.9.2021.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

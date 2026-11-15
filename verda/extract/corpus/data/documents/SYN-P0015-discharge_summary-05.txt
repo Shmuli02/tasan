@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0015
+document_id: SYN-P0015-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-29
+display_name: Anna Anonyymi SYN-P0015 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 29.5.2026. Potilas: Anna Anonyymi SYN-P0015 (SYN-P0015), s. 16.2.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 21.4.
+Esitiedot: thoraxin TT tehty 2/5/2026.
+EBUS-bronkoskopia suoritettu 6.5.2026; biopsiat otettu.
+PAD-vastaus valmistui 2026-05-12: levyepiteelikarsinooma.
+Moniammatillinen kokous (MDT) 16.5: suositellaan etenemistä hoitoon.
+Esitiedot: päätettiin 19.5 aloittaa kiilaresektio.
+Kiilaresektio suoritettu 29.5.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Sappirakon poisto tehty 23.8.2015 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

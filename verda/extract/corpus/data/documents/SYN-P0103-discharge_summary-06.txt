@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0103
+document_id: SYN-P0103-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-13
+display_name: Ingrid Inventerad SYN-P0103 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 13.5.2026. Potilas: Ingrid Inventerad SYN-P0103 (SYN-P0103), s. 26.6.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 17.3.26.
+Esitiedot: pET-TT tehty 23.3.2026.
+Biopsiat otettu bronkoskopiassa 1.4.2026.
+PAD-vastaus valmistui 10.4: pienisoluinen keuhkosyöpä.
+Esitiedot: moniammatillinen kokous (MDT) 15/4/2026: suositellaan etenemistä hoitoon.
+Hoitopäätös 18.4.2026: SBRT.
+SBRT-sädehoito aloitettu 12.5.2026.
+Edellinen keuhkokuume hoidettu 11.1.2012.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Syntymäaika 26.6.1948 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

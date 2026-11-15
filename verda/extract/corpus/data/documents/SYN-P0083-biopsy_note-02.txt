@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0083
+document_id: SYN-P0083-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-08-15
+display_name: Helen Mockpatient SYN-P0083 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 15.8.2026. Potilas: Helen Mockpatient SYN-P0083 (SYN-P0083), s. 11.8.1968.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 19.7.
+Esitiedot: pET-TT tehty 3.8.
+Biopsiat otettu bronkoskopiassa toissapäivänä.
+Syntymäaika 11.8.1968 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

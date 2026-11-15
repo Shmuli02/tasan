@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0003
+document_id: SYNTR-P0003-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-17
+display_name: Matti Mallinen SYNTR-P0003 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Keksitty keuhkoyksikkö
+Kirjauspäivä 17.5.2026. Potilas: Matti Mallinen SYNTR-P0003, s. 1.1.1950.
+SYNTEETTINEN record, not a real person.
+
+Lähetemerkintä avattiin 30.3.2026.
+Kuvausprotokolla ajettiin 2026-04-05.
+Näytteenotto tähystyksellä 12.4.2026.
+Kudosanalyysi valmistui ke 22.4.2026: NSCLC.
+Hoitoryhmä kokoontui 27.4.2026.
+Hoidon valinta vahvistettiin 28. huhtikuuta 2026: lobektomia.
+Ensimmäinen hoitotoimi tehtiin 17.5.2026.
+
+Kirjaaja: synteettinen testikäyttäjä.

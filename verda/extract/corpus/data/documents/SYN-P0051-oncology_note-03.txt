@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0051
+document_id: SYN-P0051-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-04-13
+display_name: Jane Synthetic SYN-P0051 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 13.4.2026. Potilas: Jane Synthetic SYN-P0051 (SYN-P0051), s. 19.2.1960.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 16.3.26.
+Esitiedot: tT-tutkimus tehty 23.3.
+Biopsiat otettu bronkoskopiassa 27.3.2026.
+Histologinen vastaus saapui viime keskiviikkona (adenokarsinooma).
+Hoitokokous 12/4: moniammatillinen suositus kirjattu.
+Linjaus eilen: sädehoito.
+Sappirakon poisto tehty 12.11.2023 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

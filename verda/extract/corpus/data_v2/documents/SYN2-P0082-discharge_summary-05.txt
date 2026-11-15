@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0082
+document_id: SYN2-P0082-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-10-25
+display_name: Alan Invented SYN2-P0082 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallik ylän keuhkoklinikka
+Kirjauspäivä 25.10.2026. Potilas: Alan Invented SYN2-P0082 (SYN2-P0082), s. 3.8.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteetti nen harjoitusteksti).
+Aktiivinen hoito käynnistyi 25. lokaku-uta 2026.
+Kuvantaminen tehtiin viikolla 37 torstaina (2026) (varaus oli aiemmin).
+Konsultaatiopyyntö kirjattiin saapuneeksi 26. elokuuta 2026.
+Yhteispalaveri järjestettiin viikolla 41 maanantaina (2026); linja muodostettiin siellä.
+Valittiin etenemistapa 5. lokakuuta 2026: kuratiivinen lobektomia.
+Kudosnäytteet haettiin toimenpiteessä syyskuun 20. päivänä 2026.
+Laboratorio ilmoitti histologian viikolla 39 sunnuntaina (2026): pienisoluinen keuhkosyöpä.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+Edel linen keuhkokuume hoidettu 24.7.2015.
+
+Kirjaaja: synteettinen testikäytttäjä. Tämä ei ole oikea potilaskertomus.

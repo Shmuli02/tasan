@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0006
+document_id: SYN2-P0006-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-23
+display_name: Pekka Paikkamerkki SYN2-P0006 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synte ettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 23.8.2026. Potilas: Pekka Paikkamerkki SYN2-P0006 (SYN2-P0006), s. 4.7.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tutkimus käytiin kuvaamassa viikolla 31 tiistaina (2026).
+Tiimikokous pidettiin 21. elokuuta 2026 ja suositus kirjattiin.
+Kudosnäytteet haettiin toimenpiteessä 6. elokuuta 2026.
+Pyyntö tuli perille 18-07-2026.
+Tiimikokous-ta ei järjestetty tällä käynnillä, se 0n siirrett-y.
+— ote vanhasta kirjauksesta 15.6.2020: syntymäaika 4.7.1966; sappirakon poisto 15.6.2020; ei liity nyk-yiseen keuhkoselvittelyyn. —
+Lonkkaproteesi operoitu 14.5.2013.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea pot ilaskert omus.

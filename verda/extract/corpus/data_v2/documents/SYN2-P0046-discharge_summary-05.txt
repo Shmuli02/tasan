@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0046
+document_id: SYN2-P0046-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-08-09
+display_name: Lars Låtsas SYN2-P0046 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 9.8.2026. Potilas: Lars Låtsas SYN2-P0046 (SYN2-P0046), s. 23.5.1946.
+SYNTEETTINEN potilaskertomus, ei oi keaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 13. kesäkuuta 2026.
+Ensimmäinen hoitokerta oli eilen.
+Tutkimus käytiin kuvaamassa 19. kesäkuuta 2026.
+Tähystyksen yhteydessä punktionäyte 27. kesäkuuta 2026.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synt eettinen testikäyt täjä. Tämä ei ole oikea potilaskertomus.

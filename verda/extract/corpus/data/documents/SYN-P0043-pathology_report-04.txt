@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0043
+document_id: SYN-P0043-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-01-31
+display_name: Anna Anonyymi SYN-P0043 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 31.1.2026. Potilas: Anna Anonyymi SYN-P0043 (SYN-P0043), s. 5.1.1963.
+SYNTEETTINEN ptoilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 4/1/2026.
+Esitiedot: tT-tutkimus tehtty 16/1.
+Bronkoskopia 21.1.2026, näytteet otettu.
+PAD-vastaus valmistui 29.1.2026: pienisoluinen keuhkosyöpä.
+PET-TT varattu 10.2.2026, tutkmius on vasta suunnitelmissa.
+Syntymäaika 5.1.1963 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0049
+document_id: SYN2-P0049-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-07-06
+display_name: Karin Konstruerad SYN2-P0049 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Syn teettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 6.7.2026. Potilas: Karin Konstruerad SYN2-P0049 (SYN2-P0049), s. 25.12.1968.
+SYNTEETTINEN potilaskert-omus, ei oikeaaa henki löä.
+
+Diktoitu rnerkintä kehukoselvittelystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 25. kesä-kuuta 2026.
+Kerroskuvaus toteutettiin heinäkuun 4. päivänä 2026.
+Kuvissa reottu i asemman alalohkon 2,4 cm muutos.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+
+Kirjaaja: synte-ettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

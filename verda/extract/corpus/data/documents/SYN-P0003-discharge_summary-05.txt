@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0003
+document_id: SYN-P0003-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-06-05
+display_name: Eeva Esimerkki SYN-P0003 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 5.6.2026. Potials: Eeva Esimerkki SYN-P0003 (SYN-P0003), s. 26.8.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 20.4.2026.
+PET-TT tehty 2026-04-24.
+Biopsiat otettu bronkoskopiassa 5.5.2026.
+PAD-vastaus valmistui 15.5: pienisoluinen keuhkosyöpä.
+Hoitokokous 18.5.2026: moniammatillinen suositus kirjattu.
+Päätettiin 21.5 aloittaa sytostaatti.
+Sytostaattihoito aloitettu 5/6/2026.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Sappirakon poisto tehty 19.8.2019 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

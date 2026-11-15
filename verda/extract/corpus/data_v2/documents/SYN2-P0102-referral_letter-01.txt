@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0102
+document_id: SYN2-P0102-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-05-06
+display_name: Lars Låtsas SYN2-P0102 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 6.5.2026. Patient: Lars Låtsas SYN2-P0102 (SYN2-P0102), f. 16.5.1966.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Konsultationsbegäran skrevs den 29 april 2026, men registrerades som inkommen först vecka 19 på tisdagen (2026).
+— utdrag ur äldre anteckning 19.2.2023: födelsedatum 16.5.1966; galloperation 19.2.2023; hör inte till den aktuella lungutredningen. —
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

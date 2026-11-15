@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0010
+document_id: SYN-P0010-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-02-16
+display_name: Olli Oletettu SYN-P0010 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 16.2.2026. Potilas: Olli Oletettu SYN-P0010 (SYN-P0010), s. 3.6.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 8.1.
+Esitiedot: pET-TT tehty 2026-01-19.
+Bronkoskopia 31.1.2026, näytteet otettu.
+Moniammatillinen kokous (MDT) 15/2: suositellaan etenemistä hoitoon.
+TT suunniteltu 22.2.2026 (ei vielä tehty).
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

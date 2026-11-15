@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0053
+document_id: SYN2-P0053-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-07-05
+display_name: Mary Fictitious SYN2-P0053 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsd-atum 5.7.2026. Patient: Mary Fictitiou s SYN2-P0053 (SYN2-P0053), f. 26.12.1968.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetis-k övningstext).
+Bildtiden lades in i kalendern på onsdagen; själva unde rsökningen genomfördes den 3 juli 2026.
+Konsultationsbegäran skrevs vecka 26 på måndagen (2026), men registrerades som inkommen först den 27 juni 2026.
+På bildern a sågs en 3,1 cm tumör i höger övre lob.
+Bildtagningen är än så 1änge bara en bokad tid den 19 juli 2026 och ha r inte genomförts.
+Gallblåsan opererades bort 27.6.2020 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

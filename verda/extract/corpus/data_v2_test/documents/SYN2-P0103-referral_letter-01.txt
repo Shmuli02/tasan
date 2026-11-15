@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0103
+document_id: SYN2-P0103-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-03-09
+display_name: Ingrid Inventerad SYN2-P0103 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 9.3.2026. Patient: Ingrid Inventerad SYN2-P0103 (SYN2-P0103), DOB 22.12.1949.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The consultation request was written on in week 10 on Friday (2026), but was only logged as having arrived on 8 March 2026.
+— excerpt from an older note dated 19.10.2015: date of birth 22.12.1949; cholecystectomy 19.10.2015; unrelat-ed to the present lung work-up. —
+Previously, sometime in early January, there was a follow-up visit; the exact day is not in this note.
+Previous pneumonia treated on 25.8.2012.
+C holecystectomy performed on 24.9.2013 (unrelated to the present work-up).
+
+Entered by: synt hetic test user. This is not a real clinical record.

@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0075
+document_id: SYN-P0075-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-25
+display_name: Ingrid Inventerad SYN-P0075 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 25.5.2026. Potillas: Ingrid Inventerad SYN-P0075 (SYN-P0075), s. 14.1.1942.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Kaynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 4/4.
+Keuhko-TT tehty 13.4.26.
+Esitiedot: bronkoskopia 2026-04-17, näytteet otetu.
+Patologin lausunto 25/4/2026: levepiteelikarsinooma.
+Hoitokokous 2/5/2026: moniammatillinen suositus kirjattu.
+Hoitopäätös 3.5: sytostaatti.
+Sytostaattihoito aloitettu toissapäivänä.
+Lonkkaproteesi operoitu 25.5.2017.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

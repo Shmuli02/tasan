@@ -1,0 +1,74 @@
+SUOMEN SYOPAREKISTERI
+TAULUKKO 3.7: Miesten ja naisten keuhkosyopatoimenpiteet. Hoidettujen lukumaarat, ikavakioidut osuudet
+(%) ja niiden 95 % luottamusvalit hyvinvointialueittain (pl. Ahvenanmaa),
+Sukupuoli | Toimenpide | Hyvinvointialue | Hoidettujen Ikm | Ikavakioitu osuus |  95 % luottamusvali
+potilaista (%)
+Etela-Karjalan | 30 | 17.3 | 11,2-26,4
+Etela-Pohjanmaan | 54 | 18,2 | 13,6-24,4
+Etela-Savon | 19 | 7.6 | 4,5-12,6
+Helsingin kaupunki | 83 | 13.4 | 10,6-16,8
+Ita-Uudenmaan | 9,2 | 4,1-18,2
+Kainuun | 5,1 | 2,0 -15,5
+Kanta-Hameen | 28 | 10,9 | 7,2 -16,5
+Keski-Pohjanmaan | 11,5 | 4,6-25,9
+Keski-Suomen | 74 | 23.7 | 18,4-30,8
+Keski-Uudenmaan | 29 | 12,9 | 8,6-18,6
+Koko maa | 881 | 12,6 | 11,7-13, 6
+Leikkaushoito | Kymenlaakson | 18 | 6.,5 | 3,8-16,1
+Lapin | 30 | 9,1 | 6,0-13,7
+Lansi-Uudenmaan | 72 | 14,2 | 11,1-18,1
+Pirkanmaan | 98 | 17.3 | 13, 9 -21,3
+Pohjanmaan | 11,0 | 6,7-17,5
+Pohjois-Karjalan | 34 | 11,9 | 7,8-18,2
+Pohjois-Pohjanmaan | 73 | 14,2 | 11,1-18,2
+Pohjois-Savon | 29 | 8,5 | 5,6-12,9
+Paijat-Hameen | 36 | 11,1 | 77-16,5
+Satakunnan | 39 | 10,4 | Z3-14, 6
+Vantaan ja Keravan | 22 | 9,0 | 5,5-14,1
+Varsinais-Suomen | 64 | 9,7 | Z,4-12,6
+Etela-Karjalan | 23 | 12,8 | 7,8-21,0
+Etela-Pohjanmaan | 124 | 41,1 | 34,0-49,8
+Etela-Savon | 53 | 22,3 | 16,5 -29,7
+Helsingin kaupunki | 155 | 26,1 | 22,1-30,7
+Ita-Uudenmaan | 18 | 14,5 | 8,2-24,4
+Kainuun | 20 | 16,9 | 9,8-30,4
+Kanta-Hameen | 69 | 26,2 | 20,2-33,9
+Keski-Pohjanmaan | 20 | 31,2 | 18,6-50,5
+Keski-Suomen | 114 | 36,0 | 29,3-44,4
+Keski-Uudenmaan | 3.5 | 1,6-6,9
+Koko maa | 1790 | 25.3 | 24,1-26,6
+Miehet | Laakehoito | Kymenlaakson | 109 | 40,5 | 32,0-54,0
+Lapin | 36 | 10,0 | 7,0-14,4
+Lansi-Uudenmaan | 47 | 9,8 | 7,2 -13,2
+Pirkanmaan | 205 | 35.9 | 31,0-41,5
+Pohjanmaan | 87 | 38,1 | 29,9-48,2
+Pohjois-Karjalan | 58 | 20,1 | 14,8-27,4
+Pohjois-Pohjanmaan | 202 | 38,6 | 33,3-44,8
+Pohjois-Savon | 137 | 38,6 | 32,3-46,3
+Paijat-Hameen | 128 | 43.5 | 35,9-52,8
+Satakunnan | 163 | 43.Z | 37,1-51,3
+Vantaan ja Keravan | 3.7 | 1,6-7.5
+Varsinais-Suomen | 0,8 | 0,2-2,0
+Etela-Karjalan | 25 | 13,6 | 8,2-22,3
+Etela-Pohjanmaan | 69 | 23,8 | 18,4-30,8
+Etela-Savon | 101 | 40,8 | 32,9-50,3
+Helsingin kaupunki | 186 | 28,7 | 24,5-33,4
+Ita-Uudenmaan | 35 | 27,6 | 18,4-40,3
+Kainuun | 39 | 31,6 | 21,2-48,0
+Kanta-Hameen | 26,1 | 19,9-33.9
+Keski-Pohjanmaan | 21 | 26,6 | 15,7-44,1
+Keski-Suomen | 113 | 32,0 | 26,0-39,8
+Keski-Uudenmaan | 80 | 31,1 | 24,4-39,1
+Koko maa | 2301 | 30,0 | 28,8-31,4
+Sadehoito | Kymenlaakson | 87 | 26,1 | 20,5-37,0
+Lapin | 75 | 21,5 | 16,6-277
+Lansi-Uudenmaan | 153 | 29.4 | 24,7-34,8
+Pirkanmaan | 233 | 38,7 | 33,6-44,4
+Pohjanmaan | 79 | 32,2 | 24,8-41,6
+Pohjois-Karjalan | 75 | 25,6 | 19,7-33,4
+Pohjois-Pohjanmaan | 150 | 26,6 | 22,3-31,9
+Pohjois-Savon | 205 | 50,0 | 42,9-58,4
+Paijat-Hameen | 131 | 39,8 | 32,8-48,6
+Satakunnan | 108 | 274 | 22,2-33,5
+Vantaan ja Keravan | 87 | 32,3 | 25,5-40,6
+Varsinais-Suomen | 161 | 23,2 | 19,6-27,3

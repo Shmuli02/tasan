@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0097
+document_id: SYN2-P0097-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-04-21
+display_name: Ritva Rakennettu SYN2-P0097 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Invented University Hospital
+Note date 21.4.2026. Patient: Ritva Rakennettu SYN2-P0097 (SYN2-P0097), DOB 5.1.1957.
+SYNTHETIC record, not a real person.
+
+Dictated entry from th-e lung work-up (synthetic training text).
+The consultation request was written on April the 19, 2026, but was only logged as having arrived on 20 April 2026.
+Imaging is only a reserved slot on 05-05-2026 and has not been carried out.
+— excerpt frorn an older note dated 25.8.2021: date of birth 5.1.1957; cholecystectomy 25.8.2021; unrelated to the present lung work-up. —
+Previously, sometime in early January, there was a follow-up visit; the e xact day is not in th is note.
+
+Entered by: synthetic test user. This is not a rea-l clinical record.

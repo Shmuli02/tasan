@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0090
+document_id: SYN-P0090-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-04
+display_name: Pekka Paikkamerkki SYN-P0090 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 4.5.2026. PPotilas: Pekka Paikkamerkki SYN-P0090 (SYN-P0090), s. 22.9.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyopaepailyn selvittelyy (syynteettinen esimerrkki).
+ESH-lähete vastaanotettu 2.4.2026.
+Keuhok-TT tehty 2026-04-16.
+EBUS-ronkoskopia suoritettu 20.4.2026; biiopsiat otettu.
+Esitiedot: patologi lausunto 24.4.2026: levyepiteelikarsinooma.
+Moniammatillinen kookous (MDT) toissapäivänä: suositellaan etenemistä hoitoon.
+Edellinen keuhkokkuume hoidettu 7.5.2010.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0052
+document_id: SYN-P0052-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-02-25
+display_name: John Placeholder SYN-P0052 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinn sairaala
+Kirjauspäivä 25.2.2026. Potilas: John Placeholder SYN-P0052 (SYN-P0052), s. 5.5.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 3/1/2026.
+PET-TT tehty 7.1.2026.
+Bronkoskopia ja biopsia tehty 13.1.2026.
+PAD-vastaus valmistui 16.1.2026: levyepiteelikarsinooma.
+MDT 23.1.2026: hoitolinja vahvistettu.
+Linjaus 25.1.26: kuratiivinen lobektomia.
+Biopsia peruttiin potilaan toiveesta.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Lonkkaproteesi operoitu 20.12.2017.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

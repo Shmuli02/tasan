@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0041
+document_id: SYN-P0041-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-08-25
+display_name: Ritva Rakennettu SYN-P0041 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 25.8.2026. Patient: Ritva Raknnettu SYN-P0041 (SYN-P0041), DOB 2.11.1944.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Specialist referral received 24.8.26.
+Hip replacement on 28.11.2018.
+
+Entered by: ssynthetic test user. This is not a real clinical record.

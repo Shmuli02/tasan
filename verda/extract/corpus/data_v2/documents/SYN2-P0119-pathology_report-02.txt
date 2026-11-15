@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0119
+document_id: SYN2-P0119-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-04-21
+display_name: Laura Loremten SYN2-P0119 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 21.4.2026. Potilas: aura Loremten SYN2-P0119 (SYN2-P0119), s. 8.5.1962.
+SYNTEE TT INEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen ha rjoitusteksti).
+Toimenpide varattiin viikolla 14 perjantaina (2026), mutta näyte otettiin vasta 10. huhtikuuta 2026.
+Kuvausaika merkitiin kalenteriin 28. maaliskuuta 2026; itse tutkimus toteutettiin 4. huhtikuuta 2026.
+Mikroskooppin-en lausunto valmistui 21. huhtikuuta 2026: adenokarsinoo ma.
+Lähete saapui toimistoon viikolla 13 torstaina (2026) (kirjoituspäivä on eri, ks. alla).
+Kuvissa erottui ikean ylälohkon 3,1 cm tuumori.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 11.5.2023: syntymäaika 8.5.1962; sappirakon poisto 11.5.2023; ei liity nykyiseen keuhkoselvittelyyn. —
+Edellinen keuhkokuume hoidettu 21.9.2016.
+
+Ki-rjaaja: synteettinen testikäyttäjä. Tämä ei ole 0ikea potilaskertomus.

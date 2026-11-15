@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0040
+document_id: SYN2-P0040-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-04-02
+display_name: Kari Keinotekoinen SYN2-P0040 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Antec kningsdatum 2.4.2026. Patient: Ka ri Keinotekoinen SYN2-P0040 (SYN2-P0040), f. 1.5.1965.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad a-nteckning från lungutredningen (syntetisk övningstext).
+Konsultationsbegära n skrevs 2026-03-29, men registrerades som inkommen först april den 1 år 2026.
+Bildtagningen är än så länge bara en bokad tid den 11 apri-l 2026 och har inte genomförts.
+— utdr-ag ur äldre anteckning 7.11.2016: födelsedatum 1.5.1965; galloperation 7.11.2016; hör int e till den aktuella lungutredningen. —
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag saknas här.
+Gallblåsan opererades bort 26.10.2014 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0105
+document_id: SYN2-P0105-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-07-05
+display_name: Karin Konstruerad SYN2-P0105 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 5.7.2026. Potilas: Karin Konstruerad SYN2-P0105 (SYN2-P0105), s. 2.10.1952.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen h-arjoitusteksti).
+Pyyntö tuli perille viikolla 21 sunnuntaina (2026).
+Kokoontuminen heinäkuun 4. päivänä 2026: eri erikoisalojen yhteinen kanta merkitty.
+Kudosnäytteet haettiin toimenpiteessä 17. kesäkuuta 2026.
+Valittiin etenem istapa viikolla 27 sunnuntaina (2026): sytostaatti.
+Mikroskooppinen lausunto valmistui 28. kesäkuuta 2026: levyepiteelikarsinooma.
+Kuvantaminen tehtiin 05-06-2026 (varaus oli aiemmin).
+Kuvantaminen on vasta ajanvaraus 18. heinäkuuta 2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 14.10.2019: syntymä aika 2.10.1952; sappirakon poisto 14.10.2019; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli kä-ynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Edellinen keuhkokuume hoide ttu 12.4.2011.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

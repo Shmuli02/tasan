@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0069
+document_id: SYN-P0069-biopsy_note-04
+document_type: biopsy_note
+language: fi
+note_date: 2026-05-04
+display_name: Ritva Rakennettu SYN-P0069 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 4.5.2026. Potilas: Ritva Rakennettu SYN-P0069 (SYN-P0069), s. 11.10.1944.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 14.4.2026.
+Tietokonetomografia (TT) suoritettiin 28.4.2026.
+Moniammatillinen kokous (MDT) 24.4.26: suositellaan etenemistä hoitoon.
+Päätettiin 24.4 aloittaa sädehoito.
+Esiitedot: sädehoito aloitettu 2.5.2026.
+EBUS-bronkoskopia suoritettu 4.5.2026; biopsiat otettu.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

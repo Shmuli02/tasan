@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0112
+document_id: SYN2-P0112-discharge_summary-04
+document_type: discharge_summary
+language: fi
+note_date: 2026-03-02
+display_name: Peter Samplecase SYN2-P0112 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 2.3.2026. Po-tilas: Peter Samplecase SYN2-P0112 (SYN2-P0112), s. 6.7.1938.
+S-YNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön viikolla 4 keskiviikkona (2026).
+Valittiin etenemistapa helmikuun 19. päivänä 2026: kiilaresektio.
+Yhteispalaveri järjestettiin viikolla 8 maanantaina (2026); linja muodostettiin si ellä.
+Kerroskuvaus toteutettiin tammikuun 28. päivänä 2026.
+Tähystyksen yhteydessä punktionäyte viikolla 6 torstaina (2026).
+Morforloginen tulos tuli 10-02-2026 (NSCLC, ei tarkemmin luokiteltu).
+Ensimmäinen hoitokerta oli 01-03-2026.
+Aiemmin j0ssain tammikuun alussa oli käynyt kontrollissa; t-arkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä e i ole oikea potilaskertomus.

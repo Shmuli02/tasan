@@ -1,0 +1,23 @@
+{
+  "used_example": false,
+  "is_example": false,
+  "errors": [],
+  "warnings": [],
+  "loaded_from": {
+    "regions": "team",
+    "sources": "team",
+    "key_message": "team",
+    "recommendations": "team",
+    "counties": "example"
+  },
+  "files": {
+    "regions": "/workspace/junction-new/app/src/content/regions.json",
+    "sources": "/workspace/junction-new/app/src/content/sources.json",
+    "key_message": "/workspace/junction-new/app/src/content/key_message.json",
+    "recommendations": "/workspace/junction-new/app/src/content/recommendations.json",
+    "counties": "/workspace/junction-new/app/src/content/counties.json"
+  },
+  "synced_at": "2026-11-14T21:16:28.757Z",
+  "recs_are_example": false,
+  "key_message_is_example": false
+}

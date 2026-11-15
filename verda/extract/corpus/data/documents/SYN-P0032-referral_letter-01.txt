@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0032
+document_id: SYN-P0032-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-06-10
+display_name: Yrjö Yksikkötesti SYN-P0032 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 10.6.2026. Patient: Yrjö Yksikkötesti SYN-P0032 (SYN-P0032), f. 23.6.1967.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 8.6.26.
+Födelsedatum 23.6.1967 kontrollerat i befolkningsuppgifterna.
+Gallblåsan opererades bort 12.3.2017 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

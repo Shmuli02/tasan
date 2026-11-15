@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0091
+document_id: SYN2-P0091-oncology_note-04
+document_type: oncology_note
+language: sv
+note_date: 2026-08-08
+display_name: Laura Loremten SYN2-P0091 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets c-entralsjukhus
+Anteckningsdat um 8.8.2026. Patient: Laura Loremten SYN2-P0091 (SYN2-P0091), f. 14.6.1943.
+SYNTETISK patientj ournal, ingen verklig person.
+
+Dikterad anteckning från lungutr edningen (syntetisk övningstext).
+Konsultationsbegäran registrerades som inkommen 2026-07-04.
+Man valde väg framåt vecka 32 på fredagen (2026): cytostatika.
+Teamcirkeln hölls igår och rekommendationen antecknades.
+Vävnadsprover hämtades vid åtgärden 2026-07-28.
+Bildtagningen utfördes den 20 juli 2026 (tiden var bo-k ad tidigare).
+Aktiv behandling har inte kkommit i gång.
+Något teammöte hölls nte vid detta besök.
+— utdrag ur äldre anteckning 5.12.2017: födelsedatum 14.6.1943; galloperation 5.12.2017; hör inet till den ak tuella lungutredningen. —
+Tidigare, någon gång i börjaan av januari, hade hen ett kont-rollbesök; exakt dag saknas här.
+
+Antecknat av: syntetisk testanvändare. Detat är inte en verklig journal.

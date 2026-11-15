@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0023
+document_id: SYN2-P0023-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-03-22
+display_name: Jane Synthetic SYN2-P0023 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 22.3.2026. Potilas: Jane Synthetic SYN2-P0023 (SYN2-P0023), s. 3.2.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Valittiin etenemistapa 7. maalisku uta 2026: sädehoito.
+Morforloginen tulos tuli 5. maaliskuuta 2026 (levyepiteelikarsinoom-a).
+Ensimmäinen hoitokerta oli 20. maaliskuuta 2026.
+Konsultaatiopy yntö kirjattiin saapuneeksi 12. helmikuuta 2026.
+Tiimikokous pidettiin maaliskuun 7. päivänä 2026 j a suositus kirjattiin.
+Kuvantaminen tehtiin viikolla 8 tiistaina (2026) (varaus oli aiemmin).
+Kudosnäytteet haettiin toimenpiteessä helmikuun 22. päivänä 2026.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 28.2.2014: syntymäaika 3.2.1953; sappirakon poisto 28.2.2014; ei liity nykyiseen keuhkose-lvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

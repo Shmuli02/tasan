@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0019
+document_id: SYN2-P0019-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-03-28
+display_name: Ingrid Inventerad SYN2-P0019 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsd-atum 28.3.2026. Patient: Ingrid Inv-enter ad SYN2-P0019 (SYN2-P0019), f. 3.1.1945.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Bildtiden lades in i kalendern mars den 22 år 2026; själva undersökningen genomfördes vecka 13 på lördagen (2026).
+Konsultationsbegäran skrevs vecka 11 på måndagen (2026), men registrerades som inkommen först den 12 mars 2026.
+På bilderna sågs en 4,0 cm massa i höger mellannlob.
+— utdrag ur äldre anteckning 19.6.2021: födelsedat-um 3.1.1945; galloperation 19.6.2021; hör inte till den aktuella lungutredningen. —
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag saknas här.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verkli-g journal.

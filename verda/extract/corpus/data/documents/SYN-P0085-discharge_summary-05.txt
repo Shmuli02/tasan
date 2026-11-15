@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0085
+document_id: SYN-P0085-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-09-18
+display_name: Aino Synteettinen SYN-P0085 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 18.9.2026. Potilas: Aino Synteettinen SYN-P0085 (SYN-P0085), s. 22.7.1950.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 25.7.
+Thoraxi TT tehty 8.8.26.
+Biopsiat otettu bronkoskopiassa 19.8.26.
+Patologin lausunto 2026-08-29: pienisoluinen keuhkosyöpä.
+Esitiedot: hoitokokous 2/9/2026: moniammatillinen suositus kirjattu.
+Hoitopäätös kaksi viikkoa sitten: kuratiivinen lobektomia.
+Leikkaus (lobektomia) tehty 18.9.2026.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

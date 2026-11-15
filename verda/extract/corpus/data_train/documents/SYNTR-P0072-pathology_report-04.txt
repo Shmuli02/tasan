@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0072
+document_id: SYNTR-P0072-pathology_report-04
+document_type: pathology_report
+language: sv
+note_date: 2026-05-15
+display_name: Anna Testsson SYNTR-P0072 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Fiktiv lungavdelning
+Anteckningsdatum 15.5.2026. Patient: Anna Testsson SYNTR-P0072, s. 1.1.1950.
+SYNTETISK record, not a real person.
+
+Ankomstdatum slogs in i journalen 2026-04-18.
+DT-serien sparades 27.4.2026.
+Vävnadsbit togs vid åtgärd 2026-04-30.
+Patologisvar antecknades 2026-05-09 (adenocarcinoma).
+Vårdteamet samlades den 14 maj 2026 och antecknade rekommendationen.
+Behandlingsvalet bekräftades den 15 maj 2026: SBRT.
+
+Antecknat av: syntetisk testanvändare.

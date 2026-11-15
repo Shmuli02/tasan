@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0039
+document_id: SYN-P0039-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-03-17
+display_name: Tuula Testinen SYN-P0039 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 17.3.2026. Patient: Tuula Testinen SYN-P0039 (SYN-P0039), DOB 2.6.1951.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+The referral was registered on 16/3.
+Laboratory tests have been ordered; results are not in this note.
+Date of birth 2.6.1951 confirmed from the population register.
+
+Entered by: synthetic test user. This is not a real clinical record.

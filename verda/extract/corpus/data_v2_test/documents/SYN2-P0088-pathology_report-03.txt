@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0088
+document_id: SYN2-P0088-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-07-14
+display_name: Yrjö Yksikkötesti SYN2-P0088 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synt-eettisen hvyinvointialueen keskussairaala
+Kirjauspäivä 14.7.2026. Potilas: Yjrö Yksikkötesti SYN2-P0088 (SYN2-P0088), s. 9.5.1956.
+SYNTEETTINEN potilaskertous, ei oikkeaa hennki1öä.
+
+Diktoitu merkintä keuhkoselvittelystä (snteettinen harjoitusteks ti).
+Mikroksooppinen lausunto vamlistui 14. heinäkuuta 2026: pienisoluinen keuhkosyöpä.
+Konsultaatiopyyntö kirjatiin saapneeksi 22-06-2026.
+Kuvnataminen tehtiin 3. heinäkuuta 2026 (varaus oli aiemmin).
+— ote vnhasta kirjauksesta 7.8.2016: syntymäaik-a 9.5.1956; sappirakon poisto 7.8.2016; ei liity nykyiseen keuhko-selvittelyyn. —
+
+Kirjaaja: synteettinen testikä yttäjä. Tämä ei ole oikea potilaskertomus.

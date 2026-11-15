@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0013
+document_id: SYN-P0013-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-01-05
+display_name: Ritva Rakennettu SYN-P0013 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 5.1.2026. Patient: Ritva Rakennettu SYN-P0013 (SYN-P0013), f. 7.2.1942.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 3.1.2026.
+DT planerad 9.1.2026 (ännu inte utförd).
+Födelsedatum 7.2.1942 kontrollerat i befolkningsuppgifterna.
+Föregående pneumoni behandlad 27.2.2022.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

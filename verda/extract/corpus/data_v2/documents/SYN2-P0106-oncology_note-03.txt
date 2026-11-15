@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0106
+document_id: SYN2-P0106-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-08-10
+display_name: Erik Exempelsson SYN2-P0106 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskuss-airaala
+Kirjauspäivä 10.8.2026. Potilas: Erik Exempelsson SYN2-P0106 (SYN2-P0106), s. 20.9.1955.
+SYNTEETTINEN potila skertomus, ei o ikeaa henkilöä.
+
+Tiimikokous pidettiin 08-08-2026 ja suositus kirjattiin.
+Lähete saapui toimistoon 12. heinäkuu ta 2026 (kirjoitu-s päivä on eri, ks. alla).
+Näyte otettiin tähystyksessä 3. elokuuta 2026.
+Sovittiin hoitomuodosta elokuun 8. päivänä 2026 (kuratiivinen lobektomia).
+Morforloginen tulos tuli 6. elokuuta 2026 (levyepiteelikarsinooma).
+Tutkimus käytiin kuvaamassa 24-07-2026.
+— ote vanhasta kirjauksesta 26.7.2018: syntymäaika 20.9.1955; sappirakon poisto 26.7.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+Sappirakon poisto tehty 21.10.2021 (ei liity nykyiseen selvittelyyn).
+
+(Synteettinen l-yhyt diktoitu merk-intä.)

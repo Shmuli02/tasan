@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0099
+document_id: SYN-P0099-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-02-11
+display_name: Anna Anonyymi SYN-P0099 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 11.2.2026. Potilas: Anna Anonyymi SYN-P0099 (SYN-P0099), s. 27.10.1965.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilynn selvittely (synteettinen esimerkki).
+Lähete kirjattu 9/2.
+Potilas tupakoinut aiemmin; vieroiitusohjaus annettu.
+Lonkkaproteesi operoitu 6.7.2022.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

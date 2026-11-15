@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0077
+document_id: SYN2-P0077-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-04-12
+display_name: Karin Konstruerad SYN2-P0077 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keks-ityn yliopistollinen sairaala
+Ki-rjauspäivä 12.4.2026. Potilas: Karin Konstruerad SYN2-P0077 (SYN2-P0077), s. 4.5.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tutkimus käytiin kuvaamassa viikolla 13 keskiviikkona (2026).
+La boratorio ilmoitti histologian viikolla 15 perjantaina (2026): NSCLC, ei tarkemmin luokiteltu.
+Kudosnäytteet haettiin toimenpiteessä 1. huhtikuuta 2026.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 7.4.2022: syntymäaika 4.5.1943; sappirakon poisto 7.4.2022; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen test ikäyttäjä. Tämä ei ole oike-a potilaskertomus.

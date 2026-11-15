@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0095
+document_id: SYN-P0095-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-04-23
+display_name: Tuula Testinen SYN-P0095 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 23.4.2026. Patient: Tuula Testinen SYN-P0095 (SYN-P0095), f. 27.8.1945.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Specialistremiss registrerad 23.4.
+Biopsin ställdes in på patientens önskan.
+Gallblåsan opererades bort 24.5.2019 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

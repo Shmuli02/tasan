@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0063
+document_id: SYN-P0063-biopsy_note-04
+document_type: biopsy_note
+language: sv
+note_date: 2026-02-19
+display_name: Laura Loremten SYN-P0063 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 19.2.2026. Patient: Laura Loremten SYN-P0063 (SYN-P0063), f. 8.5.1951.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utrednnig av misstänkt lungcancer (syntetiskt exempel).
+Föregående uppgifter: specialistremiss registrerad 24/1.
+Multidisciplinär konferens (MDK) 3/2: rekommendation om behandling.
+Föregående uppgfter: behandlingsbeslut 3/2: cytostatika.
+Datortomografi (DT) genomfördes 8.2.26. Bildfynd: en 3,1 cm tumor i höger övre lob.
+Cytostatikabehandling paborjad 11.2.26.
+EBUS-bronkoskopi genomförd 17/2; biopsier tagna.
+Kontrollprov har beställts; saren finns inte i denna anteckning.
+
+Atecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

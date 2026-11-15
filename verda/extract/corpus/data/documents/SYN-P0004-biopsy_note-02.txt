@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0004
+document_id: SYN-P0004-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-02-12
+display_name: Yrjö Yksikkötesti SYN-P0004 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 12.2.2026. Potilas: Yrjö Yksikkötesti SYN-P0004 (SYN-P0004), s. 12.6.1964.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 4.2.2026.
+TT-tutkimus tehty 9/2.
+Biopsiat otettu bronkoskopiassa 12.2.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

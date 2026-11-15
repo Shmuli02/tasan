@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0053
+document_id: SYN2-P0053-mdt_minutes-02
+document_type: mdt_minutes
+language: fi
+note_date: 2026-07-26
+display_name: Mary Fictitious SYN2-P0053 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 26.7.2026. Potilas: Mary Fictitious SYN2-P0053 (SYN2-P0053), s. 26.12.1968.
+SYNTEETTIN-EN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Toimenpide varattiin 07-07-2026, mutta näyte otettiin vasta 13-07-2026.
+Morforloginen tulos tuli heinäkuun 23. päivänä 2026 (NSCLC, ei tarkemmin luokiteltu).
+Kuvantaminen tehtiin 3. heinäkuuta 2026 (varaus oli aiemmin).
+Yhteispalaveri järjestettiin 25-07-2026; linja muodostettiin siellä.
+Pyyntö tuli perille kesäkuun 27. päivänä 2026.
+— ote vanhasta kirjauksesta 21.12.2021: syntymäaika 26.12.1968; sappirakon poisto 21.12.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Lonkkaproteesi operoitu 23.5.2016.
+
+Kirja aja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

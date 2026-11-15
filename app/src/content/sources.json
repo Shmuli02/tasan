@@ -1,0 +1,449 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "updated": "2026-11-14"
+  },
+  "sources": [
+    {
+      "id": "src-thl-2016",
+      "title": "Hoitoonpääsyn seuranta syövän hoidossa (THL Ohjaus 21/2016)",
+      "publisher": "Terveyden ja hyvinvoinnin laitos (THL)",
+      "url": "https://www.julkari.fi/items/0424a55a-f159-406f-8883-5dfdad4d6772",
+      "accessed": "2026-11-14",
+      "year": 2016,
+      "note": "Named by the National Cancer Strategy 2026–2035 as the reference for Goal 3 indicator 3. Generic maximum: 6 weeks (42 days) from referral arrival to first treatment. The PDF carries a 'Vanhentunut' watermark; no newer published target-time version was found."
+    },
+    {
+      "id": "src-strategy-2026",
+      "title": "Kansallinen syöpästrategia 2026–2035. Yhdessä syöpää vastaan – ihmislähtöistä syövän ehkäisyä ja hoitoa",
+      "publisher": "Sosiaali- ja terveysministeriö / FICAN / THL / Syöpäjärjestöt",
+      "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_2026_2035_FINAL.pdf",
+      "accessed": "2026-11-14",
+      "year": 2026,
+      "note": "Goal 3: Varmistetaan yhdenvertainen ja vaikuttava syövänhoito (S p. 5, p. 32)."
+    },
+    {
+      "id": "src-roadmap-2026",
+      "title": "Kansallinen syöpästrategia: Toimeenpanon tiekartta vuosille 2026–2031",
+      "publisher": "Sosiaali- ja terveysministeriö / FICAN",
+      "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+      "accessed": "2026-11-14",
+      "year": 2026,
+      "note": ""
+    },
+    {
+      "id": "src-lung-2024-yta",
+      "title": "Keuhkosyöpä Suomessa (2024), Taulukko 4.1 — days from diagnosis to first treatment, by collaborative area",
+      "publisher": "Suomen Syöpärekisteri (Finnish Cancer Registry)",
+      "url": "https://syoparekisteri.fi/assets/files/2024/12/Keuhkosyopa_Suomessa.pdf",
+      "accessed": "2026-11-14",
+      "year": 2024,
+      "note": "Taulukko 4.1, printed p. 27 (PDF p. 28); diagnosed 1/2018–6/2022; manually transcribed from the table image — Intervals start at diagnosis, not at referral. Published only for the five collaborative areas (YTA), not for the 22 counties."
+    },
+    {
+      "id": "src-lung-2026-t11",
+      "title": "Keuhkosyöpä Suomessa 2019–2023, Taulukko 11 — treatment groups by wellbeing services county",
+      "publisher": "Finnish Cancer Registry / THL / FICAN (published 23.4.2026)",
+      "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+      "accessed": "2026-11-14",
+      "year": 2026,
+      "note": "Taulukko 11; crude shares, 12-month follow-up — Curative-treatment share is a proxy for Goal 3-a (poor-prognosis survival). Shares are crude. The 'no treatment record' share varies widely by county and may reflect recording, not care."
+    },
+    {
+      "id": "src-lung-2026-kuva16",
+      "title": "Keuhkosyöpä Suomessa 2019–2023, Kuva 16 — age-standardised curative-treatment share by county and sex (chart estimate)",
+      "publisher": "Finnish Cancer Registry / THL / FICAN (published 23.4.2026)",
+      "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+      "accessed": "2026-11-14",
+      "year": 2026,
+      "note": "Kuva 16 (Parantava panel); Tasan chart-digitised estimates ±1 pp; not a printed table — Age-standardised share with surgery or curative radiotherapy within 12 months, by sex. Values and 95% CIs were read from the chart; they are not published as numbers. Not stage-adjusted, not survival. Kainuu is suppressed in the figure."
+    },
+    {
+      "id": "src-lung-2026-t4",
+      "title": "Keuhkosyöpä Suomessa 2019–2023, Taulukko 4 — stage-information coverage, whole country",
+      "publisher": "Finnish Cancer Registry / THL / FICAN (published 23.4.2026)",
+      "url": "https://syoparekisteri.fi/assets/themes/ssy3/factsheets/keuhkosyoparaportti.html",
+      "accessed": "2026-11-14",
+      "year": 2026,
+      "note": "Taulukko 4 (N=14 873) — Stage missing ('Ei tietoa') for 7 097 / 14 873 = 47.7%. Strategy sub-goal 3.2 target is 90% coverage."
+    },
+    {
+      "id": "src-sotkanet-6103",
+      "title": "Proportion of invited to colorectal cancer screening who attended, % (Sotkanet 6103)",
+      "publisher": "THL Sotkanet / Finnish Cancer Registry screening statistics",
+      "url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/6103",
+      "accessed": "2026-11-14",
+      "year": 2024,
+      "note": "Sotkanet 6103; data-updated 2026-06-12"
+    },
+    {
+      "id": "src-sotkanet-13",
+      "title": "Share of specialist-care referrals processed within 3 days (Sotkanet 13)",
+      "publisher": "THL Sotkanet",
+      "url": "https://sotkanet.fi/sotkanet/en/metadata/indicators/13",
+      "accessed": "2026-11-14",
+      "year": 2025,
+      "note": "Sotkanet 13, 2025; all specialties, not cancer-specific; producer-based — HUS reports for Uusimaa as a whole; several Uusimaa counties have no separate public figure."
+    },
+    {
+      "id": "src-thl-2017",
+      "title": "Hoitoonpääsyn seuranta syövän hoidossa — hankkeen loppuraportti (THL Työpaperi 3/2017)",
+      "publisher": "Terveyden ja hyvinvoinnin laitos (THL)",
+      "url": "https://www.julkari.fi/items/c296653c-356e-4742-a029-ddab51cd0aab",
+      "accessed": "2026-11-14",
+      "year": 2017,
+      "note": "“Kansallinen seuranta syöpään sairastuneiden hoitoonpääsystä on puuttunut.”"
+    },
+    {
+      "id": "src-geo-statfin-2026",
+      "title": "Wellbeing services county boundaries 2026, scale 1:4 500 000 (hyvinvointialue4500k_2026)",
+      "publisher": "Statistics Finland (Tilastokeskus), geo.stat.fi",
+      "url": "https://geo.stat.fi/",
+      "accessed": "2026-11-14",
+      "year": 2026,
+      "note": "Licence: CC BY 4.0. Used only for the map geometry."
+    },
+    {
+      "id": "src-rec-strat",
+      "title": "Kansallinen syöpästrategia 2026–2035 (STM)",
+      "publisher": "See title",
+      "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_2026_2035_FINAL.pdf",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-road",
+      "title": "Kansallinen syöpästrategia – Toimeenpanon tiekartta 2026–2031",
+      "publisher": "See title",
+      "url": "https://files.hackjunction.app/resources/Kansallinen_syopastrategia_toimeenpanon_tiekartta_2026_2031.pdf",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-thl21",
+      "title": "THL Ohjaus 21/2016 Hoitoonpääsyn seuranta syövän hoidossa",
+      "publisher": "See title",
+      "url": "https://www.julkari.fi/items/0424a55a-f159-406f-8883-5dfdad4d6772",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-jensen15",
+      "title": "Jensen H et al. Diagnostic intervals before and after implementation of cancer patient pathways. BMC Cancer 2015",
+      "publisher": "See title",
+      "url": "https://link.springer.com/article/10.1186/s12885-015-1317-7",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-jensen16",
+      "title": "Jensen H et al. Tumour stage and implementation of standardised cancer patient pathways. Br J Gen Pract 2016",
+      "publisher": "See title",
+      "url": "https://bjgp.org/content/bjgp/66/647/e434.full.pdf",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-fjall23",
+      "title": "Fjällström P et al. Reduction in the diagnostic interval after the introduction of cancer patient pathways for colorectal cancer in northern Sweden. Scand J Prim Health Care 2023",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37450480/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-schmidt18",
+      "title": "Schmidt I et al. The national program on standardized cancer care pathways in Sweden: observations half way through. Health Policy 2018",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30075866/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-olsson20",
+      "title": "Olsson O. Are cancer care pathways associated with longer waiting times? Crowding out in radiology, pathology and surgery. 2020",
+      "publisher": "See title",
+      "url": "https://journals.sagepub.com/doi/10.1177/2053434520978173",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-nilssen19",
+      "title": "Nilssen Y et al. Decreasing waiting time for treatment before and during implementation of cancer patient pathways in Norway. Cancer Epidemiol 2019",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31153048/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-nilssen22",
+      "title": "Nilssen Y et al. Compliance with recommended cancer patient pathway timeframes ... Norway 2015–2016. BMC Cancer 2022",
+      "publisher": "See title",
+      "url": "https://link.springer.com/article/10.1186/s12885-022-09306-9",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-chapman20",
+      "title": "Chapman D et al. First results from five multidisciplinary diagnostic centre (MDC) projects for non-specific but concerning symptoms. Br J Cancer 2020",
+      "publisher": "See title",
+      "url": "https://www.nature.com/articles/s41416-020-0947-y",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-gronnemose24",
+      "title": "Grønnemose RB et al. Risk of cancer and serious disease in Danish patients with urgent referral for serious non-specific symptoms, Funen 2014–2021. Br J Cancer 2024",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38409600/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-damhus24",
+      "title": "Damhus CS et al. Diagnostic flow for all patients referred with non-specific symptoms of cancer to a diagnostic centre in Denmark. Eur J Gen Pract 2024",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38179994/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-nice690",
+      "title": "NICE HTG690: Quantitative FIT to guide colorectal cancer pathway referral in primary care (2023)",
+      "publisher": "See title",
+      "url": "https://www.nice.org.uk/guidance/HTG690/chapter/recommendations",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-bsg22",
+      "title": "ACPGBI & BSG. FIT in patients with signs or symptoms of suspected CRC: joint ACPGBI/BSG guideline. Gut 2022",
+      "publisher": "See title",
+      "url": "https://www.acpgbi.org.uk/resources/1075/fit_in_patients_with_signs_or_symptoms_of_suspected_crc_a_joint_guideline_from_acpgbi_and_bsg/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-sr_crc",
+      "title": "Suomen Syöpärekisteri: Suolistosyövän seulonta",
+      "publisher": "See title",
+      "url": "https://syoparekisteri.fi/seulonta/suolistosyovan-seulonta/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-larsen22",
+      "title": "Larsen MB et al. The impact of pre-notifications and reminders on participation in colorectal cancer screening – RCT. Prev Med 2022",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36057390/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-battaglia16",
+      "title": "Battaglia TA et al. The impact of patient navigation on the delivery of diagnostic breast cancer care (PNRP). Breast Cancer Res Treat 2016",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27432417/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-vimal15",
+      "title": "Vimalananda VG et al. Electronic consultations (e-consults) to improve access to specialty care: systematic review. J Telemed Telecare 2015",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25995331/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-gaye21",
+      "title": "Gaye M et al. Association of eConsult implementation with access to specialist care in a large urban safety-net system. JAMA Health Forum 2021",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35977310/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-guld15",
+      "title": "Guldbrandt LM et al. The effect of direct access to CT scan in early lung cancer detection: cluster-randomised trial. BMC Cancer 2015",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26608727/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-cheema17",
+      "title": "Cheema PK et al. Impact of reflex EGFR/ALK testing on time to treatment of patients with advanced nonsquamous NSCLC. J Oncol Pract 2017",
+      "publisher": "See title",
+      "url": "https://ascopubs.org/doi/10.1200/JOP.2016.014019",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-nhscwt26",
+      "title": "NHS England. Cancer Waiting Times statistical release, March 2026 (Faster Diagnosis Standard 75% → 80%)",
+      "publisher": "See title",
+      "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/10/Cancer-Waiting-Times-Statistical-Release-March-2026-Provider-based-Final.pdf",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-ezer17",
+      "title": "Ezer N et al. Impact of rapid investigation clinic on timeliness of lung cancer diagnosis and treatment. BMC Pulm Med 2017",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29216855/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-chung25",
+      "title": "Hiu Nian Chung J et al. Fast-tracked and optimised: the impact of a one-stop lung cancer clinic on patient outcomes. Future Healthc J 2025",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41209680/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-lin_vlcr",
+      "title": "Lin T, Pham J, Paul E et al. Impacts of lung cancer multidisciplinary meeting presentation: drivers and outcomes from a population registry retrospective cohort study",
+      "publisher": "See title",
+      "url": "https://research.monash.edu/en/publications/impacts-of-lung-cancer-multidisciplinary-meeting-presentation-dri/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-stirling26",
+      "title": "Stirling RG et al. Impacts of multidisciplinary lung cancer meeting presentation in a clinical quality registry. JTO Clin Res Rep 2026",
+      "publisher": "See title",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42006279/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-kt24",
+      "title": "KT Kunta- ja hyvinvointialuetyönantajat: wellbeing-sector average total earnings Oct 2024 (€4,089/month)",
+      "publisher": "See title",
+      "url": "https://www.kt.fi/uutiset-ja-tiedotteet/2026/kunta-ja-hyvinvointialan-keskiansiot-paivitetty-2024",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-kt25",
+      "title": "KT: Hyvinvointialan palkkatilastot, Oct 2025 (sairaanhoitaja €3,174/€4,048; analyytikko €4,663/€4,891; erikoislääkäri €6,864/€11,000 per month, task-based/total)",
+      "publisher": "See title",
+      "url": "https://www.kt.fi/tilastot-ja-julkaisut/hyvinvointialan-palkat",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-ktsivu",
+      "title": "KT: Henkilöstökulut, employer contributions wellbeing sector 2026 = 23.14%",
+      "publisher": "See title",
+      "url": "https://www.kt.fi/tilastot-ja-julkaisut/henkilostokulut",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-kymjohto",
+      "title": "Kymenhva: Hyvinvointialueen johto (roles: johtajaylilääkäri / CMO; hallintoylilääkäri, erikoissairaanhoito / administrative chief physician, specialised care; johtajaylihoitaja / chief nursing officer)",
+      "publisher": "See title",
+      "url": "https://kymenhva.fi/toimipisteet-ja-yhteystiedot/yhteystiedot/hyvinvointialueen-johto/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-kymlung",
+      "title": "Kymenhva: Keuhkosyöpä ja keuhkopussin mesoteliooma (lung meeting; surgery decision and surgery at Meilahti)",
+      "publisher": "See title",
+      "url": "https://kymenhva.fi/palvelut-ja-ajanvaraus/erikoissairaanhoito/poliklinikat-ja-erikoisalat/keuhkosairaudet/keuhkosyopa-ja-mesoteliooma/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-laporg",
+      "title": "Lapin hyvinvointialue: Hallinto ja organisaatio (roles: johtajaylilääkäri / CMO; somaattisen erikoissairaanhoidon johtaja / director of somatic specialised care; vs. hoitotyön johtaja / acting director of nursing)",
+      "publisher": "See title",
+      "url": "https://lapha.fi/tietoameista/hallinto-ja-organisaatio",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-lapsyopa",
+      "title": "Lapin hyvinvointialue: Syöpätaudit (radiotherapy given at OYS)",
+      "publisher": "See title",
+      "url": "https://lapha.fi/syopataudit",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-oyslung",
+      "title": "OYS: Keuhkosyöpäpotilaan hoitopolku (university hospital responsible for lung-cancer MDTs, surgery, radiotherapy)",
+      "publisher": "See title",
+      "url": "https://oys.fi/palvelumme/syopataudit/keuhkosyopapotilaan-hoitopolku/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-pohde",
+      "title": "Pohde: Pohjois-Suomen yhteistyöalueen tutkimustoimikunta 2025–2029 (includes the johtajaylilääkäri / CMO, Pohde)",
+      "publisher": "See title",
+      "url": "https://pohde.fi/tietoa-meista/paatoksenteko/pohjois-suomen-yhteistyoalueen-tutkimustoimikunta/",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-filha26",
+      "title": "Filha: Keuhkosyöpäpäivä 27.11.2026 programme (FICAN North director, OYS, speaking)",
+      "publisher": "See title",
+      "url": "https://www.filha.fi/wp-content/uploads/2026/10/Keuhkosyopapaiva-2026-ohjelma.pdf",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    },
+    {
+      "id": "src-rec-huskym",
+      "title": "HUS: Kymenlaakson keskussairaalan laboratorio",
+      "publisher": "See title",
+      "url": "https://www.hus.fi/potilaalle/sairaalat-ja-toimipisteet/kymenlaakson-keskussairaalan-laboratorio",
+      "accessed": "2026-11-14",
+      "year": null,
+      "note": ""
+    }
+  ]
+}

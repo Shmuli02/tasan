@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0024
+document_id: SYN-P0024-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-07-03
+display_name: John Placeholder SYN-P0024 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 3.7.2026. Patient: John Placeholder SYN-P0024 (SYN-P0024), f. 24.2.1938.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 1.7.2026.
+Höftprotes opererad 4.11.2022.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

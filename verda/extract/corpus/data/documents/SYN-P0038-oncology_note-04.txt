@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0038
+document_id: SYN-P0038-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-04-22
+display_name: Olli Oletettu SYN-P0038 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 22.4.2026. Potilas: Olli Oletettu SYN-P0038 (SYN-P0038), s. 9.6.1959.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: keuhkoklinikan lähete saapui 2026-04-04.
+Thoraxin TT tehty 12.4.2026.
+Biopsia peruttiin potilaan toiveesta.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Lonkkaproteesi operoitu 26.3.2024.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

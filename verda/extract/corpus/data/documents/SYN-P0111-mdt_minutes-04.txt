@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0111
+document_id: SYN-P0111-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-07-26
+display_name: Helen Mockpatient SYN-P0111 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 26.7.2026. Poitlas: Helen Mockpatient SYN-P0111 (SYN-P0111), s. 26.1.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: keuhkoklinikan lähete saapui 2026-06-24.
+Päätettiin toissapäivänä aloittaa SBRT.
+Moniammatillinen kokous (MDT) 24.7: suositellaan etenemistä hoitoon.
+Edlelinen keuhkokuume hoidettu 10.8.2013.
+
+Kirjaaja: synteettinen testikäyttäjä. TTämä ei ole oikea potilsakertomus.

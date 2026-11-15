@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0021
+document_id: SYN2-P0021-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-03-11
+display_name: Karin Konstruerad SYN2-P0021 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 11.3.2026. Potilas: Karn Konstruerad SYN2-P0021 (SYN2-P0021), s. 28.9.1940.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvit telystä (synteettinen harjoitusteksti).
+Kudosnäytteet haettiin toimenpiteessä 1. helmikuuta 2026.
+Kuvantaminen tehtiin 25. tammikuuta 2026 (varaus oli aiemmin).
+Kliin-inen valinta tehtiin he-lmikuun 20. päivänä 2026: kiilaresek tio.
+Yhteisalaveri järjest-ettiin 18-02-2026; linja muodostettiin siellä.
+Morforloginen tulos tuli 13-02-2026 (pienisoluinen keuhkosyöpä).
+Ensimmäinen hoitokerta oli 11-03-2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi tammikuun 19. päivä nä 2026.
+Tähystys peruttiin viime hetke-llä eikä näytettä saatu.
+— ote van-hasta kirjauksesta 14.6.2020: syntymäaika 28.9.1940; sappirakon poisto 14.6.2020; ei liity nykyiseen keuh koselvittelyyn. —
+Aiemmin jjossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen te-stikäyttäjä. Tämä ei ole oikea potilaskertomus.

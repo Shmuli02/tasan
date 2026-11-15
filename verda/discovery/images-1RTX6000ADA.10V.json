@@ -1,0 +1,371 @@
+{
+  "http_status": 200,
+  "path": "/images?instance_type=1RTX6000ADA.10V",
+  "body": [
+    {
+      "id": "bfed8820-7d73-4b01-a4a6-c27ad8863a0d",
+      "image_type": "26.04.cuda13.4.kubernetes-1.37.0",
+      "name": "Ubuntu 26.04 + CUDA 13.4 Open + Kubernetes 1.37.0",
+      "is_default": false,
+      "category": "kubernetes",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.4 Open",
+        "Kubernetes 1.37.0"
+      ]
+    },
+    {
+      "id": "f5634dc2-eb33-4613-8f1d-b2fde6d693b9",
+      "image_type": "26.04.cuda13.4.kubernetes-1.36.4",
+      "name": "Ubuntu 26.04 + CUDA 13.4 Open + Kubernetes 1.36.4",
+      "is_default": false,
+      "category": "kubernetes",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.4 Open",
+        "Kubernetes 1.36.4"
+      ]
+    },
+    {
+      "id": "900707e4-0e24-4d9b-9a0a-c3557841fc98",
+      "image_type": "26.04.cuda13.4.kubernetes-1.35.8",
+      "name": "Ubuntu 26.04 + CUDA 13.4 Open + Kubernetes 1.35.8",
+      "is_default": false,
+      "category": "kubernetes",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.4 Open",
+        "Kubernetes 1.35.8"
+      ]
+    },
+    {
+      "id": "6213e147-5e60-49ea-8173-c4e3de1ac6ef",
+      "image_type": "26.04.cuda13.4.docker",
+      "name": "Ubuntu 26.04 + CUDA 13.4 Open + Docker",
+      "is_default": false,
+      "category": "docker",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.4 Open",
+        "Docker"
+      ]
+    },
+    {
+      "id": "d42bf255-0547-4aeb-94ac-c5c0138e6bba",
+      "image_type": "26.04.cuda13.4",
+      "name": "Ubuntu 26.04 + CUDA 13.4 Open",
+      "is_default": false,
+      "category": "ubuntu",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.4 Open"
+      ]
+    },
+    {
+      "id": "1c9e57f7-b47d-44ba-a8b9-91e9479f7489",
+      "image_type": "26.04.cuda13.2.kubernetes-1.34.9",
+      "name": "Ubuntu 26.04 + CUDA 13.2 Open + Kubernetes 1.34.9",
+      "is_default": false,
+      "category": "kubernetes",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.2 Open",
+        "Kubernetes 1.34.9"
+      ]
+    },
+    {
+      "id": "58cba2ca-136c-4366-aeac-e96f94c8d4f7",
+      "image_type": "26.04.cuda13.2.kubernetes-1.33.13",
+      "name": "Ubuntu 26.04 + CUDA 13.2 Open + Kubernetes 1.33.13",
+      "is_default": false,
+      "category": "kubernetes",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.2 Open",
+        "Kubernetes 1.33.13"
+      ]
+    },
+    {
+      "id": "603f7d69-882c-4000-9c25-7843ae307ff6",
+      "image_type": "26.04.cuda13.2.docker",
+      "name": "Ubuntu 26.04 + CUDA 13.2 Open + Docker",
+      "is_default": false,
+      "category": "docker",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.2 Open",
+        "Docker"
+      ]
+    },
+    {
+      "id": "e25c357f-01f7-497d-a3fa-36c9c4e27403",
+      "image_type": "26.04.cuda13.2",
+      "name": "Ubuntu 26.04 + CUDA 13.2 Open",
+      "is_default": false,
+      "category": "ubuntu",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.2 Open"
+      ]
+    },
+    {
+      "id": "4bc874c8-0808-4759-8793-1f020d4b2bf5",
+      "image_type": "26.04.cuda13.0.docker",
+      "name": "Ubuntu 26.04 + CUDA 13.0 Open + Docker",
+      "is_default": false,
+      "category": "docker",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.0 Open",
+        "Docker"
+      ]
+    },
+    {
+      "id": "4509ff2c-f3d0-436c-b0a7-00d9105f80bf",
+      "image_type": "26.04.cuda13.0",
+      "name": "Ubuntu 26.04 + CUDA 13.0 Open",
+      "is_default": false,
+      "category": "ubuntu",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.0 Open"
+      ]
+    },
+    {
+      "id": "a4dd4c9b-35af-4287-80f7-a5fcd55472d7",
+      "image_type": "26.04.cuda12.9.docker",
+      "name": "Ubuntu 26.04 + CUDA 12.9 Open + Docker",
+      "is_default": false,
+      "category": "docker",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 12.9 Open",
+        "Docker"
+      ]
+    },
+    {
+      "id": "40b1dd84-ec24-49e0-9543-5b8ca74580e5",
+      "image_type": "26.04.cuda12.9",
+      "name": "Ubuntu 26.04 + CUDA 12.9 Open",
+      "is_default": false,
+      "category": "ubuntu",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 12.9 Open"
+      ]
+    },
+    {
+      "id": "418f4300-c933-40cd-82fc-a87c2bba159d",
+      "image_type": "24.04.cuda13.4.docker",
+      "name": "Ubuntu 24.04 + CUDA 13.4 Open + Docker",
+      "is_default": false,
+      "category": "docker",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 24.04",
+        "CUDA 13.4 Open",
+        "Docker"
+      ]
+    },
+    {
+      "id": "ab817d1b-0832-4a76-b7eb-5e7b0420d2a9",
+      "image_type": "24.04.cuda13.4",
+      "name": "Ubuntu 24.04 + CUDA 13.4 Open",
+      "is_default": false,
+      "category": "ubuntu",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 24.04",
+        "CUDA 13.4 Open"
+      ]
+    },
+    {
+      "id": "e85c6fbe-22f7-44e6-8697-5ef75b6534cc",
+      "image_type": "24.04.cuda13.2.docker",
+      "name": "Ubuntu 24.04 + CUDA 13.2 Open + Docker",
+      "is_default": false,
+      "category": "docker",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 24.04",
+        "CUDA 13.2 Open",
+        "Docker"
+      ]
+    },
+    {
+      "id": "c8e20333-767c-40d2-8acb-bc0b7fc761c3",
+      "image_type": "24.04.cuda13.2",
+      "name": "Ubuntu 24.04 + CUDA 13.2 Open",
+      "is_default": false,
+      "category": "ubuntu",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 24.04",
+        "CUDA 13.2 Open"
+      ]
+    },
+    {
+      "id": "59cd1ccb-499e-4053-9690-3ca4c898351b",
+      "image_type": "24.04.cuda13.0.docker",
+      "name": "Ubuntu 24.04 + CUDA 13.0 Open + Docker",
+      "is_default": false,
+      "category": "docker",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 24.04",
+        "CUDA 13.0 Open",
+        "Docker"
+      ]
+    },
+    {
+      "id": "729bc24f-1209-4e3b-a606-6e7ecdbd5027",
+      "image_type": "24.04.cuda13.0",
+      "name": "Ubuntu 24.04 + CUDA 13.0 Open",
+      "is_default": false,
+      "category": "ubuntu",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 24.04",
+        "CUDA 13.0 Open"
+      ]
+    },
+    {
+      "id": "223560c6-6801-4cb1-9ba7-e8ba97c6c815",
+      "image_type": "24.04.cuda12.9.docker",
+      "name": "Ubuntu 24.04 + CUDA 12.9 Open + Docker",
+      "is_default": false,
+      "category": "docker",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 24.04",
+        "CUDA 12.9 Open",
+        "Docker"
+      ]
+    },
+    {
+      "id": "efeebdc5-47f2-4e4c-879e-cfbbc16fc8da",
+      "image_type": "24.04.cuda12.9",
+      "name": "Ubuntu 24.04 + CUDA 12.9 Open",
+      "is_default": false,
+      "category": "ubuntu",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 24.04",
+        "CUDA 12.9 Open"
+      ]
+    },
+    {
+      "id": "2f529adb-25fe-4603-b36c-431c938b9e79",
+      "image_type": "24.04.base",
+      "name": "Ubuntu 24.04",
+      "is_default": false,
+      "category": "ubuntu",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 24.04",
+        "Minimal Image"
+      ]
+    },
+    {
+      "id": "1afc0684-ecb6-42a7-a713-937b304bab3f",
+      "image_type": "26.04.cuda13.4.docker.jupyterlab",
+      "name": "Jupyter",
+      "is_default": true,
+      "category": "jupyterLab",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "CUDA 13.4",
+        "PyTorch 2.14"
+      ]
+    },
+    {
+      "id": "8012f3e9-5634-4113-b940-48b3acf5c486",
+      "image_type": "debian13.cuda13.4.kubernetes-1.37.0",
+      "name": "Debian 13 + CUDA 13.4 Open (driver 595) + Kubernetes 1.37.0",
+      "is_default": false,
+      "category": "debian",
+      "is_cluster": false,
+      "details": [
+        "Debian 13",
+        "CUDA 13.4 Open (driver 595)",
+        "Kubernetes 1.37.0"
+      ]
+    },
+    {
+      "id": "b60d5931-e221-4864-b86d-00ad25188352",
+      "image_type": "debian13.cuda13.4.kubernetes-1.36.4",
+      "name": "Debian 13 + CUDA 13.4 Open (driver 595) + Kubernetes 1.36.4",
+      "is_default": false,
+      "category": "debian",
+      "is_cluster": false,
+      "details": [
+        "Debian 13",
+        "CUDA 13.4 Open (driver 595)",
+        "Kubernetes 1.36.4"
+      ]
+    },
+    {
+      "id": "10b6c951-4eed-4255-a56a-24a0127d6123",
+      "image_type": "debian13.cuda13.4.kubernetes-1.35.8",
+      "name": "Debian 13 + CUDA 13.4 Open (driver 595) + Kubernetes 1.35.8",
+      "is_default": false,
+      "category": "debian",
+      "is_cluster": false,
+      "details": [
+        "Debian 13",
+        "CUDA 13.4 Open (driver 595)",
+        "Kubernetes 1.35.8"
+      ]
+    },
+    {
+      "id": "51c75f56-fee2-4463-951b-7e58ed3f20ff",
+      "image_type": "debian13.cuda13.4",
+      "name": "Debian 13 + CUDA 13.4 Open (driver 595)",
+      "is_default": false,
+      "category": "debian",
+      "is_cluster": false,
+      "details": [
+        "Debian 13",
+        "CUDA 13.4 Open (driver 595)"
+      ]
+    },
+    {
+      "id": "d6825884-3183-4b30-93cd-ba0f5915321e",
+      "image_type": "debian13.base",
+      "name": "Debian 13",
+      "is_default": false,
+      "category": "debian",
+      "is_cluster": false,
+      "details": [
+        "Debian 13",
+        "Minimal Image"
+      ]
+    },
+    {
+      "id": "6c93c8b3-4f48-4252-82b3-f199fb9b701b",
+      "image_type": "26.04.base",
+      "name": "Ubuntu 26.04",
+      "is_default": false,
+      "category": "ubuntu",
+      "is_cluster": false,
+      "details": [
+        "Ubuntu 26.04",
+        "Minimal Image"
+      ]
+    }
+  ]
+}

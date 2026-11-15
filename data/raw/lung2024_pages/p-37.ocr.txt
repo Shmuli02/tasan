@@ -1,0 +1,25 @@
+SUOMEN SYOPAREKISTERI
+Miehet | Naiset
+100
+50
+25
+10 11 12 | 10  1112
+Kuukausiaprimaarihoidonaloittamisesta
+Leikkaushoito | Laakehoito | Muu kuin palliativinen sadehoito | Palliativinen hoito
+KUvA 5.1: Keuhkosyopapotilaiden ikavakioitu elossaolo-osuus o-12 kuukautta ensivaiheen hoidon aloittamisen
+jalkeen sukupuolittain ja ensivaiheen hoidon mukaan.
+TAULUKKO 5.2: Keuhkosyopapotilaiden ikavakioitu yhden vuoden elossaolo-osuus ensivaiheen hoidon aloitta-
+misesta ja elossaolo-osuuksien 95 % luottamusvalit sukupuolen ja ensivaiheen hoidon mukaan.
+12 kk:n | Elossaolo-osuuden
+Sukupuoli | Ensihoito
+elossaolo-osuus (%) | 95 % luottamusvali
+Leikkaushoito | 89,2 | 86,9-91,1
+Laakehoito | 47,0 | 44,2-49,8
+Miehet
+Muu kuin palliativinen sadehoito | 40,0 | 37,3-42,6
+Palliativinen hoito | 15,8 | 13,8-17,9
+Leikkaushoito | 95,3 | 93,5-96,6
+Laakehoito | 55,5 | 51,9-59,0
+Naiset
+Muu kuin palliatiivinen sadehoito | 48,5 | 45,1-51,8
+Palliatiivinen hoito | 14,5 | 11,9-17,3

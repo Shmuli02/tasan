@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0092
+document_id: SYN2-P0092-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-24
+display_name: Hannu Harjoitus SYN2-P0092 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synt eettisen hyvinvointialueen keskussairaala
+Kirjau späiv-ä 24.7.2026. Potilas: Hannu Harjoitus SYN2-P0092 (SYN2-P0092), s. 19.6.1952.
+SYN-TEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Leikekuvaus on suoritettu kesäkuun 22. päivänä 2026.
+Kliininen valinta tehtiin 10-07-2026: kuratiivinen lobektomia.
+Yhteispalaveri järjestettiin viikolla 28 torstaina (2026); linja muodostettiin siellä.
+Toimenpide toteutui heinäkuun 24. päivänä 2026 (kuratiivinen lobektomia).
+Lähete saapui toimistoon 15. kesäkuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Tähystyksen yhteydessä punktionäyte 26. kesäkuuta 2026.
+Laboratorio ilmoitt i histologian heinäkuun 7. päivänä 2026: NSCLC, ei tarkemmin luokiteltu.
+A-ktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoeh toja.
+Kuvantaminen on vasta ajanvaraus 30. heinäkuuta 2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 8.11.2015: syntymäaika 19.6.1952; sappirakon poisto 8.11.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaprote esi opero-itu 21.8.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei o1e oikea potilaskertomus.

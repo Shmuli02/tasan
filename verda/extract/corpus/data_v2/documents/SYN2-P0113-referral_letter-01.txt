@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0113
+document_id: SYN2-P0113-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-07-16
+display_name: Aino Synteettinen SYN2-P0113 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 16.7.2026. Patient: Aino Synteettinen SYN2-P0113 (SYN2-P0113), f. 20.9.1952.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Konsultations begäran skrevs juli den 10 år 2026, men registrerades som inkommen först den 15 juli 2026.
+— utdrag ur äldre anteckning 8.1.2015: födelsedatum 20.9.1952; galloperation 8.1.2015; hör inte till den aktuella lungutredningen. —
+Födelsedatum 20.9.1952 kontrollerat i befolkningsuppgifterna.
+
+Anteckn-at av: sy ntetisk testanvändare. Detta är inte en verklig journal.

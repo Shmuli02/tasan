@@ -1,0 +1,22 @@
+{
+ "_doc": "Scenarios for the Tasan day-28 alert + nurse navigator. Effects reduce referral->treatment days for patients still untreated at the alert day. 'zero_effect' runs the full intervention code path with a 0-day effect and must reproduce baseline.",
+ "scenarios": [
+  {"id": "baseline", "label": "Current pathway (calibrated to registry curves)", "intervention": false},
+  {"id": "zero_effect", "label": "Day-28 alert + navigator, NO effect", "intervention": true,
+   "effect_days": {"dist": "fixed", "value": 0},
+   "source": "Battaglia TA et al. 2016 (recs/top3.md): navigation had no effect at 60/180 days; always shown"},
+  {"id": "low", "label": "Alert + navigator, low what-if (-12 days)", "intervention": true,
+   "effect_days": {"dist": "fixed", "value": 12},
+   "source": "Cheema PK et al. 2017 (recs/top3.md): time to first-line therapy 36 -> 24 days (reflex EGFR/ALK). ASSUMPTION: effect_transfer"},
+  {"id": "mid", "label": "Alert + navigator, mid what-if (-16 days)", "intervention": true,
+   "effect_days": {"dist": "fixed", "value": 16},
+   "source": "Hiu Nian Chung J et al. 2025 (recs/top3.md): referral -> decision to treat 20 -> 4 days (one-stop clinic). ASSUMPTION: effect_transfer"},
+  {"id": "high", "label": "Alert + navigator, high what-if (-24 days, 95% CI 12-35)", "intervention": true,
+   "effect_days": {"dist": "normal_from_ci", "mean": 24, "ci95": [12, 35], "min": 0},
+   "source": "Ezer N et al. 2017 (recs/top3.md): time to first treatment -24 days (95% CI 12-35), rapid investigation clinic. ASSUMPTION: effect_transfer"},
+  {"id": "crowding_out", "label": "Mid what-if + crowding-out of non-alerted patients", "intervention": true,
+   "effect_days": {"dist": "fixed", "value": 16},
+   "crowding_extra_days": {"dist": "uniform", "range": [0, 5]},
+   "source": "Olsson O 2020 (recs/top3.md) for direction; magnitude is ASSUMPTION crowding_extra_days"}
+ ]
+}

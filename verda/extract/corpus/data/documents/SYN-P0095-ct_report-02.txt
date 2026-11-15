@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0095
+document_id: SYN-P0095-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-05-11
+display_name: Tuula Testinen SYN-P0095 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 11.5.2026. Potilas: Tuula Testinen SYN-P0095 (SYN-P0095), s. 27.8.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 23.4.2026.
+Keuhko-TT tehty 9.5. Kuvauksessa todettiin oikean keskilohohon 4,0 cm massa.
+Hoitoa ei ole aloitettu.
+Edellinen keuhkokuume hoidettu 5.7.2018.
+Syntymäaika 27.8.1945 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

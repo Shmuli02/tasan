@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0087
+document_id: SYN-P0087-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-09-13
+display_name: Eeva Esimerkki SYN-P0087 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 13.9.2026. Potilas: Eeva Eismerkki SYN-P0087 (SYN-P0087), s. 12.6.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyopaepailyn selvittely (synteettien esimerkki).
+Esitiedot: ähete saapunut keuhkoklinikalle 2.8.2026.
+Esitieodt: thoraxin TT tehty 14.8.2026.
+Esitiedot: biopsiat otettu bronkoskopiassa 25.8.2026.
+Esitiedt: pAD-vastaus valmistui 4.9.2026: adenokarsinooma.
+Hoitopätös 2026-09-12: kiilareesktio.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Edellinen keuhkokuume hoidetu 25.7.2010.
+
+Kirjaaja: synteetttinen testikäyttäjä. Tama ei ole oikea potilaskertomus.

@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0066
+document_id: SYN-P0066-biopsy_note-04
+document_type: biopsy_note
+language: fi
+note_date: 2026-07-21
+display_name: Olli Oletettu SYN-P0066 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 21.7.2026. Potilas: Olli Oletettu SYN-P0066 (SYN-P0066), s. 18.8.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 4.7.
+Esitiedot: thoraxin TT tehty 15.7.2026.
+Moniammatillinen kokous (MDT) viikko sitten: suositellaan etenemistä hoitoon.
+EBUS-bronkoskopia suoritettu 20.7.2026; biopsiat otettu.
+TT suunniteltu 31.7.2026 (ei vielä tehty).
+Edellinen keuhkokuume hoidettu 19.3.2021.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

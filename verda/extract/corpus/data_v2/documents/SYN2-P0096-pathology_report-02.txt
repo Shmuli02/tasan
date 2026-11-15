@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0096
+document_id: SYN2-P0096-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-04-15
+display_name: Kari Keinotekoinen SYN2-P0096 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 15.4.2026. Potilas: Kari Keinotek-oinen SYN2-P0096 (SYN2-P0096), s. 17.9.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tähystyksen yhteydessä punktionäyte huhtikuun 7. päivänä 2026.
+Kuvausaika merkittiin kalenteriin 26. maaliskuuta 2026; itse tutkimus toteutettiin viikolla 13 sunnuntaina (2026).
+Laboratorio ilmoitti histologian huht-ikuun 14. päivänä 2026: NSCLC, ei tarkemmin luokiteltu.
+K-onsultaatiopyyntö kirjattiin saapuneeksi maaliskuun 23. päi-vänä 2026.
+Kuvissa erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+— ote vanhasta kirjauksesta 18.10.2015: syntymä aika 17.9.1948; sappirakon poisto 18.10.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+S appirakon poisto tehty 21.8.2014 (ei liity nykyiseen selvitt elyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

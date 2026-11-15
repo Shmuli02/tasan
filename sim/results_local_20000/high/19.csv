@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,baseline,pct_le42_from_referral,34.4741,15.5844,33.3333,56.9767,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,baseline,pct_le42_from_diagnosis,63.8777,53.0858,63.9535,74.2857,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,baseline,median_days_referral_to_treatment,56.6908,37.0,56.5,78.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,baseline,median_days_diagnosis_to_treatment,30.6239,22.5,30.5,39.5,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,baseline,n_patients,209.988,182.0,210.0,239.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,baseline,n_active_treated,84.298,66.0,84.0,104.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,baseline,n_le42_from_referral,29.0773,12.0,28.0,50.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,baseline,n_untreated_at_alert_day,68.7715,48.0,69.0,90.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,scenario,pct_le42_from_referral,59.3744,35.7143,59.7403,80.8989,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,scenario,median_days_referral_to_treatment,35.7183,28.0,32.4647,56.8698,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,scenario,n_patients,209.988,182.0,210.0,239.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,scenario,n_active_treated,84.298,66.0,84.0,104.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,scenario,n_le42_from_referral,50.0581,28.0,50.0,73.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,delta,pct_le42_from_referral,24.9003,11.1083,24.6914,40.2065,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,delta,median_days_referral_to_treatment,-20.9724,-32.9932,-21.0,-9.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,delta,n_patients,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,delta,n_active_treated,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+19,North Ostrobothnia wellbeing services county,YTA-POHJOIS,high,delta,n_le42_from_referral,20.9807,9.0,21.0,35.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast

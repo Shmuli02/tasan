@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0012
+document_id: SYN2-P0012-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-04-21
+display_name: Kari Keinotekoinen SYN2-P0012 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 21.4.2026. Potilas: Kari Keinotekoinen SYN2-P0012 (SYN2-P0012), s. 6.11.1960.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 21. maaliskuuta 2026.
+Yhteispalaveri järjestettiin huhtikuun 21. päivänä 2026; linja muodostettiin siellä.
+Tiimik okousta ei järjestetty täl-lä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 21.1.2020: syntymäaika 6.11.1960; sappirak0n poisto 21.1.2020; ei liity nykyiseen keuhkoselvittelyyn. —
+Potilas tupakoinut aiemmin; vi eroitusohjaus annettu.
+
+Kirjaaa: synteettinen testikäyttäjä. Tämä ei ole oike-a potilaskertomus.

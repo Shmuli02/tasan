@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0029
+document_id: SYN-P0029-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-06-13
+display_name: Aino Synteettinen SYN-P0029 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 13.6.2026. Potilas: Aino Synteettinen SYN-P0029 (SYN-P0029), s. 7.3.1967.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 2026-05-14.
+Thoraxin TT tehty 26.5.26.
+EBUS-bronkoskopia suoritettu 29.5.26; biopsiat otettu.
+Histologinen vastaus saapui 5/6/2026 (levyepiteelikarsinooma).
+MDT 11.6.2026: hoitolinja vahvistettu.
+Hoitopäätös 11.6.2026: SBRT.
+Biopsia peruttiin potilaan toiveesta.
+Lonkkaproteesi operoitu 22.10.2019.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0104
+document_id: SYN2-P0104-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-25
+display_name: Johan Testdata SYN2-P0104 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 25.6.2026. Poti l as: Johan Tesdtata SYN2-P0104 (SYN2-P0104), s. 14.10.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Toimenpide varattiin 20-06-2026, mutta näyte otettiin vasta 25-06-2026.
+Kuvantaminen tehtiin 13. kesäkuuta 2026 (varaus oli aiemmin).
+Pyyntö tuli perille 10. kesäkuuta 2026.
+— ote vanhasta kirjauksesta 5.1.2017: syntymäaika 14.10.1966; sappirakon poisto 5.1.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun al ussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Potilas tupakoinut aiemm in; vieroitusohjau s annettu.
+Syntymäaika 14.10.1966 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettine n testikäyttäjä. Tämä ei ole oikea potilaskertomus.

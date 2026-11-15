@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0056
+document_id: SYN2-P0056-ct_report-01
+document_type: ct_report
+language: fi
+note_date: 2026-06-25
+display_name: Peter Samplecase SYN2-P0056 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen kesku ssairaala
+Kirjauspäivä 25.6.2026. Potilas: Peter Sample-case SYN2-P0056 (SYN2-P0056), s. 22.4.1954.
+SYN TEETTINEN p0tilaskert oomus, ei oikeaa henki1öä.
+
+Diktoitu merkintä keuhkos elvit-telystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö laadittiin kesäkuun 19. päivänä 2026, mutta se kirjattiin saapuneeksi vasta sunnuntaina.
+Kuvausaika merkittiin kalenteriin kesäkuun 17. päivänä 2026; itse tutkimus toteutettiin viikolla 26 toorstaina (2026).
+Kuvissa erottui oikean keskilohohon 4,0 cm massa.
+— ote vanhasta kirjauksesta 11.3.2023: syntymäaika 22.4.1954; sappirakon poisto 11.3.2023; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaproteesi operoitu 6.10.2013.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

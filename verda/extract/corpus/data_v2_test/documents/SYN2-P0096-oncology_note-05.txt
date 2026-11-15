@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0096
+document_id: SYN2-P0096-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-05-03
+display_name: Kari Keinotekoinen SYN2-P0096 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+S ynteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 3.5.2026. Potilas: Kari Keinotekoinen SYN2-P0096 (SYN2-P0096), s. 17.9.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille 23. maaliskuuta 2026.
+Ensimmäinen hoitokerta oli 1. toukokuuta 2026.
+Kuvantaminen tehtiin 1. huhtikuuta 2026 (varaus oli aiemmin).
+Kliininen valin-ta tehtiin 23. huhtikuuta 2026: sädehoito.
+Tiimikokous pidettiin 20. huhtikuuta 2026 ja suositus kirjattiin.
+Näyte otettiin tähystyksessä huhtikuun 7. päivänä 2026.
+Laboratorio ilmoitti histologian 14-04-2026: pienisoluinen keuhkosyöpä.
+Kuvantaminen on vasta ajanvaraus 12. toukokuuta 2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 17.2.2019: syntymäaika 17.9.1948; sappira kon poisto 17.2.2019; ei liity n-ykyiseen keuhkoselvittelyyn. —
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

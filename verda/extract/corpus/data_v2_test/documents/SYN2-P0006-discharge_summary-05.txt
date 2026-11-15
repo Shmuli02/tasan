@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0006
+document_id: SYN2-P0006-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-09-17
+display_name: Pekka Paikkamerkki SYN2-P0006 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 17.9.2026. Potilas: Pekka Paikkamerkki SYN2-P0006 (SYN2-P0006), s. 4.7.1966.
+SYNTEET TINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille 18. heinäkuuta 2026.
+Näte otettiin tähystyksessä 6. elokuuta 2026.
+Yhteispalaveri järjestettiin elokuun 21. päivänä 2026; linja muodostettiin siellä.
+Laboratorio il moitti histologian 15-08-2026: levyepiteelikarsinooma.
+Toimenpide toteutui viikolla 38 tiistaina (2026) (solunsalpaaja).
+Kerroskuvaus toteutettiin heinäkuun 28. päivänä 2026.
+Tiimikokousta ei järjestetty tällä käynni-llä, se on siirretty.
+— ote vanhasta kirjauksesta 28.12.2022: syntymäaika 4.7.1966; sappirakon poisto 28.12.2022; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteet-tinen testikäytätjä. Tämä ei ole oikea potilaskertomus.

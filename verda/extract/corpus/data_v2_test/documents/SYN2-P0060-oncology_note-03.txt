@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0060
+document_id: SYN2-P0060-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-04-01
+display_name: Yrjö Yksikkötesti SYN2-P0060 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Ma1likylän keuhkoklinikka
+Ki-rjauspäivä 1.4.2026. Potilas: Yrjö Yksikkötesti SYN2-P0060 (SYN2-P0060), s. 6.5.1960.
+SYNTEETTINEN potilaskert o-mus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Lähete saapui toimistoon 10. maaliskuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Kokoontuminen maaliskuun 31. päivänä 2026: eri erikoisalojen yhteinen kanta merkitty.
+Kliininen valinta tehtiin e ilen: kiilaresektio.
+Leikekuvaus on suoritettu maaliskuun 18. päivänä 2026.
+Tähystyksen yhteydessä punktionäyte 24-03-2026.
+Morforloginen tulos tuli 28. maaliskuuta 2026 (NSCLC, ei tarkemmin luokiteltu).
+— ote vanhasta kirjauksesta 3.9.2021: syntymäaika 6.5.1960; sappirakon poisto 3.9.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaproteesi operoitu 9.3.2023.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

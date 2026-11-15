@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0095
+document_id: SYN-P0095-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-05-27
+display_name: Tuula Testinen SYN-P0095 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 27.5.2026. Potilas: Tuula Testinen SYN-P0095 (SYN-P0095), s. 27.8.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 23.4.2026.
+Esitiedot: thoraxin TT tehty 9.5.
+Bronkoskopia ja biopsia tehty 15.5.
+Patologin lausunto 25/5/2026: pienisoluinen keuhkosyöpä.
+Syntymäaika 27.8.1945 tarkistettu väestötiedoista.
+Edellinen keuhkokuume hoidettu 19.8.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

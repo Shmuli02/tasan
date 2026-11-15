@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0120
+document_id: SYN-P0120-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-04-28
+display_name: Hannu Harjoitus SYN-P0120 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 28.4.2026. Potilas: Hannu Harjoitus SYN-P0120 (SYN-P0120), s. 18.4.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 2026-04-12.
+EBUS-bronkoskopia suoritettu 28.4; biopsiat otettu.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Sappirakon poisto tehty 13.6.2018 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

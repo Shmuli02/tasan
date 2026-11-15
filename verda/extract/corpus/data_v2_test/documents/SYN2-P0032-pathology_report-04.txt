@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0032
+document_id: SYN2-P0032-pathology_report-04
+document_type: pathology_report
+language: sv
+note_date: 2026-02-16
+display_name: Yrjö Yksikkötesti SYN2-P0032 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 16.2.2026. Patient: Yrjö Yk-sikkötesti SYN2-P0032 (SYN2-P0032), f. 9.6.1955.
+SYNTETISK pat ientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Konsultationsbegäran registrerades som inkommen 2026-01-15.
+Laboratoriet meddelade histologin den 15 februari 2026: NSCLC, ej närmare klassificerad.
+Bildtagningen utfördes vecka 5 på torsdagen (2026) (tiden var bokad tidigare).
+Prov togs i samband med spe glingen 2026-02-05.
+Någ ot teammöte hölls inte vid dett-a besök.
+Födelseda-tum 9.6.1955 kontrollerat i befolkningsuppgifterna.
+
+Anteckn at av: syntetisk testanvändare. Detta är inte en verklig journal.

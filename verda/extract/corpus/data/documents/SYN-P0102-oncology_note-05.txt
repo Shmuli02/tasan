@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0102
+document_id: SYN-P0102-oncology_note-05
+document_type: oncology_note
+language: sv
+note_date: 2026-05-28
+display_name: Lars Låtsas SYN-P0102 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 28.5.2026. Patient: Lars Låtsas SYN-P0102 (SYN-P0102), f. 6.12.1940.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 7.5.26.
+Datortomografi (DT) genomfördes 11.5.2026.
+Föregående uppgifter: biopsier togs vid bronkoskopi 15.5.2026.
+PAD-svar klart 19.5: småcellig lungcancer.
+Beslutades 26.5 att gå vidare med cytostatika.
+Gallblåsan opererades bort 12.12.2015 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

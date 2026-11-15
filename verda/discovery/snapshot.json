@@ -1,0 +1,142 @@
+{
+  "fetched_at_eet": "2026-11-14 20:42–20:44 EET (Europe/Helsinki, UTC+2)",
+  "method": "read-only GET; no instances created; no inference completions",
+  "locations": [
+    {
+      "code": "FIN-01",
+      "name": "Finland 1",
+      "country_code": "FI"
+    },
+    {
+      "code": "FIN-02",
+      "name": "Finland 2",
+      "country_code": "FI"
+    },
+    {
+      "code": "FIN-03",
+      "name": "Finland 3",
+      "country_code": "FI"
+    }
+  ],
+  "available_now": [
+    {
+      "location": "FIN-01",
+      "type": "1A100.22V",
+      "hardware": "1x A100 SXM4 80GB, 22 vCPU, 120 GB RAM",
+      "ondemand_usd_per_h": 2.386,
+      "spot_usd_per_h": 1.193,
+      "ondemand_in_stock": true,
+      "spot_in_stock": true
+    },
+    {
+      "location": "FIN-02",
+      "type": "1RTX6000ADA.10V",
+      "hardware": "1x RTX 6000 Ada 48GB, 10 vCPU, 60 GB RAM",
+      "ondemand_usd_per_h": 1.606,
+      "spot_usd_per_h": 0.803,
+      "ondemand_in_stock": true,
+      "spot_in_stock": true
+    },
+    {
+      "location": "FIN-03",
+      "type": "8B300.240V.CC.AMD",
+      "hardware": "8x B300 CC 268GB",
+      "ondemand_usd_per_h": 101.3,
+      "spot_usd_per_h": 50.63,
+      "ondemand_in_stock": true,
+      "spot_in_stock": false,
+      "note": "do not launch; blows the $25 cap"
+    },
+    {
+      "location": "FIN-03",
+      "type": "8B200.240V.CC.INTEL",
+      "hardware": "8x B200 CC 180GB",
+      "ondemand_usd_per_h": 77.59,
+      "spot_usd_per_h": 38.79,
+      "ondemand_in_stock": false,
+      "spot_in_stock": true,
+      "note": "do not launch; blows the $25 cap"
+    }
+  ],
+  "explicitly_unavailable_checked": [
+    "CPU.4V.16G",
+    "CPU-TURIN.4V.16G",
+    "CPU.8V.32G",
+    "1V100.4V",
+    "2V100.10V",
+    "1A100.40S.22V",
+    "1H100.80S.30V",
+    "1H100.80S.32V",
+    "1H200.141S.44V",
+    "1L40S.20V",
+    "1A6000.10V",
+    "1RTXPRO6000.30V",
+    "2A100.44V",
+    "2H100.80S.80V",
+    "1B200.30V",
+    "1B300.30V"
+  ],
+  "recommended_os_image_for_1A100.22V_and_1RTX6000ADA.10V": "24.04.cuda13.4.docker",
+  "storage_usd_per_gib_month": 0.2,
+  "inference_catalog": [
+    {
+      "code": "kimi-k3-1-pro",
+      "name": "Kimi K3.1 Pro",
+      "license": "Kimi K3.1 Pro License",
+      "datacenter_country": "DE",
+      "enabled_for_this_project": true,
+      "pricing_usd_per_token": {
+        "input": "0.000002",
+        "cache_read": "0.0000002",
+        "output": "0.00001"
+      },
+      "pricing_usd_per_1m": {
+        "input": 2.0,
+        "cache_read": 0.2,
+        "output": 10.0
+      }
+    },
+    {
+      "code": "deepseek-4-1-flash-1017",
+      "name": "DeepSeek 4.1 Flash 1017",
+      "license": "MIT License",
+      "datacenter_country": "DE",
+      "enabled_for_this_project": false,
+      "accept_new_subscriptions": true,
+      "pricing_usd_per_token": {
+        "input": "0.00000015",
+        "cache_read": "0.000000006",
+        "output": "0.0000006"
+      },
+      "pricing_usd_per_1m": {
+        "input": 0.15,
+        "cache_read": 0.006,
+        "output": 0.6
+      }
+    }
+  ],
+  "inference_endpoint_models_for_this_key": [
+    "kimi-k3-1-pro"
+  ],
+  "nemotron_or_llama_or_qwen_or_mistral_on_inference_api": false,
+  "inference_usage_totals": {
+    "requests": 0,
+    "input_tokens": 0,
+    "cache_read_tokens": 0,
+    "output_tokens": 0
+  },
+  "inference_status": "active",
+  "instances_observed_not_created_by_this_work": [
+    {
+      "hostname": "tasan-full",
+      "instance_type": "1V100.4V",
+      "is_spot": true,
+      "location": "FIN-01",
+      "status": "running",
+      "created_at_eet": "2026-11-14 20:37:09 EET",
+      "description": "Tasan Twin smoke test - auto-deleted",
+      "note": "Teammate Pathway Twin full run (SPEND.md §3). Not created, modified or deleted by the Extract track."
+    }
+  ],
+  "volumes_trash": []
+}

@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0070
+document_id: SYN2-P0070-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-04-20
+display_name: Juhani Jäljitelmä SYN2-P0070 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 20.4.2026. Potilas: Juhani Jäljitelmä SYN2-P0070 (SYN2-P0070), s. 21.8.1965.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Klii ninen valinta tehtiin 12. huhtikuuta 2026: sädehoito.
+Mikroskooppinen lausunto valmistui 17. huhtikuuta 2026: levyepiteelikarsinooma.
+Toimenpide toteutui 20. huhtikuuta 2026 (sädehoito).
+Näyte otettiin tähystyksessä 12. huhtikuuta 2026.
+Kuvantaminen tehtiin 06-04-2026 (varaus oli aiemmin).
+Yhteispalaveri järjestettiin huhtikuun 12. päivänä 2026; linja muodostettiin siellä.
+Konsultaatiopyyntö kirjattiin saapuneeksi huhtikuun 2. päivänä 2026.
+Kuvantaminen on vast-a ajanv araus 26-04-2026, sitä ei ole tot-eutettu.
+— ote vanhasta kirjauksesta 6.5.2018: syntymäaika 21.8.1965; sapp irakon poisto 6.5.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oik-ea potilaskertomus.

@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0020
+document_id: SYN-P0020-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-01-21
+display_name: Johan Testdata SYN-P0020 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 21.1.2026. Potilas: Johan Testdata SYN-P0020 (SYN-P0020), s. 2.10.1940.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: keuhkoklinikan lähete saapui 5.1.26.
+TT-tutkimus tehty 21.1. Kuvauksessa todettiin ikean keskilohohon 4,0 cm massa.
+Potilas tupakonut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

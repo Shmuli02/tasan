@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0073
+document_id: SYN-P0073-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-01-14
+display_name: Eva Påhittad SYN-P0073 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 14.1.2026. Patient: Eva Påhittad SYN-P0073 (SYN-P0073), f. 25.5.1945.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 13.1.2026.
+Kontrollprov har beställts; svaren finns inte i denna anteckning.
+Gallblåsan opererades bort 15.11.2024 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

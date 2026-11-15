@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0099
+document_id: SYN2-P0099-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-03-07
+display_name: Anna Anonyymi SYN2-P0099 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylä n keuhkoklinikka
+Kirjauspäivä 7.3.2026. Pot ilas: Anna Anonyymi SYN2-P0099 (SYN2-P0099), s. 17.12.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu mer-kintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvantaminen tehtiin 16. helmikuuta 2026 (varaus oli aiemmin).
+Näyte otettiin tähystyksessä helmikuun 24. päivänä 2026.
+Laboratorio il moitti histologian tiistaina: pienisoluinen keuhkosyöpä.
+Pyyntö tuli perille 01-02-2026.
+Kliininen valinta tehtiin viikolla 10 lauantaina (2026): kiilaresektio.
+Yhteispalaveri järjestettiin maaliskuun 5. päivänä 2026; linja muodostettiin siellä.
+— ote vanhasta kirjauksesta 10.2.2020: syntymä aika 17.12.1945; sappirakon poisto 10.2.2020; ei liity nykyiseen keuhkoselvitte lyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

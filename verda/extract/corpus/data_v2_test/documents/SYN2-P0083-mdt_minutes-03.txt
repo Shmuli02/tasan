@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0083
+document_id: SYN2-P0083-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-30
+display_name: Helen Mockpatient SYN2-P0083 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 30.5.2026. Potilas: Helen Mockpatient SYN2-P0083 (SYN2-P0083), s. 22.12.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tähystyksen yhteydessä punktionäyte viikolla 21 perja ntaina (2026).
+Konsultaatiopyyntö kirjattiin saapuneeksi 4. toukokuuta 2026.
+Morforloginen tulos tuli maanantaina (NSCLC, ei tarkemmin luokiteltu).
+Leikekuvaus on suoritettu 10. toukokuuta 2026.
+Kokoontuminen viiko1la 22 lauantaina (2026): eri erikoisalojen yhteinen kanta merkitty.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 27.4.2018: syntymäaika 22.12.1954; sappirakon poisto 27.4.2018; ei liity nyky iseen keuhk oselvittelyyn. —
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

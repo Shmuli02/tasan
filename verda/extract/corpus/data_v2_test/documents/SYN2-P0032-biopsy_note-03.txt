@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0032
+document_id: SYN2-P0032-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-02-06
+display_name: Yrjö Yksikkötesti SYN2-P0032 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 6.2.2026. Potilas: Yrjö Yksikkötesti SYN2-P0032 (SYN2-P0032), s. 9.6.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoit-usteksti).
+Toimenpide varattiin lauantaina, mutta näyte otettiin vasta 5. helmikuuta 2026.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön viikolla 3 torstaina (2026).
+Tiimi kokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote va-nhasta kirjauksesta 13.1.2022: syntymäaika 9.6.1955; sappirakon poisto 13.1.2022; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

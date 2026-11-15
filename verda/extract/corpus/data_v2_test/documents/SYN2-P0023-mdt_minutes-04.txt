@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0023
+document_id: SYN2-P0023-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-03-07
+display_name: Jane Synthetic SYN2-P0023 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistoll-inen sairaala
+Kirjauspäivä 7.3.2026. Potilas: Jane Synthetic SYN2-P0023 (SYN2-P0023), s. 3.2.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvitt-elystä (synteettine-n harjoituste ksti).
+Pyyntö tuli perille 12-02-2026.
+Leikekuvaus on suoritettu viikolla 8 tiistaina (2026).
+Kokoontuminen 07-03-2026: eri erikoisalojen yhteinen kanta merkitty.
+Näyte otettiin tähystyksessä 22. helmikuuta 2026.
+Mikroskooppinen lausunto valmistui 05-03-2026: pienisoluinen keuhkosyöpä.
+Kuvantaminen on vasta ajanvaraus viikolla 11 sunnuntaina (2026), sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 6.12.2014: syntymäaika 3.2.1953; sappirakon poisto 6.12.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaprotees i operoitu 15.9.2021.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

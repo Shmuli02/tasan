@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0106
+document_id: SYN2-P0106-biopsy_note-01
+document_type: biopsy_note
+language: sv
+note_date: 2026-08-03
+display_name: Erik Exempelsson SYN2-P0106 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 3.8.2026. Patient: Erik Exempelsson SYN2-P0106 (SYN2-P0106), f. 20.9.1955.
+SYNTETI-SK patientjournal, ingen verklig person.
+
+Konsultationsbegäran skrevs 2026-07-08, men registrerades som inkommen först juli den 12 år 2026.
+Åtgärden bokades den 31 juli 2026, men provet togs först vecka 32 på måndagen (2026).
+Bildtiden lades in i kalendern 2026-07-17; själva undersökningen genomfördes vecka 30 på fredagen (2026).
+På bilderna sågs en 1,8 cm knuta i vänster övre lob och mediastinala lymfkörtlar.
+
+(Syn tetisk kort dikterad anteckning.)

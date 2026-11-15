@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0052
+document_id: SYN-P0052-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-01-05
+display_name: John Placeholder SYN-P0052 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 5.1.2026. Patient: John Placeholder SYN-P0052 (SYN-P0052), f. 5.5.1957.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 3.1.26.
+MDK flyttas till nästa vecka; ingen konferens hölls idag.
+Gallblåsan opererades bort 24.7.2019 (ej relaterat till nuvarande utredning).
+Föregående pneumoni behandlad 2.9.2021.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

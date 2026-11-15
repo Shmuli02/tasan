@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0042
+document_id: SYN-P0042-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-08-05
+display_name: Juhani Jäljitelmä SYN-P0042 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 5.8.2026. Potilas: Juhani Jäljitelmä SYN-P0042 (SYN-P0042), s. 26.3.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: keuhkoklinikan lähete saapui 20/6.
+TT-tutkimus tehty 3/7.
+Esitiedot: bronkoskopia 11.7.2026, näytteet otettu.
+Esitiedot: histologinen vastaus saapui kaksi viikkoa sitten (pienisoluinen keuhkosyöpä).
+Esitiedot: mDT 28.7.2026: hoitolinja vahvistettu.
+Linjaus 2026-07-29: kuratiivinen lobektomia.
+Leikkaus (lobektomia) tehty 5.8.2026.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Sappirakon poisto tehty 17.8.2023 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

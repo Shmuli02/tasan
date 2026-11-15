@@ -1,0 +1,3158 @@
+
+===== PDF PAGE 1 =====
+                 Hoitoonpääsyn seuranta
+                 syövän hoidossa
+
+
+
+
+                                             t
+OHJAUS
+
+
+
+
+                                             nu
+                 Määrittelyt ja ohjeistus
+                                     tu
+                 Voimassa 1.1.2017 lähtien
+                              en
+                     nh
+         Va
+
+
+
+
+                 www.thl.fi
+
+
+
+
+     21 | 2016
+
+===== PDF PAGE 2 =====
+         OHJAUS 21/2016
+
+
+
+
+ Hoitoonpääsyn seuranta
+
+
+
+
+                            t
+     syövän hoidossa
+
+
+
+
+                   nu
+     Määrittelyt ja ohjeistus
+
+   Voimassa 1.1.2017 lähtien
+            tu
+   en
+nh
+Va
+
+===== PDF PAGE 3 =====
+                                                    t
+                                                    nu
+                                           tu
+                         en
+
+© Ohjausryhmä ja Terveyden ja hyvinvoinnin laitos
+         nh
+Va
+
+
+
+
+ISBN 978-952-302-782-4 (verkkojulkaisu)
+ISSN 2323-4172 (verkkojulkaisu)
+http://urn.fi/URN:ISBN:978-952-302-782-4
+
+
+
+
+Helsinki, 2016
+
+===== PDF PAGE 4 =====
+Lukijalle
+
+
+Sosiaali- ja terveysministeriön (STM) käynnistämä ja rahoittama Syövän hoidon hoitoonpääsyn seurannan
+kehittämishanke toteutettiin yhteistyöhankkeena STM:n, Terveyden ja hyvinvoinnin laitoksen (THL) sekä
+Suomen Syöpäyhdistys ry:n kanssa vuosina 2015–2016. Hankkeen tavoitteena oli kehittää valtakunnallinen
+syövän hoidon hoitoonpääsyn seuranta- ja raportointijärjestelmä.
+
+THL vastasi työn toteuttamisesta ja hankkeen koordinoinnista. Tehtävien toteuttamisessa THL toimi yhteis-
+työssä Suomen Syöpäyhdistys ry:n kanssa.
+
+Hankkeen tavoitteet:
+  1) oppaan laatiminen hoitoon pääsyn seurannasta
+  2) seurantajärjestelmän kehittäminen syövän hoidon hoitoonpääsyn tiedonkeruusta
+
+
+
+
+                                                                              t
+  3) kansallisen syövän hoidon hoitoonpääsyn raportointijärjestelmän kehittäminen.
+
+
+
+
+                                                            nu
+Hoitoonpääsyn seuranta syövän hoidossa -oppaan tavoitteena on lisäksi yhdenmukaistaa syöpään sairastu-
+neiden hoidon ja diagnoosien kirjaamista. Tällöin syöpää sairastavien hoitoonpääsyä voidaan seurata luo-
+tettavasti hoitoilmoitusrekisteriin (Hilmo) tulevien tietojen perusteella sekä raportoida hoitoonpääsyn toteu-
+tumisesta Suomessa. Oppaassa määritellään myös syövän hoidon seurantaan soveltuvat keskeiset aikapis-
+teet ja seurattavat aikavälit.               tu
+Tämä opas on suunnattu syöpäpotilaiden hoitoonpääsyn toteutumisesta vastaaville, hoitoonpääsytietojen
+tallennuksen yhdenmukaisuudesta vastaaville ja hoitoonpääsytietoja potilastietojärjestelmiin tallentaville.
+Lisäksi opas soveltuu potilastietojärjestelmiin ja tietopoimintoihin muutoksia tekeville ja muille syöpäpoti-
+laiden hoitoonpääsytietoja hyödyntäville. Syöpäpotilaan oikea-aikainen hoitoonpääsy on tärkeää monien
+                           en
+syöpien hyvän hoitotuloksen turvaamiseksi. Sen lisäksi tavoite on turvata kansalaisille yhteneväinen hoi-
+toonpääsy myös sellaisissa tilanteissa, joissa potilaalla on huoli sairauden luonteesta vaikka lääketieteelli-
+sesti arvioiden asian hoitaminen ei olisi kovin kiireellinen.
+
+Hankkeen seurantaa ja ohjaamista varten asetettiin ohjausryhmä, johon kuului asiantuntijoita kaikista yli-
+         nh
+
+
+opistollisista sairaaloista, Hyvinkään sairaalasta ja Vaasan keskussairaalasta. Ohjausryhmässä on ollut
+myös STM:n, Suomen Syöpäyhdistys ry:n ja Syöpärekisterin sekä Valviran asiantuntijoita. Lisäksi valmis-
+telussa on ollut mukana eri syöpätautien operatiiviseen hoitoon erikoistuneita lääkäreitä.
+Va
+
+
+
+
+                                                                                      Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                 3                                       syövän hoidossa
+
+===== PDF PAGE 5 =====
+Tiivistelmä
+
+Maarit Sillanpää, Liisa Pylkkänen ja Pirjo Häkkinen (toim.). Hoitonpääsyn seuranta syövän hoidossa. Ter-
+veyden ja hyvinvoinnin laitos (THL). Ohjaus 21/2016. 45 sivua. Helsinki 2016.
+ISBN 978-952-302-782-4 (verkkojulkaisu)
+
+Hankkeen tavoitteena oli kehittää valtakunnallinen syövän hoidon hoitoonpääsyn seurantajärjestelmä. Osa-
+na hanketta laadittiin tämä opas Hoitoonpääsyn seuranta syövän hoidossa, jonka määrityksiin perustuu
+myös syövän hoidon hoitoonpääsyn seurantajärjestelmä. Tämä mahdollistaa kansallisen raportoinnin hoi-
+tooonpääsyn seurannasta syövän hoidossa.
+
+Hoitoonpääsyn seuranta syövän hoidossa toteutetaan aluksi 16 syövän osalta, jotka kattavat lähes kolme
+neljäsosaa uusista vuosittaisista syöpätapauksista (Suomen Syöpärekisteri1). Kaikkien näiden syöpien osal-
+ta seurataan lähetteen saapumispäivää erikoissairaanhoitoon, ensimmäistä lääkärikäyntiä (tai sitä korvaavaa
+
+
+
+
+                                                                            t
+hoitopuhelua tai vastaavaa) lähetteen saapumisen jälkeen, hoitojonoon asettamispäivää sekä ensimmäistä
+toteutunutta syöpähoitoa. Näiden aikapisteiden päivämäärätietojen avulla mitataan, kuinka kauan lähetteen
+
+
+
+
+                                                           nu
+saapumisesta kuluu aikaa ensimmäiseen lääkärikäyntiin ja ensimmäiseen hoitoon. Lisäksi seurataan hoito-
+jonoon asettamisesta ensimmäiseen syöpähoitoon kuluvaa aikaa.
+
+Ensimmäisenä syöpähoitona huomioidaan syöpään sairastuneiden kohdalla leikkaus, lääkehoito, sädehoito,
+muu hoito (esim. syövän erilaiset paikallishoidot), syövän aktiivinen seuranta ja syövän oireenmukainen eli
+                                            tu
+palliatiivinen hoito. Näitä eri hoitovaihtoehtoja voidaan seurata diagnoosi- ja toimenpidekoodien avulla.
+Syövän hoidon seurannassa ja raportoinnissa huomioitavat erityyppiset hoidot ja niiden toimenpidekoodit
+on esitetty tässä oppaassa.
+
+Lisäksi oppaassa määritellään hoitoonpääsyn suositellut enimmäisajat rinta-, eturauhas- ja suolistosyöpien
+                                 en
+erilaisille hoitopoluille ja niiden vaiheille hoitojonoon asettamisesta lähtien. Nämä kolme syöpää valittiin
+niiden yleisyyden vuoksi (Suomen Syöpärekisteri1). Suositellut enimmäisajat perustuvat ohjausryhmän
+asiantuntija-arvioihin, joissa on otettu huomioon eri syöpätyyppien biologiset ominaisuudet ja käytettävissä
+oleva lääketieteellinen tieto. Jatkossa suositeltuja enimmäisaikoja voidaan tarkentaa ja laajentaa koskemaan
+myös muita yleisiä syöpiä.
+           nh
+
+
+Avainsanat: diagnoosi, syövän hoito, hoitoonpääsy, hoitoilmoitusrekisteri (Hilmo), toimenpide, seuranta,
+odotusaika.
+Va
+
+
+
+
+1 http://www.cancer.fi/syoparekisteri/
+
+
+                                                                                    Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                4                                      syövän hoidossa
+
+===== PDF PAGE 6 =====
+Sisällys
+
+Lukijalle ......................................................................................................................................................... 3
+
+Tiivistelmä ...................................................................................................................................................... 4
+
+1 Taustatietoa syövän hoidon kehittämisestä Suomessa ............................................................................ 7
+
+2 Tiedonkeruun lähtökohdat ........................................................................................................................ 8
+   2.1 Syövän hoidon hoitoonpääsyn seurannan kehittämishanke ................................................................. 8
+   2.2 Lainsäädäntö ...................................................................................................................................... 10
+   2.3 Tietojen käyttötarkoitus ..................................................................................................................... 10
+
+3 Hoitoonpääsytietojen periaatteet ............................................................................................................ 11
+
+
+
+
+                                                                                                                     t
+   3.1 Tiedonkeruu perustuu hoitoilmoitusrekisterin tietoihin ..................................................................... 11
+
+
+
+
+                                                                                          nu
+4 Syövän hoitoonpääsyn seuranta .............................................................................................................. 13
+   4.1 Syövän hoitoonpääsyn seurannan kehittämistarpeet Suomessa ......................................................... 13
+   4.2 Syövän hoitoonpääsyn seuranta eräissä muissa maissa ..................................................................... 13
+   4.3 Hoitoonpääsyn seurannan periaatteet syövän hoidossa ..................................................................... 14
+      4.3.1 Keskeiset käsitteet ja seurattavat aikavälit ................................................................................ 14
+                                                                   tu
+      4.3.2 Rintasyövän, eturauhassyövän ja suolistosyöpien hoidon seuranta ........................................... 18
+      4.3.3 Muut yleiset syövät ja niiden seuranta....................................................................................... 20
+   4.4 Hoitoonpääsyn tietosisältö syövän hoidon seurannassa ..................................................................... 20
+      4.4.1 Leikkaushoito ............................................................................................................................ 20
+      4.4.2 Lääkehoito ................................................................................................................................. 20
+                                         en
+      4.4.3 Sädehoito ................................................................................................................................... 21
+      4.4.4 Muut hoidot ............................................................................................................................... 21
+   4.5 Ohjeistus syövän hoidon kirjaamiseen ............................................................................................... 21
+      4.5.1 Diagnoosien kirjaamisen ohjeistus ............................................................................................ 21
+      4.5.2 Syöpäleikkausten kirjaaminen ................................................................................................... 23
+              nh
+
+
+      4.5.3 Lääkehoidon kirjaaminen .......................................................................................................... 34
+      4.5.4 Sädehoidon kirjaaminen Ks. erillinen liite 1.............................................................................. 39
+      4.5.5 Muiden toimenpiteiden kirjaaminen .......................................................................................... 43
+
+5 Tietojen toimittaminen ............................................................................................................................ 44
+Va
+
+
+
+
+6 Raportointi ................................................................................................................................................ 44
+
+Lähteet.......................................................................................................................................................... 45
+
+
+
+
+                                                                                                                                 Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                                           5                                                        syövän hoidossa
+
+===== PDF PAGE 7 =====
+Va
+  nh
+       en
+         tu
+              nu
+                t
+
+===== PDF PAGE 8 =====
+                            1 Taustatietoa syövän hoidon kehittämisestä Suomessa
+
+
+
+
+1 Taustatietoa syövän hoidon kehittämi-
+sestä Suomessa
+Sosiaali- ja terveysministeriön (STM) asettama työryhmä vuodelle 2009 antoi vuonna 2010 suosituksia
+syövän hoidon kehittämiseksi maassamme. Aikaisemmissa selvityksissä on todettu, että viive syöpähoi-
+toon pääsyssä on ollut tarpeettoman pitkä (Stakes Työpapereita 33/2008).
+
+Työryhmän loppuraportissa ’Syövän hoidon kehittäminen vuosina 2010−2020’ (STM Selvityksiä 6/2010)
+esitetään yhtenä toimenpide-ehdotuksena syövän diagnosointia ja hoitojen järjestämistä koskevat maksi-
+miajat. Terveyden ja hyvinvoinnin laitos (THL) asetti STM:n työryhmän työtä jatkamaan Syöpätautien
+asiantuntijaryhmän vuosille 2013–2014, jonka raportti ’Syövän ehkäisyn, varhaisen toteamisen ja kuntou-
+
+
+
+
+                                                                                   t
+tumisen tuen kehittäminen vuosina 2014–2025’ julkaistiin toukokuussa 2014 (THL Ohjaus 6/2014). Tämän
+lisäksi Kansallista syöpäkeskusta valmistelevan työryhmän raportti julkaistiin toukokuussa 2014 (STM
+
+
+
+
+                                                             nu
+raportteja ja muistioita 13/2014). Yhdessä nämä raportit muodostavat lähtökohdan Suomessa toteutettavalle
+syöpäpolitiikalle. Varsinaisesti syövän hoitoonpääsyn aikarajoja on käsitelty ainoastaan näistä ensimmäi-
+sessä. Suositeltujen aikarajojen käyttöönottoa ehdotettiin ohjeellisina. Perimmäisenä tavoitteena syövän
+hoitoonpääsyn tehostetulla seurannalla on parantaa ja nopeuttaa syövän varhaista diagnostiikkaa ja hoi-
+toonpääsyä ja sitä kautta vaikuttaa suotuisasti syöpäsairauksien ennusteeseen.
+                                            tu
+Lainsäädännössä on säädetty kiireellisen hoidon osalta lähinnä päivystysluonteisesta hoidosta. Kiireettö-
+män hoidon hoitoonpääsyn maksimiodotusajat nykyisissä säädöksissä ovat syöpätautien hoidossa liian
+pitkät. THL:n erikoissairaanhoidon hoitoonpääsyn seurantatiedot koskevat nykyisin terveydenhuoltolain
+säädösten mukaisia hoitoonpääsyn odotusaikatietoja (Terveydenhuoltolaki 51§−53§). STM on asettanut
+                          en
+vuonna 2015 työryhmän uudistamaan ja yhtenäistämään hoitoonpääsyn määräaikoja ja perusteita sekä val-
+takunnallisia kiireettömän ja kiireellisen hoidon perusteita.
+         nh
+Va
+
+
+
+
+                                                                                   Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                 7                                    syövän hoidossa
+
+===== PDF PAGE 9 =====
+                                               2 Tiedonkeruun lähtökohdat
+
+
+
+
+2 Tiedonkeruun lähtökohdat
+2.1 Syövän hoidon hoitoonpääsyn seurannan kehittämishanke
+
+STM käynnisti ’Syövän hoidon hoitoonpääsyn seurannan kehittämishankkeen’ yhteistyöhankkeena THL:n
+kanssa loppuvuodesta 2014. Hankkeen toteuttamisessa THL on tehnyt yhteistyötä Suomen Syöpäyhdistys
+ry:n kanssa, jonka edustajat sekä toimivat asiantuntijoina että osallistuivat hankkeeseen tarvittavan syövän
+hoidon asiantuntemuksen koordinointiin. Hankkeen määräaika oli 15.11.2014–31.12.2015, mutta sitä jat-
+kettiin 1.12.2016 asti.
+
+Työ jakaantui seuraaviin osa-alueisiin:
+
+
+
+
+                                                                                         t
+    oppaan laatiminen syövän hoidon hoitoonpääsyn seurannasta
+    seurantajärjestelmän kehittäminen syövän hoidon hoitoonpääsyn tiedonkeruusta
+
+
+
+
+                                                                    nu
+    kansallisen syövän hoidon hoitooonpääsyn raportointijärjestelmän kehittäminen.
+
+Hankkeen seurantaa ja ohjausta varten THL:n pääjohtaja asetti ohjausryhmän 11.3.2015. Ohjausryhmän
+puheenjohtajana toimi Syöpärekisterin johtaja Nea Malila ja varapuheenjohtajana lääkintöneuvos Timo
+Keistinen Sosiaali- ja terveysministeriöstä. Ohjausryhmään kuului lääkäriasiantuntijoita kaikista yliopisto-
+                                                   tu
+sairaaloista, Hyvinkään sairaalasta ja Vaasan keskussairaalasta (Taulukko 1). Lisäksi ohjausryhmään kuului
+Valviran, Suomen Syöpäyhdistys ry:n ja THL:n asiantuntijoita.
+
+Taulukko 1. Syövän hoidon hoitoonpääsyn seurannan kehittämishankkeen ohjausryhmän jäsenet
+                                  en
+Jäsen                                                               Varajäsen
+
+Petri Bono, HYKS Syöpäkeskus/HUS                                    Mauri Kouri, HYKS Syöpäkeskus/HUS
+toimialajohtaja                                                     ylilääkäri
+Antti Jekunen, Turun yliopisto, Vaasan keskussairaala, Onkolo-      Heidi Bengts, Vaasan keskussairaala, Onkologia/VSHP
+gia/TY/VSHP                                                         osastonylilääkäri
+             nh
+
+
+ylilääkäri
+Sirkku Jyrkkiö, TYKS, Operatiivinen toiminta ja syöpätaudit/VSSHP   Outi Lahdenperä, TYKS/VSSHP
+toimialuejohtaja                                                    erikoislääkäri
+Ulla Keränen, Hyvinkään sairaala, Operatiivinen tulosyksikkö /HUS   Juhani Sand, TAYS/PSHP
+tulosyksikön johtaja, kirurgian ylilääkäri                          toimialueen johtaja, ylilääkäri
+(jäsen vuonna 2015)
+Va
+
+
+
+
+Katariina Klintrup, OYS/PPSHP                                       Merja Korpela, OYS/PPSHP
+Syöpätautien ja hematologian vastuualue                             Syöpätautien ja hematologian vastuualue,
+apulaisylilääkäri, vastuualueen johtaja                             syöpätautien ja sädehoidon erikoislääkäri
+Tuula Lehtinen, TAYS/PSHP                                           Maarit Bärlund, TAYS/PSHP
+ylilääkäri, syövänhoidon vastuualuejohtaja                          apulaisylilääkäri
+Anna Lepistö, HYKS/HUS
+osastonylilääkäri
+(jäsen vuonna 2016)
+Kristiina Tyynelä-Korhonen, KYS/PSSHP                               Päivi Auvinen, KYS
+vastaava ylilääkäri, palveluyksikön johtaja                         ylilääkäri
+Aino Lepäntalo, HYKS/HUS
+erikoislääkäri
+Kirsi Liukkonen, Valvira                                            Leena-Maija Vitie, Valvira
+lakimies                                                            lakimies
+Liisa Pylkkänen, Suomen Syöpäyhdistys ry
+
+
+                                                                                                      Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                        8                                                syövän hoidossa
+
+===== PDF PAGE 10 =====
+                                                    2 Tiedonkeruun lähtökohdat
+
+
+
+
+ylilääkäri
+Pirjo Häkkinen, THL
+kehittämispäällikkö
+Aleksi Yrttiaho, THL                                                        Jaason Haapakoski, THL
+kehittämispäällikkö                                                         erityisasiantuntija
+Maarit Sillanpää, THL
+projektipäällikkö
+
+
+
+Oppaan valmistelutyöhön pyydettiin mukaan myös ylilääkäri Juho Lehto (Palliatiivinen yksikkö, Syövän
+hoidon vastuualue, TAYS ja Tampereen yliopisto) ja lisäksi erilaisten syöpäkohtaisten leikkausten määrit-
+telyssä käännyttiin allaolevassa taulukossa mainittujen asiantuntijalääkärien puoleen.
+
+Taulukko 2. Lääkäriasiantuntijat eri syöpien hoidon osalta
+
+
+
+
+                                                                                                  t
+Asiantuntijalääkäri                                                       Syöpä
+
+
+
+
+                                                                           nu
+Peter Boström, TYKS/VSSHP                                                 rakko- ja virtsatiesyöpä
+urologian ylilääkäri
+Sakari Hietanen, TYKS/VSSHP                                               kohdunrunko- ja munasarjasyöpä
+vastuualuejohtaja
+Sirkku Jyrkkiö, TYKS, Operatiivinen toiminta ja syöpätau-                 lymfoomat
+dit/VSSHP
+toimialuejohtaja
+Petri Koivunen, OYS/PPSHP
+                                                        tu                pään ja kaulan alueen syöpä
+ylilääkäri
+Aki Laakso, HYKS/HUS                                                      aivo- ja keskushermostosyöpä
+                                   en
+hallinnollinen apulaisylilääkäri
+Marjut Leidenius, HYKS/HUS                                                rintasyöpä
+osastonylilääkäri
+Anna Lepistö, HYKS/HUS                                                    paksu- ja peräsuolisyöpä
+osastonylilääkäri
+Mika Matikainen, HYKS/HUS                                                 eturauhas- ja kivessyöpä
+             nh
+
+
+ylilääkäri
+Harry Nisén, HYKS/HUS                                                     munuaissyöpä
+osastonlääkäri
+Juhani Sand, TAYS/PPSHP                                                   haima- ja mahasyöpä
+toimialueen johtaja, ylilääkäri
+Eero Sihvo, Keski-Suomen keskussairaala/KSSHP                             keuhko- ja henkitorvisyöpä
+Va
+
+
+
+
+ylilääkäri
+Meri-Sisko Vuoristo, Pirkanmaan Syöpäyhdistys ry                          ihomelanooma
+ylilääkäri
+Sairaaloiden lyhenteet: HYKS Helsingin yliopistollinen keskussairaala, KYS Kuopion yliopistollinen sairaala, OYS Oulun yliopistollinen
+sairaala, TAYS Tampereen yliopistollinen sairaala ja TYKS Turun yliopistollinen keskussairaala. TY Turun yliopisto.
+
+
+Sairaanhoitopiirien (shp) lyhenteet: HUS Helsingin ja Uudenmaan shp; KSSHP Keski-Suomen shp, PPSHP Pohjois-Pohjanmaan shp, PSHP
+Pirkanmaan shp, PSSHP Pohjois-Savon shp, VSHP Vaasan shp ja VSSHP Varsinais-Suomen shp.
+
+
+Myös erikoissuunnittelijat Raimo Mahkonen ja Satu Kerppilä THL:stä osallistuivat syövän hoitoonpääsyn
+seurannan ja raportoinnin kehittämiseen.
+
+
+
+
+                                                                                                            Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                              9                                                syövän hoidossa
+
+===== PDF PAGE 11 =====
+                                          2 Tiedonkeruun lähtökohdat
+
+
+
+
+2.2 Lainsäädäntö
+
+Hoitoonpääsytietojen keruu syövän hoidossa perustuu lakiin sosiaali- ja terveysalan tutkimus- ja kehittä-
+miskeskuksen tilastotoimesta (409/2001). Terveydenhoidon laitos- ja avohoidon tiedonkeruu (Hilmo-
+tiedonkeruu) perustuu lakiin (556/1989) ja asetukseen (774/1989) terveydenhuollon valtakunnallisista hen-
+kilörekistereistä. Näitä lakeja on sovellettu THL:sta annetun lain (668/2008) 11 §:n ensimmäisen momentin
+perusteella THL:n toimintaan 1.1.2009 lukien. Lisäksi lausunnolla olevat säädösmuutokset liittyen lakiesi-
+tyksiin ’Sosiaali- ja terveystietojen tietoturvallisesta hyödyntämisestä sekä eräiksi siihen liittyviksi laeiksi’
+ja ’Sosiaali- ja terveydenhuollon järjestämisestä sekä eräiksi siihen liittyviksi laeiksi’ tulevat vaikuttamaan
+voimaan tullessaan tietojen keruun perusteisiin.
+
+2.3 Tietojen käyttötarkoitus
+
+
+
+
+                                                                                t
+Syövän toteamista ja hoitoonpääsyä koskevien tietojen käyttötarkoitus:
+    tuottaa tietoa hoitoonpääsyn seurantaa, valvontaa ja tilastointia
+
+
+
+
+                                                              nu
+    tuottaa tietoa tutkimusta ja päätöksentekoa varten
+    toimia yhtenä terveydenhuoltojärjestelmän suoriutumiskyvyn mittarina.
+
+
+
+                                              tu
+                            en
+         nh
+Va
+
+
+
+
+                                                                                        Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                  10                                       syövän hoidossa
+
+===== PDF PAGE 12 =====
+                                      3 Hoitoonpääsytietojen periaatteet
+
+
+
+
+3 Hoitoonpääsytietojen periaatteet
+Tässä oppaassa määritellään syöpään sairastuneiden hoitoonpääsyn seurantaan tarvittavat aikapisteet, aika-
+välit, käsitteet ja huomioitavat toimenpiteet. Lisäksi oppaassa annetaan syöpien eri hoitotoimenpiteiden ja
+diagnoosien kirjaamiseen liittyviä ohjeita.
+
+Syövän hoidon hoitoonpääsyn tiedonkeruuohjeistus on tarkoitettu seuraaville ryhmille:
+    syöpäpotilaiden hoitoonpääsyn toteutumisesta vastaaville
+    syöpäpotilaiden hoitoonpääsyn valvonnasta vastaaville
+    syöpäpotilaiden hoitoonpääsytietojen tallennuksen yhdenmukaisuudesta ja käyttäjien ohjeistukses-
+       ta vastaaville
+    syöpäpotilaiden hoitoonpääsytietoja potilastietojärjestelmiin tallentaville
+
+
+
+
+                                                                            t
+    potilastietojärjestelmiin ja tietopoimintoihin muutoksia tekeville
+    muille syöpäpotilaiden hoitoonpääsytietoja hyödyntäville.
+
+
+
+
+                                                              nu
+THL vastaa syövän hoitoonpääsyn tietosisältöjen, luokitusten, poiminnan ja raportoinnin ylläpidosta ja
+kehittämisestä. Myös erikoissairaanhoidon hoitoonpääsyn työryhmät voivat vaikuttaa asiantuntemuksellaan
+hoitoonpääsytietojen määrittely- ja kehittämistyöhön. Nämä ryhmät koostuvat sairaanhoitopiirien, perus-
+terveydenhuollon erikoissairaanhoitoyksiköiden, potilastietojärjestelmätoimittajien, THL:n sekä STM:n,
+                                             tu
+Aluehallintovirastojen ja Valviran edustajista. Lisäksi THL:n Hilmo-asiantuntijaryhmän näkemykset ja
+linjaukset vaikuttavat syövän hoidon seurantaan liittyvään kehittämis- ja ylläpitotyöhön, koska tiedot syö-
+vän hoidosta tulevat osana Hilmo-tietoja. Hoitoonpääsyn seurannan kehittämistä syövän hoidossa ja laadun
+varmistusta varten nimetään asiantuntijaryhmä tai verkosto.
+                           en
+3.1 Tiedonkeruu perustuu hoitoilmoitusrekisterin tietoihin
+
+Lähtökohdan hoitoonpääsyn seurantatiedoille syövän hoidossa muodostaa terveydenhuollon hoitoilmoitus-
+rekisteri (Hilmo).
+         nh
+
+
+Lain mukaan kunnat ja kuntayhtymät, julkiset terveydenhuoltopalveluiden tuottajat ja osa yksityisistä ter-
+veydenhuollon palvelujen tuottajista (laitoshoito ja päiväkirurgia) sekä terveydenhuolto- ja farmaseuttiseen
+henkilöstöön kuuluvat ovat velvollisia antamaan maksutta tietoja THL:lle salassapitoa koskevien säännös-
+ten estämättä. Terveydenhuollon tiedoista talletetaan lain ja asetuksen mukaan terveydenhuollon toimin-
+tayksiköiden toiminnan sisällön ja kohdentumisen kannalta tarpeelliset tiedot potilaskohtaisesti henkilötun-
+Va
+
+
+
+
+nisteellisina.
+
+THL:n hoitoilmoitusrekisteri Hilmon kautta saadaan tiedot erityyppisistä hoitotapahtumista kuten mm.
+vuodeosastohoitojaksoista, päiväkirurgisista hoitojaksoista ja avohoitokäynneistä ja niiden aikana tehdyistä
+toimenpiteistä. Hilmo-tiedoista saadaan tietoa myös säde- ja lääkehoidoista, kun niitä kuvaavat toimenpi-
+dekoodit kirjataan potilastietojärjestelmiin. Lisäksi Hilmossa on syöpään sairastuneiden hoidon seurantaa
+varten tarvittavat syöpädiagnoosit ICD-10 tautiluokituksen mukaisesti kirjattuna. Näiden toimenpidekoodi-
+en ja diagnoositietojen avulla voidaan saada jatkossa käsitys myös levinneen/uusiutuneen syövän hoidosta.
+Hilmon kautta saadaan myös lähetteitä ja hoitojonoon asettamista koskevia päivämäärätietoja.
+
+
+
+
+                                                                                    Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                 11                                    syövän hoidossa
+
+===== PDF PAGE 13 =====
+                                                 3 Hoitoonpääsytietojen periaatteet
+
+
+
+
+Syöpien tärkeimmät epidemiologiset tiedot, kuten tiedot uusista syövistä ja potilaiden kuolleisuudesta,
+saadaan Suomen Syöpärekisteristä2. Hoitojärjestelmiä ja syövän ehkäisyä koskevia tietoja saadaan lisäksi
+THL:n sekä Työterveyslaitoksen (TTL)3 ja Säteilyturvakeskuksen (STUK)4 kokoamista tiedoista ja tutki-
+muksista.
+
+
+
+
+                                                                                      t
+                                                                         nu
+                                                         tu
+                                   en
+            nh
+Va
+
+
+
+
+2 http://www.cancer.fi/syoparekisteri/
+3 http://www.ttl.fi/fi/tyoterveyslaitos/sivut/default.aspx
+4 http://www.stuk.fi/
+
+
+
+                                                                                      Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                            12                           syövän hoidossa
+
+===== PDF PAGE 14 =====
+                                               4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+4 Syövän hoitoonpääsyn seuranta
+4.1 Syövän hoitoonpääsyn seurannan kehittämistarpeet Suomessa
+
+STM:n asettaman syövän hoidon kehittämistyöryhmän suositusten mukaisesti vaativa kirurgia sekä erityis-
+osaamista tai kalliita investointeja edellyttävä diagnostiikka ja hoito on tarpeen keskittää. Osa syöpähoi-
+doista voidaan suunnitella keskitetysti, mutta toteuttaa lähempänä potilaan asuinpaikkaa. Asiantuntija-
+arvioiden perusteella perusterveydenhuollon osuus syöpäpotilaiden seurannassa ja oireenmukaisessa hoi-
+dossa lisääntyy tulevaisuudessa (STM Selvityksiä 6/2010).
+
+Nämä taustatekijät huomioiden työryhmä teki ehdotuksia - paitsi syövän hoidon kehittämiseksi ja vastuuja-
+on selkiyttämiseksi - myös syövän hoitoonpääsyn maksimiaikarajoiksi. Syöpäepäilyssä maksimiaika lähet-
+
+
+
+
+                                                                                              t
+teen saapumisesta ensimmäiseen hoitoon (leikkaus, lääke- tai sädehoito) on 6 viikkoa. Tätä nopeammin on
+hoidettava erittäin kiireellistä hoitoa edellyttävät syövät, joissa hoidon tulee alkaa muutamassa päivässä tai
+
+
+
+
+                                                                        nu
+korkeintaan 2−3 viikossa diagnoosista. Syöpäepäilyssä radiologin lausunto kuvantamistutkimuksesta tulee
+olla käytettävissä viikon kuluessa tutkimuspyynnön tekemisestä. Syöpäepäilyssä kudosnäyte (kirurginen
+biopsia tai neulanäyte) tulee ottaa viikon kuluessa tutkimuspyynnön saapumisesta kirurgiseen yksikköön tai
+kuvantamisyksikköön. Patologin lausunnon tulee olla käytettävissä viikon kuluessa kudosnäytteen otosta,
+jos syöpädiagnoosi ei edellytä erikoisvärjäyksiä. Leikkauksen jälkeiset liitännäishoidot (säde- tai lääkehoi-
+                                                      tu
+dot) tulee aloittaa viimeistään 4 viikon kuluessa leikkauksesta, ellei potilaasta johtuva syy (esim. toipumi-
+nen leikkaustoimenpiteestä) edellytä pitempää aikaa.
+
+Syövän hoidon kehittämistyöryhmä linjasi, että edellä kuvatut aikarajat pätevät pääsääntöisesti myös uusiu-
+tuneen syövän diagnostiikassa ja hoidossa. Syövästä aiheutuvien hankalien ja vakavien oireiden, kuten
+                                 en
+kivun, uhkaavan pareesin tai verisuoni- tai muun tukosoireen hoidon tulee olla kaikissa hoitoyksiköissä
+saatavilla joustavasti viiveettä.
+
+
+4.2 Syövän hoitoonpääsyn seuranta eräissä muissa maissa
+           nh
+
+
+Muissa Pohjoismaissa käytännöt syövän hoitoonpääsyn seurannan osalta vaihtelevat maasta toiseen. Tans-
+kassa on käytössä syöpäryhmäkohtaisia suositusaikoja hoitoonpääsyn osalta erityyppisiin hoitoihin (leikka-
+us/lääkehoito/sädehoito). Pääasiallisesti seurataan syöpälähetteestä ensimmäiseen hoitotoimenpiteeseen
+kuluvaa aikaa. Näiden suositusaikojen toteutumista seurataan Tanskassa viidellä eri alueella erikseen ja
+Va
+
+
+
+
+koko maan osalta neljännesvuosittain ja vuositasolla kuvaamalla, kuinka monta prosenttia potilaista on
+saanut hoidon suositellussa ajassa5. Tanskan syövän hoidon seuranta kattaa 33 erilaista syöpäryhmää, joista
+yksi on lasten syövät yhtenä kokonaisuutena.
+
+Norjassa käytössä oleva seurantamalli on pitkälti samankaltainen Tanskan seurantamallin kanssa. Aikarajat
+on laadittu erikseen eri syöpätyypeille ja ne ovat varsin lyhyitä 6.
+
+
+
+
+5 http://sundhedsdatastyrelsen.dk/da/tal-og-analyser/analyser-og-rapporter/monitoreringer/kraeft
+6 https://helsedirektoratet.no/kreft
+
+
+
+
+                                                                                                   Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                           13                                         syövän hoidossa
+
+===== PDF PAGE 15 =====
+                                               4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Ruotsissa seurataan aikaa lähetteen laatimisesta ensimmäiseen hoitoon virtsarakko-, munuais-, paksusuoli-,
+eturauhas- ja peräsuolisyövän osalta. Pään ja kaulan alueen syöpien sekä keuhkosyövän osalta seurataan
+aikaa lähetteen saapumisesta ensimmäiseen hoitoon, rintasyövän osalta ensimmäisestä erikoislääkärikäyn-
+nistä hoitoon ja melanooman osalta ensimmäisestä erikoislääkärin vastaanotosta tietoon diagnoosista. Näi-
+hin kuvattuihin aikajaksoihin kuluvia aikoja seurataan mediaaneina ja raportoidaan vuosittain Ruotsin eri
+alueilla erikseen ja koko maan osalta yhdessä 7.
+
+Englannin syövän hoidon seurantamalli perustuu aikasuosituksiin, joita sovelletetaan kaikkien syöpien
+hoidossa. Yleiset keskeiset suositukset sisältävät esimerkiksi seuraavat aikarajat: yleislääkärin kiireellisen,
+syöpäepäilyn vuoksi tehdyn lähetteen jälkeen saa kulua korkeintaan kaksi viikkoa ensimmäiseen erikois-
+lääkärin vastaanottoon ja yleislääkärin kiireellisen lähetteen jälkeen saa kulua korkeintaan kaksi kuukautta
+hoidon alkuun. Lisäksi kaikissa syövissä hoitopäätöksen jälkeen saa kulua korkeintaan kuukausi hoidon
+alkuun, syövän ensimmäisen hoidon aloitukseen saa kulua korkeintaan 62 päivää seulontakeskuksesta teh-
+dyn lähetteen jälkeen ja toisen tai sitä seuraavan hoidon aloitukseen saa kulua korkeintaan 31 päivää. Näitä
+
+
+
+
+                                                                                      t
+tietoja raportoidaan kuukausittain ja vuosittain 8.
+
+
+
+
+                                                                         nu
+4.3 Hoitoonpääsyn seurannan periaatteet syövän hoidossa
+
+Syöpään sairastuneiden hoitoonpääsyn seurannan tavoitteena on tuottaa alueellista ja tuottajakohtaista tie-
+toa siitä, kuinka kauan potilaat joutuvat odottamaan syöpähoitoon pääsyä. Ensisijaisesti seurataan tietyn
+                                                      tu
+syöpädiagnoosin saaneiden pääsyä ensimmäiseen syöpähoitoon, joka voi olla leikkaus, lääkehoito, sädehoi-
+to, muu syövän hoito, syövän aktiivinen seuranta tai oireenmukainen eli palliatiivinen hoito (Kuvio 1).
+Nämä voivat olla primaarin tai uusiutuneen/levinneen syövän hoitoon liittyviä toimenpiteitä tai hoitoja.
+Seurattavat leikkaukset on määritelty syöpäryhmäkohtaisesti luvussa 4.5.2 ’Syöpäleikkausten kirjaaminen’.
+Seurattavat hoitotoimenpiteet kattavat syövän kaikissa vaiheissa (primaari/uusiutunut/levinnyt) annetun
+                                 en
+kirurgisen hoidon, lääkehoidon ja sädehoidon. Tärkein tavoite on seurata ensimmäisenä toteutunutta hoito-
+toimenpidettä.
+
+
+4.3.1 Keskeiset käsitteet ja seurattavat aikavälit
+           nh
+
+
+Käsitteitä
+
+Lähete on määrämuotoinen asiakirja, jolla sosiaali- ja terveydenhuollon palveluntuottaja esittää asiakasta
+koskevan palvelupyynnön toiselle palveluntuottajalle.
+Va
+
+
+
+
+Saapunut lähete tarkoittaa kyseisen terveysongelman ensimmäistä lähetettä (Hilmo-ohjeistus).
+    Samaan terveysongelmaan liittyvät kiirehtimislähetteet eivät aiheuta uutta tapahtumaa.
+    Organisaation sisäiset osastosiirrot, erikoisalasiirrot tai tulosyksiköiden väliset siirrot eivät aiheuta
+      uutta lähetettä, mikäli kysymyksessä on saman terveysongelman hoito.
+    Sisäistä lähetettä käytetään, kun kysymyksessä on uuden terveysongelman hoito ja hoitovastuu
+      siirtyy toiselle erikoisalalle ja tulosalueella. Sisäisellä lähetteellä siirretään organisaation sisällä
+      hoitovastuu toiselle erikoisalalle tai tulosalueelle.
+    Päivystystapauksena tai ilman lähetettä saapuneesta potilaasta ilmoitetaan saapumispäiväksi poti-
+      laan tulopäivä.
+
+
+
+7 http://www.socialstyrelsen.se/sjukdomar/cancer
+8 http://www.england.nhs.uk/statistics/statistical-work-areas/cancer-waiting-times/
+
+
+                                                                                       Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                           14                             syövän hoidossa
+
+===== PDF PAGE 16 =====
+                                       4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Lähetteen saapumispäivä on se päivä, jolloin lähete on tullut ensimmäistä kertaa tietyn terveysongelman
+arviointia varten kyseisen laitoksen tai erikoissairaanhoidon yksikköön (Hilmo-ohjeistus).
+
+Ensimmäinen lääkärikäynti kyseisessä hoitoyksikössä on tapahtuma, jolla tarkoitetaan ensimmäistä hoi-
+tokontaktia lääkäriin lähetteen saapumisen jälkeen kyseiseen sairauteen/terveysongelmaan liittyen.
+     Ensimmäinen hoitokontakti voi vastaanottokäynnin sijaan olla myös hoitopuhelu tai vastaava, mi-
+        käli se korvaa ensimmäisen käynnin ja on etukäteen ajanvarauksella varattu henkilökohtainen hoi-
+        topuheluaika.
+
+Hoitojonoon asettamispäivä on se päivä, jolloin potilas asetetaan jonoon odottamaan vuodeosasto-, päi-
+väkirurgista tai polikliinista hoitoa, leikkausta tai toimenpidettä. Hoitojonoon asettamispäivän tulisi olla
+sama, jolloin lääkäri on tehnyt päätöksen hoitoon ottamisesta (Hilmo-ohjeistus).
+
+
+
+
+                                                                              t
+Adjuvantti- eli liitännäishoito on hoitoa, joka annetaan pian varsinaisen kasvaimen paikallishoidon
+(yleensä leikkaushoidon, joskus sädehoidon) jälkeen. Adjuvanttihoidon tarkoitus on tuhota mahdolliset
+
+
+
+
+                                                             nu
+syöpäsolut, joita ei pystytä poistamaan leikkauksella tai sädehoidolla. Potilas voi saada joko vain yhden
+liitännäishoidon tai hänelle annetaan useita liitännäishoitoja joko peräkkäin tai yhtä aikaa.
+         Neoadjuvanttihoito on syövän liitännäishoito, joka annetaan ennen leikkausta tai sädehoitoa.
+
+Todetun syöpäsairauden aktiivinen seuranta kirjataan kun lääkäri arvioi, että syövän parantavatavoit-
+                                             tu
+teista hoitoa esim. leikkauksella, sädehoidolla tai lääkkeillä ei vielä tarvitse aloittaa, vaan potilaan tilaa
+voidaan seurata sovituin aikavälein. Syöpäspesifinen hoito aloitetaan, mikäli syöpä muuttuu seurannan
+aikana hoitoa vaativaksi esimerkiksi syövän edetessä tai muuttuessa huonommin erilaistuneeksi.
+      Todetun syöpäsairauden aktiivista seurantaa voidaan käyttää esimerkiksi hyvin erilaistuneen pai-
+         kallisen (pienen etenemisriskin) eturauhassyövän, pienten, hyvin erilaistuneiden munuaissyöpien
+                               en
+         sekä matala-asteisesti maliginin ja hitaasti etenevän lymfooman hoidossa. Näin menettelemällä
+         vältytään monesti tarpeettomilta hoitoon liittyviltä haittavaikutuksilta.
+      Todetun syöpäsairauden aktiivinen seuranta kirjataan, kun em. tyyppisissä tilanteissa seurataan il-
+         man hoitoa potilaan syöpää ja sen mahdollista kehittymistä hoitoa vaativaksi. Sitä ei kirjata hoito-
+         ketjun muissa vaiheissa.
+           nh
+
+
+      Todetun syöpäsairauden aktiivisessa seurannassa käytetään toimenpidekoodia XZZ00. Koodi on
+         käytettävissä THL - Toimenpideluokituksessa 9 vuoden 2017 alusta alkaen.
+
+ Esimerkiksi eturauhassyöpäpotilaan aktiivisen seurannan osalta kirjataan:
+      diagnoosiksi eturauhassyöpä C61
+      toimenpidekoodiksi todetun syöpäsairauden aktiivinen seuranta XZZ00
+Va
+
+
+
+
+9 www.thl.fi/koodistopalvelu
+
+
+
+
+                                                                                      Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                 15                                      syövän hoidossa
+
+===== PDF PAGE 17 =====
+                                      4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Syövän palliatiivinen eli oireenmukainen hoito on syöpäpotilaan aktiivista kokonaisvaltaista hoitoa, jolla
+pyritään lievittämään sairauden aiheuttamaa fyysistä, psyykkistä, sosiaalista ja henkistä kärsimystä. Sairau-
+den edetessä palliatiivisen hoidon tarve usein lisääntyy. Kun syövän etenemistä jarruttava hoito ei enää
+tehoa tai ei ole potilaan edun mukaista mm. haittavaikutusten takia, siirrytään potilaan kohdalla oireenmu-
+kaiseen eli palliatiiviseen hoitolinjaan. Syövän etenemisen jarruttamisen sijaan keskitytään oireiden lievi-
+tykseen ja elämänlaadun vaalimiseen.
+     Lääkäri kirjaa syöpäpotilaan sivudiagnoosiksi palliatiivisen hoidon Z51.5 ja toimenpidekoodiksi
+         hoidon suunnittelun tai konsultaation WZC00.
+
+ Esimerkiksi keuhkosyöpäpotilaan palliatiivisen hoidon osalta kirjataan:
+      päädiagnoosiksi keuhkosyöpä esim. C34.32 (keuhkon alalohkon tai sen keuhkoputken syöpä;
+        adenokarsinooma)
+      sivudiagnoosiksi syövän palliatiivinen hoito Z51.5
+      käynnille toimenpidekoodin hoidon suunnittelu tai konsultaatio WZC00.
+
+
+
+
+                                                                             t
+                                                            nu
+Seurattavat odotusaikavälit
+
+Syöpään sairastuneiden hoitoonpääsyn ja hoidon osalta seurataan lähetteen saapumisen, ensimmäisen lää-
+kärikäynnin, hoitojonoon asettamisen ja ensimmäisen syöpähoidon päivämäärätietoja (Kuvio 1).
+                                            tu
+Ensimmäinen syöpähoito on se hoito, joka on toteutunut lähimpänä lähetteen saapumispäivästä tai hoito-
+jonoon asettamispäivästä. Syöpäpotilaan hoitona voi olla leikkaus, lääkehoito, sädehoito tai muu syövän
+hoito (erilaiset paikallishoidot). Näiden lisäksi huomioidaan seurattavina hoitovaihtoehtoina myös syövän
+aktiivinen seuranta ja oireenmukainen eli palliatiivinen hoito. Nämä seurattavat tapahtumat erityyppisissä
+syövän hoidoissa määritellään THL - Toimenpideluokitukseen ja THL - Tautiluokitus ICD-10:ssa10:
+                                en
+      leikkaukset syöpäkohtaisesti (Taulukot 4−7)
+      lääkehoito: WB−WE-alkuiset koodit (Taulukot 8−10)
+      sädehoito: HA0-, WA0-, WF0- ja XX7-alkuiset sekä AX099 ja QX099 (Taulukko 11)
+      muu syövän hoito: kasvaimen tai kudosmuutoksen paikallishoidot (Taulukko 12)
+      todetun syöpäsairauden aktiivinen seuranta: XZZ00 (koodi on käytettävissä THL - Toimenpide-
+           nh
+
+
+         luokituksessa vuoden 2017 alusta alkaen)
+      syövän oireenmukainen eli palliatiivinen hoito: Z51.5.
+Va
+
+
+
+
+10 www.thl.fi/koodistopalvelu
+
+
+
+
+                                                                                     Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                16                                      syövän hoidossa
+
+===== PDF PAGE 18 =====
+                                         4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Kuvio 1. Syöpään sairastuneiden hoitoonpääsyn seurattavat aikapisteet ja aikavälit
+
+
+
+
+                                           lähetteen saapumispäivä
+                                                                                    2.
+
+                                       ensimmäinen lääkärikäynti, pvm
+
+    1. kokonais-
+    odotusaika                           hoitojonoon asettamispäivä
+
+
+
+
+                                                                            t
+                                        ensimmäinen syöpähoito, pvm
+                                                                                            3.
+
+
+
+
+                                                               nu
+                                •   Leikkaus: syöpäkohtainen luettelo
+                                •   Lääkehoito: WBWE -alkuiset
+                                •   Sädehoito: HA0-, WA0-, WF0- ja XX7-
+                                    alkuiset sekä AX099 ja QX099
+                                •   Muu syövän hoito: kasvaimen tai
+                                               tu
+                                    kudosmuutoksen paikallishoidot
+                                •   Todetun syöpäsairauden aktiivinen
+                                    seuranta XZZ00
+                                •   Syövän oireenmukainen eli palliatiivinen
+                                    hoito Z51.5
+                                en
+
+Lähetteen saapumisen, ensimmäisen käynnin, hoitojonoon asettamisen ja ensimmäisen syöpähoidon päi-
+vämäärätietojen perusteella mitataan seuraavia aikavälejä:
+           nh
+
+
+1 Lähetteen saapuminen – ensimmäinen hoito
+Tämä kattaa kokonaisodotusajan päivinä lähetteen saapumispäivästä ensimmäiseen syöpähoitoon.
+
+2 Lähetteen saapuminen − ensimmäinen lääkärikäynti
+ Tämä kattaa odotusajan päivinä lähetteen saapumispäivästä ensimmäisen lääkärikäynnin päivämäärään.
+Va
+
+
+
+
+3 Hoitojonoon asettaminen − ensimmäinen syöpähoito
+Tämä kattaa odotusajan päivinä hoitojonoon asettamispäivästä ensimmäiseen toteutuneeseen hoitoon, toi-
+menpiteen päivämäärä.
+
+Syövän hoitoon liittyvät toimenpiteet voivat olla kirjattuna pää- tai sivutoimenpiteisiin (THL - Toimenpide-
+luokitus 11).
+
+
+
+
+11 www.thl.fi/koodistopalvelu
+
+
+
+
+                                                                                     Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                   17                                   syövän hoidossa
+
+===== PDF PAGE 19 =====
+                                      4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+4.3.2 Rintasyövän, eturauhassyövän ja suolistosyöpien hoidon seuranta
+
+Syövän hoidon hoitoonpääsyn seurannassa esitetään suositellut enimmäisajat seuraavien syöpien hoidon
+osalta:
+     invasiivinen rintasyöpä ja intraduktaalinen rintasyöpä (C50- ja D05.1-alkuiset diagnoosit) (Kuvio 2)
+     eturauhassyöpä (C61-alkuiset diagnoosit) (Kuvio 3)
+     paksu- ja peräsuolisyöpä (C18-20-alkuiset diagnoosit) (Kuviot 4 ja 5).
+
+Suositellut enimmäisajat esitetään vaihtoehtoisille hoitopoluille hoitojononoon asettamispäivämäärästä
+erityyppisiin hoitoihin. Suositellut enimmäissajat perustuvat ohjausryhmän asiantuntija-arvioihin, joissa on
+otettu huomioon eri syöpätyyppien biologiset ominaisuudet ja käytettävissä oleva lääketieteellinen tieto.
+
+
+
+
+                                                                               t
+Kuvio 2. Rintasyöpäpotilaiden erityyppisten hoitopolkujen suositellut enimmäisajat hoitojonoon asetta-
+   misesta ensimmäiseen hoitoon ja leikkauksen jälkeisiin liitännäishoitoihin
+
+
+
+
+                                                              nu
+ hoitojonoon asettaminen            ensimmäinen hoito            liitännäishoito/toinen hoito
+
+
+ Rintasyöpä
+                                            tu                    Sädehoito
+                       4 vkoa        Leikkaus
+  C50 ja D05.1                                                    Lääkehoito
+                                                     6 vkoa
+                       4 vkoa
+                                                                                                 Sädehoito
+                           en
+                                     Lääkehoito                    Leikkaus
+                                                                                               Lääkehoito
+                                                     4 vkoa                       6 vkoa
+         nh
+
+
+Kuvio 3. Eturauhassyöpäpotilaiden hoitoonpääsyn suositellut enimmäisajat erityyppisiin hoitoihin ja lii-
+   tännäishoitona annettavaan sädehoitoon
+Va
+
+
+
+
+ hoitojonoon asettaminen              ensimmäinen hoito                        liitännäishoito
+
+
+                                       Aktiivinen seuranta
+
+                                       Leikkaus                         3 kk       Sädehoito
+
+ Eturauhassyöpä           6 vkoa       Sädehoito
+         C61
+                           4 vkoa      Lääkehoito: WB-WC-               3 kk        Sädehoito
+                                       alkuiset
+
+                                       Levinnyt syöpä: WD-
+                                       alkuiset
+
+
+                                                                                      Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                18                                       syövän hoidossa
+
+===== PDF PAGE 20 =====
+                                       4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Kuvio 4. Paksusuolisyöpäpotilaiden hoitoonpääsyn suositellut enimmäisajat erityyppisiin hoitoihin
+
+
+
+ hoitojononoon asettaminen             ensimmäinen hoito                   liitännäishoito
+
+
+
+     Paksusuolisyöpä                       Leikkaus                          Lääkehoito
+                                                                 6 vkoa
+         C18-19
+                                           Lääkehoito
+                            3 vkoa
+
+
+
+
+                                                                                 t
+                                                                nu
+Kuvio 5. Peräsuolisyöpäpotilaiden hoitoonpääsyn suositellut enimmäisajat erityyppisiin hoitoihin
+
+
+
+ hoitojonoon                ensimmäinen hoito tu               leikkaus           liitännäishoito
+ asettaminen
+
+                                Leikkaus                                              Lääkehoito
+  Peräsuolisyöpä                                                  6 vkoa
+       C20
+                            en
+                                Lääkehoito
+
+                                Lyhyt säde-           5 vrk
+                                hoito: 5 x 5 Gy
+                   3 vkoa                                      Leikkaus               Lääkehoito
+                                Pitkä säde-                                  6 vkoa
+         nh
+
+
+                                hoito: 45-54 Gy       8 vkoa
+Va
+
+
+
+
+                                                                                          Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                   19                                        syövän hoidossa
+
+===== PDF PAGE 21 =====
+                                      4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+4.3.3 Muut yleiset syövät ja niiden seuranta
+
+Muiden syöpien osalta seurataan yleisimpien naisten ja miesten syöpien hoitoonpääsyä ensimmäisen toteu-
+tuneen hoidon osalta ja raportoidaan hoitoonpääsyyn kulunut aika mm. mediaaneina. Taulukossa 3 on lue-
+teltu muut seurattavat syövät THL - Tautiluokitus ICD-10 koodeineen. Seurattavien syöpien kokonaisuu-
+teen on otettu mukaan myös joitakin harvinaisempia syöpiä, joiden osalta hoitoon pääsy on kiireellistä
+(mm. kivessyöpä). Tarvittaessa seurantaa voidaan toteuttaa tulevaisuudessa myös muiden syöpien osalta.
+
+
+Taulukko 3. Hoitoonpääsyn seurannassa mukana olevat muut syövät ICD-10 koodeineen
+
+Syöpä                               ICD-10-koodit
+
+pään ja kaulan alueen syöpä         C00-C14 ja C30-C32
+
+
+
+
+                                                                            t
+mahasyöpä                           C16
+
+
+
+
+                                                            nu
+haimasyöpä                          C25
+keuhko- ja henkitorvisyöpä          C33-34
+ihomelanooma                        C43
+kohdunrungon syöpä                  C54
+munasarjasyöpä                      C56, C57.0-4
+kivessyöpä                          C62      tu
+munuaissyöpä                        C64
+rakko- ja virtsatiesyöpä            C65-68
+aivo- ja keskushermostosyöpä        C70-72+C75.1-3
+lymfoomat                           C81-85
+                               en
+
+4.4 Hoitoonpääsyn tietosisältö syövän hoidon seurannassa
+             nh
+
+
+4.4.1 Leikkaushoito
+
+Syöpäleikkauksissa seurataan potilaan hoitoonpääsyä ensimmäiseen varsinaiseen syöpäleikkaukseen pai-
+kallisen, uusiutuneen tai levinneen syövän osalta. Näihin syöpäleikkauksiin ei oteta mukaan tutkimusleik-
+kauksia, aukaisuja tai koepalan ottoja, jotka kuuluvat syövän diagnostiikkaan. Myöskään korjaavat toimen-
+Va
+
+
+
+
+piteet ja komplikaatioiden vuoksi tehtävät leikkaukset eivät sisälly syövän hoitoonpääsyn seurantaan. Poik-
+keuksen muodostavat laajalle levinneen syövän hoidossa tehdyt tutkimusleikkaukset, jolloin leikkaus teh-
+dään hoidollisella ajatuksella, mutta jää vain tutkimukseksi (esimerkiksi haimasyöpä). Myös palliatiiviset
+leikkaukset (esimerkiksi suolistosyövän aiheuttaman suolitukoksen leikkaushoito) huomioidaan seurattavi-
+na toimenpiteinä (Taulukot 4−7).
+
+
+4.4.2 Lääkehoito
+
+Toimenpideluokituksessa syövän lääkehoitoa kuvaavat WB-, WC-, WD- ja WE-alkuiset koodit. WB-
+alkuiset koodit kattavat paikallisen primäärikasvaimen erilaiset lääkehoitovaihtoehdot: solunsalpaajat, bio-
+vasteenmuuntajat, hormonihoidot, vasta-ainehoidot ja entsyymi-inhibiittorihoidot ja muut syövän lääkehoi-
+dot. Myös hoidon vaativuuden kuvaus sisältyy toimenpidekoodiin: yksinkertainen, vaativa tai erittäin vaa-
+
+
+                                                                                    Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                 20                                    syövän hoidossa
+
+===== PDF PAGE 22 =====
+                                       4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+tiva hoito. Lisäksi toimenpidekoodien avulla voidaan kuvata sitä, onko hoito annettu liitännäishoitona (ad-
+juvanttihoitona) tai ennen leikkausta tai sädehoitoa annettuna hoitona (neoadjuvanttihoitona).
+
+Paikallisesti uusiutuneen kasvaimen tai yksittäisten metastaasien hoitoon liittyvät lääkehoidon vaihtoehdot
+ovat WC-alkuisia toimenpidekoodeja, jotka kattavat yleensä samat hoitomuodot kuin primäärikasvaimen
+hoidossa luetellut. WD-alkuiset toimenpidekoodit kuvaavat laajalle levinneen syövän lääkehoidon vaihto-
+ehdot. WE-alkuiset toimenpidekoodit kuvaavat ennalta ehkäisevää syövänhoitoa.
+
+
+4.4.3 Sädehoito
+
+Syövän sädehoitoon liittyvät WF0-alkuiset toimenpidekoodit kuvaavat paikallista sädehoitoa ja sitä, missä
+vaiheessa potilaan hoitoa sädehoito annetaan ja lisäksi sitä, onko kyseessä primaarikasvaimen tai levinneen
+syövän hoito. WA-alkuiset toimenpidekoodit kuvaavat laaja-alaista ihon tai kehon sädehoitoa. Näiden li-
+
+
+
+
+                                                                              t
+säksi on käytössä rinnan/rintakehän alueen sädehoitoa kuvaavia HA0-alkuisia toimenpidekoodeja sekä
+
+
+
+
+                                                             nu
+koko keskushermoston (AX099) ja koko ihon (QX099) hoitoa kuvaavat toimenpidekoodit. Radioisotooppi-
+hoitojen toimenpidekoodit ovat XX7-alkuisia.
+
+
+4.4.4 Muut hoidot
+                                             tu
+Muuntyyppisenä syövän hoitona seurataan kantasolusiirtoja (WW_-alkuiset toimenpide-koodit) ja kasvai-
+men tai kudosmuutoksien erilaisia paikallishoitoja.
+                                en
+4.5 Ohjeistus syövän hoidon kirjaamiseen
+
+Syöpäpotilaiden diagnoosien kirjaamiseen käytetään THL - Tautiluokitusta ICD-1012, ja hoitojaksoilla ja
+käynneillä tehdyjen leikkausten sekä annettujen lääke- ja sädehoitojen tai muiden hoitojen kirjaamiseen
+käytetään THL - Toimenpideluokitusta13.
+           nh
+
+
+4.5.1 Diagnoosien kirjaamisen ohjeistus
+
+Terveydenhuollon rakenteisen kirjaamisen oppaan (Keskeisten kertomusrakenteiden kirjaaminen sähköi-
+Va
+
+
+
+
+seen potilaskertomukseen, Osa I, Versio 2015, THL Ohjaus 2/2015) tavoitteena on kuvata valtakunnallises-
+ti yhtenäisten rakenteisten potilastietojen kirjaamista ja käyttöä potilastiedon kirjaajan tai käyttäjän näkö-
+kulmasta. Opas on päivitetty vastaamaan vuosien 2017−2018 tilannetta. Rakenteisen kirjaamisen oppaassa
+on ohjeistettu yleisesti sovellettavalla tavalla mm. tulosyyn, hoidon syyn ja diagnoosien kirjaamista.
+
+Diagnoosien kirjaamiseen on ohjeistusta myös Suomalaisessa tautien kirjaamisen ohjekirjassa (THL Opas
+17/2012) ja ICD-10 Tautiluokituksessa. Lisäksi Hilmo-opas (THL Ohjaus 11/2016) noudattaa diagnoosien
+kirjaamisessa edellä mainittuja Rakenteisen kirjaamisen opasta sekä Suomalaisen tautien kirjaamisen ohje-
+kirjaa.
+
+12 www.thl.fi/koodistopalvelu
+13 www.thl.fi/koodistopalvelu
+
+
+
+
+                                                                                      Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                 21                                      syövän hoidossa
+
+===== PDF PAGE 23 =====
+                                      4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Diagnoosin tai käyntisyyn ensisijaisuus
+Rakenteisen kirjaamisen oppaassa on kirjattu seuraavasti: ’Kirjatun diagnoosin ja käyntisyyn merkitystä
+kunkin hoitotapahtuman yhteydessä kuvataan potilaskertomuksessa pää- ja sivudiagnoosimääreillä. Pää-
+diagnoosilla tarkoitetaan potilaan hoidon kannalta kyseisessä hoitotilanteessa ensisijaista diagnoosia tai
+käyntisyytä. Sivudiagnoosilla tarkoitetaan muita potilaan hoidon kannalta toissijaisia diagnooseja tai
+käyntisyitä, joilla on kuitenkin kyseisessä hoitotilanteessa vaikutusta potilaan tutkimiseen, hoitoon, ennus-
+teeseen tai hänen välittömään terveydentilaansa.
+
+Tieto diagnoosin tai käyntisyyn ensisijaisuudesta kirjataan Diagnoosin ensisijaisuus -luokituksen mukaises-
+ti. Käynnille tai hoitojaksolle tulee määrittää päädiagnoosi tai pää-asiallinen käyntisyy viimeistään hoito-
+jakson tai käynnin päättyessä. Päädiagnoosiksi merkitään se terveysongelma ja tauti, joka on ollut ensisi-
+jainen kyseisen hoitotapahtuman aihe. Kutakin käyntiä tai hoitojaksoa kohden voi olla vain yksi päädiag-
+noosi.’
+
+
+
+
+                                                                               t
+ Diagnoosien kirjaus syövän hoidossa
+
+
+
+
+                                                            nu
+ Syövän hoidossa kirjataan sekä primaarisyöpä että metastaasi omilla THL - Tautiluokitus ICD-10 mu-
+ kaisilla koodeilla, silloin kun metastasointi on potilaalla todettu.
+
+ Itse syöpädiagnoosit tarkoittavat vain primaarisyöpiä ja mitkään niistä eivät sisällä erikseen tietoa metas-
+ tasoinnista. Metastasoinnille on omat diagnoosikoodinsa (C77-79) THL - Tautiluokitus ICD-10:ssa.
+                                             tu
+ Nämä kertovat etäpesäkkeen sijainnin, mutta ne eivät kuvaa metastasoinnin alkuperää.
+
+ Pitkäaikaisdiagnoosin huomioiminen syövän kirjaamisessa
+
+ Syöpädiagnoosit kirjataan pitkäaikaisdiagnooseiksi. Esimerkiksi aiempi eturauhassyöpä on huomioitava
+                           en
+ potilaan mahdollisissa uusissa sairauksissa.
+
+ Myös syövän palliatiivinen hoito (Z51.5) kirjataan pitkäaikaisdiagnoosiksi.
+         nh
+
+
+Diagnoosin tai käyntisyyn pysyvyys
+Rakenteisen kirjaamisen oppaassa on kirjattu seuraavasti: ’Diagnoosin pysyvyydellä viitataan diagnoosin
+ajalliseen ulottuvuuteen potilaan hoidossa. Diagnoosin pysyvyys -tieto liittyy siihen, aiheuttaako asetettu
+diagnoosi potilaalle pitkäaikaista hoidon tarvetta tai vaikuttaako kerran asetettu diagnoosi hänen tulevaan
+terveydentilaansa tai hänelle muiden sairauksien johdosta annettavaan hoitoon. Hoitoon liittyessään myös
+pitkäaikaisdiagnoosit kirjataan käynnin tai hoitojakson diagnooseiksi.
+Va
+
+
+
+
+Diagnoosin pysyvyyttä kuvataan tarvittaessa Pysyvyys-luokituksen avulla. Diagnoosi voi olla määräaikai-
+nen tai pysyväisluonteinen.
+
+Pysyväisluonteinen diagnoosi on pitkäaikainen tai pysyväisluontoinen ja sillä voi olla erityistä merkitystä
+potilaan terveyden, hyvinvoinnin ja hoidon kannalta sairauden tai muun terveysongelman väistyttyäkin.
+Pitkäaikaisdiagnooseilla on usein merkitystä useimpien potilaskontaktien yhteydessä, vaikka ne eivät olisi-
+kaan varsinainen hoitoon hakeutumisen syy ja siksi ne usein kirjataan käyntien ja hoitojaksojen sivudiag-
+nooseiksi. Pysyväisluonteiset diagnoosit näkyvät Tiedonhallintapalvelun diagnoosiyhteenvedolla omalla
+pitkäaikaisdiagnoosilistalla ja ne säilyvät listalla niin kauan kunnes, joku kirjaa ne päättyneiksi.’
+
+
+
+
+                                                                                      Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                22                                       syövän hoidossa
+
+===== PDF PAGE 24 =====
+                                               4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+4.5.2 Syöpäleikkausten kirjaaminen
+
+Kuten edellä kohdassa 4.4.1 on todettu, syöpäleikkauksissa seurataan potilaan hoitoonpääsyä ensimmäiseen
+varsinaiseen syöpäleikkaukseen paikallisen, uusiutuneen ja levinneen syövän osalta. Tarkoituksena on ra-
+portoida ensimmäinen toteutunut hoito, joka voi laajalle levinneen syövän hoidossa olla myös palliatiivinen
+leikkaus tai tutkimusleikkaus.
+
+Imusolmukkeiden poistoleikkaukset kuuluvat syövän primaarihoidon osalta seurattaviin toimenpiteisiin.
+Poikkeuksena ovat lymfoomat, joissa imusolmukkeiden poistot ovat diagnostisia toimenpiteitä ja siksi ne
+eivät ole mukana lymfoomien osalta huomioitavissa leikkauksissa (Taulukko 7).
+
+Hoitoonpääsyn seurannassa mukana olevien syöpien huomioitavat leikkaukset on ryhmitelty rintasyövän
+osalta Taulukkoon 4, eturauhassyövän osalta Taulukkoon 5, paksu- ja peräsuolisyövän osalta taulukkoon 6
+
+
+
+
+                                                                                 t
+ja muiden seurattavien syöpien: pään ja kaulan alueen, mahan, haiman, keuhkojen ja henkitorven, ihome-
+
+
+
+
+                                                                     nu
+lanooman, kohdunrungon, munasarjojen, kivesten, munuaisten, rakko- ja virtsateiden, aivojen ja kes-
+kushermoston syöpien ja lymfoomien osalta Taulukkoon 7.
+
+
+Rintasyövän leikkaushoito
+                                                      tu
+Rintasyövän leikkaushoito suunnitellaan yhteisymmärryksessä potilaan kanssa huomioiden kasvaimen
+laajuus, rintojen koko sekä potilaan perussairaudet. Rintaa säästävä leikkaus tulee tehdä aina potilaan sitä
+toivoessa, ellei sille ole vasta-aiheita. Mikäli rinta poistetaan kokonaan, poistettu rinta voidaan rekonstruoi-
+da jo syöpäleikkauksen jälkeen tai myöhemmin, eli liitännäishoitojen loputtua. Rintarekonstruktio on suuri
+leikkaus, johon liittyy varsin usein komplikaatiota. Siksi rintarekonstruktiopotilaan tulee olla fyysisesti
+                                 en
+suhteellinen hyväkuntoinen, motivoitunut ja hyvin informoitu.
+
+Mikäli kainalossa on todettu imusolmukemetastasointi jo ennen leikkausta, tehdään kainaloevakuaatio, eli
+kainalo tyhjennetään rasvasta ja imusolmukkeista. Mikäli imusolmukemetastasointia ei ole todettu, tehdään
+yleensä vartijasolmukebiopsia. Vartijasolmukebiopsian tulos ratkaisee tarvitaanko kainaloevakuaatiota,
+           nh
+
+
+kainalon sädehoitoa tai molempia, vai riittääkö pelkkä seuranta.
+
+Mikäli kyseessä on paikallisesti laajalti levinnyt rintasyöpä (joko primaarikasvaimen tai imusolmukemeta-
+staasien suhteen), on esimmäinen hoito lääkehoito (neoadjuvanttihoito). Sen jälkeisessä leikkauksessa
+useimmiten rinta poistetaan ja kainalo tyhjennetään.
+Va
+
+
+
+
+Suomen Rintasyöpäryhmä ry on laatinut rintasyövän diagnostiikkaa ja hoitoa koskevan suosituksen, joka
+on nähtävissä yhdistyksen kotisivulla 14.
+
+Rintasyövän leikkaushoidon seurantaan eivät kuulu korjaavan kirurgian toimenpiteet, jotka ovat HAD-
+alkuisia (korjaavat toimenpiteet). Seurannan alkuvaiheen poikkeuksena on HAD30, jota saatetaan nykyään
+käyttää leikkauskoodina osassa sairaaloita, jos syöpäleikkaus tehdään rintojen pienennysteknikkalla. Jat-
+kossa tämänkaltaiset leikkaukset kirjataan toimenpidekoodilla HAB50.
+
+
+
+
+14 http://rintasyoparyhma.yhdistysavain.fi/hoitosuositus/
+
+
+
+                                                                                       Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                         23                               syövän hoidossa
+
+===== PDF PAGE 25 =====
+                                            4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Taulukko 4. Rintasyövän hoidon seurannassa huomioon otettavat leikkaustoimenpiteet
+
+                                  Rintasyöpä C50- ja D05.1 alkuiset ICD-10 koodit
+
+              Ryhmän nimi                       Koodi          Toimenpide
+HAB           Rintarauhasen osittaiset          HAB30          Nännin tai nänninpihan poisto
+              poistot
+                                                HAB40          Rintarauhasen osan poisto, segmentti
+                                                HAB50          Rintarauhasen osan poisto yhdistettynä korjaavaan toimen-
+                                                               piteeseen
+                                                HAB99          Rintarauhasen osan poisto, muu kuin segmentti
+HAC           Rintarauhasen poistot koko-       HAC10          Rintarauhasen ihonalainen poisto, nännin säästävä
+              naan
+                                                HAC15          Rintarauhasen ihonalainen poisto ja nännin poisto
+
+
+
+
+                                                                                           t
+                                                HAC20          Rintarauhasen poisto
+                                                HAC25          Rintarauhasen laaja poisto
+
+
+
+
+                                                                  nu
+                                                HAC30          Ylimääräisen rintarauhasen tai nännin poisto
+                                                HAC99          Muu rintarauhasen poisto kokonaan
+HAD                                             HAD30          Rintarauhasen pienennys ja nänninpihan kielekesiirto*
+HAF           Rintasyövän paikallisen uusiu-    HAF00          Rintasyövän paikallisen uusiutuman leikkaukset
+              tuman leikkaukset                   tu
+                                                HAF10          Rintasyövän paikallisen uusiutuman poisto, korjaus kieleket-
+                                                               tä tai siirrettä käyttäen
+PJA                                             PJA12          Merkityn vartijasolmukkeen poisto
+
+
+PJD           Imusolmukkeiden poistoleik-       PJD42          Imusolmukkeiden yksinkertainen poisto kainalosta
+                             en
+              kaukset
+                                                PJD52          Imusolmukkeiden radikaalinen poisto kainalosta
+* osassa sairaaloita saatetaan käyttää tätä toimenpidekoodia, jos syöpäleikkaus tehdään rintojen pienennys-
+tekniikalla
+         nh
+
+
+Eturauhassyövän leikkaushoito
+
+Paikallisen (T2) tai enintään paikallisesti levinneen (T3N0M0) eturauhassyövän parantavatavoitteisia hoito-
+ja ovat radikaalileikkaus tai sädehoito. Yleisin eturauhassyövän leikkaustoimenpide on eturauhasen poisto
+kapseleineen eli radikaali prostatektomia. Radikaali prostatektomia voidaan tehdä avoimesti (KEC00) tai
+Va
+
+
+
+
+mini-invasiivisesti laparoskooppisena tähystysleikkauksena (KEC01) tai robottiavusteisena laparoskooppi-
+sena tähystysleikkauksena (KEC01, ZXC96), joista viimeksi mainittu on tällä hetkellä yleisin eturauhasen
+radikaalikirurgian muoto. Avoimen radikaalin prostatektomia -leikkauksen eri tekniikoita ovat retropubinen
+(KEC00), perineaalinen (KEC10) ja trans-coccygeaalinen (KEC20), joista ensin mainittu on selvästi ylei-
+sin.
+
+Paikallisessa eturauhassyövässä radikaalin prostatektomian tavoitteena on poistaa eturauhanen kapselei-
+neen, poistaa kaikki syöpäkudos, parantaa siten potilas ja samalla minimoida leikkauksesta aiheutuvat hait-
+tavaikutukset leikkausmorbiditeetin, virtsanpidätyskyvyn ja seksuaalitoimintojen osalta. Yleensä radikaalin
+prostatektomian yhteydessä poistetaan myös eturauhaseen liittyvät rakkularauhaset. Toimenpiteeseen yh-
+distetään keskisuuren tai suuren riskin potilailla laajennettu lantion alueen imusolmukkeiden poisto lonkka-
+valtimoiden ympäriltä (PJD64). Pienen riskin potilailla imusolmuke-etäpesäkkeiden todennäköisyys on
+pieni eikä imusolmukkeiden poistoa yleensä tarvitse tehdä.
+
+
+                                                                                                Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                      24                                           syövän hoidossa
+
+===== PDF PAGE 26 =====
+                                              4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Radikaali prostatektomia -leikkaus voidaan tietyissä erityistapauksissa tehdä myös toisen vaiheen (salvage)
+hoitona, mikäli eturauhassyöpä on uusiutunut paikallisena radikaalistavoitteisen sädehoidon jälkeen. Täl-
+löin toimenpiteen komplikaatioriskit ovat kuitenkin huomattavasti primaarivaiheessa tehtävää leikkausta
+suuremmat.
+
+Etäpesäkkeisen eturauhassyövän ensisijainen hoito on hormonihoito, joka voidaan toteuttaa kemiallisella
+kastraatiolla eli lääkkein käyttäen LHRH-analogia tai -antagonistia tai kirurgisella kastraatiolla, jossa pois-
+tetaan molemmat kivekset (KFC10). Orchiektomia eli kivesten poisto voidaan tehdä kivesten totaalipoisto-
+na katkaisemalla funikkelit tai sub-capsulaarisesti säästämällä kiveksen tunica albuginea ja poistamalla
+ainoastaan kapselin sisäinen kiveskudos.
+
+Eturauhassyövän Käypä Hoito -työryhmä on laatinut ja päivittänyt eturauhassyövän diagnostiikkaa ja hoi-
+toa koskevan suosituksen, joka on nähtävissä Käypä Hoito -sivustossa 15.
+
+
+
+
+                                                                                             t
+Taulukko 5. Eturauhassyövän hoidon seurannassa huomioon otettavat leikkaustoimenpiteet
+
+
+
+
+                                                                         nu
+                                       Eturauhassyöpä C61-alkuiset ICD-10 koodit
+
+                Ryhmän nimi                       Koodi          Toimenpide
+KEC             Eturauhasen ja siemenrakku-       KEC00          Eturauhasen täydellinen poisto häpyluun ja rakon välistä ava-
+                loiden täydelliset poistot                       ten
+                                                  KEC01
+                                                    tu           Eturauhasen täydellinen poisto tähystyksessä iholta
+                                                  KEC10          Eturauhasen täydellinen poisto välilihan kautta
+                                                  KEC20          Eturauhasen täydellinen poisto ristiluuavauksen kautta
+                                                  KEC30          Rakkularauhasen poisto
+KFC                                               KFC10          Molempien kivesten poisto
+PJD             Imusolmukkeiden poistoleik-       PJD44          Imusolmukkeiden yksinkertainen poisto lonkkavaltimoiden
+                                 en
+                kaukset                                          ympäriltä
+                                                  PJD54          Imusolmukkeiden radikaalinen poisto lonkkavaltimoiden ympä-
+                                                                 riltä
+                                                  PJD64          Imusolmukkeiden radikaalinen poisto tähystyksessä lonkkaval-
+                                                                 timoiden ympäriltä
+           nh
+Va
+
+
+
+
+15 http://www.kaypahoito.fi/web/kh/suositukset/suositus?id=hoi11060
+
+
+
+                                                                                                     Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                        25                                              syövän hoidossa
+
+===== PDF PAGE 27 =====
+                                          4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Suolistosyöpien leikkaushoito
+
+Tavallisimmin suolistosyövän takia tehty ensimmäinen leikkaus on kasvaimen poisto. Paksusuolen syöväs-
+sä tavallisimpia ovat oikean- ja vasemmanpuoliset paksusuolen osapoistot riippuen syövän sijainnista. Toi-
+sinaan kyseeseen tulee myös koko paksusuolen poisto ja ohutsuolen yhdistäminen peräsuoleen esimerkiksi
+silloin, kun potilaalla on samanaikaisesti useita paksusuolen alueen kasvaimia tai jos hänellä on tiedossa
+paksusuolikasvaimiin altistava geneettinen poikkeavuus.
+
+Peräsuolisyövässä tavallisimmat leikkaukset ovat peräsuolen anteriorinen resektio ja peräsuolen abdo-
+minoperineaalinen eksisio. Anteriorisessa resektiossa peräsuoli ja imusolmukkeet sisältävä suolen lieve
+poistetaan ja katkaistu paksusuolen pää yhdistetään peräsuolitynkään. Yleensä leikkauksessa tehdään myös
+tätä suoliliitosta suojaava väliaikainen avanne. Jos peräsuolisyöpä sijaitsee hyvin alhaalla, ei peräaukkoa
+voida säästää. Abdominoperineaalisessa eksisiossa poistetaan peräsuoli ja sen lieve, sekä peräaukon sulki-
+
+
+
+
+                                                                                    t
+jalihakset ja paikallisesti edenneemmissä T3-T4-kasvaimissa myös lantionpohjan kohottajalihas. Potilaalle
+tulee pysyvä paksusuoliavanne. Silloin, kun peräsuolisyöpä on polypoositauteihin liittyvä, potilaalle tavalli-
+
+
+
+
+                                                                nu
+simmin tehdään koko paksusuolen ja peräsuolen poisto eli proktokolektomia. Toisinaan potilaalle voidaan
+tehdä ohutsuolesta peräsuolen korvaava säiliö, joka yhdistetään peräaukolle, ns. ileoanaaliliitos tai vaihto-
+ehtoisesti tehdään pysyvä ohutsuoliavanne.
+
+Tilanteessa, jolloin potilas tarvitsee peräsuolisyövän alueelle sädehoitoa ennen leikkausta, mutta kasvain
+                                                   tu
+aiheuttaa suolitukoksen, potilaalle yleensä nostetaan poikittaisen paksusuolen lenkkiavanne ennen sädehoi-
+toa turvaamaan syöminen ja suolen tyhjeneminen myös sädehoidon aikana. Myös tilanteessa, jolloin tauti
+on paikallisesti niin edennyt, ettei mahdollisuuksia kirurgiseen kasvaimen poistoon ole, voidaan potilaalle
+oireita helpottavana toimenpiteenä tehdä suoliavanne.
+                             en
+Taulukko 6. Paksu- ja peräsuolisyövän hoidon seurannassa huomioon otettavat leikkaustoimenpiteet
+
+                           Paksu- ja peräsuolisyöpä C18-20-alkuiset ICD-10 koodit
+
+                Ryhmän nimi                        Koodi       Toimenpide
+JAH             Vatsaontelon tutkimusleikkaukset   JAH00       Vatsaontelon tutkimusleikkaus
+                ja aukaisut
+          nh
+
+
+JFA             Paikalliset ohut- ja paksusuolen   JFA68       Proteesiputken laitto paksusuoleen tähystyksessä
+                leikkaukset
+                                                   JFA83       Paksusuolen seinämän läpi menevä paikallisen muutok-
+                                                               sen poisto
+                                                   JFA84       Paksusuolen seinämän läpi menevä paikallisen muutok-
+                                                               sen poisto vatsaontelon tähystyksessä
+Va
+
+
+
+
+                                                   JFA96       Muu paikallinen ohut- tai paksusuolen leikkaus
+                                                   JFA97       Muu paikallinen ohut- tai paksusuolen leikkaus vatsaonte-
+                                                               lon tähystyksessä
+                                                   JFA98       Muu paikallinen ohut- tai paksusuolen toimenpide ma-
+                                                               hasuolikanavan tähystyksessä
+JFB             Ohut- ja paksusuolen typistys-     JFB20       Ileokekaalitypistys
+                leikkaukset
+                                                   JFB21       Ileokekaalitypistys vatsaontelon tähystyksessä
+                                                   JFB30       Oikeanpuolinen paksusuolen typistys
+                                                   JFB31       Oikeanpuolinen paksusuolen typistys vatsaontelon tähys-
+                                                               tyksessä
+                                                   JFB33       Ohut- ja paksusuolta käsittävä typistys
+                                                   JFB40       Poikittaisen paksusuolen typistys, avoin
+                                                   JFB41       Poikittaisen paksusuolen typistys vatsaontelon tähystyk-
+                                                               sessä
+                                                   JFB43       Vasemmanpuolinen paksusuolen typistys
+                                                   JFB44       Vasemmanpuolinen paksusuolen typistys vatsaontelon
+                                                               tähystyksessä
+
+                                                                                               Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                    26                                            syövän hoidossa
+
+===== PDF PAGE 28 =====
+                                         4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+                                                   JFB46      Sigmasuolen typistys
+                                                   JFB47      Sigmasuolen typistys vatsaontelon tähystyksessä
+                                                   JFB50      Muu paksusuolen typistys
+                                                   JFB51      Muu paksusuolen typistys vatsaontelon tähystyksessä
+                                                   JFB53      Sigmasuolen ja peräsuolen typistys
+                                                   JFB54      Sigmasuolen ja peräsuolen typistys tähystyksessä
+                                                   JFB60      Sigmasuolen typistys, sigmasuoliavanteen teko ja pe-
+                                                              räsuolen sulku (Hartmann)
+                                                   JFB61      Sigmasuolen typistys, sigmasuoliavanteen teko ja pe-
+                                                              räsuolen sulku vatsaontelon tähystyksessä
+                                                   JFB63      Muu paksusuolen typistys, proksimaalisen suoliavanteen
+                                                              teko ja peräsuolen sulku
+                                                   JFB64      Muu paksusuolen typistys, proksimaalinen suoliavanne ja
+                                                              peräsuolen sulku vatsaontelon tähystyksessä
+                                                   JFB96      Muu ohut- tai paksusuolen poisto
+                                                   JFB97      Muu ohut- tai paksusuolen poisto vatsaontelon tähystyk-
+                                                              sessä
+
+
+
+
+                                                                                   t
+JFC             Suoliliitokset                     JFC10      Ohutsuolen ja poikittaisen paksusuolen liitos
+                                                   JFC11      Ohutsuolen ja poikittaisen paksusuolen liitos vatsaontelon
+
+
+
+
+                                                               nu
+                                                              tähystyksessä
+                                                   JFC20      Muu ohutsuolen ja paksusuolen liitos kuin ileotransverso-
+                                                              stomia
+                                                   JFC21      Muu ohutsuolen ja paksusuolen liitos kuin ileotransverso-
+                                                              stomia vatsaontelon tähystyksessä
+                                                   JFC30
+                                                   tu         Paksusuolen osien välinen liitos
+                                                   JFC31      Paksusuolen osien välinen liitos vatsaontelon tähystyk-
+                                                              sessä
+                                                   JFC40      Avanteen teko ileumista peräsuoleen
+                                                   JFC41      Avanteen teko ileumista peräsuoleen vatsaontelon tähys-
+                                                              tyksessä
+                                                   JFC50      Avanteen teko koolonista peräsuoleen
+                                 en
+                                                   LFC51      Avanteen teko koolonista peräsuoleen vatsaontelon tähys-
+                                                              tyksessä
+JFF             Ohut- ja paksusuolen avanne-       JFF10      Ohutsuolen lenkkiavanne
+                leikkaukset
+                                                   JFF13      Ohutsuolen pääteavanne
+                                                   JFF23      Poikittaisen paksusuolen avanne
+         nh
+
+
+                                                   JFF26      Sigmasuolen avanne
+                                                   JFF27      Sigmasuolen avanne vatsaontelon tähystyksessä
+                                                   JFF30      Muu paksusuolen avanne
+                                                   JFF31      Muu paksusuolen avanne vatsaontelon tähystyksessä
+JFH             Paksusuolen poistot                JFH00      Paksusuolen poisto kokonaan ja ileumin liitos peräsuoleen
+                                                   JFH01      Paksusuolen laparoskooppinen poisto kokonaan ja
+                                                              ileumin liitos peräsuoleen
+Va
+
+
+
+
+                                                   JFH10      Paksusuolen poisto kokonaan ja ohutsuoliavanne
+                                                   JFH11      Paksusuolen laparoskooppinen poisto kokonaan ja ohut-
+                                                              suoliavanne
+                                                   JFH20      Paksu- ja peräsuolen poisto ja ohutsuoliavanne
+                                                   JFH30      Paksusuolen poisto, peräsuolen limakalvon poisto ja liitos
+                                                              peräaukkoon
+                                                   JFH31      Paksusuolen poisto, peräsuolen limakalvon poisto ja liitos
+                                                              peräaukkoon, laparoskooppinen
+                                                   JFH33      Paksu- ja peräsuolen poisto, liitos peräaukkoon ja ohut-
+                                                              suoliavanne
+                                                   JFH40      Paksusuolen ja peräsuolen poisto ja ohutsuolen avan-
+                                                              nesäiliön teko
+                                                   JFH96      Muu paksusuolen poisto
+JGA             Peräsuolen avaukset ja paikalli-   JGA58      Proteesiputken laitto peräsuoleen tähystyksessä
+                set toimenpiteet
+                                                   JGA73      Peräaukon kautta tehty peräsuolen seinämän läpi menevä
+                                                              paikallisen muutoksen poisto
+
+
+                                                                                            Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                   27                                          syövän hoidossa
+
+===== PDF PAGE 29 =====
+                                              4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+JGB             Peräsuolen typistysleikkaukset         JGB03       Peräsuolen ja mesorektumin typistys
+                                                       JGB04       Peräsuolen ja mesorektumin typistys tähystyksessä
+                                                       JGB06       Peräsuolen typistys ja mesorektumin poisto
+                                                       JGB07       Peräsuolen typistys ja mesorektumin poisto tähystyksessä
+                                                       JGB10       Perä- ja sigmasuolen typistys, sigma-avanne ja peräsuoli-
+                                                                   tyngän sulku (Hartmann)
+                                                       JGB11       Perä- ja sigmasuolen typistys, sigma-avanne ja pe-
+                                                                   räsuolen sulku (Hartmann) vatsaontelon tähystyksessä
+                                                       JGB20       Peräsuolen ja sigmasuolen typistys ja koolo-anaalinen
+                                                                   läpivetoliitos
+                                                       JGB30       Peräsuolen poisto ja paksusuoliavanteen teko, abdo-
+                                                                   minoperineaalinen eksisio
+                                                       JGB31       Peräsuolen poisto laparoskooppisesti avustaen
+                                                       JGB36       Peräsuolen laaja poisto
+                                                       JGB37       Peräsuolen laaja poisto tähystyksessä
+
+
+
+
+                                                                                         t
+                                                                    nu
+Muiden seurattavien syöpien leikkaushoito
+
+Muiden hoitoonpääsyn seurannassa mukana olevien syöpien: pään ja kaulan alueen, mahan, haiman, keuh-
+kojen ja henkitorven, ihomelanooman, kondunrungon, munasarjojen, kivesten, munuaisten, rakko- ja virt-
+sateiden, aivo- ja keskushermoston syöpien ja lymfoomien osalta seurannassa huomioitavat leikkaukset on
+lueteltu Taulukossa 7.
+                                                    tu
+Taulukko 7. Muiden seurattavien syöpien osalta huomioon otettavat leikkaustoimenpiteet
+
+                  Pään ja kaulan alueen syöpä C00-C14 ja C30-C32-alkuiset ICD-10 koodit
+                              en
+               Ryhmän nimi                          Koodi          Toimenpide
+                                                    DJW00          Nenän väliseinän paikallisen muutoksen poisto
+                                                    DMB10          Poskionteloleikkaus sublabiaalisesti
+                                                    DMB30          Poskiontelon muutoksen tai kasvaimen poisto yläleuka-
+                                                                   luun kautta
+                                                    DMB40          Poskiontelon muutoksen tai kasvaimen poisto nenän
+                                                                   sivulta aukaisten
+          nh
+
+
+                                                    DMW99          Muu poskionteloiden leikkaus
+                                                    DNB30          Seulalokeromuutoksen tai kasvaimen poisto
+                                                    DNW99          Muu seulalokeroiden ja seulaluun leikkaus
+                                                    DPB10          Kitaontelon poisto osittain
+                                                    DQB10          Paikallisen muutoksen poisto kurkunpäästä laryngomikro-
+                                                                   skopiassa
+Va
+
+
+
+
+                                                    DQB20          Kurkunpään poisto osittain
+                                                    DQB30          Kurkunpään poisto
+                                                    DQB60          Kannuruston poisto
+                                                    DQB70          Äänijänteen poisto, chordectomia vocalis
+EAA            Huulen aukaisu- ja poistotoi-        EAA10          Huulimuutoksen poisto, eksisio
+               menpiteet
+                                                    EAA20          Ylähuulen poisto osittain
+                                                    EAA30          Alahuulen poisto osittain
+ECA            Ikenen ja hammasharjanteen           ECA30          Ienmuutoksen poisto
+               aukaisu, koepalan otto tai
+               poistoleikkaukset
+                                                    ECA35          Vaativa ienmuutoksen poisto
+EDB            Alaleuan poisto osittain tai         EDB00          Alaleukaluun osittainen poisto
+               kokonaan
+                                                    EDB10          Alaleuan poisto kokonaan (mandibulektomia)
+                                                    EDB20          Alaleukapuoliskon poisto
+                                                    EDB99          Muu alaleukaluun poistoleikkaus
+EDW            Muut alaleuan leikkaukset            EDW99          Muu alaleuan leikkaus
+
+                                                                                                    Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                        28                                             syövän hoidossa
+
+===== PDF PAGE 30 =====
+                                               4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+EEB            Yläleuan poisto osoittain tai         EEB00          Yläleukaluun poisto osittain
+               kokonaan
+                                                     EEB10          Yläleukapuoliskon poisto
+                                                     EEB20          Yläleuan poisto kokonaan
+                                                     EEB99          Muu yläleukaluun poistoleikkaus
+EHB            Suulaen poistoleikkaukset             EHB00          Suulaen kasvaimen tai kudosvaurion poisto
+EHW            Muut suulaen leikkaukset              EHW99          Muu suulaen leikkaus
+EJB            Kielen ja suunpohjan poistotoi-       EJB10          Kasvaimen poisto kielen kärjestä tai keskiosasta
+               menpiteet
+                                                     EJB20          Kasvaimen poisto kielentyvestä
+                                                     EJB30          Kasvaimen poisto suunpohjasta
+                                                     EJB40          Kielen puoliskon poisto
+                                                     EJB50          Kielen poisto kokonaan
+                                                     EJB60          Suunpohjan poistoleikkaus
+                                                     EJB99          Muu kielen ja suunpohjan poistoleikkaus
+EJW            Muut kielen ja suunpohjan             EJW99          Muu kielen ja suunpohjan leikkaus
+
+
+
+
+                                                                                          t
+               leikkaukset
+EKB            Posken poisto osittain tai koko-      EKB00          Posken kasvaimen tai kudosmuutoksen poisto
+               naan
+
+
+
+
+                                                                     nu
+                                                     EKW99          Muu posken leikkaus
+               Sylkirauhasen tutkimus- tai           ELB00          Sylkirauhaskasvaimen tutkimus- tai poistoleikkaus
+               poistoleikkaukset
+                                                     ELB30          Leuanalussylkirauhasen poisto
+                                                     ELB40          Korvasylkirauhasen poisto osittain
+                                                     ELB50
+                                                     tu             Korvasylkirauhasen poisto kokonaan
+EMB            Nielurisojen ja kitarisan poisto-     EMB00          Kasvaimen poisto nielurisoista tai kitarisasta
+               leikkaukset
+                                                     ENB00          Nielukasvaimen tutkimusleikkaus tai poisto
+                                                     ENB20          Nielun poisto
+                                                     ENB30          Kurkunpään ja nielun poisto
+                                                     ENB99          Muu nielun ja ympäröivien pehmytkudosten poistoleikkaus
+                              en
+PJD            Imusolmukkeiden poistoleikka-         PJD51          Imusolmukkeiden radikaalinen poisto kaulalta
+               ukset
+                                                     PJD71          Imusolmukkeiden laaja säästävä poisto kaulalta
+                                                     PJD81          Imusolmukkeiden poisto kaulan yläosasta
+
+                                       Mahasyöpä C16-alkuiset ICD-10 koodit
+         nh
+
+
+JDC            Mahalaukun osien poistot              JDC00          Mahalaukun osittainen poisto ja liitos pohjukaissuoleen
+                                                     JDC10          Mahalaukun osittainen poisto ja liitos tyhjäsuoleen
+                                                     JDC11          Mahalaukun osittainen poisto ja liitos tyhjäsuoleen vatsa-
+                                                                    ontelon tähystyksessä
+                                                     JDC20          Mahalaukun osittainen poisto ja Rouxin Y-suoliliitos
+                                                     JDC40          Mahansuun poisto ja ruokatorvimahalaukkuliitos
+Va
+
+
+
+
+                                                     JDC96          Mahalaukun osittainen poisto tai muu liitos
+                                                     JDC97          Mahalaukun osittainen poisto ja muu liitos vatsaontelon
+                                                                    tähystyksessä
+JDD            Koko mahalaukun poistot               JDD00          Mahalaukun poisto ja Rouxin Y-liitos ruokatorvesta suo-
+                                                                    leen
+                                                     JDD96          Mahalaukun poisto, muu liitos kuin Roux-Y
+JDW            Muut mahalaukun ja pohjukais-         JDW98          Muu mahalaukun tai pohjukaissuolen toimenpide tähys-
+               suolen leikkaukset                                   tyksessä
+JFA            Paikalliset ohut- ja paksusuolen      JFA65          Proteesiputken laitto ohutsuoleen tähystyksessä
+               leikkaukset
+                                                     JFC20          Muu ohutsuolen ja paksusuolen liitos kuin ileotransverso-
+                                                                    stomia
+
+
+
+
+                                                                                                    Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                         29                                            syövän hoidossa
+
+===== PDF PAGE 31 =====
+                                           4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+                                     Haimasyöpä C25-alkuiset ICD-10 koodit
+JKD            Sappitieohitukset suoleen ilman   JKD10          Sappiteiden liitos pohjukaissuoleen
+               typistystä
+                                                 JKD20          Sappiteiden liitos ohutsuoleen
+
+                                                 JKD30          Yhteisen maksatiehyen oikean tai vasemman haaran liitos
+                                                                ohutsuoleen
+JKE            Pohjukaissuolen kautta tehtävät   JKE02          Papillotomia pohjukaissuolen kautta mahasuolikanavan
+               sappiteiden toimenpiteet                         tähystyksessä
+                                                 JKE18          Sappiteiden sisäinen kanavointi mahasuolikanavan tähys-
+                                                                tyksessä
+                                                 JKE25          Sappiteiden kanavointi ulos mahasuolikanavan tähystyk-
+                                                                sessä
+                                                 JKE32          Sappiteiden laajennus mahasuolikanavan tähystyksessä
+
+
+
+
+                                                                                     t
+                                                 JKE98          Muu pohjukaissuolen kautta tehtävä sappitietoimenpide
+                                                                mahasuolikanavan tähystyksessä
+JKW            Muut sappitietoimenpiteet         JKW98          Muu sappitietoimenpide mahasuolikananvan tähystykses-
+
+
+
+
+                                                                 nu
+                                                                sä
+JLB            Haiman aukaisut ja kanavoinnit    JLB12          Haimatiehyen suun halkaisu pohjukaissuolen tähystyk-
+               sekä tiehyen laajentamiset                       sessä
+                                                 JLB28          Haimatiehyen sisäinen kanavointi pohjukaissuolen tähys-
+                                                                tyksessä
+                                                 JLB42
+                                                 tu             Haimatiehyeen laajennus pohjukaissuolen tähystyksessä
+JLC            Haiman poistoleikkaukset          JLC10          Haiman hännän ja mahdollisesti rungon poisto
+                                                 JLC11          Haiman hännän ja mahdollisesti rungon poisto vatsaonte-
+                                                                lon tähystyksessä
+                                                 JLC30          Haiman ja pohjukaissuolen poisto
+                                                 JLC40          Koko haiman ja pohjukaissuolen poisto
+                                                 JLC50          Epäanatominen haiman poisto
+                             en
+JLW            Muut haiman leikkaukset           JLW98          Muu haiman toimenpide mahasuolikanavan tähystyksessä
+
+                          Keuhko- ja henkitorvisyöpä C33-34-alkuiset ICD-10 koodit
+GBC            Henkitorven poisto ja korjaus-    GBC03          Henkitorven osan poisto
+               leikkaukset
+                                                 GBC10          Henkitorven harjun poisto ja korjaus
+         nh
+
+
+GDB            Keuhkojen osien poistoleikka-     GDB10          Keuhkon kiilapoisto
+               ukset
+                                                 GDB11          Keuhkon kiilapoisto rintaontelon tähystyksessä
+                                                 GDB20          Keuhkojaokkeen poisto
+                                                 GDB21          Keuhkojaokkeen poisto rintaontelon tähystyksessä
+                                                 GDB96          Muu keuhkon osan poistoleikkaus
+GDC            Keuhkolohkojen poistoleikka-      GDC00          Keuhkolohkon poistoleikkaus
+Va
+
+
+
+
+               ukset
+                                                 GDC01          Keuhkolohkon poisto rintaontelon tähystyksessä
+                                                 GDC10          Kahden keuhkolohkon poistoleikkaus
+                                                 GDC11          Kahden keuhkolohkon poisto rintaontelon tähystyksessä
+                                                 GDC13          Laajennettu yhden tai kahden keuhkolohkon poisto poisto
+                                                 GDC20          Keuhkolohkon poistoleikkaus ja sleeveresektio
+                                                 GDC23          Keuhkolohkon ja -jaokkeen poistoleikkaus
+GDD            Koko keuhkon poistoleikkauk-      GDD00          Keuhkonpoistoleikkaus
+               set
+                                                 GDD01          Keuhkonpoisto rintaontelon tähystyksessä
+                                                 GDD20          Laajennettu keuhkonpoistoleikkaus
+                                                 GDD23          Keuhkonpoisto ja henkitorven harjun poisto osittain
+                                                 GDD26          Keuhkonpoisto ja keuhkoputken tai henkitorven poisto
+                                                                osittain
+
+
+
+
+                                                                                                 Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                     30                                             syövän hoidossa
+
+===== PDF PAGE 32 =====
+                                            4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+                                     Ihomelanooma C43-alkuiset ICD-10 koodit
+CBB             Silmäluomien paikallisten          CBB30         Silmäluomen kystan, arven tai kasvaimen poisto
+                muutosten poistot
+                                                   CBB50         Silmäluomen kasvaimen poisto ja korjaaminen siirteellä tai
+                                                                 kielekkeellä
+DAB             Korvalehden paikallisen muu-       DAB00         Korvalehden paikallisen muutoksen poisto
+                toksen poisto
+                                                   DAB10         Korvalehden poisto osittain
+
+ELB             Sylkirauhasen tutkimus- tai        ELB40         Korvasylkirauhasen poisto osittain
+                poistoleikkaukset
+                                                   ELB50         Korvasylkirauhasen poisto kokonaan
+NDQ             Käden ja sormien amputaatiot       NDQ20         Sormiamputaatio
+                ja tynkäkorjaukset
+
+
+
+
+                                                                                      t
+NHQ                                                NHQ40         Varvasamputaatio
+PJA                                                PJA12         Merkityn vartijasolmukkeen poisto
+PJD             Imusolmukkeiden poistoleik-        PJD41         Imusolmukkeiden yksinkertainen poisto kaulalta
+
+
+
+
+                                                                  nu
+                kaukset
+                                                   PJD42         Imusolmukkeiden yksinkertainen poisto kainalosta
+                                                   PJD45         Imusolmukkeiden yksinkertainen poisto nivuksista
+                                                   PJD51         Imusolmukkeiden radikaalinen poisto kaulalta
+                                                   PJD52         Imusolmukkeiden radikaalinen poisto kainalosta
+                                                   PJD54
+                                                   tu            Imusolmukkeiden radikaalinen poisto lonkkavaltimoiden
+                                                                 ympäriltä
+                                                   PJD55         Imusolmukkeiden radikaalinen poisto nivuksista
+                                                   PJD71         Imusolmukkeiden laaja säästävä poisto kaulalta
+                                                   PJD81         Imusolmukkeiden poisto kaulan yläosasta
+                                                   PJD99         Muiden imusolmukkeiden poisto
+PXA             Veren kehonulkoinen kierrätys      PXA00         Yläraajan veren kehonulkoinen kierrätys sydän-
+                              en
+                sydän-keuhkokoneella                             keuhkokoneella
+                                                   PXA20         Alaraajan veren kehonulkoinen kierrätys sydän-
+                                                                 keuhkokoneella
+QAE             Pään ja kaulan ihon paikallis-     QAE10         Pään tai kaulan ihon ja ihonalaiskudoksen ihon paikallisen
+                ten muutosten poistot ja kor-                    muutoksen poisto koko ihon paksuudelta
+                jaavat leikkaukset
+         nh
+
+
+                                                   QAE99         Muu pään ja kaulan ihon ja ihonalaiskudoksen poisto tai
+                                                                 korjaava leikkaus
+QBE             Vartalon ihon ja ihonalaisku-      QBE10         Vartalon ihon tai ihonalaiskudoksen paikallisen muutoksen
+                doksen paikallisten muutosten                    poisto koko ihon paksuudelta
+                poistot ja korjaukset
+                                                   QBE99         Muu vartalon ihon ja ihonalaiskudoksen poisto tai korjaava
+                                                                 leikkaus
+Va
+
+
+
+
+QCE             Yläraajojen ihon ja ihon-          QCE10         Yläraajan ihon tai ihonalaiskudoksen paikallisen muutok-
+                alaiskudoksen muutosten                          sen poisto koko ihon paksuudelta
+                poistot ja korjaukset
+                                                   QCE99         Muu yläraajan ihon ja ihonalaiskudoksen poisto tai korjaa-
+                                                                 va leikkaus
+QDE             Alaraajojen ihon ja ihonalais-     QDE10         Alaraajan ihon tai ihonalaiskudoksen paikallisen muutok-
+                kudoksen paikallisten muutos-                    sen poisto koko ihon paksuudelta
+                ten poistot ja korjaavat leikka-
+                ukset
+                                                   QDE99         Muu alaraajan ihon ja ihonalaiskudoksen poisto tai korjaa-
+                                                                 va leikkaus
+QXE             Ihon paikallisten muutosten        QXE10         Ihon tai ihonalaiskudoksen paikallisen muutoksen poisto
+                poistot ja korjaavat leikkauk-                   koko ihon paksuudelta, paikkaa ei määritelty
+                set, paikkaa ei määritelty
+                                                   QXE99         Muu ihon tai ihonalaiskudoksen poisto tai korjaus, paikkaa
+                                                                 ei määritelty
+
+
+
+
+                                                                                                Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                       31                                          syövän hoidossa
+
+===== PDF PAGE 33 =====
+                                          4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+                                Kohdunrungon syöpä C54-alkuiset ICD-10 koodit
+
+LCD            Kohdunpoistot                     LCD01         Kohdunpoisto vatsaontelon tähystyksessä
+                                                 LCD00         Kohdunpoisto
+                                                 LCD04         Kohdunpoisto vatsaontelon tähystyksessä emättimen
+                                                               kautta avustaen
+                                                 LCD10         Kohdunpoisto emättimen kautta
+                                                 LCD11         Kohdunpoisto emättimen kautta vatsaontelon tähystysti-
+                                                               mellä avustaen
+                                                 LCD97         Muu kohdunpoisto vatsaontelon tähystyksessä
+PJD            Imusolmukkeiden poistoleikka-     PJD53         Imusolmukkeiden radikaalinen poisto aortan ympäriltä
+               ukset
+
+                                                 PJD54         Imusolmukkeiden radikaalinen poisto lonkkavaltimoiden
+                                                               ympäriltä
+
+
+
+
+                                                                                      t
+                                                 PJD63         Imusolmukkeiden radikaalinen poisto tähystyksessä aor-
+                                                               tan ympäriltä
+
+
+
+
+                                                                nu
+                                                 PJD64         Imusolmukkeiden radikaalinen poisto tähystyksessä lonk-
+                                                               kavaltimoiden ympäriltä
+
+                               Munasarjasyöpä C56, C57.0-8 -alkuiset ICD-10 koodit
+
+LAF            Munanjohtimien ja munasarjo-      LAF00         Toisen munanjohtimen ja munasarjan poisto
+               jen poistoleikkaukset
+                                                 LAF10
+                                                 tu            Molempien munanjohtimien ja munasarjojen poisto
+                                                 LAF11         Molempien munanjohtimien ja munasarjojen poisto vatsa-
+                                                               ontelon tähystyksessä
+
+                                                 LAF16         Kohdun, sivuelimien, suoliliepeen ja lantio- ja aort-
+                                                               taimusolmukkeiden poisto munasarjasyövän takia
+                               en
+                                                 LAF17         Kohdun, sivuelimien, suoliliepeen ja lantio- ja aort-
+                                                               taimusolmukkeiden poisto munasarjasyövän takia, laparo-
+                                                               skooppisesti
+LAE            Munasarjojen poistot              LAE10         Toisen munasarjan poisto
+                                                 LAE11         Toisen munasarjan poisto vatsaontelon tähystyksessä
+                                                 LAE20         Munasarjojen poisto
+                                                 LAE21         Munasarjojen poisto vatsaontelon tähystyksessä
+         nh
+
+
+JAH            Vatsaontelon tutkimusleikkauk-    JAH00         Vatsaontelon tutkimusleikkaus
+               set ja aukaisut
+                                                 JAH01         Vatsaontelon tähystys tutkimustarkoituksessa
+JAQ            Laajat poistoleikkaukset vatsa-   JAQ00         Vatsakalvon laaja poistoleikkaus
+               ontelossa ja vastaavat toimen-
+               piteet
+PJD            Imusolmukkeiden poistoleikka-     PJD53         Imusolmukkeiden radikaalinen poisto aortan ympäriltä
+Va
+
+
+
+
+               ukset
+                                                 PJD54         Imusolmukkeiden radikaalinen poisto lonkkavaltimoiden
+                                                               ympäriltä
+                                                 PJD63         Imusolmukkeiden radikaalinen poisto tähystyksessä aor-
+                                                               tan ympäriltä
+                                                 PJD64         Imusolmukkeiden radikaalinen poisto tähystyksessä lonk-
+                                                               kavaltimoiden ympäriltä
+
+                                      Kivessyöpä C62-alkuiset ICD-10 koodit
+KFA             Kivesten ja siemenjohtimien      KFA00         Kiveksen tutkimusleikkaus
+                tutkimusleikkaukset
+KFC             Kivesten ja siemenjohtimien      KFC00         Toisen kiveksen poisto
+                osien poistot
+KFD             Kivespussin elinten ja muutos-   KFD00         Kiveksen osan poisto
+                ten poistoleikkaukset
+PJA             Imusolmukkeiden tutkimus-        PJA10         Imusolmukkeiden tutkimusleikkaus
+                leikkaukset
+
+
+                                                                                             Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                     32                                         syövän hoidossa
+
+===== PDF PAGE 34 =====
+                                           4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+PJD             Imusolmukkeiden poistoleik-      PJD53          Laaja imusolmukepoisto aortan ympäriltä
+                kaukset
+                                                 PJD54          Laaja imusolmukepoisto iliaka-alueelta
+                                                 PJD63          Laaja imusolmukepoisto aortan ymp LAP
+                                                 PJD64          Laaja imusolmukepoisto iliaka-alue LAP
+
+                                     Munuaissyöpä C64-alkuiset ICD-10 koodit
+KAC            Munuaisen poistot                 KAC10          Munuaisenpoisto kapseleineen
+                                                 KAC11          Munuaisen poisto kapseleinen tähystyksessä iholta
+KAD            Munuaisen osien poistot ja        KAD00          Munuaisen osan poisto
+               säästävät kasvainleikkaukset
+                                                 KAD01          Munuaisen osan poisto tähystyksessä iholta
+                                                 KAD10          Munuaisen poisto puoliksi
+                                                 KAD60          Munuaiskudoksen muutoksen tuhoaminen iholta käsin
+
+                            Rakko- ja virtsatiesyöpä C65-68-alkuiset ICD-10 koodit
+
+
+
+
+                                                                                      t
+KAC            Munuaisen poistot                 KAC20          Munuaisen ja virtsanjohtimen poisto
+                                                 KAC21          Munuaisen ja virtsanjohtimen poisto tähystyksessä iholta
+
+
+
+
+                                                                 nu
+KBD            Virtsanjohtimien osien ja muu-    KBD00          Virtsanjohtimen osittainen poisto
+               tosten poistot
+                                                 KBD20          Virtsanjohtimen kasvaimen poltto tai laser
+                                                 KBD21          Virtsanjohtimen kasvaimen poltto tai laser tähystyksessä
+                                                                iholta
+                                                 KBD22          Virtsanjohtimen kasvaimen poltto tai laser virtsatietähys-
+                                                 tu             tyksessä
+KCC            Virtsarakon poistot               KCC00          Virtsarakon poisto
+                                                 KCC10          Virtsarakon, eturauhasen ja rakkularauhasten poisto
+                                                 KCC20          Virtsarakon, eturauhasen, rakkularauhasten ja virtsaput-
+                                                                ken poisto
+                                                 KCC30          Virtsarakon ja sukuelinten poisto naiselta
+                             en
+                                                 KCC96          Muu virtsarakon poisto
+KCD            Virtsarakon osien tai muutosten   KCD02          Virtsarakon muutoksen poisto virtsatietähystyksessä,
+               poistot                                          TURB
+                                                 KCD05          Virtsarakon muutoksen poisto virtsatietähystyksessä
+                                                                fotodynaamista diagnostiikkaa käyttäen (PDD)
+                                                 KCD10          Virtsarakon osittainen poisto
+                                                 KCD30          Virtsarakon kasvaimen poltto tai laser
+         nh
+
+
+                                                 KCD32          Virtsarakon kasvaimen poltto tai laser virtsatietähystyk-
+                                                                sessä
+KDC            Virtsaputken poistot              KDC00          Virtsaputken poisto
+KDD            Virtsaputken osien ja muutos-     KDD00          Virtsaputken osittainen poisto
+               ten poistot
+                                                 KDD30          Virtsaputken kasvaimen poltto tai laser
+Va
+
+
+
+
+                   Aivo- ja keskushermostosyöpä C70-72+C75.1-3-alkuiset ICD-10 koodit
+AAB            Aivokasvaimien ja aivomuutos-     AAB00          Aivokasvaimen tai aivomuutoksen poisto
+               ten poistot
+                                                 AAB10          Aivokasvaimen tai aivomuutoksen poisto osittain
+ABB            Selkäytimen ja hermojuurien       ABB00          Selkäytimen ja hermojuurten paikallisen muutoksen poisto
+               paikallisten muutosten leikka-                   selkäydinkanavasta
+               ukset
+                                                 ABB10          Selkäytimen ja hermojuurten paikallisen muutoksen osa-
+                                                                poisto selkäydinkanavasta
+
+                                      Lymfoomat C81-85-alkuiset ICD-10 koodit
+
+JMA             Pernan poistoleikkaukset         JMA10          Pernan poisto vatsaontelotietä
+                                                 JMA11          Pernan poisto vatsaontelon tähystyksessä
+                                                 JMA20          Pernan poisto rintaontelon kautta
+
+
+
+
+                                                                                               Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                     33                                           syövän hoidossa
+
+===== PDF PAGE 35 =====
+                                      4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+4.5.3 Lääkehoidon kirjaaminen
+
+Yleisiä periaatteita lääkehoitojen kirjaamisesta
+
+Hoidon suunnittelu tai konsultaatio -toimenpidekoodi WZC00 kirjataan eri erikoisaloilla lääkärinkäyn-
+nin yhteydessä syöpälääkehoitoa suunniteltaessa
+     ensimmäisen hoidon suunnittelukäynnin yhteydessä, hoidon vaihtuessa (esim. toisen syöpähoidon
+        suunnittelu tai lääkehoidon vaihtuminen syövän edetessä), päätettäessä syöpätaudin seurantalinjan
+        aloittamisesta ja siirryttäessä oireenmukaiseen hoitoon.
+
+Lääkehoidon toimenpidekoodien kirjaaminen
+    Suun kautta ja pistoksina annettavat yksittäiset lääkehoidot kirjataan toteutuneeksi toimenpi-
+      teeksi lääkärin vastaanottokäynnillä, jossa hoito suunnitellaan. Kirjataan toteutuneiksi toimenpi-
+
+
+
+
+                                                                             t
+      teiksi ’Hoidon suunnittelu tai konsultaatio’ WZC00 ja määrätyn lääkehoidon toimenpidekoodi
+      (Taulukot 8-10).
+
+
+
+
+                                                            nu
+             o Suun kautta ja pistoksina annettavat lääkehoidot kirjataan toteutuneiksi myös mahdollisella
+                sairaanhoitajan hoidon aloituskäynnillä ja jokaisella hoitajan tai lääkärin vastaanottokäyn-
+                nillä, jolla lääkehoitoon otetaan kantaa.
+
+             o Pistoksina annettavat lääkehoidot kirjataan toteutuneiksi toimenpiteiksi myös pistosten an-
+                tamisen jälkeen.
+                                            tu
+       Infuusiona annettavien lääkkeiden osalta lääkäri määrittää lääkehoidon toimenpidekoodin vas-
+        taanottokäynnillä, jossa hoito suunnitellaan. Suunnittelukäynnin yhteydessä kirjataan toteutuneek-
+                           en
+        si toimenpiteeksi ’Hoidon suunnittelu tai konsultaatio’ WZC00. Sairaanhoitaja kirjaa lääkehoidon
+        toteutuneeksi lääkehoidon antamisen yhteydessä lääkärin suunnittelukäynnillä ohjeistaman mukai-
+        sesti.
+
+Eri lääkeaineryhmien yhdistelminä annettavat hoidot kirjataan erillisillä toimenpidekoodeilla. Nämä
+toimenpidekoodit kirjataan hoitojakson kaikille hoidon toteutuspäiville, vaikka kyseisellä kerralla annettai-
+         nh
+
+
+siinkin vain yhtä lääkettä. Jos useamman päivän lääkehoito sisältää vasta-ainehoitoa, kirjataan vasta-
+ainehoidon toimenpidekoodi vain vasta-ainehoidon antopäivänä. Lääkehoitoa kuvaavien toimenpidekoodi-
+en kirjaamisjärjestyksellä ei ole merkitystä hoitoonpääsyn raportoinnin kannalta.
+Va
+
+
+
+
+ Esimerkkejä kirjaamisesta
+
+ Suolistosyövän suonensisäisen liitännäissolunsalpaajahoidon kirjaaminen
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toteutuneeksi toimenpiteeksi WZC00 ja
+         tekstiin kirjataan tiedot suunnitellusta lääkehoidosta.
+     Lääkehoitoinfuusion toteutuspäiviltä kirjataan lääkehoidon toimenpidekoodi (esim. WB113
+         CAPOX).
+
+ Suolistosyövän oraalisen liitännäissolunsalpaajahoidon kirjaaminen
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toteutuneiksi toimenpiteiksi WZC00 ja
+         lääkehoidon toimenpidekoodi (esim. WB103 kapesitabiini).
+     Lääkärin tai sairaanhoitajan vastaanottokäyntien tai puhelinyhteydenottojen yhteydessä, joissa
+         otetaan kantaa lääkityksen jatkumiseen ja/tai aloitetaan uusi hoitosykli, kirjataan lääkehoidon
+         toimenpidekoodi (esim. WB103 kapesitabiini).
+
+
+
+                                                                                     Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                34                                      syövän hoidossa
+
+===== PDF PAGE 36 =====
+                                     4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+ Her-2 positiivisen rintasyövän neoadjuvanttisolunsalpaajan kirjaaminen
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toteutuneeksi toimenpiteeksi WZC00 ja
+        tekstiin kirjataan tiedot suunnitellusta lääkehoidosta.
+     Lääkehoitoinfuusion toteutuspäiviltä kirjataan toimenpidekoodit (esim. WB610 pertutsumabin
+        ja trastutsumabin yhdistelmähoito sekä WB121 dosetakseli).
+
+ Eturauhassyövän sädehoitoa edeltävän neoadjuvanttihormonihoidon kirjaaminen
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toteutuneiksi toimenpiteiksi WZC00 ja
+        hoidoksi aloitettavan LHRH analogin neoadjuvanttihoidon toimenpidekoodi WB221.
+     Toimenpidekoodi WB221 kirjataan myös vastaanottokäyntien tai puhelinyhteydenottojen yh-
+        teydessä, joissa otetaan kantaa lääkehoidon jatkumiseen ja lisäksi lääkehoidon toteutuksen jäl-
+        keen.
+
+
+
+
+                                                                          t
+ Luustoon levinneen eturauhassyövän hoidon kirjaaminen
+
+
+
+
+                                                           nu
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toteutuneiksi toimenpiteiksi WZC00 ja
+        esim. hoidoksi aloitettavan LHRH-analogin toimenpidekoodi WD225 sekä luustolääkkeen toi-
+        menpidekoodi WD305.
+     Toimenpidekoodit WD225 ja WD305 kirjataan myös vastaanottokäyntien tai puhelinyhteyden-
+        ottojen yhteydessä, joissa tehdään muutoksia lääkehoitoon ja lisäksi toimenpidekoodit kirjataan
+        aina kyseisen lääkehoidon toteutuksen jälkeen.
+                                           tu
+ Levinneen munuaissyövän oraalisen hoidon kirjaaminen
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toteutuneiksi toimenpiteiksi WZC00 ja
+        hoidoksi aloitettavan oraalisen tyrosiinikinaasi-inhibiittorihoidon toimenpidekoodi WD505.
+     Toimenpidekoodi WD505 kirjataan myös lääkärin ja sairaanhoitajan vastaanottokäyntien tai
+                          en
+        puhelinyhteydenottojen yhteydessä, joissa tehdään muutoksia lääkehoitoon tai kun aloitetaan
+        uusi hoitojakso.
+
+ Levinneen munuaissyövän suonensisäisen hoidon kirjaaminen
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toteutuneeksi toimenpiteeksi ’Hoidon
+        suunnittelu tai konsultaatio’WZC00 ja tekstiin kirjataan tiedot suunnitellusta lääkehoidosta.
+         nh
+
+
+     Lääkehoitoinfuusion toteutuspäiviltä kirjataan toimenpidekoodi (esim. WD325 nivolumabi).
+
+ Kivessyövän liitännäissolunsalpaajahoidon kirjaaminen
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toteutuneeksi toimenpiteeksi ’Hoidon
+        suunnittelu tai konsultaatio’ WZC00 ja tekstiin kirjataan tiedot suunnitellusta lääkehoidosta.
+Va
+
+
+
+
+     Lääkehoitoinfuusion kaikilta hoidon toteutuspäiviltä kirjataan lääkehoidon toimenpidekoodi
+        (esim. WB113 BEP).
+
+ Levinneen pään ja kaulan alueen syövän lääkehoidon kirjaaminen
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toteutuneeksi toimenpiteeksi ’Hoidon
+        suunnittelu tai konsultaatio’ WZC00 ja tekstiin kirjataan tiedot suunnitellusta lääkehoidosta
+     Lääkehoitoinfuusion kaikilta hoitopäiviltä kirjataan lääkehoidon toimenpidekoodi (esim.
+        WD125 sisplatiini ja fluorourasiili) ja lisäksi tarvittaessa vasta-aineen toimenpidekoodi vasta-
+        aineen antamisen jälkeen (esim. WD405 setuksimabi).
+
+
+
+
+                                                                                  Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                               35                                    syövän hoidossa
+
+===== PDF PAGE 37 =====
+                                          4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Primaarikasvaimen ja paikallisen kasvaimen hoito
+
+Käytettävät lääkkeet kirjataan Taulukossa 8 esitettyjen toimenpidekoodien mukaan. Adjuvanttihoito eli
+liitännäishoito on täydentävää hoitoa, esim. syöpäleikkauksen lisäksi annettu solunsalpaajahoito, jonka
+tavoitteena on tuhota piileviä kasvainpesäkkeitä. Neoadjuvanttihoito on syövän liitännäishoito, joka aloite-
+taan ennen leikkausta.
+
+Taulukko 8. Primaarikasvaimen/paikallisen kasvaimen lääkehoidossa käytettävät toimenpidekoodit
+
+                                                   Adjuvanttihoito
+Koodi            Toimenpide                                                   Käytettäviä lääkkeitä
+
+WB103            Primaarikasvaimen yksinkertainen solusalpaajahoito           Solunsalpaajahoito yksittäisaineella, esim.
+                 liitännäishoitona                                            dosetakseli
+WB113            Primaarikasvaimen monisolusalpaajahoito liitännäishoitona    Yhdistelmäsolunsalpaajahoito, esim. CEF,
+
+
+
+
+                                                                                          t
+                                                                              XELOX
+WB203            Primaarikasvaimen yksinkertainen hormonihoito                Aromataasinestäjät, tamoksifeeni
+                 (=oraalinen) liitännäishoitona
+
+
+
+
+                                                                  nu
+WB223            Primaarikasvaimen vaativa hormonihoito liitännäishoitona     LHRH analogit
+                 (=pistos)
+WB401            Primaarikasvaimen yksinkertainen vasta-ainehoito             Vasta-ainehoito yksittäisaineella, esim. tras-
+                                                                              tutsumabi
+WB402            Primaarikasvaimen vaativa vasta-ainehoito                    Yhdistelmävasta-ainehoito, esim. pertutsu-
+                                                 tu                           mabi & trastutsumabi
+WB303            Primaarikasvaimen yksinkertainen hoito biovasteen-           Interferoni
+                 muuntajilla liitännäishoitona
+WB323            Primaarikasvaimen vaativa hoito biovasteenmuuntajilla,       Ipilimumabi, nivolumabi, pembrolitsumabi
+                 immunologiset lääkkeet
+WB501            Primaarikasvaimen yksinkertainen entsyymi-inhibiittori-      Imatinibi
+                 ja vastaava hoito
+                              en
+                                                 Neoadjuvanttihoito
+WB121            Primaarikasvaimen leikkausta tai sädehoitoa edeltävä         Ennen leikkausta annettava solunsalpaaja-
+                 vaativa solusalpaajahoito                                    hoito
+WB201            Primaarikasvaimen yksinkertainen leikkausta tai sädehoitoa   Aromataasinestäjät
+                 edeltävä hormonihoito (=oraalinen)
+          nh
+
+
+WB221            Primaarikasvaimen leikkausta tai sädehoitoa edeltävä         LHRH-analogit
+                 vaativa hormonihoito (=pistos)
+                 Primaarikasvaimen leikkausta tai sädehoitoa edeltävä
+WB321
+                 vaativa hoito biovasteenmuuntajilla
+                 Primaarikasvaimen leikkausta tai sädehoitoa edeltävä hoito
+WB600*
+                 vasta-aineella
+                 Primaarikasvaimen leikkausta tai sädehoitoa edeltävä
+Va
+
+
+
+
+WB610*
+                 vaativa hoito vasta-aineella
+* toimenpideluokitusta täydennetään, jolloin käytettävissä on vuonna 2017
+
+
+
+
+                                                                                                Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                     36                                            syövän hoidossa
+
+===== PDF PAGE 38 =====
+                                          4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Paikallisesti uusiutuneen kasvaimen hoito
+
+Käytettävät lääkkeet kirjataan Taulukossa 9 esitettyjen toimenpidekoodien mukaan. Adjuvantti- ja neoad-
+juvanttihoitoa ei erotella uusiutuneen kasvaimen hoidossa.
+
+
+Taulukko 9. Paikallisesti uusiutuneen kasvaimen lääkehoidossa käytettävät toimenpidekoodit
+
+                                         Adjuvantti- ja neoadjuvanttihoito
+Koodi            Toimenpide                                                    Käytettäviä lääkkeitä
+                 Paikallisen uusiutuneen kasvaimen yksinkertainen so-          Solunsalpaajahoito yksittäisaineella, esim.
+WC105
+                 lusalpaajahoito                                               dosetakseli
+
+                 Paikallisen uusiutuneen kasvaimen vaativa solusalpaaja-       Yhdistelmä solunsalpaajahoito, esim. CEF,
+WC125
+                 hoito                                                         CAPOX
+
+
+
+
+                                                                                        t
+                 Paikallisen uusiutuneen kasvaimen yksinkertainen hor-         Aromataasinestäjät, tamoksifeeni
+WC205
+                 monihoito (=oraalinen)
+
+
+
+
+                                                                   nu
+                 Paikallisen uusiutuneen kasvaimen vaativa tavanomainen        LHRH-analogit
+WC225
+                 hormonihoito (=pistos)
+
+                 Paikallisen uusiutuneen kasvaimen yksinkertainen hoito        Interferoni
+WC305
+                 biovasteenmuuntajilla
+
+                 Paikallisen uusiutuneen kasvaimen vaativa hoito biovas-       Ipilimumabi, nivolumabi, pembrolitsumabi
+WC325
+                 teenmuuntajilla, immunologiset lääkkeet
+
+WC401
+                                                 tu
+                 Paikallisesti uusiutuneen kasvaimen yksinkertainen vasta-
+                 ainehoito
+                                                                               Vastainehoito yksittäisaineella, esim. trastut-
+                                                                               sumabi
+
+                 Paikallisesti uusiutuneen kasvaimen vaativa vasta-ainehoito   Yhdistelmä vasta-ainehoito, esim. pertutsu-
+WC402
+                                                                               mabi & trastutsumabi
+                             en
+                 Paikallisesti uusiutuneen kasvaimen yksinkertainen ent-       Tyrosiinikinaasi-inhibiittorihoito, esim. suni-
+WC501
+                 syymi-inhibiittori- ja vastaava hoito                         tinibi, lapatinibi
+          nh
+Va
+
+
+
+
+                                                                                                  Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                      37                                             syövän hoidossa
+
+===== PDF PAGE 39 =====
+                                          4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Levinneen syövän lääkehoito
+
+Levinneen syövän hoidossa käytettävät lääkkeet kirjataan Taulukossa 10 esitettyjen toimenpidekoodien
+avulla. Lymfoomien hoito kirjataan levinneen syövän koodeilla.
+
+Muut yhdistelmähoidot muodostetaan erillisten toimenpidekoodien avulla, esimerkiksi:
+    Bevasitsumabi ja CAPOX: WD125 ja WD405
+    Pertutsumabi, trastutsumabi ja dosetakseli: WD105 ja WD415.
+
+Taulukko 10. Levinneen syövän lääkehoidossa käytettävät toimenpidekoodit
+
+                                           Levinneen syövän lääkehoito
+Koodi           Toimenpide                                                    Käytettyjä lääkkeitä
+WD105           Laajalle levinneen kasvaimen yksinkertainen tavanomai-        Solunsalpaajahoito yksittäisaineella (oraali-
+                nen solusalpaajahoito                                         nen & pistos), esim. dosetakseli, kapesitabiini
+
+
+
+
+                                                                                       t
+WD125           Laajalle levinneen kasvaimen vaativa solusalpaajahoito        Yhdistelmäsolunsalpaajahoito, esim. CEF,
+                                                                              CAPOX sekä oraaliset yhdistelmäsolunsal-
+
+
+
+
+                                                                   nu
+                                                                              paajat esim. kapesitabiini & temotsolimidi
+WD205           Laajalle levinneen kasvaimen yksinkertainen hormonihoi-       Esim. aromataasiestäjät, tamoksifeeni, bika-
+                to (=oraalinen)                                               lutamidi, abirateroni, entsalutamidi
+
+WD225           Laajalle levinneen kasvaimen vaativa hormonihoito             Esim. LHRH-analogit, fulvestrantti
+                (=pistos)
+WD305           Laajalle levinneen kasvaimen yksinkertainen hoito bio-        Esim. interferoni, tsoledronihappo ja de-
+
+
+
+WD325
+                lääkkeet
+                                                 tu
+                vasteenmuuntajilla sisältäen bifosfonaatti- ja muut luusto-
+
+                Laajalle levinneen kasvaimen vaativa hoito biovasteen-
+                                                                              nosumabi
+
+                                                                              Immunologiset lääkkeet, esim. Ipilimumabi,
+                muuntajilla                                                   nivolumabi, pembrolitsumabi
+WD405           Laajalle levinneen kasvaimen yksinkertainen vasta-            Vastainehoito yksittäisaineella, esim. trastut-
+                             en
+                ainehoito                                                     sumabi, rituksimabi, bevasitsumabi
+WD415           Laajalle levinneen kasvaimen vaativa vasta-ainehoito          Yhdistelmävasta-ainehoito ja vasta-ainehoito,
+                                                                              johon on kombinoitu solunsalpaaja, esim.
+                                                                              pertutsumabi & trastutsumabi, trastutsumabi
+                                                                              emtansiini
+WD505           Laajalle levinneen kasvaimen yksinkertainen entsyymi-         Tyrosiinikinaasi-inhibiittorihoito yksittäisai-
+                inhibiittori- ja vastaava hoito                               neella, esim. sunitinibi, erlotinibi, lapatinibi
+         nh
+Va
+
+
+
+
+                                                                                                 Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                      38                                            syövän hoidossa
+
+===== PDF PAGE 40 =====
+                                      4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+4.5.4 Sädehoidon kirjaaminen Ks. erillinen liite 1
+
+Yleisiä periaatteita sädehoitojen kirjaamisesta
+
+Hoidon suunnittelu tai konsultaatio -toimenpidekoodi WZC00 kirjataan lääkärinkäynnin yhteydessä
+sädehoitoa suunniteltaessa. Suunnittelukuvauksen toimenpidekoodi(t) eli Y-koodi(t) kirjataan kunkin kes-
+kuksen oman ohjeistuksen mukaan.
+
+Lääkäri määrittää sädehoidon toimenpidekoodin eli hoidon tavoitetta, hoidon vaihetta tai syövän tilaa
+kuvaavan toimenpidekoodin (Taulukko 11) hoitoarviokäynnin tai sädehoitomääräyksen tekemisen yhtey-
+dessä. Näitä ovat esimerkiksi WF0-, HA0-, WA0- ja XX7-alkuiset sekä AX099 ja QX099.
+     Jos samalla hoitojaksolla hoidetaan useaa hoitokohdetta erillisillä annossuunnitelmilla (Plan), niin
+
+
+
+
+                                                                            t
+        merkitään vastaava määrä toimenpidekoodeja. Toimenpidekoodit kirjataan jokaisen sädehoito-
+
+
+
+
+                                                            nu
+        käynnin yhteydessä.
+
+Sädehoidon suunnittelutyön toimenpidekoodi on XX3DW (Laaja lisäanalyysi radiologisesta tutkimusai-
+neistosta, työläs työasematyö) ja se kirjataan sädehoitojakson ensimmäisenä päivänä. Jos samalla hoitojak-
+solla hoidetaan kahta erillistä hoitokohdetta, niin tulee kaksi kertaa XX3DW. Jos samalla hoitojaksolla
+tehdään kokonaan uusi annossuunnitelma, XX3DW kirjataan, kun hoito uudella suunnitelmalla alkaa.
+                                            tu
+Sädehoidon tekniikkaa kuvaavat toimenpidekoodit (ZX0-alkuiset) kirjataan kunkin keskuksen oman oh-
+jeistuksen mukaisesti.
+      Stereotaktisen sädehoidon toimenpidekoodi on ZX050 riippumatta siitä, minkä alueen tai minkä
+         hoitovaiheen (kuratiivinen/palliatiivinen) hoidosta on kyse. Huom. ZX-koodi on ns. lisäkoodi ja se
+                           en
+         vaatii aina päätoimenpidekoodin, joten esim. metastaasin hoidossa pääkoodi on WF049.
+      Kemosädehoidon toimenpidekoodi on ZX095.
+
+Kemosädehoidossa käytettävien syöpälääkkeiden toimenpidekoodit ovat adjuvanttihoitojen mukaiset:
+WB103, WB113, WB223 ja WB401 (Taulukko 11).
+         nh
+
+
+    Lääkäri määrittää syöpälääkkeen toimenpidekoodin ja se kirjataan kuten muukin lääkehoito (ks.
+      kohta 4.5.3).
+
+  Esimerkkejä kirjaamisesta
+Va
+
+
+
+
+  Rintasyöpä: osittaisella rinnan poistolla leikatun potilaan sädehoito
+      Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toteutuneeksi toimenpiteeksi WZC00.
+         Tällä käynnillä tai sädehoitomääräystä tehtäessä tekstiin kirjataan tiedot suunnitellusta sädehoi-
+         dosta.
+      Sädehoidon suunnittelukuvauskäynnillä kirjataan Y-koodi oman keskuksen käytännön mukai-
+         sesti.
+      Sädehoidon suunnittelutyön koodi XX3DW kirjataan ensimmäisellä hoitokerralla.
+      Sädehoidon toimenpidekoodi HA003 kirjataan kaikilla sädehoitokäynneillä.
+      ZX-tekniikkakoodi(t) kirjataan oman keskuksen käytännön mukaisesti.
+
+
+
+
+                                                                                    Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                39                                     syövän hoidossa
+
+===== PDF PAGE 41 =====
+                                      4 Syövän hoitoonpääsyn seuranta
+
+
+
+ Peräsuolisyöpä: leikkausta edeltävä kemosädehoitojakso
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toimenpidekoodeiksi WZC00 ja tarvitta-
+        essa tablettimuotoisen kemosädehoidon lääkkeen toimenpidekoodi WB103 (esim. kabesitabii-
+        ni). Tällä käynnillä tai sädehoitomääräystä tehtäessä tekstiin kirjataan tiedot suunnitellusta säde-
+        hoidosta.
+     Sädehoidon suunnittelukuvauskäynnillä kirjataan Y-koodi(t) oman keskuksen käytännön mukai-
+        sesti.
+     Sädehoidon suunnittelutyön koodi XX3DW kirjataan ensimmäisellä hoitokerralla.
+     Kemosädehoidon koodi ZX095 kirjataan oman keskuksen käytännön mukaisesti
+     Sädehoitokoodi WF001 kirjataan kaikilla sädehoitokäynneillä.
+     ZX-tekniikkakoodi(t) kirjataan oman keskuksen käytännön mukaisesti.
+
+ Pään ja kaulan syöpä: definitiivinen kemosädehoitojakso
+     Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toimenpidekoodeiksi ’Hoidon suunnitte-
+
+
+
+
+                                                                             t
+         lu tai konsultaatio’ WZC00. Tällä käynnillä tai sädehoitomääräystä tehtäessä tekstiin kirjataan
+
+
+
+
+                                                            nu
+         tiedot suunnitellusta säde- ja lääkehoidosta.
+     Sädehoidon suunnittelukuvauskäynnillä kirjataan Y-koodi(t) oman keskuksen käytännön mukai-
+         sesti.
+     Sädehoidon suunnittelutyön koodi XX3DW kirjataan ensimmäisellä hoitokerralla.
+     Y-koodi ja XX3DW kirjataan uudelleen, jos sädehoitojakson aikana joudutaan tekemään uusi
+         kuvaus ja suunnitelma.
+                                            tu
+     Sädehoidon toimenpidekoodi WF002 kirjataan kaikilla sädehoitokäynneillä.
+     Kemosädehoidon koodi ZX095 kirjataan oman keskuksen käytännön mukaisesti
+     ZX-tekniikkakoodi(t) kirjataan oman keskuksen käytännön mukaisesti.
+     Lääkeinfuusion antava yksikkö kirjaa WB103 (esim. sisplatiini) aina lääkkeen antamisen jäl-
+                           en
+         keen.
+
+     Eturauhassyöpä: ulkoinen sädehoito samanaikaisen hormonihoidon kanssa
+       Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toimenpidekoodiksi WZC00. Tällä
+         käynnillä tai sädehoitomääräystä tehtäessä tekstiin kirjataan tiedot suunnitellusta sädehoidosta.
+         nh
+
+
+         Hormonihoito kirjataan toteutuneeksi toimenpiteeksi vain jos se aloitetaan tai siihen otetaan
+         kantaa tämän vastaanoton yhteydessä.
+       Sädehoidon suunnittelukuvauskäynnillä kirjataanY-koodi(t) oman keskuksen käytännön mukai-
+         sesti.
+       Sädehoidon suunnittelutyön koodi XX3DW kirjataan ensimmäisellä hoitokerralla.
+Va
+
+
+
+
+       Sädehoidon toimenpidekoodi WF002 kirjataan kaikilla sädehoitokäynneillä.
+       ZX-tekniikkakoodi(t) kirjataan oman keskuksen käytännön mukaisesti.
+       Hormonipistoksen antamispäivänä kirjataan toimenpiteeksi WB223.
+
+     Palliatiivinen keuhkosyövän luustometastaasin ja primaarikasvaimen samanaikainen sädehoito,
+     kaksi erillistä hoitokohdetta
+       Ensimmäisen vastaanottokäynnin yhteydessä kirjataan toimenpidekoodiksi WZC00. Tällä
+          käynnillä tai sädehoitomääräystä tehtäessä tekstiin kirjataan tiedot suunnitellusta sädehoidosta.
+       Sädehoidon suunnittelukuvauskäynnillä kirjataan Y-koodi(t) oman keskuksen käytännön mukai-
+          sesti.
+       Sädehoidon suunnittelutyön koodi XX3DW x 2 kirjataan ensimmäisellä hoitokerralla.
+       Kaikilla sädehoitokäynneillä kirjataan sädehoidon toimenpidekoodit WF004 ja WF049.
+       ZX-tekniikkakoodi(t) kirjataan oman keskuksen käytännön mukaisesti.
+
+
+
+                                                                                     Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                40                                      syövän hoidossa
+
+===== PDF PAGE 42 =====
+                                            4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+Taulukko 11. Syövän sädehoidossa käytettävät toimenpidekoodit
+
+                                             Primaarikasvain/paikallinen
+
+Koodi          Toimenpide                                  Tarkempi kuvaus käytöstä, esimerkkejä
+WF001          Sädehoito primaarikasvaimen preopera-       Esim. peräsuolisyövän preoperatiivinen hoito
+               tiivisena hoitona
+WF002          Radikaali primaarikasvaimen sädehoito       Definitiivinen hoito, jossa sädehoito parantavatavoitteisena yksin-
+                                                           omaisena hoitona. Esimerkiksi:
+                                                           -     pään ja kaulan alueen syövät
+                                                           -     kaikki aivokasvaimet (myös jos sädehoito ns. toisen vaiheen
+                                                                 hoitona)
+                                                           -     eturauhassyöpä (myös aktiiviseurannan jälkeen annettava
+                                                                 hoito)
+                                                           -     akustikusneurinooman, meningeoman tms. suuriannoksinen
+                                                                 hoito
+
+
+
+
+                                                                                         t
+WF003          Sädehoito primaarikasvaimen liitännäis-     Muuta parantavatavoitteista hoitoa täydentävä tai osana annetta-
+               hoitona                                     va hoito. Esimerkiksi:
+
+
+
+
+                                                                   nu
+                                                           -     postoperatiiviset ja sytostaattihoidon jälkeiset (lymfoomien)
+                                                                 täydentävät hoidot
+                                                           -     keuhkosyövän ns. profylaktinen aivosädehoito (koska hoide-
+                                                                 taan mahdollista mikrometastasointia)
+HA003          Rintarauhasen osittaisen poiston jälkei-    Rinta ja tarvittavat imusolmukealueet
+               nen sädehoito                               kirurgisen hoidon liitännäishoitona
+HA013          Rintarauhasen täydellisen poiston jälkei-
+                                                  tu       Rintakehä ja tarvittavat imusolmukealueet
+               nen sädehoito                               kirurgisen hoidon liitännäishoitona
+
+                             Radikaalin hoidon jälkeen paikallisesti uusiutunut kasvain
+
+WF029          Paikallisesti uusineen kasvaimen säde-      -    Kasvaimen uusiutuman radikaaliannoksinen hoito
+               hoito                                       -    Kaikki uusinta/lisäsädehoidot, esim. eturauhassyövän salva-
+                                                                ge-hoito
+                               en
+                                     Paikallisen kasvaimen palliatiivinen hoito
+
+WF004          Sädehoito primaarikasvaimen palliatiivi-    -    Primaaritaudin paikallinen oireita lievittävä hoito
+               sena hoitona                                -    Paikallisesti uusiutuneen tai etenevän taudin oireita lievittävä
+                                                                hoito
+                                                           -    Esim. keuhkosyöpä
+         nh
+
+
+                                         Levinneen syövän palliatiivinen hoito
+WF049          Etäpesäkkeen sädehoito                      Etäpesäkkeiden tai hoitoalueiden lukumäärästä tai sijainnista
+                                                           riippumatta
+                                                           -     Hoitoalue voi sisältää myös primäärin kasvaimen
+Va
+
+
+
+
+                                                  Kehon sädehoidot
+
+WA010          Koko kehon sädehoito muun syöpähoidon
+               tukihoitona
+WA029          Puolikehon sädehoito
+QX099          Koko ihon sädehoito
+
+                                               Profylaktinen sädehoito
+
+WF090          Profylaktinen sädehoito                          Esim. rintarauhasten sädehoito ennen antiandrogeenihoidon
+                                                                aloittamista
+
+
+                                            Keskushermoston sädehoidot
+
+AX099          Koko keskushermoston sädehoito
+
+
+
+
+                                                                                                   Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                       41                                             syövän hoidossa
+
+===== PDF PAGE 43 =====
+                                           4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+                                                     Muu sädehoito
+
+WF099          Muu sädehoito                                      Esim. imusolmukealueiden matala-annoksinen hoito
+
+
+                                           Kemosädehoito ja lääkekoodit
+
+ZX095          Yhdistetty sädehoito ja kemoterapia
+
+WB103          Primaarikasvaimen yksinkertainen solusal-          Esim. kapesitabiini, sisplatiini
+               paajahoito liitännäishoitona
+WB113          Primaarikasvaimen monisolusalpaajahoito            Esim. sisplatiinin ja fluorourasiilin yhdistelmähoito
+               liitännäishoitona
+WB223          Primaarikasvaimen vaativa hormonihoito             Esim. LHRH-analogi
+               liitännäishoitona                                  (Huom. neoadjuvanttihoidon aloitus WB221
+WB401          Primaarikasvaimen yksinkertainen vasta-            Esim. setuksimabi
+               ainehoito
+
+
+
+
+                                                                                            t
+                                                Radioisotooppihoidot
+
+XX7AT          Radiolääkehoito, Radium-223
+
+
+
+
+                                                                     nu
+XX7CT          Radiojodihoito, kilpirauhaskudos
+XX7FT          Radioyttriumhoito leimatulla vasta-aineella
+
+XX7GT          Radioyttrium SIRT - hoito
+
+XX7JT          Radioindiumhoito somatostatiinireseptorili-
+               gandi
+XX7KT          Radiosamariumhoito
+                                                  tu
+                             en
+         nh
+Va
+
+
+
+
+                                                                                                     Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                         42                                             syövän hoidossa
+
+===== PDF PAGE 44 =====
+                                            4 Syövän hoitoonpääsyn seuranta
+
+
+
+
+4.5.5 Muiden toimenpiteiden kirjaaminen
+
+Syövän hoitoon liittyviä muita toimenpiteitä ovat kantasolusiirrot ja erilaiset kasvainten tai kudosmuutoksi-
+en paikallishoidot kuten esimerkiksi laserhoidot.
+
+
+Taulukko 12. Syövän hoidossa käytettävien muiden toimenpiteiden koodit
+
+                                                      Kantasolusiirrot
+
+Koodi           Toimenpide
+WW300           Autologinen kantasolusiirto
+WW302           Kantasolusiirto vierailla soluilla, omaisluovuttaja
+
+WW304           Kantasolusiirto vierailla soluilla, kotimainen
+
+
+
+
+                                                                              t
+                rekisteriluovuttaja
+WW306           Kantasolusiirto vierailla soluilla, ulkomainen
+
+
+
+
+                                                                      nu
+                rekisteriluovuttaja
+WW310           Kantasolusiirto napaveren soluilla
+
+                                 Kasvaimen tai kudosmuutoksen paikallishoidot
+
+GBA25           Henkitorven kasvaimen tai kudosmuutoksen
+                poltto tähystyksessä                tu
+GBA28           Henkitorven kasvaimen tai kudosmuutoksen
+                hoito laserilla
+JJA43           Maksamuutoksen tuhoaminen
+
+JJA44           Maksamuutoksen tuhoaminen vatsaontelon
+                tähystyksessä
+                Muun kasvaimen embolisaatio radiologisessa
+                              en
+XX6DT
+                ohjauksessa
+XX6LT           Kasvaimen koagulaatio radiologisessa ohjauk-
+                sessa
+TJJ10           Maksamuutoksen hajottaminen iholta käsin
+
+JN4NT           Vartalon kasvaimen koagulaatiohoito, radiol.
+                ohjaus
+         nh
+Va
+
+
+
+
+                                                                                     Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                         43                             syövän hoidossa
+
+===== PDF PAGE 45 =====
+                                          5 Tietojen toimittaminen
+
+
+
+
+5 Tietojen toimittaminen
+Tiedot toimitetaan Hilmo-oppaan mukaisesti, koska tiedot ovat osa Hilmo-tiedonkeruuta. Hilmo-tiedot
+voidaan toimittaa THL:een kerran kuukaudessa vuoden 2017 alusta alkaen.
+
+
+
+
+6 Raportointi
+
+
+
+
+                                                                             t
+Syöpään sairastuneiden hoidon osalta tiedot toteutuneista odotusajoista löytyvät THL.fi-sivustolta, heti kun
+aineiston laatu saadaan hyväksyttävälle tasolle.
+
+
+
+
+                                                             nu
+Siinä vaiheessa kun sairaalat pystyvät toimittamaan Hilmo-tiedot kuukausittain, päivittyvät raportit auto-
+maattisesti myös kuukausittain. Hoitoonpääsyn odotusajanjakso määräytyy toteutuneen hoidon mukaan,
+jolloin haetaan takautuvasti tieto, milloin kyseisen syöpäpotilaan hoitoon liittyvä lähete on saapunut, mil-
+loin hän on käynyt lääkärissä ja milloin hänet on asetettu hoitojonoon.
+                                            tu
+Kaikkien seurannassa mukana olevien syöpien osalta tietoja löytyy sekä potilaan asuinkunnan että palve-
+luntuottajan mukaan.
+
+Näissä yleistilanteesta (lähetteen saapumisesta ensimmäiseen lääkärikäyntiin ja ensimmäiseen hoitoon sekä
+                           en
+hoitojonoon asettamisesta ensimmäiseen hoitoon) kertovissa tietokantaraporteissa mittareina käytetään:
+
+       alle 2 viikkoa
+       2 – 4 viikkoa
+       yli 4 ja enintään 6 viikkoa
+    
+         nh
+
+
+        yli 6 ja enintään 8 viikkoa
+       yli 8 ja enintään 12 viikkoa
+
+Huomioitavaa on, että nämä tietokantaraporteissa käytetyt ajat eivät ole suositusaikoja, vaan ne palvelevat
+vain vertailua.
+Va
+
+
+
+
+Sen sijaan tässä oppaassa esitetyt rinta-, eturauhas- ja suolistosyöpien hoidon seurantaa koskevat aikarajat
+ovat suositeltuja enimmäisaikoja (kuviot 2−5 sivuilla 18−19), missä ajassa hoidon tulisi toteutua.
+
+Toteutuneiden hoitoonpääsyaikojen perusteella voidaan arvioida suositusten toteutumista ja tarvittaessa
+ohjeistusta voidaan muuttaa ja täydentää.
+
+
+
+
+                                                                                    Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                44                                     syövän hoidossa
+
+===== PDF PAGE 46 =====
+                                                                    Lähteet
+
+
+
+
+Lähteet
+
+Eturauhassyöpä (online). Käypä hoito -suositus. Suomalaisen                Tautiluokitus ICD-10, 2011. Tautiluokitus ICD-10, 3. painos.
+    Lääkäriseuran Duodecimin ja Suomen Urologiyhdistys ry:n                   Luokitukset, termistöt ja tilasto-ohjeet 5/2011. Terveyden ja hy-
+    asettama työryhmä. Helsinki: Suomalainen Lääkäriseura Duo-             vinvoinnin laitos (THL).
+    decim, 2014.                                                           Saatavissa: http://urn.fi/URN:NBN:fife201205085423
+Saatavissaa:
+http://www.kaypahoito.fi/web/kh/suositukset/suositus?id=hoi11060           Virkkunen Heikki, Mäkelä-Bengs Päivi ja Vuokko Riikka 2015.
+                                                                              Terveydenhuollon rakenteisen kirjaamisen opas - Keskeisten
+Hilmo 2016. HILMO - Sosiaalihuollon ja terveydenhuollon hoi-                  kertomusrakenteiden kirjaaminen sähköiseen potilaskertomuk-
+    toilmoitus - Määrittelyt ja ohjeistus. Voimassa 1.1.2017 lähtien.         seen, Osa I, Versio 2015. Ohjaus 2/2015, Terveyden ja hyvin-
+16/2016, Terveyden ja hyvinvoinnin laitos.                                    voinnin laitos.
+Saatavissa: http://urn.fi/URN:ISBN:978-952-302-690-2                       Saatavissa: http://urn.fi/URN:ISBN:978-952-302-479-3
+
+
+
+
+                                                                                                      t
+Komulainen, Jorma 2012. Suomalainen tautien kirjaamisen ohje-              Väntetider i cancervården. Rapport december 2014. Socialstyrelsen
+
+
+
+
+                                                                               nu
+    kirja. Terveyden ja hyvinvoinnin laitos (THL) Opas 17/2012.               2014-12-11
+Saatavissa: http://urn.fi/URN:ISBN:978-952-245-511-6                       Saatavissa: http://www.socialstyrelsen.se/publikationer2014/2014-
+                                                                              12-11.
+Monitrering af forløbstider på kræftområdet. Sundhedsstyrelsen,
+    Danish Health and Medicines Authority                                  Öppna jämförelser 2014. Cancersjukvård, jämförelser mellan lands-
+Saatavissa:http://sundhedsdatastyrelsen.dk/da/tal-og-      tu                 ting. Socialstyrelsen 2014-12-2.
+    analyser/analyser-og-rapporter/monitoreringer/kraeft                   Saatavissa:
+                                                                              http://www.socialstyrelsen.se/Lists/Artikelkatalog/Attachments/
+Mäklin, Suvi ja Mäkelä, Marjukka 2008. Hoitoon pääsy syöpä-                   19548/2014-12-2.pdf
+    taudeissa: Kysely sairaanhoitopiireille elokuussa 2008. Työpa-
+    pereita 33/2008, Stakes.
+                                    en
+Saatavissa: http://urn.fi/URN:NBN:fi-fe201204193715
+
+
+STM 2010. Syövän hoidon kehittäminen vuosina 2010−2020.
+    Sosaali- ja terveysministeriön selvityksiä 6/2010.
+Saatavissa: http://urn.fi/URN:ISBN:978-952-00-2971-5
+               nh
+
+
+STM 2014. Kansallinen syöpäkeskus – Comprehensive Cancer
+    Center Finland (FICAN)
+Sosiaali- ja terveysministeriön raportteja ja muistioita 13/2014.
+Saatavissa: http://urn.fi/URN:ISBN:978-952-00-3490-0.
+Va
+
+
+
+
+Suomen Rintasyöpäryhmä. Rintasyövän valtakunnallinen diagnos-
+    tiikka- ja hoitosuositus 2015
+Saatavissa: http://rintasyoparyhma.yhdistysavain.fi/hoitosuositus
+
+
+Suomen Syöpärekisterin tilastot.
+Saatavissa: http://www.cancer.fi/syoparekisteri/tilastot
+
+
+Syövän ehkäisyn, varhaisen toteamisen ja kuntoutumisen tuen
+    kehittäminen vuosina 2014–2025 - Kansallisen syöpäsuunni-
+    telman II osa. Terveyden ja hyvinvoinnin laitos (THL) Ohjaus
+    6/2014.
+Saatavissa: http://urn.fi/URN:ISBN:978-952-302-185-3.
+
+
+
+
+                                                                                                                 Hoitoonpääsyn seuranta
+THL – Ohjaus 21/2016                                                  45                                                syövän hoidossa
+
+===== PDF PAGE 47 =====

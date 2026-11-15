@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0065
+document_id: SYN-P0065-biopsy_note-04
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-18
+display_name: Sari Sijaisnimi SYN-P0065 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 18.6.2026. Potilas: Sari Sijaisnimi SYN-P0065 (SYN-P0065), s. 3.8.1939.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 27.5.2026.
+Esitiedot: pET-TT tehty 8.6.2026.
+Moniammatillinen kokous (MDT) 6.6.2026: suositellaan etenemistä hoitoon.
+Esitiedot: linjaus 6.6: solunsalpaaja.
+Solunsalpaajahoito käynnistetty viime sunnuntaina.
+EBUS-bronkoskopia suoritettu 2026-06-18; biopsiat otettu.
+Edellinen keuhkokuume hoidettu 16.11.2016.
+Sappirakon poisto tehty 26.8.2012 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

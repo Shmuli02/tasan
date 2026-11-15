@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0065
+document_id: SYN2-P0065-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-08-21
+display_name: Sari Sijaisnimi SYN2-P0065 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirja-uspäivä 21.8.2026. Potilas: S ari Sijaisnimi SYN2-P0065 (SYN2-P0065), s. 21.2.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Leikekuvaus on suoritettu 13. elo-kuuta 2026.
+Kudosnäytteet haettiin toimenpiteessä 19. elokuuta 2026.
+Pyyntö tuli perille viikolla 33 maanantaina (2026).
+— ote vanhasta kirjauksesta 17.9.2021: syntymäaika 21.2.1954; sappirakon poisto 17.9.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+Kontrollilaborato riokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Ki rjaaja: synteettinen testikäyttäjä. Tä-mä ei ole oikea potilaskertomus.

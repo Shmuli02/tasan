@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0074
+document_id: SYN-P0074-ct_report-02
+document_type: ct_report
+language: sv
+note_date: 2026-08-10
+display_name: Lars Låtsas SYN-P0074 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 10.8.2026. Patient: Lars Låtsas SYN-P0074 (SYN-P0074), f. 26.4.1949.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 24.7.2026.
+PET-DT utförd 8/8/2026. Bildfynd: en 1,8 cm knuta i vänster övre lob och mediastinala lymfkörtlar.
+Biopsin ställdes in på patientens önskan.
+Föregående pneumoni behandlad 24.11.2017.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

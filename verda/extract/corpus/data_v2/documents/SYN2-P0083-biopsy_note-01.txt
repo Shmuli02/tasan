@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0083
+document_id: SYN2-P0083-biopsy_note-01
+document_type: biopsy_note
+language: sv
+note_date: 2026-05-23
+display_name: Helen Mockpatient SYN2-P0083 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fi ktiva välfärdsområdets centralsjukhu-s
+Ant eckningsdatum 23.5.2026. Patient: Helen Mockpatient SYN2-P0083 (SYN2-P0083), f. 22.12.1954.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Åtgärden bokades på måndagen, men provet togs först 2026-05-22.
+Konsultationsbegäran skrevs april den 28 år 2026, men registrerades som inkommen först maj den 4 år 2026.
+Bildtiden lades in i kalendern den 2 maj 2026; själva undersökningen genomfördes maj den 10 år 2026.
+På bilderna sågs en 4,0 cm massa i höger mellannlob.
+Speglingen ställdes in i sista stund och inget prov togs.
+Tidigare, någon gång i början av januar-i, hade hen ett kontrollbesök; exakt dag saknas här.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

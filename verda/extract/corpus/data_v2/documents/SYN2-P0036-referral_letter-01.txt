@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0036
+document_id: SYN2-P0036-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-08-09
+display_name: Hannu Harjoitus SYN2-P0036 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 9.8.2026. Patient: Hannu Harjoitus SYN2-P0036 (SYN2-P0036), f. 12.2.1949.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Konsultation sbegäran skrevs vecka 32 på fredagen (2026), men registrerades som nkommen först den 8 augusti 2026.
+Tidigare, någon gång i början av januari, h hade hen ett kontrollbesök; exakt dag saknas här.
+Föregående pneumoni behandlad 18.2.2019.
+
+Antecknat av: syntetisk testanvändare. Detta är i nte en verklig journal.

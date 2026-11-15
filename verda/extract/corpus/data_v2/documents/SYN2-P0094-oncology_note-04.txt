@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0094
+document_id: SYN2-P0094-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-03-23
+display_name: Olli Oletettu SYN2-P0094 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 23.3.2026. Potilas: Olli Oletettu SYN2-P0094 (SYN2-P0094), s. 25.6.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu mer kintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö kirjattiin saapuneeksi helmikuun 14. päivänä 2026.
+Laboratorio ilmoitti histologian maalisku-un 15. päivänä 2026: ade nokarsinooma.
+Yhteispalaveri järjestettiin viikolla 12 perjantaina (2026); linja muodostettiin siellä.
+Leikekuvaus on suoritettu 26. helmikuuta 2026.
+Tähystyksen yhteydessä p unktionäyte 07-03-2026.
+Valittiin etenemistapa 22. maaliskuuta 2026: kuratiivinen lobektomia.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+Kuvan-taminen on vasta ajanvaraus maaliskuun 27. päivänä 2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 3.8.2021: syntymäaika 25.6.1953; sap pirakon poisto 3.8.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tarnmikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Sappirakon poisto teh-ty 18.6.2014 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

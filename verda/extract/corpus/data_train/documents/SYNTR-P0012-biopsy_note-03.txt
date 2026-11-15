@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract train corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-train
+patient_id: SYNTR-P0012
+document_id: SYNTR-P0012-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-05-20
+display_name: Matti Mallinen SYNTR-P0012 (invented)
+DO NOT treat this text as a clinical record. Train split; disjoint from v2 eval families.
+==============================================================================
+Keksitty keuhkoyksikkö
+Kirjauspäivä 20.5.2026. Potilas: Matti Mallinen SYNTR-P0012, s. 1.1.1950.
+SYNTEETTINEN record, not a real person.
+
+Yksikkö otti läheteen käsittelyyn 7.5.2026.
+Kuvausprotokolla ajettiin su 10.5.2026.
+Näytteenotto tähystyksellä 2026-05-16.
+Kudosanalyysi valmistui 20. toukokuuta 2026: NSCLC.
+
+Kirjaaja: synteettinen testikäyttäjä.

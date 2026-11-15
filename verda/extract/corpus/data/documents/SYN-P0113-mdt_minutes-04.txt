@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0113
+document_id: SYN-P0113-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-21
+display_name: Aino Synteettinen SYN-P0113 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 21.8.2026. Potilas: Aino Synteettinen SYN-P0113 (SYN-P0113), s. 5.8.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: keuhkoklinikan lähete saapui 24.7.26.
+Esitiedot: pET-TT tehty 2026-08-07.
+Bronkoskopia ja biopsia tehty 16.8.
+MDT 26/8/2026: hoitolinja vahvistettu.
+Edellinen keuhkokuume hoidettu 5.1.2013.
+
+Kirjaaja: synteettinen testikäyttäj. Tämä ei ole oikea potilaskertomus.

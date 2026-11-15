@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0011
+document_id: SYN-P0011-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-09-17
+display_name: Tuula Testinen SYN-P0011 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 17.9.2026. Potilas: Tuula Testinen SYN-P0011 (SYN-P0011), s. 6.11.1965.
+SYNTEETTINEN potilaskertomus, ei oikeaa henilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 10.8.2026.
+Esitiedot: thoraxin TT tehty 21.8.26.
+Bronkoskopia 27.8.26, näytteet otettu.
+Esitiedot: histologinen vastaus saapui 7.9.26 (adenokarsinooma).
+Moniammatillinen okkous (MDT) toissapäivänä: suositellaan etenemistä hoitoon.
+Hoitopaatos 17.9.26: sädehoito.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: syntteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

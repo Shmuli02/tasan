@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0050
+document_id: SYN-P0050-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-07-06
+display_name: Erik Exempelsson SYN-P0050 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 6.7.2026. Potilas: Erik Exempelsson SYN-P0050 (SYN-P0050), s. 24.10.1956.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 6.6.
+Tietokonetomografia (TT) suoritettiin 13.6.2026.
+Esitiedot: bronkoskopia 20.6, näytteet otettu.
+PAD-vastaus valmistui 27.6.26: pienisoluinen keuhkosyöpä.
+MDT 2.7.2026: hoitolinja vahvistettu.
+Linjaus 5.7: SBRT.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

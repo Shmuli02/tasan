@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0065
+document_id: SYN-P0065-discharge_summary-03
+document_type: discharge_summary
+language: fi
+note_date: 2026-06-16
+display_name: Sari Sijaisnimi SYN-P0065 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 16.6.2026. Potilas: Sari Sijaisnimi SYN-P0065 (SYN-P0065), s. 3.8.1939.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 27.5.26.
+Esitiedot: pET-TT tehty viikko sitten.
+Moniammatillinen kokous (MDT) 2026-06-06: suositellaan etenemistä hoitoon.
+Päätettiin 2026-06-06 aloittaa sytostaatti.
+Sytostaattihoito aloitettu 14.6.26.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Syntymäaika 3.8.1939 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

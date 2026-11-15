@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0043
+document_id: SYN-P0043-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-01-23
+display_name: Anna Anonyymi SYN-P0043 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 23.1.2026. Potilas: Anna Anonyymi SYN-P0043 (SYN-P0043), s. 5.1.1963.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 4.1.
+Keuhko-TT tehty 16/1.
+EBUS-bronkoskopia suoritettu 2026-01-21; biopsiat otettu.
+Sappirakon poisto tehty 7.2.2015 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

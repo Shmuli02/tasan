@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0080
+document_id: SYN-P0080-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-07-30
+display_name: John Placeholder SYN-P0080 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 30.7.2026. Potilas: John Placeholder SYN-P0080 (SYN-P0080), s. 6.4.1965.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+PET-TT tehty 10.7.2026.
+Biopsiat otettu bronkoskopiasa 18.7.2026.
+Patologin lausunto toissapäivänä: adenokarsinooma.
+Sappirakon poisto tehty 8.3.2020 (ei liity nykyiseen selvittelyyn).
+Lonkkaproteesi operoitu 8.3.2020.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

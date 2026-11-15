@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0069
+document_id: SYN2-P0069-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-07-01
+display_name: Ritva Rakennettu SYN2-P0069 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaal-a
+Kir jauspäivä 1.7.2026. Potilas: Ritva Rakennettu SYN2-P0069 (SYN2-P0069), s. 26.3.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu mer kin tä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Sovittiin hoitomuodosta 23. kesäkuuta 2026 (solunsalpaaja).
+Tähystyksen yhteydessä punktionäyte kesäkuun 24. päivänä 2026.
+Morforloginen tulos tuli 01-07-2026 (levyepi-teelikarsinooma).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 13-06-2026.
+Kokoontuminen 23-06-2026: eri erikoisalojen yhteinen kanta merkitty.
+Tutkimus käytiin kuvaamassa 18. kesäkuuta 2026.
+Potilas t-upakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettine n testikäyttäjä. Tämä ei ole oikea potilaskertomus.

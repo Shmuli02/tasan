@@ -1,0 +1,147 @@
+{
+ "overall": "PASS",
+ "seconds": 10.5,
+ "checked_at_local": "2026-11-14 21:44 EET",
+ "checks": [
+  {
+   "check": "1 inputs",
+   "status": "PASS",
+   "detail": {
+    "missing": [],
+    "n_counties": 22,
+    "month6_sum_pct": {
+     "YTA-ETELA": 100.1,
+     "YTA-ITA": 100.0,
+     "YTA-LANSI": 100.1,
+     "YTA-POHJOIS": 100.2,
+     "YTA-SISA": 100.0
+    }
+   }
+  },
+  {
+   "check": "2 calibration",
+   "status": "PASS",
+   "detail": {
+    "tolerance": {
+     "curve_abs_pp": 1.5,
+     "quantile_abs_days": 7.0
+    },
+    "areas": {
+     "YTA-ETELA": {
+      "curve_max_err_pp": 1.271,
+      "quartile_max_err_days": 6.0,
+      "derived_first_active_months_inside_ci": "2/6",
+      "pass": true
+     },
+     "YTA-ITA": {
+      "curve_max_err_pp": 1.271,
+      "quartile_max_err_days": 5.0,
+      "derived_first_active_months_inside_ci": "6/6",
+      "pass": true
+     },
+     "YTA-LANSI": {
+      "curve_max_err_pp": 0.865,
+      "quartile_max_err_days": 4.0,
+      "derived_first_active_months_inside_ci": "5/6",
+      "pass": true
+     },
+     "YTA-POHJOIS": {
+      "curve_max_err_pp": 1.368,
+      "quartile_max_err_days": 6.2,
+      "derived_first_active_months_inside_ci": "6/6",
+      "pass": true
+     },
+     "YTA-SISA": {
+      "curve_max_err_pp": 1.258,
+      "quartile_max_err_days": 6.0,
+      "derived_first_active_months_inside_ci": "5/6",
+      "pass": true
+     }
+    }
+   }
+  },
+  {
+   "check": "3 zero_effect",
+   "status": "PASS",
+   "detail": {
+    "counties": 22,
+    "n_runs": 300,
+    "tolerance_pp": 0.1,
+    "max_abs_paired_delta": 0.0,
+    "max_abs_diff_vs_separate_baseline_job": 0.0,
+    "failing": []
+   }
+  },
+  {
+   "check": "4 forbidden",
+   "status": "PASS",
+   "detail": {
+    "files_scanned": 532,
+    "phrases": 21,
+    "hits": []
+   }
+  },
+  {
+   "check": "5 reproducible",
+   "status": "PASS",
+   "detail": {
+    "same_seed_identical": true,
+    "different_seed_differs": true,
+    "sha_seed42": "af706be2261741ae"
+   }
+  },
+  {
+   "check": "6 provenance",
+   "status": "PASS",
+   "detail": {
+    "n_parameters": 122,
+    "by_kind": {
+     "sourced": 58,
+     "calibrated": 25,
+     "derived": 22,
+     "assumption": 15,
+     "design": 2
+    },
+    "missing_model_inputs": [],
+    "problems": []
+   }
+  },
+  {
+   "check": "7 cli",
+   "status": "PASS",
+   "detail": {
+    "exit_code": 0,
+    "stdout": "[MODEL OUTPUT · assumptions shown · not a forecast] county=21 scenario=zero_effect %<=42d from referral baseline 34.5804 (13.9916-55.9678), delta 0.0 (0.0-0.0) pp -> /tmp/tmpo_uj4sz6/cli/zero_effect/21.json [0.063s]",
+    "stderr": ""
+   }
+  },
+  {
+   "check": "8 server",
+   "status": "PASS",
+   "detail": {
+    "health": 200,
+    "job": {
+     "county": "14",
+     "scenario": "low",
+     "seed": 5,
+     "n_runs": 100
+    },
+    "process_exit_code": 0
+   }
+  },
+  {
+   "check": "9 docker",
+   "status": "SKIPPED",
+   "detail": {
+    "reason": "no docker/podman binary on this machine; container entrypoints validated directly via checks 7 and 8"
+   }
+  }
+ ],
+ "provenance": {
+  "targets.json": "fe22d5e0b4f3ddeb912ca28bb8f9c2f5dfae44da1d5ef0f6aabf92b3acc872c4",
+  "posterior.json": "a7f24854d0810f141a0d64fede7434c7d62200ed16b995785b22f8b1fd5ee61d",
+  "config/calibration.json": "65546b69730e859f4540c42236359eae1943e2a4aa673bc47578f1b5596300d3",
+  "config/assumptions.json": "7430be18a776cedebcba4b036e564a33c4b95fee07745ad7b58aa973179e75e4",
+  "config/scenarios.json": "80ae8cb1aa4a49305574fab748e082abbff9c48b4432c7cafe7050b62d61d500"
+ }
+}

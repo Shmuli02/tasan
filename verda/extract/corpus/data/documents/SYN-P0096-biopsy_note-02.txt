@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0096
+document_id: SYN-P0096-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-07
+display_name: Kari Keinotekoinen SYN-P0096 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 7.6.2026. Potilas: Kari Keinotekoinen SYN-P0096 (SYN-P0096), s. 18.4.1955.
+SYNTEETTINEN potilaskeromus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (syntteettinen esimerkki).
+ESH-lähete vastaanotettu 23.5.
+Keuhko-TT tehty 27.5.
+Biopsiat otettu bronkoskopiassa 6.6.2026.
+Potilas tupakoinut aiemin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

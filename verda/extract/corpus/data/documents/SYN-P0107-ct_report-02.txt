@@ -1,0 +1,19 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0107
+document_id: SYN-P0107-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-01-10
+display_name: Jane Synthetic SYN-P0107 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 10.1.2026. Ptoilas: Jane Synthetic SYN-P0107 (SYN-P0107), s. 13.11.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Lähete saapunut keuhkoklinikalle 7.1.26.
+Thoraxin TT tehty 2026-01-10.
+
+(Synteettinen lyhyt kirjaus.)

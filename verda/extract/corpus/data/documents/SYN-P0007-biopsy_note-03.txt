@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0007
+document_id: SYN-P0007-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-08-10
+display_name: Laura Loremten SYN-P0007 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 10.8.2026. Potilas: Laura Loremten SYN-P0007 (SYN-P0007), s. 19.3.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui kaksi viikkoa sitten.
+TT-tutkimus tehty 31.7.
+Biopsiat otettu bronkoskopiassa 8.8.2026.
+MDT siirtyy ensi viikkoon, kokousta ei pidetty tänään.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0012
+document_id: SYN2-P0012-discharge_summary-05
+document_type: discharge_summary
+language: sv
+note_date: 2026-05-05
+display_name: Kari Keinotekoinen SYN2-P0012 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 5.5.2026. Patient: Kari Keinotekoinen SYN2-P0012 (SYN2-P0012), f. 6.11.1960.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Teamcirkeln hölls 2026-04-21 och rekommendationen antecknades.
+Handlingen antecknades som mottagen på enheten mars den 21 år 2026.
+Man valde väg framåt april den 24 år 2026: kilresektion.
+Prov togs i samband med speglingen den 4 april 2026.
+Mikroskopiskt utlåtande blev klart den 16 april 2026: NSCLC, ej närmare klassificerad.
+Den aktiva behandlingen kom i gång den 5 maj 2026.
+Bildtagningen utfördes den 24 mars 2026 (tiden var bokad tidigare).
+Tidigare, någon gång i början av januari, hade hen ett kontrol lbesö-k; exakt dag saknas här.
+
+Antecknat av: sy ntetisk testanvänd are. Detta är inte en verk1ig journal.

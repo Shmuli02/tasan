@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0063
+document_id: SYN2-P0063-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-03-24
+display_name: Laura Loremten SYN2-P0063 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkokl inikka
+Kirjauspäivä 24.3.2026. Potilas: Laur-a Loremten S-YN2-P0063 (SYN2-P0063), s. 20.1.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuh-koselvittelystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin keskiviikkona.
+Tiimikokous pidettiin 22-03-2026 ja suositus k irjattiin.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön maaliskuun 12. päivänä 2026.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

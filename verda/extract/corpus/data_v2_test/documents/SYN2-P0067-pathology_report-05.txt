@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0067
+document_id: SYN2-P0067-pathology_report-05
+document_type: pathology_report
+language: fi
+note_date: 2026-08-27
+display_name: Tuula Testinen SYN2-P0067 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 27.8.2026. Potilas: Tuula Testinen SYN2-P0067 (SY N2-P0067), s. 13.1.1963.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synte ettinen harjoitusteksti).
+Näyte otettiin tähystyksessä elokuun 21. päivänä 2026.
+Morforloginen tulos tuli elokuun 26. päivänä 2026 (lev yepiteelikarsinooma).
+Yhteispalaveri järjestettiin 13-08-2026; linja muodostettiin siellä.
+Pyyntö tuli perille viikolla 32 maanantaina (2026).
+Valittiin etenemistapa 13-08-2026: SBRT.
+Ensimmäinen hoitokerta oli 21. elokuuta 2026.
+Leikekuvaus on suoritettu elokuun 12. päivänä 2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 23.8.2019: syntymäaika 13.1.1963; sappirakon poisto 23.8.2019; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Potilas tup akoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea p-otilaskertomus.

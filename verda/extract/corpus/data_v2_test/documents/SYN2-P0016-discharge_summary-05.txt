@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0016
+document_id: SYN2-P0016-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-10-10
+display_name: Nils Fiktiv SYN2-P0016 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Kek-sityn yliopistollinen sairaala
+Kirjauspäivä 10.10.2026. Potilas: Nils Fiktiv SYN2-P0016 (SYN2-P0016), s. 2.7.1940.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Valittiin etenemistapa 23-09-2026: kuratiivinen lobektomia.
+Kokoontuminen 22. syyskuuta 2026: eri erikoisalojen yhteinen kanta merkitty.
+Kuvantaminen tehtiin viikolla 36 maanantaina (2026) (varaus oli aiemmin).
+Aktiivinen hoito käynnistyi viikolla 41 lauantaina (2026).
+Morforloginen tulos tuli syyskuun 20. päivänä 2026 (NSCLC, ei tarkemmin luokiteltu).
+Kudosnäytteet haettiin toimenpiteessä 11. syyskuuta 2026.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 27-08-2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihto-ehtoja.
+— ote vanhasta kirjauksesta 20.5.2015: syntymäaika 2.7.1940; sappir-akon poisto 20.5.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaprotee-si operoitu 12.5.2015.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskerto-mus.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0075
+document_id: SYN-P0075-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-03
+display_name: Ingrid Inventerad SYN-P0075 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 3.5.2026. Potilas: Ingrid Inventerad SYN-P0075 (SYN-P0075), s. 14.1.1942.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 4.4.2026.
+PET-TT tehty 13.4.
+Bronkoskopia 17.4.2026, näytteet otettu.
+Moniammatillinen kokous (MDT) 2.5.2026: suositellaan etenemistä hoitoon.
+Lonkkaproteesi operoitu 27.3.2021.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0050
+document_id: SYN2-P0050-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-06-25
+display_name: Erik Exempelsson SYN2-P0050 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklini kka
+Kirjauspäivä 25.6.2026. Potilas: Erik Exempelsson SYN2-P0050 (SYN2-P0050), s. 25.6.1942.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tutkimus käytiin kuvaamassa 09-06-2026.
+Kudosnäytteet haettiin toimenpiteessä 18. kesäkuuta 2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi 5. kesäkuuta 2026.
+Kuvantaminen on vasta aj anvaraus kesäkuun 29. päivänä 2026, sitä ei ole toteutettu.
+Jatko on auki. Aktiivista hoitoa ei ole käynnist-etty tässä vaiheessa.
+— ote vanhasta kirjauksesta 3.4.2020: syntymäaika 25.6.1942; sappirakon poisto 3.4.2020; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Lonkkaproteesi operoitu 21.8.2023.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

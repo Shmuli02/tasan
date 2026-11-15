@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0007
+document_id: SYN2-P0007-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-02-22
+display_name: Laura Loremten SYN2-P0007 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 22.2.2026. Pati-ent: Laura Loremten S-YN2-P0007 (SYN2-P0007), DOB 16.1.1966.
+SYNTHETIC record, not a real person.
+
+D-ictated entry from the lung work-up (s ynthetic training text).
+The consultation request was written on in week 7 on Friday (2026), but was only logged as having arrived on 18-02-2026.
+The scan slot was put in the calendar on 18-02-2026; the examination itself was carried out on 22 February 2026.
+The pic-tures showed a 2.4 cm lesion in the left lower lobe.
+Active therapy has not got under way; options are still being weighed.
+— excerpt from an older note dated 21.9.2021: date of birth 16.1.1966; cholecystectomy 21.9.2021; unrelated to the present lung work-up. —
+
+Entered by: synthetic test user. This is not a real clinical record.

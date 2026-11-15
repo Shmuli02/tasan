@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0066
+document_id: SYN2-P0066-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-02-03
+display_name: Olli Oletettu SYN2-P0066 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdaa-ta universitetssjukhus
+Anteckningsdatum 3.2.2026. Patient: Olli Oletettu SYN2-P0066 (SYN2-P0066), f. 3.5.1953.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckni-ng från lungutredningen (syntetisk övningstext).
+Bildtiden lades in i kalendern den 30 januari 2026; själva undersökningen gen-omfördes i förrgår.
+Man valde väg framåt vecka 5 på söndagen (2026): kilresektion.
+Ko-nsultationsbegäran skrevs januari den 17 år 2026, men registrerades som inkommen först 2026-01-22.
+På bilderna sågs en 2,4 cm förändring i vänster nedre lob.
+Bildtagningen är än så länge bra en bokad tid den 12 februari 2026 och har inte genomförts.
+Gallblåsan opererades bort 2.8.2018 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk test-användare. Detta är inte en verklig journal.

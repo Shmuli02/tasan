@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0117
+document_id: SYN2-P0117-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-29
+display_name: Kirsi Keksitty SYN2-P0117 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvo-intialueen keskussairaala
+Kirjauspäivä 29.5.2026. P0tilas: Kirsi Kkesitty SYN2-P0117 (SYN2-P0117), s. 21.4.1950.
+SYNTEETTI NEN potilaskertommus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoituste ksti).
+Mikroskooppinen lausunto valmistui viikolla 22 tiistaina (2026): adenokarsinooma.
+Tähystyksen yhtedessä punktionäyte viikolla 21 keskiviikkona (2026).
+Kokoontuminen e ilen: eri erikoisalo jen yhteinen kanta merkitty.
+Tutikmus käytiin kuvaamassa 11. toukokuuta 2026.
+Lähete saapui toimistoon 7. toukokuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Kuvantaminen on vasta ajanvaraus 14-06-2026, sitä ei ole toteutettu.
+
+Kirjaaja: synteetitnen testikäyttäjä. Tämä ei ole oikea potilaskert-omus.

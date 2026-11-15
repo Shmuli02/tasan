@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0034
+document_id: SYN-P0034-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-03-18
+display_name: Pekka Paikkamerkki SYN-P0034 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 18.3.2026. Potilas: Pekka Paikkamerkki SYN-P0034 (SYN-P0034), s. 28.4.1942.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 17.2.26.
+TT-tutkimus tehty 25.2.
+Bronkoskopia 3.3.26, näytteet otettu.
+Esitiedot: patologin lausunto viime perjantaina: adenokarsinooma.
+MDT 17.3.26: hoitolinja vahvistettu.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

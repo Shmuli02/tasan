@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0078
+document_id: SYN2-P0078-mdt_minutes-04
+document_type: mdt_minutes
+language: sv
+note_date: 2026-07-04
+display_name: Erik Exempelsson SYN2-P0078 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centra-lsjukhus
+Anteckningsdatum 4.7.2026. Patient: Erik Exempelsson SYN2-P0078 (SYN2-P0078), f. 7.2.1966.
+SYNTE-TISK patien tjournal, ingen verklig person.
+
+Dikterad anteckni-ng från lungutredningen (syntetisk övningstext).
+Prov togs i samband med speglingen juni den 17 år 2026.
+Teamcirkeln hölls den 2 juli 2026 och rekommendationen antecknades.
+Laboratoriet meddelade histologin juni den 24 år 2026: skivepitelkarc-inom.
+Undersökningen avbildades juni den 10 år 2026.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

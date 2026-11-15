@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0009
+document_id: SYN-P0009-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-06-08
+display_name: Sari Sijaisnimi SYN-P0009 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 8.6.2026. Potilas: Sari Sijaisnimi SYN-P0009 (SYN-P0009), s. 4.8.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 20.5.2026.
+Keuhko-TT tehty 23.5.2026.
+Esitiedot: bronkoskopia ja biopsia tehty viikko sitten.
+PAD-vastaus valmistui 8.6: pienisoluinen keuhkosyöpä.
+Syntymäaika 4.8.1953 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

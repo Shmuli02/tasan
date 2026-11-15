@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0034
+document_id: SYN2-P0034-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-08-20
+display_name: Pekka Paikkamerkki SYN2-P0034 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointi alueen keskussairaala
+Kirjauspäivä 20.8.2026. Potilas: Pekka Paikkamerkki SYN2-P0034 (SYN2-P0034), s. 13.9.1944.
+SYNTEETT-INEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitu-steksti).
+Lähete saapui toimistoon 4. elokuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Näyte otettiin tähystyksessä elokuun 11. päivänä 2026.
+Kerroskuvaus toteutettiin 07-08-2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaiht-oehtoja.
+Jatko on auki. Aktiivista hoitoa ei ole käynnistetty tässä vaiheessa.
+— ote vanhasta kirjauksesta 23.3.2019: syntymäaika 13.9.1944; sappirakon poisto 23.3.2019; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

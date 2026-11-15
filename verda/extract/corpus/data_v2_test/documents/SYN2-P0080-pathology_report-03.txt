@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0080
+document_id: SYN2-P0080-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-03-13
+display_name: John Placeholder SYN2-P0080 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 13.3.2026. Potilas: John Placeholder SYN2-P0080 (S-YN2-P0080), s. 15.3.1960.
+SYNTEETTINEN potilaske-rtomus, ei oi keaa henkilöä.
+
+Diktoitu m erkintä keu-hkoselvittelystä (sy-nteettinen harjoitusteksti).
+Kuvantaminen tehtiin 02-03-2026 (varaus oli aiemmin).
+Kudosnäytteet haettiin toimenpiteessä viikolla 11 maanantaina (2026).
+Laboratorio ilmoitti histologian maaliskuun 13. päivänä 2026: pienisoluinen keuhkosyöpä.
+— ote vanhasta kirjauksesta 8.6.2021: syntymäaika 15.3.1960; sappirakon poisto 8.6.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

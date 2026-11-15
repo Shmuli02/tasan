@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0011
+document_id: SYN2-P0011-oncology_note-03
+document_type: oncology_note
+language: sv
+note_date: 2026-03-31
+display_name: Tuula Testinen SYN2-P0011 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 31.3.2026. Patient: Tuula Testinen SYN2-P0011 (SYN2-P0011), f. 4.5.1962.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Prov togs i samband med speglingen den 18 mars 2026.
+Konsul tationsbegäran registrerades som inkommen vecka 9 på fredagen (2026).
+Man valde väg framåt den 31 mars 2026: cellgifter.
+Undersökningen avbildades mars den 6 år 2026.
+— utdrag ur äldre anteckning 3.6.2014: födelsedatum 4.5.1962; galloperation 3.6.2014; hör inte till den aktuella lungutredningen. —
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

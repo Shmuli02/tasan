@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0083
+document_id: SYN2-P0083-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-06-11
+display_name: Helen Mockpatient SYN2-P0083 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mall ikylän keuhkoklinikka
+Kirjauspäivä 11.6.2026. P-otilas: Helen Mockpatient SYN2-P0083 (SYN2-P0083), s. 22.12.1954.
+SYNTEETTINEN potilaskertomus, ei oi-keaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tähystyksen yhteydessä pun ktionäyte 22. toukokuuta 2026.
+Kerroskuvau s toteutettiin 10. toukoku-uta 2026.
+Pyyntö tuli perille 4. toukokuuta 2026.
+Aktiivinen hoito käynnistyi eilen.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 4.2.2021: syntymäaika 22.12.1954; sappirakon poisto 4.2.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Syntymäaika 22.12.1954 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole o ikea potilaskertomus.

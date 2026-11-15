@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0014
+document_id: SYN2-P0014-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-10-03
+display_name: Juhani Jäljitelmä SYN2-P0014 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 3.10.2026. Poti1as: Juhani Jäljitelmä SYN2-P0014 (SYN2-P0014), s. 28.7.1957.
+SYNTEETT1NEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Näyte otettiin tähystyksessä 24-08-2026.
+Toimenpide toteutui viikolla 40 torstaina (2026) (sytostaatti).
+Kokoontuminen 11. syyskuuta 2026: eri erikoisalojen yh teinen kanta merkitty.
+Mikroskooppinen lausunto valmistui viikolla 36 torstaina (2026): levyepiteelikarsinooma.
+Lähete saapui toimi stoon 4. elokuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Sovittiin hoitomuodosta 13-09-2026 (sytostaatti).
+Kuvantaminen tehtiin 17. elokuuta 2026 (varaus oli aiemmin).
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+
+Kirjaaja: synt-eettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

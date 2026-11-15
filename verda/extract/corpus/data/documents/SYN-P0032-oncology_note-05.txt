@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0032
+document_id: SYN-P0032-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-06-28
+display_name: Yrjö Yksikkötesti SYN-P0032 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 28.6.2026. Potilas: Yrrjö Yksikkötesti SYN-P0032 (SYN-P0032), s. 23.6.1967.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 8.6.
+Esitiedot: pET-TT tehty 11.6.2026.
+EBUS-bronkoskopia suoritettu 15.6.2026; biopsiat otettu.
+Histologinen vsataus saapui 23/6/2026 (levyepiteelikarsinooma).
+MDT 25/6/2026: hoitolinja vahvistettu.
+iLnjaus 2026-06-26: solunsalpaaja.
+Edellinen keuhkokuume hoidettu 26.3.2020.
+
+Kirjaaja: synteettinen testiikäyttäjä. Tämä ei ole oikea potilaskertomus.

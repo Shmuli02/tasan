@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0034
+document_id: SYN-P0034-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-02-19
+display_name: Pekka Paikkamerkki SYN-P0034 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 19.2.2026. Patient: Pekka Paikkamerkki SYN-P0034 (SYN-P0034), f. 28.4.1942.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 17/2/2026.
+DT planerad 28.2.2026 (ännu inte utförd).
+Gallblåsan opererades bort 23.1.2016 (ej relaterat till nuvarande utredning).
+Höftprotes opererad 23.1.2016.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

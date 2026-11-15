@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0050
+document_id: SYN2-P0050-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-06-09
+display_name: Erik Exempelsson SYN2-P0050 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjaupsäivä 9.6.2026. Potilas: Erik Exempelsson SYN2-P0050 (SYN2-P0050), s. 25.6.1942.
+SYNTE ETTINEN potilaskerto mus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin 09-06-2026.
+Pyyntö tuli perille perjantaina.
+Kuvissa erottui vasemman aalalohkon 2,4 cm muutos.
+— ote vanhasta kirjauksesta 17.2.2015: syn tymäaika 25.6.1942; sappirakon poisto 17.2.2015; ei liity nykyisee n keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oi kea potilaskertom us.

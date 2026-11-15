@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0065
+document_id: SYN-P0065-mdt_minutes-01
+document_type: mdt_minutes
+language: fi
+note_date: 2026-06-08
+display_name: Sari Sijaisnimi SYN-P0065 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 8.6.2026. Potilas: Sari Sijaisnimi SYN-P0065 (SYN-P0065), s. 3.8.1939.
+SYNTEETTINEN potilaskertoums, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Päätettiin 6.6.26 aloittaa SBRT.
+Keuhkoklinikan lähete saapui 27.5.2026.
+TT-tutkimus tehty 8.6.2026. KKuvauksessa todettiin vasemman alalohkon 2,4 cm muutos.
+Moniammatillinen kokous (MDT) 6.6.2026: suositellaan etenemistä hoitoon.
+Edellinen keuhkokuume hoidettu 3.11.2012.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

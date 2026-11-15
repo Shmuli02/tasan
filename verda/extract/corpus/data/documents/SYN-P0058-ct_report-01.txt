@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0058
+document_id: SYN-P0058-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-02-12
+display_name: Matti Mallipotilas SYN-P0058 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Invented University Hospital
+Note date 12.2.2026. Patient: Matti Mallipotilas SYN-P0058 (SYN-P0058), DOB 1.12.1968.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+The referral was registered on 27/1/2026.
+Chest CT performed on 11.2.2026. Imaging showed a 1.8 cm nodule in the left upper lobe with mediastinal nodes.
+Previous pneumonia treated on 23.8.2022.
+
+Entered by: synthetic test user. This is not a real clinical record.

@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0104
+document_id: SYN2-P0104-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-06-13
+display_name: Johan Testdata SYN2-P0104 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 13.6.2026. Potilas: Johan Testdata SYN2-P0104 (SYN2-P0104), s. 14.10.1966.
+SYNTEETTINEN p-otilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvitt-elystä (synteettinen harjoitusteksti).
+Kuvausaika merkittiin kalenteriin 6. kesäkuuta 2026; itse tutkimus toteutettiin kesäkuun 13. päivänä 2026.
+Pyyntö tuli perille 10-06-2026.
+Kuvissa erottui vasemman alalohkon 2,4 cm muutos.
+— ote vanhasta kirjauksesta 22.12.2021: syntym-äaika 14.10.1966; sappirakon poisto 22.12.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Kontrollilab-oratorio-koke-et tilattu, vastaukset eivät ole tässä kirjauksessa.
+Lonkkaproteesi operoitu 5.10.2019.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

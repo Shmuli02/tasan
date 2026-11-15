@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0010
+document_id: SYN-P0010-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-02-28
+display_name: Olli Oletettu SYN-P0010 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 28.2.2026. Potilas: Olli Oletettu SYN-P0010 (SYN-P0010), s. 3.6.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 8.1.2026.
+Esitiedot: tT-tutkimus tehty 19/1/2026.
+Bronkoskopia ja biopsia tehty 31.1.26.
+PAD-vastaus valmitui 9.2: pienisoluinen keuhkosyöpä.
+Hoitokokous 15/2/2026: moniammatillinen suositus kirjattu.
+Hoitoopäätös 18.2.2026: solunsalpaaja.
+Solunsalpaajahoito käynnistetty 28.2.2026.
+TT suunniteltu 14.3.2026 (ei vielä tehty).
+Syntymäaika 3.6.1966 tarkistettu väestötiedoista.
+Edellnen keuhkokuume hoidettu 19.12.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

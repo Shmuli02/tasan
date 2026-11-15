@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0015
+document_id: SYN-P0015-biopsy_note-01
+document_type: biopsy_note
+language: sv
+note_date: 2026-05-07
+display_name: Anna Anonyymi SYN-P0015 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 7.5.2026. Patiet: Anna Anonyymi SYN-P0015 (SYN-P0015), f. 16.2.1946.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Specialistremiss registrerad 21.4.26.
+PET-DT utförd 2.5.2026. Bildfynd: en 1,8 cm knuta i vänster övre lob och mediastinala lymfkörtlar.
+Biopsier togs vid bronkokopi 2026-05-06.
+Födelsedatum 16.2.1946 kontrollerat i befolkningsuppgifterna.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

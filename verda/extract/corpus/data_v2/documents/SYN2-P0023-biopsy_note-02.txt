@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0023
+document_id: SYN2-P0023-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-02-23
+display_name: Jane Synthetic SYN2-P0023 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 23.2.2026. Potilas: Jane Synthetic SYN2-P0023 (SYN2-P0023), s. 3.2.1953.
+SYNTEETTINEN poti laskertomus, ei o ikeaa henkilöä.
+
+Dikto-itu merkintä keuhkos elvittelystä (synteettinen harjoitusteksti).
+Kuvantaminen tehtiin viikolla 8 tiistaina (2026) (varaus oli aiemmin).
+Toimenpide varattiin perjantaina, mutta näyte otettiin vasta helmikuun 22. päivänä 2026.
+Pyyntö tuli perille viikolla 7 torstaina (2026).
+— ote vanhasta kirjauksesta 28.11.2022: synt-ymäaika 3.2.1953; sappirakon poisto 28.11.2022; ei 1iity nykyiseen keuhkoselvittel yyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0024
+document_id: SYN2-P0024-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-08-20
+display_name: John Placeholder SYN2-P0024 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 20.8.2026. Potilas: John Placeholder SYN2-P0024 (SYN2-P0024), s. 19.2.1954.
+SYNTEETTINEN potilaskertomus, e-i oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvausaika merkittiin kalenteriin 14. elokuuta 2026; itse tutkimus toteutettiin 19-08-2026.
+Pyyntö tuli perille elokuun 6. päivänä 2026.
+Kuvissa erottui oikean ylälohkon 3,1 cm tuumori.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei 0le tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

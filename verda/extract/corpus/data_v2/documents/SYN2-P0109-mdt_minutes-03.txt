@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0109
+document_id: SYN2-P0109-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-04-03
+display_name: Mary Fictitious SYN2-P0109 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 3.4.2026. Po tilas: Mary Fictitious SYN2-P0109 (SYN2-P0109), s. 17.6.1941.
+SYNTEETTINEN p0tilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merki ntä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tähystyksen yhteydessä punktionäyte 24. maaliskuuta 2026.
+Morforlogiinen tlos tuli maaliskuun 29. päivänä 2026 (adenokarsinooma).
+Konsultaatiopyyntö kirjattiin saapuneeksi 4. maaliskuuta 2026.
+Kuvantaminen tehtiin 18-03-2026 (varaus oli aiemmin).
+Kokoontumnien 2. huhtikuuta 2026: eri eriko-isal-ojen yhteinen kanta merkitty.
+— o-te vanhasta ikrjauksesta 23.4.2014: syntymäaika 17.6.1941; sappirakon poisto 23.4.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen tes tikäyttäjä. Tämä ei ole oikea potilaskertomus.

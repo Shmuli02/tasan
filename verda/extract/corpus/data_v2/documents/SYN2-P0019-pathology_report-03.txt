@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0019
+document_id: SYN2-P0019-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-04-04
+display_name: Ingrid Inventerad SYN2-P0019 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yli0pistollinen sairaala
+Kirjauspäivä 4.4.2026. Potilas: Ingrid Inventer ad SYN2-P0019 (SYN2-P0019), s. 3.1.1945.
+SYNTEETTINEN potilaskert omus, ei oikeaa henkilöä.
+
+Di-ktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Näy-te otettiin tähystyksessä 31-03-2026.
+Mikroskooppinen lausunto valmistui viikolla 14 lauantaina (2026): levyepiteelikarsinooma.
+Kerroskuvaus toteutettiin 28-03-2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi 12. maaliskuuta 2026.
+A ktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 25.11.2019: syntymäaika 3.1.1945; sappirakon poisto 25.11.2019; ei liity nykyiseen keuhkoselvittelyyn. —
+Sappirakon poisto tehty 16.8.2013 (ei liity nykyiseen se-lvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilasker tomus.

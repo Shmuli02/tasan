@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0062
+document_id: SYN-P0062-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-04-03
+display_name: Pekka Paikkamerkki SYN-P0062 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 3.4.2026. Potilas: Pekka Paikkamerkki SYN-P0062 (SYN-P0062), s. 23.10.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 2026-02-28.
+Tietokonetomografia (TT) suoritettiin 8.3.2026.
+Bronkoskopia 14.3.2026, näytteet otettu.
+Esitiedot: pAD-vastaus valmistui 25.3.2026: pienisoluinen keuhkosyöpä.
+MDT 2.4: hoitolinja vahvistettu.
+Edellinen keuhkokuume hoidettu 2.4.2021.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

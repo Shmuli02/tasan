@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0009
+document_id: SYN-P0009-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-01
+display_name: Sari Sijaisnimi SYN-P0009 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 1.6.2026. Potilas: Sari Sijaisnimi SYN-P0009 (SYN-P0009), s. 4.8.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkkoklinikan lähete asapui 20/5.
+Keuhko-TT tehty 23.5.2026. Kuvauksessa todettiin vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Biposiat otettu bronkoskopiassa 2026-06-01.
+Edellinen keuhkokuume hoidettu 19.4.2014.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

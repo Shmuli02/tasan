@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0062
+document_id: SYN-P0062-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-04-06
+display_name: Pekka Paikkamerkki SYN-P0062 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 6.4.2026. Potilas: Pekka Paikkamerkki SYN-P0062 (SYN-P0062), s. 23.10.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 28.2.2026.
+Esitiedot: tT-tutkimus tehty 8.3.26.
+Esitiedot: bronkoskopia 2026-03-14, näytteet otettu.
+Patologin lausunto 25.3.26: levyepiteelikarsinooma.
+Esitiedot: hoitokokous 2.4.2026: moniammatillinen suositus kirjattu.
+Linjaus viime perjantaina: SBRT.
+Bronkoskopiaa ei tehty tässä käynnissä.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Edellinen keuhkokuume hoidettu 12.2.2020.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

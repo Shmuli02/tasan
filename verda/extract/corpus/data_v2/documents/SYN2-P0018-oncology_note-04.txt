@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0018
+document_id: SYN2-P0018-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-07-05
+display_name: Lars Låtsas SYN2-P0018 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 5.7.2026. Potilas: Lars Låtsas SYN2-P0018 (SYN2-P0018), s. 28.10.1947.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille 3. kesäkuuta 2026.
+Valittiin etenemistapa 5. heinäkuuta 2026: kuratiivinen lobektomia.
+Kuvantaminen tehtiin kesäkuun 6. päivä-nä 2026 (varaus oli aiem-min).
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 13.10.2015: syntymäaika 28.10.1947; sappirakon poisto 13.10.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: s ynteettinen testikäyttäjä. T ämä ei ole oikea potilaskertomus.

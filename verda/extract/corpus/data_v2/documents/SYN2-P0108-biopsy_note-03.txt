@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0108
+document_id: SYN2-P0108-biopsy_note-03
+document_type: biopsy_note
+language: en
+note_date: 2026-02-18
+display_name: John Placeholder SYN2-P0108 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Invented University Hospital
+Note date 18.2.2026. Pa tient: John Placeholder SYN2-P0108 (SYN2-P0108), DOB 11.1.1941.
+SYNTHETIC record, not a real person.
+
+The request came through on in week 6 on Tuesday (2026).
+Imaging was completed on February the 10, 2026.
+Tissue was obtained during the endoscopy on 18 February 2026.
+Previously, some-time in early January, there was a fo1low-up visit; the exact day is not in this note.
+
+(Synthetic short dictated note.)

@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0029
+document_id: SYN2-P0029-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-06-20
+display_name: Aino Synteettinen SYN2-P0029 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 20.6.2026. Potilas: Aino Synteettinen SYN2-P0029 (SYN2-P0029), s. 21.5.1946.
+SYNTEETTINEN potilaskertom us, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Näyte otettiin tähystyksessä 06-06-2026.
+Laboratorio ilmoitti histologian kesäkuun 10. päivänä 2026: NSCLC, ei tarkemmin luokiteltu.
+Lähete saapui toimistoon 26. toukokuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Kliininen valinta tehtiin toissapäivänä: sytostaatti.
+Leikekuvaus on suoritettu 1. kesäkuuta 2026.
+Tiimikokous pidettiin keskiviikkona ja suositus kirjattiin.
+— ote vanhasta kirjauksesta 12.2.2014: synty mäaika 21.5.1946; sappirakon poisto 12.2.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea p otilaskertomus.

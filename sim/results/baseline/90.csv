@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+90,City of Helsinki,YTA-ETELA,baseline,baseline,pct_le42_from_referral,27.0414,11.1999,25.5172,47.5429,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,baseline,pct_le42_from_diagnosis,58.2497,50.0,58.1395,66.9685,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,baseline,median_days_referral_to_treatment,62.1758,44.0,62.0,80.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,baseline,median_days_diagnosis_to_treatment,36.5782,31.0,36.5,42.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,baseline,n_patients,296.939,265.0,296.0,331.025,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,baseline,n_active_treated,134.7105,111.975,135.0,158.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,baseline,n_le42_from_referral,36.4215,14.0,34.0,66.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,baseline,n_untreated_at_alert_day,117.945,91.975,119.0,143.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,scenario,pct_le42_from_referral,27.0414,11.1999,25.5172,47.5429,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,scenario,median_days_referral_to_treatment,62.1758,44.0,62.0,80.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,scenario,n_patients,296.939,265.0,296.0,331.025,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,scenario,n_active_treated,134.7105,111.975,135.0,158.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,scenario,n_le42_from_referral,36.4215,14.0,34.0,66.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,delta,pct_le42_from_referral,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,delta,median_days_referral_to_treatment,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,delta,n_patients,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,delta,n_active_treated,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+90,City of Helsinki,YTA-ETELA,baseline,delta,n_le42_from_referral,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast

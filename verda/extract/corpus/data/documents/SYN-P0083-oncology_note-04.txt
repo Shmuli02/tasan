@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0083
+document_id: SYN-P0083-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-09-03
+display_name: Helen Mockpatient SYN-P0083 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 3.9.2026. Potilas: Helen Mockpatient SYN-P0083 (SYN-P0083), s. 11.8.1968.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 2026-07-19.
+PET-TT tehty 3.8.2026.
+Biopsiat otettu bronkoskopiassa 13.8.2026.
+Esitiedot: patologin lausunto 22/8/2026: pienisoluinen keuhkosyöpä.
+MDT viime sunnuntaina: hoitolinja vahvistettu.
+Linjaus toissapäivänä: sytostaatti.
+Sappirakon poisto tehty 9.12.2014 (ei liity nykyiseen selvittelyyn).
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

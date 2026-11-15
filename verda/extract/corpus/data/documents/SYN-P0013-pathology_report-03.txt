@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0013
+document_id: SYN-P0013-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-01-24
+display_name: Ritva Rakennettu SYN-P0013 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 24.1.2026. Potilas: Ritva Rakennettu SYN-P0013 (SYN-P0013), s. 7.2.1942.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 3.1.2026.
+TT-tutkimus tehty kaksi viikkoa sitten.
+PAD-vastaus valmistui 2026-01-24: NSCLC, ei tarkemmin luokiteltu.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

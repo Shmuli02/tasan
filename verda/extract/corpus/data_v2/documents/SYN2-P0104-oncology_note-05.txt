@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0104
+document_id: SYN2-P0104-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-07-16
+display_name: Johan Testdata SYN2-P0104 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinv0intialueen keskussairaala
+Kirjauspäivä 16.7.2026. Potilas: Johan Testdata SYN2-P0104 (SYN2-P0104), s. 14.10.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Yhteispalaveri järjestettiin viikolla 28 sunnuntaina (2026); linja muodostettiin siellä.
+Konsultaatiopyyntö kirjattiin saapuneeksi 10. kesäkuuta 2026.
+Leikekuvaus on suorit ettu 13. kesäkuuta 2026.
+Näyte otettiin tähystyksessä viikolla 26 torstaina (2026).
+Mikroskooppinen lausunto valmistui 5. heinäkuuta 2026: NSCLC, ei tarkemmi n luokiteltu.
+Valittiin etenemistapa heinäkuun 14. päivänä 2026: kiilaresektio.
+Tiimikokousta ei järjestetty tällä kä-ynnillä, se on siirretty.
+— ote vanhasta kirja uksesta 12.12.2022: syntymäaika 14.10.1966; sappirakon poisto 12.12.2022; ei liity nykyiseen keuhkoselvitte1yyn. —
+Aiemmin jossain tammikuun alussa oli k äyn-yt kontrollissa; tarkkaa päivää ei ole tässä.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Syntymäaika 14.10.1966 tarkistettu väestötiedois ta.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

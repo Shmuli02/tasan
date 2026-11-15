@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0072
+document_id: SYN-P0072-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-06-30
+display_name: Nils Fiktiv SYN-P0072 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 30.6.2026. Patient: Nils Fiktiv SYN-P0072 (SYN-P0072), f. 3.6.1949.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 28.6.2026.
+Behandilng har inte påbörjats.
+Föregående pneumoni behandlad 15.1.2016.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

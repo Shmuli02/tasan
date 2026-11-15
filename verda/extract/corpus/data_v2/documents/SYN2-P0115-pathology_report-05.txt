@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0115
+document_id: SYN2-P0115-pathology_report-05
+document_type: pathology_report
+language: fi
+note_date: 2026-07-09
+display_name: Eeva Esimerkki SYN2-P0115 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 9.7.2026. Potilas: Eeva Esimerkki SYN2-P0115 (SYN2-P0115), s. 23.12.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synt-eettinen harjoitusteksti).
+Laboratorio ilmoitti histologian 08-07-2026: adenokarsinooma.
+Kuvantaminen tehtiin kesäkuun 15. päivänä 2026 (varaus oli aiemmin).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 03-06-2026.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 8.8.2022: syntymäaika 23.12.1949; sappirakon poisto 8.8.2022; ei liity nykyiseen keu hkoselvittelyyn. —
+
+Kirjaaj-a: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

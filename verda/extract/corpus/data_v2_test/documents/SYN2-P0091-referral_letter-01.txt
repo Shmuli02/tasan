@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0091
+document_id: SYN2-P0091-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-07-06
+display_name: Laura Loremten SYN2-P0091 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 6.7.2026. Potilas: Laura Loremten SYN2-P0091 (SYN2-P0091), s. 14.6.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö laadittiin 30. kesäkuuta 2026, mutta se kirjattiin saapuneeksi vasta toissapäivänä.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+Tähystys pe-ruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 8.12.2017: syntymäaika 14.6.1943; sappirakon poisto 8.12.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

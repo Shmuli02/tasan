@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0071
+document_id: SYN2-P0071-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-04-19
+display_name: Anna Anonyymi SYN2-P0071 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+K irjauspäivä 19.4.2026. Potilas: Anna Anonyymi SYN2-P0071 (SYN2-P0071), s. 13.1.1963.
+SYNTEETTINEN potil-askertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö kirjattiin saapuneeksi viikolla 13 tiistaina (2026).
+Morforloginen tulos tuli 17. huhtikuuta 2026 (pienisoluinen keuhkosyöpä).
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 26.4.2016: syntymäaika 13.1.1963; sappirakon poisto 26.4.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tamrnikuun alussa oli käynyt kontrollissa; tarkk aa päivää ei ole tässä.
+Lonkkaproteesi operoitu 22.2.2018.
+
+Kirjaaja: synteettinen testikäy ttäjä. Tämä ei ole oikea potilaskertomus.

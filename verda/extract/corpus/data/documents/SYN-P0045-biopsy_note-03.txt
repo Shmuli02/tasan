@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0045
+document_id: SYN-P0045-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-09
+display_name: Eva Påhittad SYN-P0045 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 9.3.2026. Potilas: Eva Påhittad SYN-P0045 (SYN-P0045), s. 18.11.1940.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen essimerkki).
+Esitiedot: lähete kirjattu 20/2.
+EBUS-bronkoskopia suoritettu 9.3.2026; biopsiat otettu.
+Lonkkaproteesi operoitu 15.8.2017.
+Sappirakon poisto tehty 15.8.2017 (ei liity nykyiiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tama ei ole oikea potilaskertomus.

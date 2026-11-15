@@ -1,0 +1,18 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0106
+document_id: SYN-P0106-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-02-07
+display_name: Erik Exempelsson SYN-P0106 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 7.2.2026. Patient: Erik Exempelsson SYN-P0106 (SYN-P0106), f. 24.9.1968.
+SYNTETISK patientjournal, ingen verklig person.
+
+Remissen mottogs 6.2.26.
+
+(Syntetisk kort anteckning.)

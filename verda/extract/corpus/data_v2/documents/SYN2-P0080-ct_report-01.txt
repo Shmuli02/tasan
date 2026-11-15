@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0080
+document_id: SYN2-P0080-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-03-02
+display_name: John Placeholder SYN2-P0080 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Påhittade lungklinike-n
+Anteckningsdatum 2.3.2026. Patient: John Placeholder SYN2-P0080 (SYN2-P0080), f. 15.3.1960.
+SYNTETISK patientjournal, ingen verklig per son.
+
+Dikterad anteckning från lungutredningen (syntetisk övni-ngstext).
+Bildtiden lades in i kalendern den 24 februari 2026; själva undersökningen genomfördes vecka 10 på måndagen (2026).
+På bilderna sågs en 4,0 cm massa i höger mellannlob.
+Något teammöte hö-lls inte vid detta besök.
+— utdrag ur äldre anteckning 23.8.2021: födelsedatum 15.3.1960; galloperation 23.8.2021; hör inte till den ak tuella lungutredninge n. —
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

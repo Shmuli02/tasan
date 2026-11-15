@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0113
+document_id: SYN2-P0113-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-06
+display_name: Aino Synteettinen SYN2-P0113 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussai raala
+Kirjauspäivä 6.8.2026. Potilas: Aino Synteettinen SYN2-P0113 (SYN2-P0113), s. 20.9.1952.
+SYNTEETTINEN p0tilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitustek sti).
+Tutkimus kääytiin kuvaamassa 21-07-2026.
+Laboratorio ilmoitti histologian 29-07-2026: SCLC, ei tarkemmin luokiteltu.
+Tähys-tyksen yhteydesssä punktionäyte viikolla 30 sunnuntania (2026).
+Yhteispalaveri järjestettiin eilen; linja muodostettiin siellä.
+Pyyntö tuli perille viikkolla 29 keskiviikkona (2026).
+Kuvantaminen on vasta ajanvaraus 22-08-2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 16.1.2016: syntymäaika 20.9.1952; sappirakon poisto 16.1.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossa-in tammikuun alu-ssa oli käynnyt kon trollissa; tarkkaa päivää ei ole t ässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

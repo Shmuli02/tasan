@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0081
+document_id: SYN2-P0081-ct_report-01
+document_type: ct_report
+language: fi
+note_date: 2026-05-12
+display_name: Mary Fictitious SYN2-P0081 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikyl än keuhkoklinikka
+Kirjauspäivä 12.5.2026. Potilas: Mary Fictitious SYN2-P0081 (SYN2-P0081), s. 22.7.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Leikekuvaus on suoritettu viikolla 20 tiistaina (2026).
+Kuvissa erottui vasemman alalohkon 2,4 cm muutos.
+Aiemmin jossain tammikuun alus sa oli käynyt kontrollissa; tarkk aa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

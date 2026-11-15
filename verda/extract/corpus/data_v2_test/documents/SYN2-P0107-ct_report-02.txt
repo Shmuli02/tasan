@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0107
+document_id: SYN2-P0107-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-07-26
+display_name: Jane Synthetic SYN2-P0107 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistoll-inen sairaala
+Kirjauspäivä 26.7.2026. Potilas: Jane Synthet ic SYN2-P0107 (SYN2-P0107), s. 22.6.1949.
+SYNTEETTINEN pot ilaskertomus, ei oikeaa henkilöä.
+
+Kuvausaika merkittiin kalenteriin 19. heinäkuuta 2026; itse tutkimus toteutettiin viikolla 30 sunnuntaina (2026).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 13-07-2026.
+Kuvissa erottui oikean ylälohkon 3,1 cm t uu-mori.
+Aiemmin jossain tammiku-un alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+(Synteettinen lyhyt diktoitu merkintä.)

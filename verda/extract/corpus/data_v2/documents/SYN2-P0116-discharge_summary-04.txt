@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0116
+document_id: SYN2-P0116-discharge_summary-04
+document_type: discharge_summary
+language: sv
+note_date: 2026-03-24
+display_name: Yrjö Yksikkötesti SYN2-P0116 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 24.3.2026. Patient: Yrjö Yksik kötesti SYN2-P0116 (SYN2-P0116), f. 8.3.1943.
+SYNTET-ISK patientjourna1, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Pr0v togs i samband med speglingen på onsdagen.
+Skiktröntgen genomfördes den 10 mars 2026.
+Den aktiva behandlingen kom i gång den 23 mars 2026.
+Begäran nådde k-l-iniken vecka 9 på måndagen (2026).
+Bildtagningen är ä n så länge bara en bokad tid ap ril den 8 år 2026 och har i-nte genomf örts.
+— utdrag ur äldre anteckning 22.1.2014: födelsedatum 8.3.1943; galloperation 22.1.2014; hör inte till den aktuella lungutredningen. —
+Gallblåsan opererades bort 17.11.2014 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

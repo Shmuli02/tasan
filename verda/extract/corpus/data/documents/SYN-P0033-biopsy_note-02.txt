@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0033
+document_id: SYN-P0033-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-06-29
+display_name: Kirsi Keksitty SYN-P0033 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 29.6.2026. Potilas: Kirsi Keksitty SYN-P0033 (SYN-P0033), s. 14.3.1941.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 3/6/2026.
+Esitiedot: keuhko-TT tehty 18/6/2026.
+Bronkoskopia ja biopsia tehty 29.6.2026.
+Syntymäaika 14.3.1941 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

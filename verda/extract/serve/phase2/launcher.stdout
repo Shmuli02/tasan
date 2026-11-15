@@ -1,0 +1,37 @@
+{
+  "dry_run": false,
+  "instance_type": "1A100.22V",
+  "location_code": "FIN-01",
+  "is_spot": false,
+  "image": "24.04.cuda13.4.docker",
+  "os_volume_gb": 200,
+  "hostname": "tasan-extract-p2",
+  "watchdog_min": 150,
+  "price_usd_per_h_list": 2.386,
+  "cap_usd": 50.0,
+  "notes": [
+    "SYNTHETIC only",
+    "controller API-deletes our IDs only"
+  ]
+}
+{"t": "22:55:56", "msg": "ssh key added", "name": "tasan-extract-p2-ephemeral"}
+{"t": "22:55:57", "msg": "availability", "status_spot": 200, "spot": true, "status_od": 200, "od": true, "instance_type": "1A100.22V", "location": "FIN-01"}
+{"t": "22:55:57", "msg": "chosen market", "is_spot": true, "price": 1.193}
+{"t": "22:56:19", "msg": "deploy", "status": 202, "body": "715c7100-a271-4eba-bbe0-f56a95a9c002", "contract": "PAY_AS_YOU_GO", "is_spot": true}
+{"t": "22:56:40", "msg": "instance running", "minutes": 0.4}
+{"t": "22:56:55", "msg": "ssh not ready yet", "attempt": 0, "rc": 255}
+{"t": "22:57:19", "msg": "ssh ready", "attempt": 1}
+{"t": "22:57:24", "msg": "files copied"}
+{"t": "22:57:26", "msg": "session dispatched", "attempt": 0}
+{"t": "23:03:31", "msg": "remote FAILED", "detail": "FAILED\n[p2] FAIL: lora train failed"}
+{"t": "23:03:34", "msg": "scp", "remote_name": "tasan-extract-out.tgz", "rc": 0, "exists": true, "bytes": 4806}
+{"t": "23:03:36", "msg": "scp", "remote_name": "tasan-extract-p2.log", "rc": 0, "exists": true, "bytes": 20799}
+{"t": "23:03:39", "msg": "scp", "remote_name": "tasan-extract-FAILED", "rc": 0, "exists": true, "bytes": 29}
+{"t": "23:03:41", "msg": "scp", "remote_name": "tasan-extract-DONE", "rc": 1, "exists": false, "bytes": 0}
+{"t": "23:03:43", "msg": "scp", "remote_name": "session.stderr", "rc": 0, "exists": true, "bytes": 0}
+{"t": "23:03:46", "msg": "scp", "remote_name": "session.stdout", "rc": 0, "exists": true, "bytes": 20799}
+{"t": "23:03:46", "msg": "cleanup start", "reason": "finally"}
+{"t": "23:03:47", "msg": "delete instance", "status": 202, "n_volumes": 1, "body": "[{'instanceId': '715c7100-a271-4eba-bbe0-f56a95a9c002', 'action': 'discontinue', 'status': 'success'}]"}
+{"t": "23:03:48", "msg": "delete volume", "status": 202, "vol_prefix": "ae53d27d"}
+{"t": "23:03:48", "msg": "delete ssh key", "status": 200, "already_gone": false}
+{"t": "23:03:50", "msg": "final verify (scoped to our ids only)", "instance_gone": true, "volumes_gone": true, "key_gone": true}

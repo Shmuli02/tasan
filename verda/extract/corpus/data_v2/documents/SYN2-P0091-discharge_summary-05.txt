@@ -1,0 +1,30 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0091
+document_id: SYN2-P0091-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-08-18
+display_name: Laura Loremten SYN2-P0091 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 18.8.2026. Potilas: Laura Loremten SYN2-P0091 (SYN2-P0091), s. 14.6.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvitt-elystä (synteettinen harjoitus teksti).
+Yhteispalaveri järjestettiin 7. elokuuta 2026; linja muodostettiin siellä.
+Pyyntö tuli perille viikolla 27 lauantaina (2026).
+Kerroskuvaus toteutettiin 20-07-2026.
+Kliininen valinta tehtiin viikolla 32 perjantaina (2026): kiilaresektio.
+Kudosnäytt eet haettiin toimenpiteessä 28. heinäkuuta 2026.
+Toimen-pide toteutui 17-08-2026 (kiilaresektio).
+Morforloginen tulos tuli viikolla 31 lauantaina (2026) (levyepiteelikarsinooma).
+Kuvantaminen on vasta ajanvaraus viikolla 36 maanantain-a (2026), sitä ei ole toteutettu.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksest-a 7.2.2014: syntymäaika 14.6.1943; sappi-rakon poisto 7.2.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Lonkkaproteesi operoitu 2.7.2022.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

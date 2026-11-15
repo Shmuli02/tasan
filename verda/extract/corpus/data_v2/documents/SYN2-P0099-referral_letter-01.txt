@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0099
+document_id: SYN2-P0099-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-02-03
+display_name: Anna Anonyymi SYN2-P0099 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksit-yn yliopistoll inen sairaala
+Kirjauspäivä 3.2.2026. Potilas: Anna Anonyymi SYN2-P0099 (SY N2-P0099), s. 17.12.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettin en harjoitusteksti).
+Konsultaatiopyyntö laadittiin 30. tammikuuta 2026, mutta se kirjattiin saapuneeksi vasta helmikuun 1. päivänä 2026.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 3.12.2020: syntymäaika 17.12.1945; sappirakon poisto 3.12.2020; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: syn-teet tinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

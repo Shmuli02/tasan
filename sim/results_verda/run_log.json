@@ -1,0 +1,82 @@
+{
+ "events": [
+  {
+   "t": "20:37:08",
+   "msg": "ssh key added"
+  },
+  {
+   "t": "20:37:33",
+   "msg": "deploy",
+   "itype": "1V100.4V",
+   "status": 202,
+   "body": "d01e730d-3269-4f7d-80be-477f6ce2d586"
+  },
+  {
+   "t": "20:37:51",
+   "msg": "instance running",
+   "minutes": 0.3
+  },
+  {
+   "t": "20:38:17",
+   "msg": "upload",
+   "rc": 0
+  },
+  {
+   "t": "21:02:47",
+   "msg": "remote run",
+   "rc": 1,
+   "stdout": "nproc=4\nDocker version 29.9.2, build a82e528\nbuild_s=21\nimage_id=sha256:a90c7554a7a965f58ebe7a4ab70e02bbc80e35b3c0ee63d8625b2ef8df902abe size=271308720\n132 jobs (22 counties x 6 scenarios), n_runs=20000: wall 1372.0s, per-job mean 41.48s max 46.53s, workers=4\nscenario_jobs_s=1373\ncalibrated YTA-ETELA: surgery=4000, radiotherapy=4000, drug=4000, palliative=4000, death=4000 [16.99s]\ncalib_YTA-ETELA_s=18\ncalibrated YTA-ITA: surgery=4000, radiotherapy=4000, drug=4000, palliative=4000, death=4000 [7.75s]\ncalib_YTA-ITA_s=9\ncalibrated YTA-LANSI: surgery=4000, radiotherapy=4000, drug=4000, palliative=4000, death=4000 [7.07s]\ncalib_YTA-LANSI_s=8\ncalibrated YTA-POHJOIS: surgery=4000, radiotherapy=4000, drug=4000, palliative=4000, death=4000 [21.29s]\ncalib_YTA-POHJOIS_s=23\ncalibrated YTA-SISA: surgery=4000, radiotherapy=4000, drug=4000, palliative=4000, death=4000 [16.13s]\ncalib_YTA-SISA_s=17\n",
+   "stderr": "Traceback (most recent call last):\n  File \"<frozen runpy>\", line 198, in _run_module_as_main\n  File \"<frozen runpy>\", line 88, in _run_code\n  File \"/app/twin/aggregate.py\", line 69, in <module>\n    sys.exit(main())\n             ^^^^^^\n  File \"/app/twin/aggregate.py\", line 21, in main\n    r = load_json(f); c, s = r[\"job\"][\"county\"], r[\"job\"][\"scenario\"]\n                             ~^^^^^^^\nKeyError: 'job'\n"
+  },
+  {
+   "t": "21:04:49",
+   "msg": "download",
+   "rc": 0
+  },
+  {
+   "t": "21:04:49",
+   "msg": "cleanup start",
+   "reason": "finally"
+  },
+  {
+   "t": "21:04:49",
+   "msg": "delete instance",
+   "status": 401,
+   "volumes": 0,
+   "body": "{\"code\":\"unauthorized_request\",\"message\":\"Access token is missing or invalid\"}"
+  },
+  {
+   "t": "21:10:01",
+   "msg": "instance after delete",
+   "status": 401,
+   "inst_status": "{\"code\":\"unauthorized_request\",\"message\":\"Access token is missing or invalid\"}"
+  },
+  {
+   "t": "21:10:01",
+   "msg": "delete ssh key",
+   "status": 401
+  },
+  {
+   "t": "21:10:02",
+   "msg": "final",
+   "leftover_check": {
+    "instances_not_discontinued": "{\"code\":\"unauthorized_request\",\"message\":\"Access token is missing or invalid\"}",
+    "volumes": "{\"code\":\"unauthorized_request\",\"message\":\"Access token is missing or invalid\"}",
+    "volumes_in_trash": "{\"code\":\"unauthorized_request\",\"message\":\"Access token is missing or invalid\"}",
+    "ssh_keys": "{\"code\":\"unauthorized_request\",\"message\":\"Access token is missing or invalid\"}"
+   },
+   "instance_type": "1V100.4V",
+   "life_min": 32.5,
+   "est_cost_usd_10min_rounded": 0.0888
+  }
+ ],
+ "leftover_check": {
+  "instances_not_discontinued": "{\"code\":\"unauthorized_request\",\"message\":\"Access token is missing or invalid\"}",
+  "volumes": "{\"code\":\"unauthorized_request\",\"message\":\"Access token is missing or invalid\"}",
+  "volumes_in_trash": "{\"code\":\"unauthorized_request\",\"message\":\"Access token is missing or invalid\"}",
+  "ssh_keys": "{\"code\":\"unauthorized_request\",\"message\":\"Access token is missing or invalid\"}"
+ },
+ "instance_type": "1V100.4V",
+ "life_min": 32.5,
+ "est_cost_usd_10min_rounded": 0.0888
+}

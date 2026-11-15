@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0046
+document_id: SYN-P0046-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-03-13
+display_name: Lars Låtsas SYN-P0046 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 13.3.2026. Patient: Lars Låtsas SYN-P0046 (SYN-P0046), f. 22.5.1952.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Specialistremiss registrerad 13.3.2026.
+Höftprotes opererad 4.7.2020.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

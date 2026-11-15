@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0005
+document_id: SYN-P0005-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-06-08
+display_name: Kirsi Keksitty SYN-P0005 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 8.6.2026. Potilas: Kirsi Keksitty SYN-P0005 (SYN-P0005), s. 12.5.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 2/5/2026.
+Esitiedot: tT-tutkimus tehty 6/5.
+Biopsiat otettu bronkoskopiassa 16/5/2026.
+PAD-vastaus valmistui 2026-05-24: adenokarsinooma.
+Moniammatillinen kokous (MDT) 27.5.26: suositellaan etenemistä hoitoon.
+Hoitopäätös 27/5: sädehoito.
+Sädehoito aloitettu eilen.
+Hoitoa ei ole aloitettu.
+Lonkkaproteesi operoitu 27.4.2022.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

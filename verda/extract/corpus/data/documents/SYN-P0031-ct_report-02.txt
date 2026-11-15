@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0031
+document_id: SYN-P0031-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-02-17
+display_name: Eeva Esimerkki SYN-P0031 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 17.2.2026. Potilas: Eeva Esimerkki SYN-P0031 (SYN-P0031), s. 28.8.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirattu 1.2.
+TT-tutkimus tehty toissapäivänä. Kuvauksessa todettiin vasemman alalohkon 2,4 cm muutos.
+Lonkkaproteesi operoitu 18.10.2014.
+Edellinen keuhkokuume hoidettu 12.1.2010.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

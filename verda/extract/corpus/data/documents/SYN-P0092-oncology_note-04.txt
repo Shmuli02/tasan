@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0092
+document_id: SYN-P0092-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-03-22
+display_name: Hannu Harjoitus SYN-P0092 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 22.3.2026. Potilas: Hannu Harjiotus SYN-P0092 (SYN-P0092), s. 5.10.1942.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 15.2.
+Esitiedot: keuhko-TT tehty 28/2/2026.
+Biopsiat otettu bronkoskopiassa 2026-03-07.
+Histologinen vastaus saapui 15.3.2026 (adenokarsinooma).
+Moniammatillinen kokous (MDT) 19.3.26: suositeellaan etenemistä hoitoon.
+Päätettiin toissapäivänä aloittaa sytostaatti.
+Bronkoskopiaa ei tehty tassa käynnissä.
+PET-TT varattu 27.3.2026, tutkimus on vasta suunnitelmissa.
+Syntymäaika 5.10.1942 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

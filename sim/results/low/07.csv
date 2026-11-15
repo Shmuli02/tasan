@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,baseline,pct_le42_from_referral,29.8832,11.4754,28.5714,52.6352,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,baseline,pct_le42_from_diagnosis,59.4695,46.5517,59.375,72.7311,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,baseline,median_days_referral_to_treatment,61.0775,40.5,60.5,83.0125,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,baseline,median_days_diagnosis_to_treatment,35.0435,26.0,35.0,45.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,baseline,n_patients,109.226,90.0,109.0,130.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,baseline,n_active_treated,56.6985,42.0,56.0,72.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,baseline,n_le42_from_referral,16.9505,6.0,16.0,31.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,baseline,n_untreated_at_alert_day,47.91,34.0,48.0,64.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,scenario,pct_le42_from_referral,43.5655,22.5758,42.74,66.6667,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,scenario,median_days_referral_to_treatment,49.128,28.9875,48.5,71.0125,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,scenario,n_patients,109.226,90.0,109.0,130.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,scenario,n_active_treated,56.6985,42.0,56.0,72.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,scenario,n_le42_from_referral,24.7035,12.0,24.0,40.025,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,delta,pct_le42_from_referral,13.6823,5.0,13.3333,23.6387,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,delta,median_days_referral_to_treatment,-11.9495,-12.0,-12.0,-12.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,delta,n_patients,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,delta,n_active_treated,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+07,Kanta-Häme wellbeing services county,YTA-SISA,low,delta,n_le42_from_referral,7.753,3.0,8.0,14.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast

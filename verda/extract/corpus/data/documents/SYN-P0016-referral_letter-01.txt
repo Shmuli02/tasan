@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0016
+document_id: SYN-P0016-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-01-04
+display_name: Nils Fiktiv SYN-P0016 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 4.1.2026. Patient: Nils Fiktiv SYN-P0016 (SYN-P0016), DOB 10.9.1963.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Specialist referral received 3.1.2026.
+Date of birth 10.9.1963 confirmed from the population register.
+Previous pneumonia treated on 16.7.2014.
+
+Entered by: synthetic test user. This is not a real clinical record.

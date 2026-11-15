@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0020
+document_id: SYN-P0020-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-02-11
+display_name: Johan Testdata SYN-P0020 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 11.2.2026. Potilas: Johan Testdata SYN-P0020 (SYN-P0020), s. 2.10.1940.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 5.1.
+Esitiedot: thoraxin TT tehty 21.1.2026.
+Bronkoskopia kaksi viikkoa sitten, näytteet otettu.
+Patologin lausunto viikko sitten: pienisoluinen keuhkosyöpä.
+Moniammatillinen kokous (MDT) 9.2.2026: suositellaan etenemistä hoitoon.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

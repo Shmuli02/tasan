@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0064
+document_id: SYN2-P0064-mdt_minutes-02
+document_type: mdt_minutes
+language: fi
+note_date: 2026-08-03
+display_name: Hannu Harjoitus SYN2-P0064 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+K irjauspäivä 3.8.2026. Potilas: Hannu Harjoitus SYN2-P0064 (SYN2-P0064), s. 20.6.1954.
+SYNTEETTINEN poti1askertomus, ei oik-eaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Yhteispalaveri järjestettiin 03-08-2026; linja muodostettiin siellä.
+Lähete saapui toimistoon 24. heinäkuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Kontrollilaborator iokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä e-i ole oikea potilaskerto-mus.

@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0072
+document_id: SYN2-P0072-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-07-12
+display_name: Nils Fiktiv SYN2-P0072 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Invented University Hospital
+N0te date 12.7.2026. Patient: Nils Fiktiv SYN2-P0072 (SYN2-P0072), DOB 2.5.1943.
+SYNTHETIC record, not a real pe rso n.
+
+Dictated entry from the lung work-up (synthetic training text).
+The consultation request was written on 9 July 2026, but was only logged as having arri-ved on in week 28 on Saturday (2026).
+The endoscopy was called off at short notice a nd no samp-le was obtained.
+— excerpt from an older note dated 10.1.2019: d ate of birth 2.5.1943; cholecystectomy 10.1.2019; unrela te-d to the present lung work-up. —
+
+Entered by: synthetic test user. This is not a real clinical record.

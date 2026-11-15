@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0007
+document_id: SYN2-P0007-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-07
+display_name: Laura Loremten SYN2-P0007 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 7.3.2026. Potilas: Laura Loremt en S-YN2-P0007 (SYN2-P0007), s. 16.1.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin viikolla 8 sunnu ntaina (2026).
+Pyyntö tuli perille 18-02-2026.
+Toimenpide varattiin viikolla 9 perjantaina (2026), mutta näyte otettiin vasta viikolla 10 perjantaina (2026).
+Tiimikokousta ei järjestetty tällä käynnillä, se on siir-retty.
+— ote vanhasta kirjauksesta 2.3.2021: syntymäaika 16.1.1966; sappirakon po-isto 2.3.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ol-e oikea potilaskertomus.

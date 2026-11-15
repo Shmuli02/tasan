@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0005
+document_id: SYN2-P0005-oncology_note-04
+document_type: oncology_note
+language: sv
+note_date: 2026-02-04
+display_name: Kirsi Keksitty SYN2-P0005 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Te stdata universitetssjukhus
+Anteckningsdatum 4.2.2026. Patient: Kirsi Kekstty SYN2-P0005 (SYN2-P0005), f. 28.3.1951.
+S YNTETISK patientjournal, ingen verklig pe-rson.
+
+Dikerad anteckning fran lungutredningen (syntetisk övningstext).
+Bildtagningen utfördes den 18 januari 2026 (tiden var bokad tidigare).
+Överenskommelse om behandlingsform den 4 februari 2026 (cytostatika).
+Konsultationsbegäran registrerades som inkomemn vecka 2 på m åndagen (2026).
+Vävnadsprover hämtades vi-d åtgärden jnuari den 22 år 2026.
+Mikroskopiskt utlåtande blev klart vecka 5 på onsdagen (2026): småcellig lungcancer.
+Bildttagningen är än så länge bara en bokad tid den 16 februari 2026 och har inte genomförts.
+— utdrag ur äldre anteckning 19.3.2021: födelsedatum 28.3.1951; galloperation 19.3.2021; hör inte till den aktuella lungutredningen. —
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig jourrnal.

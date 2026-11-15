@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,baseline,pct_le42_from_referral,34.4948,7.6923,33.3333,65.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,baseline,pct_le42_from_diagnosis,63.9452,40.0,64.2857,85.7143,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,baseline,median_days_referral_to_treatment,57.4066,31.5,56.5,89.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,baseline,median_days_diagnosis_to_treatment,31.2855,15.0,30.5,52.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,baseline,n_patients,45.2548,32.0,45.0,59.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,baseline,n_active_treated,18.1541,10.0,18.0,27.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,baseline,n_le42_from_referral,6.2618,1.0,6.0,13.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,baseline,n_untreated_at_alert_day,14.8219,7.0,15.0,24.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,scenario,pct_le42_from_referral,48.1871,18.75,47.619,78.9474,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,scenario,median_days_referral_to_treatment,46.0284,28.0,44.5,77.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,scenario,n_patients,45.2548,32.0,45.0,59.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,scenario,n_active_treated,18.1541,10.0,18.0,27.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,scenario,n_le42_from_referral,8.7468,3.0,8.0,16.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,delta,pct_le42_from_referral,13.6923,0.0,13.0435,32.0036,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,delta,median_days_referral_to_treatment,-11.3782,-12.0,-12.0,-4.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,delta,n_patients,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,delta,n_active_treated,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+20,Kainuu wellbeing services county,YTA-POHJOIS,low,delta,n_le42_from_referral,2.4849,0.0,2.0,6.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast

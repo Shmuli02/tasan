@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0104
+document_id: SYN2-P0104-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-06-11
+display_name: Johan Testdata SYN2-P0104 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 11.6.2026. Patient: Johan Testdata SYN2-P0104 (SYN2-P0104), f. 14.10.1966.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredn ingen (syntetisk övningstex t).
+Konsultationsbegäran skrevs den 5 juni 2026, men registrerades som inkommen först igår.
+Aktiv behandl ing har inte kommit i gång.
+— utdrag ur äldre anteckning 23.1.2020: födelsedatum 14.10.1966; galloperation 23.1.2020; hör inte till den aktuella lungutredningen. —
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag saknas här.
+Födelsedatum 14.10.1966 kontrollerat i befolkningsuppgifterna.
+Gallblåsan opererades bort 3.4.2016 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

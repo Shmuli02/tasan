@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0063
+document_id: SYN2-P0063-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-24
+display_name: Laura Loremten SYN2-P0063 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 24.3.2026. Poti1as: Laura Loremten SYN2-P0063 (SYN2-P0063), s. 20.1.1951.
+SYNTEETTINEN potilaskertomus, ei oieaa henkilöä.
+
+Diktoitu merkintä keuhko-se1vittelystä (synte ettinen harjoitusteksti).
+Näyte otettiin tähystyksessä 23. maaliskuuta 2026.
+Kliininen valinta tehtiin 22. maaliskuuta 2026: kuratiivi-nen lobektomia.
+Kuvausaika merkittiin kalenteriin 11. maaliskuuta 2026; itse tutkimus toteutettiin 18-03-2026.
+Tiimikokous pidettiin maaliskuun 22. päivänä 2026 ja suositus kirjattiin.
+Konsultaatiopyyntö kirjatt iin saapuneeksi 12. maaliskuuta 2026.
+Kuviss-a erottui oikean keskilohohon 4,0 cm massa.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretyt.
+— o-te vanhasta kirjauksesta 4.3.2015: syntymäaika 20.1.1951; sappirakon poisto 4.3.2015; ei liity nyyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: syn-teettinen testikäyttäjä. Tämä ei ole oike potilaskertomus.

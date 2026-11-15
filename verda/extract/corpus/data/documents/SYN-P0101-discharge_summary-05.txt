@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0101
+document_id: SYN-P0101-discharge_summary-05
+document_type: discharge_summary
+language: sv
+note_date: 2026-07-11
+display_name: Eva Påhittad SYN-P0101 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 11.7.2026. Patient: Eva Påhittad SYN-P0101 (SYN-P0101), f. 3.2.1959.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Föregående uppgifter: remiss inkommen till lungkliniken 4.6.2026.
+PET-DT utförd 15.6.2026.
+Biopsier togs vid bronkoskopi 18.6.26.
+Föregående uppgifter: pAD-svar klart 21.6.2026: adenokarcinom.
+Föregående uppgifter: vårdkonferens 24/6: multidisciplinär rekommendation.
+Föregående uppgifter: beslutades 2026-06-26 att gå vidare med SBRT.
+SBRT-strålbehandling påbörjad 2026-07-11.
+Gallblåsan opererades bort 3.1.2012 (ej relaterat till nuvarande utredning).
+Föregående pneumoni behandlad 23.1.2018.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

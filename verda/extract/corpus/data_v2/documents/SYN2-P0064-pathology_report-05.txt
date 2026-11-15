@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0064
+document_id: SYN2-P0064-pathology_report-05
+document_type: pathology_report
+language: fi
+note_date: 2026-08-25
+display_name: Hannu Harjoitus SYN2-P0064 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synte-ettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 25.8.2026. Po tilas: Hannu Harjoitus SYN2-P0064 (SYN2-P0064), s. 20.6.1954.
+SYNTEETTINEN potilaskertomus, ei oi-keaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tähystyksen yhteydessä punktionäyte viikolla 33 keskiviikkona (2026).
+Lähete saapui toimistoon 24. heinäkuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Leikekuvaus on suoritettu 7. elokuuta 2026.
+Mikroskooppinen lausunto valmistui 24. elokuuta 2026: NSCLC, ei tarkemmin luokiteltu.
+Yhteispalaveri järj-estettiin 3. elokuuta 2026; linja muodostettiin siellä.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+Lonkkaproteesi operoitu 26.4.2013.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

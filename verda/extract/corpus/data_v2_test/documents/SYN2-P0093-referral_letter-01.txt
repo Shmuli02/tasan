@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0093
+document_id: SYN2-P0093-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-03-09
+display_name: Sari Sijaisnimi SYN2-P0093 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Not e date 9.3.2026. Patient: Sari S ijaisnimi SYN2-P0093 (SYN2-P0093), DOB 26.6.1943.
+SYNTHETIC re-cord, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The con-sultation request was written on in week 10 on Friday (2026), but was only logged as having arrived on in week 11 on Monday (2026).
+Imaging is only a reserved slot on 23 March 2026 and has not been carried out.
+The endoscopy was called off at short notice and no sample was obtained.
+— excer-pt from an older note dated 11.8.2014: date of birth 26.6.1943; cholecystectomy 11.8.2014; unrelated to the present lung work-up. —
+Cholecystectomy performed on 13.7.2019 (unrelated to the present wo-rk-up).
+
+Entered by: synthetic test user. This is not a real clinical record.

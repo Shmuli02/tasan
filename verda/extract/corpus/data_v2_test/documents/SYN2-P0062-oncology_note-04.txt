@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0062
+document_id: SYN2-P0062-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-09-29
+display_name: Pekka Paikkamerkki SYN2-P0062 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 29.9.2026. Potilas: Pekka Paikkamerkki SYN2-P0062 (SYN2-P0062), s. 16.3.1938.
+SYNTEETTINEN potila-skertomus, ei oikeaa henkilöä.
+
+Dikt0itu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Näyte otettiin tähyst yksessä 12. elokuuta 2026.
+Sovittiin hoitomuodosta viikolla 34 perjantaina (2026) (kuratiivinen lobektomia).
+Lähete saapui toimistoon viikolla 30 perjantaina (2026) (kirjoituspäivä on eri, ks. alla).
+Laboratorio ilmoitti histologian elokuun 15. päivänä 2026: NSCLC, ei tarkemmin luokiteltu.
+Kokoontuminen viikolla 34 perjantaina (2026): eri erikoisalojen yhteinen kanta merkitty.
+Kuvantaminen tehtiin 2. elokuuta 2026 (varaus oli aiemmin).
+Jatko on auki. Aktiivista hoitoa ei ole käynnistetty tässä vaiheessa.
+— ote vanhasta kirjauksesta 9.10.2015: syntymäaika 16.3.1938; sappirakon poisto 9.10.2015; ei liity ny-kyiseen keuhkoselvittelyyn. —
+Lonkkaproteesi operoitu 22.10.2017.
+
+Kirjaaja: synteettinen testi-käyttäjä. Tämä ei ole oikea potilaskertomus.

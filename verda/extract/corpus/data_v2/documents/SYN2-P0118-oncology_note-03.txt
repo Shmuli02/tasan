@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0118
+document_id: SYN2-P0118-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-09-09
+display_name: Pekka Paikkamerkki SYN2-P0118 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 9.9.2026. Potilas: Pekka Paikkamerkki SYN2-P0118 (S YN2-P0118), s. 13.5.1957.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkil öä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Laboratorio ilmoitti histologian viikolla 36 sunnuntaina (2026): pienisoluinen keuhkosyöpä.
+Näyte otettiin tähystyksessä syyskuun 2. päivänä 2026.
+Valittiin etenemistapa toissapäivänä: kiilaresektio.
+Leikekuvaus on suoritettu 25. elokuuta 2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi 16. elokuuta 2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaiht0ehtoja.
+Potilas tupakoinut aiemmin; vieroitusohjau s annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

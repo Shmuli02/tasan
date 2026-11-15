@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0007
+document_id: SYN-P0007-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-07-31
+display_name: Laura Loremten SYN-P0007 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 31.7.2026. Potilas: Laura Loremten SYN-P0007 (SYN-P0007), s. 19.3.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 28.7.2026.
+Tietokonetomografia (TT) suoritettiin 31.7.2026. Kuvauksessa todettiin oikean ylälohkon 3,1 cm tuumori.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

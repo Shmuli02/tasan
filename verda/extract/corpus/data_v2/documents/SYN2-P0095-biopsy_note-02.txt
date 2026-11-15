@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0095
+document_id: SYN2-P0095-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-05-16
+display_name: Tuula Testinen SYN2-P0095 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuh-koklin-ikka
+Kirjauspäivä 16.5.2026. Potilas: Tuula Testinen SYN2-P0095 (SYN2-P0095), s. 22.10.1949.
+SYNTEETTINEN potilaskertomu-s, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Toimenpide varattiin 9. toukokuuta 2026, mutta näyte otettiin vasta 15. toukokuuta 2026.
+Lähete saapui toimistoon huhtikuun 22. päivänä 2026 (kirjoituspäivä on eri, ks. alla).
+Kuvausaika merkittiin kalenteriin 2. toukokuuta 2026; itse tutkimus toteutettiin viikolla 19 maanantaina (2026).
+Kuvissa erottui vasemman alalohkon 2,4 cm muut os.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

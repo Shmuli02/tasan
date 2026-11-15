@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0086
+document_id: SYN-P0086-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-09-19
+display_name: Matti Mallipotilas SYN-P0086 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 19.9.2026. Potilas: Matti Mallipotilas SYN-P0086 (SYN-P0086), s. 10.5.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 16.8.
+Thoraxin TT tehty 26.8.26.
+Biopsiat otettu bronkoskopiassa kaksi viikkoa sitten.
+Esitiedot: patologin lausunto 10.9.2026: levyepiteelikarsinooma.
+Moniammatillinen kokous (MDT) toissapäivänä: suositellaan etenemistä hoitoon.
+Syntymäaika 10.5.1966 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0104
+document_id: SYN2-P0104-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-07-12
+display_name: Johan Testdata SYN2-P0104 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 12.7.2026. Potilas: Johan Te-stdata SYN2-P0104 (SYN2-P0104), s. 14.10.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille kesäkuun 10. päivänä 2026.
+Tiimikokous pidettiin 12. heinäkuuta 2026 ja suositus kirjattiin.
+Kudosnäytteet haettiin toimenpiteessä 25-06-2026.
+Laboratorio ilmoitti histologian 5. heinäkuuta 2026: pienisoluinen keuhkosyöpä.
+Kuvantam inen tehtiin 13-06-2026 (varaus oli aiemmin).
+Kuvantaminen on vasta ajanvaraus 17. heinäkuuta 2026, sitä ei ole to teutettu.
+— ote vanhasta ki-rjauksesa 4.6.2018: syntymäaika 14.10.1966; sappirakon poisto 4.6.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Edellinen keuhkokuume hoidettu 9.2.2014.
+Syntymäaika 14.10.1966 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

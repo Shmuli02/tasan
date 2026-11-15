@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0057
+document_id: SYN2-P0057-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-03-12
+display_name: Aino Synteettinen SYN2-P0057 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspä-ivä 12.3.2026. Potilas: Aino Synteet tinen SYN2-P0057 (SYN2-P0057), s. 7.8.1963.
+SYNTEETTINEN potilasertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuh koselvittelystä (synteettinen harjoitusteksti).
+Leikekuvaus on suoritettu 06-03-2026.
+Toimenpide varattiin 04-03-2026, mutta näyte otettiin vasta maaliskuun 10. päivänä 2026.
+Pyyntö tuli perille 21-02-2026.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 1.10.2018: synty mäaika 7.8.1963; sappirako-n poisto 1.10.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaproteesi operoitu 5.2.2021.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0026
+document_id: SYN-P0026-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-05-22
+display_name: Alan Invented SYN-P0026 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 22.5.2026. Patient: Alan Invented SYN-P0026 (SYN-P0026), DOB 5.8.1958.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Specialist referral received 22.5.2026.
+Hip replacement on 25.7.2019.
+Previous pneumonia treated on 10.2.2013.
+
+Entered by: synthetic test user. This is not a real clinical record.

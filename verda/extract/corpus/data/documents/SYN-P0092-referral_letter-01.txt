@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0092
+document_id: SYN-P0092-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-02-16
+display_name: Hannu Harjoitus SYN-P0092 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 16.2.2026. Patient: Hannu Harjoitus SYN-P0092 (SYN-P0092), f. 5.10.1942.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Specialistremiss registrerad igår.
+MDK flyttas till nästa vecka; ingen konferens hölls idga.
+Bronkoskopi utfördes inte vid detta besök.
+Kontrollprov har beställts; svaren finns inte i denna anteckning.
+Hoftprotes opererad 3.10.2022.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

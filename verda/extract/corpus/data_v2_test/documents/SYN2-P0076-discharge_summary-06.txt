@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0076
+document_id: SYN2-P0076-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-09-26
+display_name: Johan Testdata SYN2-P0076 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kir jauspäivä 26.9.2026. P otilas: Johan Testdata SYN2-P0076 (SYN2-P0076), s. 17.9.1958.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Aktiivinen hoito käynnistyi 24. syyskuuta 2026.
+Pyyntö tuli perille 4. elokuuta 2026.
+Kuvantarninen tehtiin viikolla 33 tiistaina (2026) (varaus oli aiemmin).
+Laboratorio ilmoitti histologian 1. syyskuuta 2026: adenokarsinooma.
+Tiimikokous pidettiin viikolla 36 sunnunta-ina (2026) ja suositus kirjattiin.
+Sovittiin hoitomuodosta 06-09-2026 (SBRT).
+Näyte otettiin tähystyksessä 22. elokuuta 2026.
+— ote vanhasta kirjauksesta 26.2.2015: syntymäaika 17.9.1958; sappirakon poist0 26.2.2015; ei li ity nykyiseen keuhkoselvittelyyn. —
+Sappirakon poisto tehty 22.8.2019 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilas kertom-us.

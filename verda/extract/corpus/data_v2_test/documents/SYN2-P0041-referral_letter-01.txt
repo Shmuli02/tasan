@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0041
+document_id: SYN2-P0041-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-07-09
+display_name: Ritva Rakennettu SYN2-P0041 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 9.7.2026. Patient: Rit va Rakennettu SYN2-P0041 (SYN2-P0041), f. 11.6.1968.
+S-YNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Konsultationsbegäran skrevs den 6 juli 2026, men registrerades som inkommen först den 7 juli 2026.
+Bildtagningen är än så länge bara en bokad tid den 14 juli 2026 och har inte genomförts.
+— utdrag ur äldre anteckning 28.11.2015: födelsedatum 11.6.1968; galloperation 28.11.2015; hör inte till den aktuella lungutredningen. —
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag saknas här.
+Höftprotes opererad 14.7.2020.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig jo urnal.

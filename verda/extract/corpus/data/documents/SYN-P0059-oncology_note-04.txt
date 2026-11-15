@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0059
+document_id: SYN-P0059-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-03-04
+display_name: Eeva Esimerkki SYN-P0059 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 4.3.2026. Potilas: Eeva Esimerkki SYN-P0059 (SYN-P0059), s. 28.3.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 26.1.2026.
+Tietokonetomografia (TT) suoritettiin 29/1.
+Biopsiat otettu bronkoskopiassa 9.2.
+Esitiedot: histologinen vastaus saapui kaksi viikkoa sitten (adenokarsinooma).
+Hoitokokous 23/2/2026: moniammatillinen suositus kirjattu.
+Esitiedot: linjaus 25.2.26: kiilaresektio.
+TT suunniteltu 10.3.2026 (ei vielä tehty).
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Edellinen keuhkokuume hoidettu 22.11.2016.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

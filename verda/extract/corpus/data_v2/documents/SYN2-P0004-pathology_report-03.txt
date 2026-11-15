@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0004
+document_id: SYN2-P0004-pathology_report-03
+document_type: pathology_report
+language: sv
+note_date: 2026-07-15
+display_name: Yrjö Yksikkötesti SYN2-P0004 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 15.7.2026. Patient: Yrjö Yksikköt-esti SYN2-P0004 (SYN2-P0004), f. 3.6.1962.
+SYNTETISK patientjournal, ingen verklig p erson.
+
+Di-kterad anteckning från lungutredningen (syntetisk övningstext).
+Mikroskopiskt utlåtande blev klart den 14 juli 2026: småcellig lungcancer.
+Handlingen antecknades som mottagen på enheten juni den 20 år 2026.
+Vävnadsprover hämtades vid åtgärden den 3 juli 2026.
+Undersökningen avbildades den 23 juni 2026.
+Tidigare, någon gång i början av januari, hade hen ett kontrollbe-sök; exakt dag saknas här.
+Gallblåsan opererades bor t 1.8.2013 (ej relaterat till nuvarande utredning).
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

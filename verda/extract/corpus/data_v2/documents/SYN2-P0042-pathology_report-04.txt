@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0042
+document_id: SYN2-P0042-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-06-15
+display_name: Juhani Jäljitelmä SYN2-P0042 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 15.6.2026. Potilas: Ju-hani Jäljitelmä SYN2-P0042 (SYN2-P0042), s. 26.10.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen har-joitusteksti).
+Pyyntö tuli perille 22-05-2026.
+Laboratorio ilmoitti histologian 14. kesäkuuta 2026: pienisoluinen keuhkosyöpä.
+— ote vanhasta kirjauksesta 27.11.2015: syntymäaika 26.10.1951; sappirakon poisto 27.11.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin j ossain tammikuun alussa oli käynyt kontro1lissa; tarkkaa päivää ei ole tässä.
+Edellinen keuhkokuume hoidettu 13.4.2012.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

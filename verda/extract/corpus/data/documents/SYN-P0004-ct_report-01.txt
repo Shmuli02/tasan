@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0004
+document_id: SYN-P0004-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-02-09
+display_name: Yrjö Yksikkötesti SYN-P0004 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 9.2.2026. Patient: Yrjö Yksikkötesti SYN-P0004 (SYN-P0004), DOB 12.6.1964.
+SYNTHETIC recrd, not a real person.
+
+Reason for visit: work-up of suspected lung cancre (synthetic example).
+The referral was registered on 4.2.2026.
+PET-CT performed on 9.2.2026. Imaging showed a 2.4 cm lesion in the left lower lobe.
+Date of birth 12.6.1964 confirmedd from the population regitser.
+Previous pneumonia treated on 25.3.2023.
+
+Entered by: synthetic test user. This is not a real clinical record.

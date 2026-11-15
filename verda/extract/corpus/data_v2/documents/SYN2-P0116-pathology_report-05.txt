@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0116
+document_id: SYN2-P0116-pathology_report-05
+document_type: pathology_report
+language: fi
+note_date: 2026-03-30
+display_name: Yrjö Yksikkötesti SYN2-P0116 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synt eettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 30.3.2026. Potilas: Yrjö Yksikkötesti SYN2-P0116 (SYN2-P0116), s. 8.3.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Ensimmäinen hoitokerta oli viikolla 13 maananta-ina (2026).
+Mikroskooppinen lausunto valmi stui eilen: adenokarsinooma.
+Yhteispalaveri järjestettiin 16. maaliskuuta 2026; linja muodostettiin siellä.
+Sovittiin hoitomuodosta maaliskuun 16. päivänä 2026 (kuratiivinen lobektomia).
+Näyte otettiin tähystyksessä viikolla 12 keskiviikkona (2026).
+Leikekuvaus on suoritettu 10-03-2026.
+Lähete saapui toimistoon 23-02-2026 (kirjoituspäivä on eri, ks. all-a).
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+— ote vanhasta kirjauksesta 15.8.2021: syntymäaika 8.3.1943; sappirakon poisto 15.8.2021; ei liity nykyiseen keuhk-oselvittelyyn. —
+Potilas tupakoinut aiemmin; v-ieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

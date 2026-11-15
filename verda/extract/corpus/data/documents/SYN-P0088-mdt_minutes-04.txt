@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0088
+document_id: SYN-P0088-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-07-01
+display_name: Yrjö Yksikkötesti SYN-P0088 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mllikylän keuhkoklinikka
+Kirjauspaiva 1.7.2026. Pottilas: Yrj Yksikkötesti SYN-P0088 (SYN-P0088), s. 12.6.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkiloa.
+
+Käynnin syy: keuhkosyöpäeppäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lhäete saapui 2026-06-05.
+Esitiedot: ppET-TT tehty 14/6.
+Moniammatillinen kokouus (MDT) 30.6.2026: suostiellaan etenemistä hoitoon.
+Edellinn keuhkokuume hoidettu 21.7.2017.
+Lonkkaproteesi operoitu 18.10.2017.
+
+Kirjaja: synteettinen testikäyttäjä. Tmää ei ole oikea potilaskertomus.

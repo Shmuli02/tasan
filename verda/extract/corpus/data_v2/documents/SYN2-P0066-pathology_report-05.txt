@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0066
+document_id: SYN2-P0066-pathology_report-05
+document_type: pathology_report
+language: fi
+note_date: 2026-02-20
+display_name: Olli Oletettu SYN2-P0066 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen kesk-ussairaala
+Kirjauspäivä 20.2.2026. Potilas: Olli Oletettu SYN2-P0066 (SYN2-P0066), s. 3.5.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (syn teettinen harjoitusteksti).
+Laboratorio ilmoitti histologian 19. helmikuuta 2026: adenokarsinooma.
+Tähystyksen yhteydessä punktionäyte viikolla 6 sunnuntaina (2026).
+Kokoontuminen 01-02-2026: eri erikoisalojen yhteinen kanta merkitty.
+K-onsultaatiopyy ntö kirjattiin saapuneeksi viikolla 4 torstaina (2026).
+Valittiin etenemistapa 1. helmikuuta 2026: kuratiivin-en lobektomia.
+Aktiivinen hoito käynnistyi viikolla 7 maanantaina (2026).
+Tutkim-us käytiin kuvaamassa viikolla 5 sunnuntaina (2026).
+— ote van hasta kirjauksesta 28.6.2017: syntymäaika 3.5.1953; sappirakon poisto 28.6.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole täss-ä.
+
+Kirjaaja: synteettin-en testikäyttäjä. Tämä ei ole oikea potilaskertomu s.

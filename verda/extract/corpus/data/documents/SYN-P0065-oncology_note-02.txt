@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0065
+document_id: SYN-P0065-oncology_note-02
+document_type: oncology_note
+language: fi
+note_date: 2026-06-08
+display_name: Sari Sijaisnimi SYN-P0065 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 8.6.2026. Potilas: Sari Sijaisnimi SYN-P0065 (SYN-P0065), s. 3.8.1939.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 27.5.26.
+Hoitopäätös 6/6: kuratiivinen lobektomia.
+Lonkkaproteesi operoitu 8.1.2020.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea ptilaskertomus.

@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0054
+document_id: SYN2-P0054-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-07-02
+display_name: Alan Invented SYN2-P0054 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 2.7.2026. Potilas: Alan Invented SYN2-P0054 (SYN2-P0054), s. 25.8.1963.
+SYNTEETTINEN potilaskertom us, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Toimenpide varattiin 26. kesäkuuta 2026, mutta näyte otettiin vasta sunnuntaina.
+Laboratorio ilmoitti histologian viikolla 27 torstaina (2026): levyepiteelikarsinooma.
+Kuvantaminen tehtiin 18. kesäkuuta 2026 (varaus oli aiemmin).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön viikolla 23 torstaina (2026).
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 7.11.2019: syntymäaika 25.8.1963; s-appirakon poisto 7.11.2019; ei liity nykyiseen keuhkoselvittelyyn. —
+Kontrollilaborat oriok-okeet t-ilattu, vastaukset eivät ole täs-sä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0117
+document_id: SYN2-P0117-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-06-05
+display_name: Kirsi Keksitty SYN2-P0117 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 5.6.2026. Potilas: Kirsi Keksitty SYN2-P0117 (SYN2-P0117), s. 21.4.1950.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Dik toitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 07-05-2026.
+Yhteispalaveri järjestettiin 28-05-2026; linja muodostettiin siellä.
+Leikekuvaus on suoritettu 11. toukokuuta 2026.
+Valittiin etenemistapa 28. toukokuuta 2026: SBRT.
+Laboratorio ilmoitti histologian 26. toukokuuta 2026: levyepiteelikarsinooma.
+Aktiivinen hoito käynnistyi 5. kesäkuuta 2026.
+Tähystyksen yhteydessä punktionäyte 20-05-2026.
+— ote vanhasta kirjauksesta 10.10.2018: syntymäaika 21.4.1950; sappirakon poisto 10.10.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteett inen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

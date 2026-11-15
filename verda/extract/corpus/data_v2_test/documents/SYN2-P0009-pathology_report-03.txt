@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0009
+document_id: SYN2-P0009-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-06-16
+display_name: Sari Sijaisnimi SYN2-P0009 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 16.6.2026. Potilas: Sari Sijaisnimi SYN2-P0009 (SYN2-P0009), s. 8.10.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä ke uhkoselvittelystä (synteettinen harjoitusteksti).
+Morforloginen tulos tuli toissapäivänä (levyepiteelikarsinooma).
+Tähystyksen yhteydessä punktionäyte kesäkuun 5. päivänä 2026.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 21. toukokuuta 2026.
+Kerroskuvaus toteutettiin viikolla 21 sunnuntaina (2026).
+T ähystys peruttiin viime hetkell-ä eikä näytettä saatu.
+Syntymäaika 8.10.1951 tarkistettu vä estötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0088
+document_id: SYN-P0088-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-06-07
+display_name: Yrjö Yksikkötesti SYN-P0088 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 7.6.2026. Potilas: Yrjö Yksikkötesti SYN-P0088 (SYN-P0088), s. 12.6.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkiilöä.
+
+Kääynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lahete saapunut keuhkoklinikalle 2026-06-05.
+Bronkoskopiaa ei tehty tässä käynnissä.
+Potilas tupakoinut aiemmin; vieroitusohjaus annetu.
+Lonkkaproteesi oeproitu 27.8.2021.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

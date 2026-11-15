@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0048
+document_id: SYN2-P0048-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-02-02
+display_name: Johan Testdata SYN2-P0048 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 2.2.2026. Potilas: Johan Testdata SYN2-P0048 (SYN2-P0048), s. 9.5.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kerroskuvaus toteutettiin 13. tammikuuta 2026.
+Laboratorio ilmoitti histologian toissapäivänä: adenokarsinooma.
+Pyyntö tuli perille tammikuun 5. päivänä 2026.
+— ote vanhasta kirjauksesta 13.9.2023: syntymäaika 9.5.1945; sappirakon poisto 13.9.2023; ei liity nykyiseen keuhk0selvittelyyn. —
+Syntymäaika 9.5.1945 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

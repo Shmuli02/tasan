@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0062
+document_id: SYN2-P0062-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-08-03
+display_name: Pekka Paikkamerkki SYN2-P0062 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 3.8.2026. Patient: Pekka Paikkamerkki SYN2-P0062 (SYN2-P0062), DOB 16.3.1938.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The scan itself took place on August the 2, 2026 (the slot had been booked earlier).
+The consultation request was written on 18 July 2026, but was only logged as having arrived on 24 July 2026.
+The pictures showed a 3.1 cm tumour in the right upper lobe.
+
+Entered by: synthetic test user. This is not a real clinical recor d.

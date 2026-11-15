@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0062
+document_id: SYN2-P0062-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-08-12
+display_name: Pekka Paikkamerkki SYN2-P0062 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 12.8.2026. Potilas: Pekka Paikkam-erkki SYN2-P0062 (SYN2-P0062), s. 16.3.1938.
+SYNTEETTINEN potilaskertomus, e-i oikeaa henkilöä.
+
+Diktoit-u merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kudosnäytteet haettiin toimenpiteessä 12. elokuuta 2026.
+Leikekuvaus on suoritettu 2. elokuuta 2026.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 24-07-2026.
+Tiimikokousta ei järjestetty tällä käynnillä, se on sii-rretty.
+— ote vanhasta kirjauksesta 5.4.2017: syntymäaika 16.3.1938; sappirakon poisto 5.4.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

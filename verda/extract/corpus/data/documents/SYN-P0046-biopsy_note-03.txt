@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0046
+document_id: SYN-P0046-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-04-05
+display_name: Lars Låtsas SYN-P0046 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 5.4.2026. Pootilas: Lars Låtsas SYN-P0046 (SYN-P0046), s. 22.5.1952.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 2026-03-13.
+Bronkoskopia toissapäivänä, näytteet otettu.
+TT suunniteltu 8.4.2026 (ei vielä tehty).
+Edellinen keuhkokuume hoidettu 16.7.2015.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oike potilaskertomus.

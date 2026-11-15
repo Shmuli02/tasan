@@ -1,0 +1,188 @@
+{
+  "synthetic": true,
+  "corpus_id": "tasan-extract-synthetic-v1",
+  "seed": 20261114,
+  "system": "regex_baseline",
+  "predictions_file": "/workspace/junction-new/verda/extract/eval/results/regex_predictions.json",
+  "n_documents": 600,
+  "n_patients": 120,
+  "exact": {
+    "per_type": {
+      "referral_received": {
+        "tp": 552,
+        "fp": 7,
+        "fn": 28,
+        "precision": 0.9875,
+        "recall": 0.9517,
+        "f1": 0.9693,
+        "support": 580
+      },
+      "ct_done": {
+        "tp": 453,
+        "fp": 7,
+        "fn": 23,
+        "precision": 0.9848,
+        "recall": 0.9517,
+        "f1": 0.9679,
+        "support": 476
+      },
+      "biopsy_done": {
+        "tp": 331,
+        "fp": 14,
+        "fn": 20,
+        "precision": 0.9594,
+        "recall": 0.943,
+        "f1": 0.9511,
+        "support": 351
+      },
+      "pathology_result": {
+        "tp": 235,
+        "fp": 11,
+        "fn": 21,
+        "precision": 0.9553,
+        "recall": 0.918,
+        "f1": 0.9363,
+        "support": 256
+      },
+      "mdt_decision": {
+        "tp": 198,
+        "fp": 4,
+        "fn": 7,
+        "precision": 0.9802,
+        "recall": 0.9659,
+        "f1": 0.973,
+        "support": 205
+      },
+      "treatment_decision": {
+        "tp": 141,
+        "fp": 7,
+        "fn": 14,
+        "precision": 0.9527,
+        "recall": 0.9097,
+        "f1": 0.9307,
+        "support": 155
+      },
+      "treatment_start": {
+        "tp": 78,
+        "fp": 0,
+        "fn": 4,
+        "precision": 1.0,
+        "recall": 0.9512,
+        "f1": 0.975,
+        "support": 82
+      }
+    },
+    "micro": {
+      "tp": 1988,
+      "fp": 50,
+      "fn": 117,
+      "precision": 0.9755,
+      "recall": 0.9444,
+      "f1": 0.9597,
+      "support": 2105
+    },
+    "macro": {
+      "precision": 0.9743,
+      "recall": 0.9416,
+      "f1": 0.9576
+    }
+  },
+  "plus_minus_1_day": {
+    "per_type": {
+      "referral_received": {
+        "tp": 559,
+        "fp": 0,
+        "fn": 21,
+        "precision": 1.0,
+        "recall": 0.9638,
+        "f1": 0.9816,
+        "support": 580
+      },
+      "ct_done": {
+        "tp": 460,
+        "fp": 0,
+        "fn": 16,
+        "precision": 1.0,
+        "recall": 0.9664,
+        "f1": 0.9829,
+        "support": 476
+      },
+      "biopsy_done": {
+        "tp": 343,
+        "fp": 2,
+        "fn": 8,
+        "precision": 0.9942,
+        "recall": 0.9772,
+        "f1": 0.9856,
+        "support": 351
+      },
+      "pathology_result": {
+        "tp": 245,
+        "fp": 1,
+        "fn": 11,
+        "precision": 0.9959,
+        "recall": 0.957,
+        "f1": 0.9761,
+        "support": 256
+      },
+      "mdt_decision": {
+        "tp": 202,
+        "fp": 0,
+        "fn": 3,
+        "precision": 1.0,
+        "recall": 0.9854,
+        "f1": 0.9926,
+        "support": 205
+      },
+      "treatment_decision": {
+        "tp": 147,
+        "fp": 1,
+        "fn": 8,
+        "precision": 0.9932,
+        "recall": 0.9484,
+        "f1": 0.9703,
+        "support": 155
+      },
+      "treatment_start": {
+        "tp": 78,
+        "fp": 0,
+        "fn": 4,
+        "precision": 1.0,
+        "recall": 0.9512,
+        "f1": 0.975,
+        "support": 82
+      }
+    },
+    "micro": {
+      "tp": 2034,
+      "fp": 4,
+      "fn": 71,
+      "precision": 0.998,
+      "recall": 0.9663,
+      "f1": 0.9819,
+      "support": 2105
+    },
+    "macro": {
+      "precision": 0.9976,
+      "recall": 0.9642,
+      "f1": 0.9806
+    }
+  },
+  "patient": {
+    "n_patients": 120,
+    "alert": {
+      "tp": 32,
+      "fp": 3,
+      "fn": 0,
+      "precision": 0.9143,
+      "recall": 1.0,
+      "f1": 0.9552,
+      "support": 32,
+      "tn": 85,
+      "accuracy": 0.975,
+      "rule": "day_count >= 28 and no treatment_start; merge=latest_document_wins"
+    },
+    "day_count_mae": 0.009,
+    "day_count_compared": 115
+  }
+}

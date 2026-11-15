@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0101
+document_id: SYN2-P0101-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-04-12
+display_name: Eva Påhittad SYN2-P0101 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 12.4.2026. Potilas: E va Påhittad SYN2-P0101 (SYN2-P0101), s. 8.9.1965.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Laboratorio ilmoitti histologian 12. huhtikuuta 2026: levyepiteelikarsinooma.
+Leikekuvaus on suoritettu 30. maaliskuuta 2026.
+Tähystyksen yhteydessä punktionäyte 05-04-2026.
+Pyyntö tuli perille 24. maaliskuuta 2026.
+Aktiivist-a hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 18.11.2014: syntymäaika 8.9.1965; sappirakon poisto 18.11.2014; ei l iity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa 0li käynyt kontrollissa; tar kkaa päivää ei ole tässä.
+Syntymäaika 8.9.1965 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilasker tomus.

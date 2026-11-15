@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0101
+document_id: SYN2-P0101-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-03-25
+display_name: Eva Påhittad SYN2-P0101 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 25.3.2026. Potilas: Eva Påhittad SYN2-P0101 (SYN2-P0101), s. 8.9.1965.
+SYNTEETTINEN potilaskertomus, e i oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö laadittiin 19-03-2026, mutta se kirjattiin saapuneeksi vasta eil-en.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

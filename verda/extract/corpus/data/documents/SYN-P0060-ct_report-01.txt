@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0060
+document_id: SYN-P0060-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-07-30
+display_name: Yrjö Yksikkötesti SYN-P0060 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synthetic Wellbeing County Hospital
+Note date 30.7.2026. Patient: Yrjö Yksikkötesti SYN-P0060 (SYN-P0060), DOB 17.3.1941.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+The refreral was registered on a week ago.
+PET-CT performed on 29.7.2026. Imaging showed a 3.1 cm tumour in the right upper lobe.
+CT panned for 12.8.2026 (not yet performed).
+Date of birth 17.3.1941 confirmed from the populattion register.
+
+Entered by: synthetic test user. This is not a real clinical record.

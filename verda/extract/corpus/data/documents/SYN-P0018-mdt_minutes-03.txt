@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0018
+document_id: SYN-P0018-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-03-11
+display_name: Lars Låtsas SYN-P0018 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 11.3.2026. Potilas: Lars Låtsas SYN-P0018 (SYN-P0018), s. 25.12.1952.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 2026-02-14.
+Tietokonetomografia (TT) suoritettiin 2026-02-23.
+Esitiedot: bronkoskopia ja biopsia tehty 4.3.
+PAD-vastaus valmistui 8.3.2026: NSCLC, ei tarkemmin luokiteltu.
+Hoitokokous eilen: moniammatillinen suositus kirjattu.
+Sappirakon poisto tehty 25.5.2014 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

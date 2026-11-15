@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0029
+document_id: SYN2-P0029-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-06-03
+display_name: Aino Synteettinen SYN2-P0029 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 3.6.2026. Potilas: Aino Synteettinen SYN2-P0029 (SYN2-P0029), s. 21.5.1946.
+SYNTEET TINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Pyyntö tuli perille 26. toukokuuta 2026.
+Kuvausaika merkittiin kalenteriin 26-05-2026; itse tutkimus toteutettiin 01-06-2026.
+Kuvissa erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 22.12.2019: syntymäaika 21.5.1946; sappirakon poisto 22.12.2019; ei liity nykyiseen keuhkoselvitte-lyyn. —
+Edellinen keuhkokuume hoid ettu 9.5.2019.
+
+Kirjaaja: synteettinen testi käyttäjä. Tämä ei ole oikea potilaskertomus.

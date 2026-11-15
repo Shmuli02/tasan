@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0033
+document_id: SYN-P0033-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-06-18
+display_name: Kirsi Keksitty SYN-P0033 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 18.6.2026. Patient: Kirsi Keksitty SYN-P0033 (SYN-P0033), DOB 14.3.1941.
+SYNTHETIC recoord, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Specialist referral received 2026-06-03.
+Chest CT performed on 18.6.2026. Imaging showed a 4.0 cm mass in the right middle lobe.
+Treatment has not been started.
+Hip replacement on 19.9.2022.
+
+Entered by: synthetic test user. This is not a real clinical record.

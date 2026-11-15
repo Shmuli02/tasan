@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0044
+document_id: SYN2-P0044-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-07-26
+display_name: Nils Fiktiv SYN2-P0044 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 26.7.2026. Patient: Nisl Fiktiv SYN2-P0044 (SYN2-P0044), f. 19.11.1951.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Konsultationsbegäran skrevs den 22 juli 2026, men registrerades som inkommen först den 26 juli 2026.
+Aktiv behandling har inte kommit i gång.
+— utdrag ur äldre anteckning 10.12.2019: föde-lsedatum 19.11.1951; galloperation 10.12.2019; hör inte till den aktuella lungutredningen. —
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

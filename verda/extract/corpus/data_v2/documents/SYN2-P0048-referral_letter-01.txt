@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0048
+document_id: SYN2-P0048-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-01-07
+display_name: Johan Testdata SYN2-P0048 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 7.1.2026. Potilas: Johan Testdata SYN2-P0048 (SYN2-P0048), s. 9.5.1945.
+SYNTEETT1NEN potilask ertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Konsultaatiopyyntö laadittiin viikoll a 1 perjantaina (2026), mutta se kirjat tiin saapuneeksi vasta tammikuun 5. päivänä 2026.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

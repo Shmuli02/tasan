@@ -1,0 +1,29 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0099
+document_id: SYN2-P0099-discharge_summary-05
+document_type: discharge_summary
+language: sv
+note_date: 2026-04-01
+display_name: Anna Anonyymi SYN2-P0099 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Anteck-ningsdatum 1.4.2026. Patient: Anna Anonyymi SYN2-P0099 (SYN2-P0099), f. 17.12.1945.
+SYNTETISK patientjournal, ingen verklig p erson.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Åtgärden genomfördes den 30 mars 2026 (SBRT).
+Undersökningen avbildades den 16 februari 2026.
+Mikroskopiskt utlåtande blev klart 2026-03-03: adenokarcinom.
+Vävnadsprover hämtades vid åtgärden den 24 februari 2026.
+Gemensamt möte den 5 mars 2026: den samlade bedömningen skrevs in.
+Handlingen antecknades som mo-ttagen på enheten 2026-02-01.
+Öve renskommelse om behandlingsform 2026-03-07 (SBRT).
+Speglingen ställdes in i sista stund och inget prov togs.
+— utdrag ur äldre anteckning 23.6.2016: fö de1sedatum 17.12.1945; galloperation 23.6.2016; hör inte till den aktuella lungutredningen. —
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag saknas här.
+Höftprotes opererad 11.11.2016.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verkli g journal.

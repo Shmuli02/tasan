@@ -1,0 +1,22 @@
+{
+  "dry_run": false,
+  "instance_type": "1A100.22V",
+  "location_code": "FIN-01",
+  "is_spot": false,
+  "image": "24.04.cuda13.4.docker",
+  "os_volume_gb": 200,
+  "hostname": "tasan-extract-p2",
+  "watchdog_min": 90,
+  "price_usd_per_h_list": 2.386,
+  "cap_usd": 50.0,
+  "notes": [
+    "SYNTHETIC only",
+    "controller API-deletes our IDs only"
+  ]
+}
+{"t": "23:11:22", "msg": "ssh key added", "name": "tasan-extract-p2-ephemeral"}
+{"t": "23:11:23", "msg": "availability", "status_spot": 200, "spot": false, "status_od": 200, "od": false, "instance_type": "1A100.22V", "location": "FIN-01"}
+{"t": "23:11:23", "msg": "A100 not available (spot or od), abort without create"}
+{"t": "23:11:23", "msg": "cleanup start", "reason": "finally"}
+{"t": "23:11:23", "msg": "delete ssh key", "status": 200, "already_gone": false}
+{"t": "23:11:23", "msg": "final verify (scoped to our ids only)", "instance_gone": true, "volumes_gone": true, "key_gone": true}

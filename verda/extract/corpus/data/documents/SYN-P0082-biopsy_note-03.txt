@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0082
+document_id: SYN-P0082-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-05-12
+display_name: Alan Invented SYN-P0082 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 12.5.2026. Potilas: Alan Invented SYN-P0082 (SYN-P0082), s. 26.3.1961.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 2026-04-15.
+Biopsiat otettu bronkoskopiassa eilen.
+Biopsia peruttiin potilaan toiveesta.
+Edellinen keuhkokuume hoidettu 21.4.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Täm ei ole oikea potilaskertomus.

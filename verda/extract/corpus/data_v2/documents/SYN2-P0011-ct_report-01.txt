@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0011
+document_id: SYN2-P0011-ct_report-01
+document_type: ct_report
+language: fi
+note_date: 2026-03-08
+display_name: Tuula Testinen SYN2-P0011 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 8.3.2026. Potilas: Tu-ula Testi-nen SYN2-P0011 (SYN2-P0011), s. 4.5.1962.
+SYNTEETTINEN potilaskertomus, ei oikeaa henk ilöä.
+
+Diktoitu merkintä ke uhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvausaika merkittiin kalenteriin 04-03-2026; itse tutkimus toteutettiin 6. maaliskuuta 2026.
+Konsultaatiopyyntö laadittiin 25. hel-mikuuta 2026, mutta se kirjattiin saapuneeksi vasta 27-02-2026.
+Kuviss a erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+— ote vanhasta kirja-uksesta 21.4.2015: syntymäaika 4.5.1962; sappirakon poisto 21.4.2015; ei liity nykyiseen keuhkoselvittelyyn. —
+Sappirakon poisto tehty 18.3.2016 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

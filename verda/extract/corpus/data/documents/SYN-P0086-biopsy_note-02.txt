@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0086
+document_id: SYN-P0086-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-09-06
+display_name: Matti Mallipotilas SYN-P0086 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 6.9.2026. Potilas: Matti Mallipotilas SYN-P0086 (SYN-P0086), s. 10.5.1966.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 16.8.2026.
+Esitiedot: tietokonetomografia (TT) suoritettiin 26.8.2026.
+EBUS-bronkoskopia suoritettu 2026-09-06; biopsiat otettu.
+Syntymäaika 10.5.1966 tarkistettu väestötiedoista.
+Edellinen keuhkokuume hoidettu 16.5.2015.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

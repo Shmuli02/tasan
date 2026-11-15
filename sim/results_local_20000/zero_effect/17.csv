@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,baseline,pct_le42_from_referral,25.0396,6.25,23.6842,50.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,baseline,pct_le42_from_diagnosis,56.1117,38.4615,56.0976,73.3333,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,baseline,median_days_referral_to_treatment,63.8727,43.0,63.0,88.5,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,baseline,median_days_diagnosis_to_treatment,38.5605,27.5,38.0,51.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,baseline,n_patients,89.9159,72.0,90.0,109.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,baseline,n_active_treated,34.0998,23.0,34.0,46.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,baseline,n_le42_from_referral,8.5412,2.0,8.0,18.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,baseline,n_untreated_at_alert_day,30.1821,19.0,30.0,42.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,scenario,pct_le42_from_referral,25.0396,6.25,23.6842,50.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,scenario,median_days_referral_to_treatment,63.8727,43.0,63.0,88.5,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,scenario,n_patients,89.9159,72.0,90.0,109.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,scenario,n_active_treated,34.0998,23.0,34.0,46.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,scenario,n_le42_from_referral,8.5412,2.0,8.0,18.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,delta,pct_le42_from_referral,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,delta,median_days_referral_to_treatment,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,delta,n_patients,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,delta,n_active_treated,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+17,Ostrobothnia wellbeing services county,YTA-LANSI,zero_effect,delta,n_le42_from_referral,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast

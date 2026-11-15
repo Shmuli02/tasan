@@ -1,0 +1,95 @@
+{
+ "events": [
+  {
+   "t": "21:37:39",
+   "msg": "ssh key added"
+  },
+  {
+   "t": "21:38:03",
+   "msg": "deploy",
+   "itype": "1V100.4V",
+   "status": 202,
+   "body": "4375e56c-d61d-4c89-b31c-7a0d6d166187"
+  },
+  {
+   "t": "21:38:24",
+   "msg": "instance running",
+   "minutes": 0.3
+  },
+  {
+   "t": "21:38:50",
+   "msg": "upload",
+   "rc": 0
+  },
+  {
+   "t": "21:39:09",
+   "msg": "build",
+   "rc": 0,
+   "stdout": "build_s=18\n",
+   "stderr": ""
+  },
+  {
+   "t": "21:39:11",
+   "msg": "registry login",
+   "ok": true
+  },
+  {
+   "t": "21:39:23",
+   "msg": "push",
+   "rc": 0,
+   "stdout": "push_s=8\ndigest=tasan-twin@sha256:72ecf2a26c4b6a71e279989ddbcaa65bc91969f3f7533367aa5da052b636a9b3 size=271308580\n",
+   "stderr": "",
+   "docker_config_wiped": true
+  },
+  {
+   "t": "21:39:23",
+   "msg": "cleanup start",
+   "reason": "finally"
+  },
+  {
+   "t": "21:39:24",
+   "msg": "delete instance",
+   "status": 202,
+   "volumes": 1,
+   "body": "[{'instanceId': '4375e56c-d61d-4c89-b31c-7a0d6d166187', 'action': 'discontinue', 'status': 'success'}]"
+  },
+  {
+   "t": "21:39:25",
+   "msg": "instance after delete",
+   "status": 200,
+   "inst_status": "discontinued"
+  },
+  {
+   "t": "21:39:25",
+   "msg": "delete volume",
+   "status": 202
+  },
+  {
+   "t": "21:39:26",
+   "msg": "delete ssh key",
+   "status": 200
+  },
+  {
+   "t": "21:39:26",
+   "msg": "final",
+   "leftover_check": {
+    "instance_status": "discontinued",
+    "volume_8c509a13": "attached",
+    "ssh_key_http": 404
+   },
+   "instance_type": "1V100.4V",
+   "life_min": 1.4,
+   "est_cost_usd_10min_rounded": 0.0207
+  }
+ ],
+ "image": "vccr.io/e44abca5-8324-49ad-8f3a-7073929e8beb/tasan-sim-twin:0.1.0",
+ "push_stdout": "push_s=8\ndigest=tasan-twin@sha256:72ecf2a26c4b6a71e279989ddbcaa65bc91969f3f7533367aa5da052b636a9b3 size=271308580\n",
+ "leftover_check": {
+  "instance_status": "discontinued",
+  "volume_8c509a13": "attached",
+  "ssh_key_http": 404
+ },
+ "instance_type": "1V100.4V",
+ "life_min": 1.4,
+ "est_cost_usd_10min_rounded": 0.0207
+}

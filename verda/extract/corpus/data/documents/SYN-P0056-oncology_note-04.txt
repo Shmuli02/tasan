@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0056
+document_id: SYN-P0056-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-06-12
+display_name: Peter Samplecase SYN-P0056 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopisstollinen sairaala
+Kirjauspäivä 12.6.2026. Potilas: Peter Samplecase SYN-P0056 (SYN-P0056), s. 21.10.1964.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete kirjattu 8.4.2026.
+Keuhko-TT tehty 17/4/2026.
+Esitiedot: bronkoskopia ja biopsia tehyt 23.4.2026.
+Histologinen vastaus saapui 3.5.2026 (adenokarsinooma).
+MDT 2026-05-10: hhoitolinja vahvistettu.
+Päätettiin 12.5.26 aloittaa solunsalpaaja.
+Hoitoa ei ole aloitettu.
+Odotetaan jatkotoimia. Hoitoa ei ole aloitettu tässä vaiheessa.
+Syntymäaika 21.10.1964 tarkistettu väestötiedoista.
+Sappirakon poisto tehty 17.3.2018 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

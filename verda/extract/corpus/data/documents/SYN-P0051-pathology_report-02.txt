@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0051
+document_id: SYN-P0051-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-04-10
+display_name: Jane Synthetic SYN-P0051 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 10.4.2026. Potilas: Jane Synthetic SYN-P0051 (SYN-P0051), s. 19.2.1960.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 2026-03-16.
+PET-TT tehty 23.3.2026.
+Esitiedot: biopsiat otettu bronkoskopiassa 2026-03-27.
+Histologinen vastaus saapui toissapäivänä (NSCLC, ei tarkemmin luokiteltu).
+Edellinen keuhkokuume hoidettu 9.8.2016.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

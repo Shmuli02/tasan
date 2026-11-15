@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0043
+document_id: SYN2-P0043-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-04-06
+display_name: Anna Anonyymi SYN2-P0043 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikk-a
+Kirjauspäivä 6.4.2026. Po-tilas: Ana Anonyymi SY N2-P0043 (SYN2-P0043), s. 2.4.1962.
+SYNTEETTINEN potilaskertomus, ei o-ik-eaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen ha rjoitusteks-ti).
+ähete sa-apui toimistoon 14. maaliskuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Leikekuvaus on suoritettu 17. maaliskuuta 2026.
+Näyte otettiin tähystyksess-ä 28-03-2026.
+Jatko on auki. Aktiivista hoitoa ei ole käynnistetty ttässä vaiheessa.
+— ote vanhasta kirjauksesta 5.10.2016: syntymäaika 2.4.1962; sappirakon poisto 5.10.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen t estikäyttäjä. Tämä ei ole oikea potilaskertomus.

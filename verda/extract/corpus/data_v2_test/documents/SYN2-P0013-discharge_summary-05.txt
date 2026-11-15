@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0013
+document_id: SYN2-P0013-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-05-07
+display_name: Ritva Rakennettu SYN2-P0013 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 7.5.2026. Potilas: Ritva Rakennettu S YN2-P0013 (SYN2-P0013), s. 19.2.1960.
+SYNTEETTINEN poilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Näyte otettiin tähystyksessä 14. huhtikuuta 2026.
+Sovittiin h oitomuodosta huhtikuun 27. päivänä 2026 (SBRT).
+Laboratorio ilmoitti histologian viikolla 16 lauantaina (2026): pienisoluinen keuhkosyöpä.
+Tutkimus käytiin kuvaamassa 6. hhuhtikuuta 2026.
+Toimenpide toteutui viikolla 19 torstaina (2026) (BRT).
+Pyyntö tuli perille viikolla 13 maanantaina (2026).
+— ote vahnasta kirjauksesta 13.4.2022: syntymäaika 19.2.1960; sappirakon poisto 13.4.2022; ei liiity nykyiseen keuhkoselvittelyy-n. —
+Edellinen keuhkokuume hoidettu 17.8.2022.
+
+K irjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

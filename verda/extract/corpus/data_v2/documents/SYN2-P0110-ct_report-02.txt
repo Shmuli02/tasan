@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0110
+document_id: SYN2-P0110-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-02-04
+display_name: Alan Invented SYN2-P0110 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistol1inen sairaala
+Kirjauspäivä 4.2.2026. Potilas: Alan Invented SYN2-P0110 (SYN2-P0110), s. 8.1.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Kuvausaika merkittiin kalenteriin 26-01-2026; itse tutkimus toteutettiin 03-02-2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi tammikuun 28. päivänä 2026.
+Kuvissa erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+Aiemmin jossai-n tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

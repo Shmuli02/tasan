@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0048
+document_id: SYN2-P0048-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-02-04
+display_name: Johan Testdata SYN2-P0048 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen kesku ssairaala
+Kirjauspäivä 4.2.2026. Potilas: Johan Testdata SYN2-P0048 (SYN2-P0048), s. 9.5.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelys tä (synteettinen ha-rjoitusteksti).
+Tähystyksen yhteydessä punktionäyte 24. tammikuuta 2026.
+Morforloginen tulos tuli lauantaina (pienisoluinen keuhkosyöpä).
+Tiimikokous pidettiin 2. helmikuuta 2026 ja suositus k-irjattiin.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 5. tammikuuta 2026.
+Tutkimus käytiin kuvaamassa tammikuun 13. päivänä 2026.
+Tähystys peruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 24.5.2014: syntymäaika 9.5.1945; sa ppirakon poist o 24.5.2014; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteetti nen testikäyttä-jä. Tämä ei ole oikea potilaskertomus.

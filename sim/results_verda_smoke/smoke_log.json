@@ -1,0 +1,82 @@
+{
+ "events": [
+  {
+   "t": "20:30:06",
+   "msg": "ssh key added"
+  },
+  {
+   "t": "20:30:30",
+   "msg": "deploy",
+   "itype": "1V100.4V",
+   "status": 202,
+   "body": "c3a6358a-7519-444c-9da2-edc601e9bfbf"
+  },
+  {
+   "t": "20:30:51",
+   "msg": "instance running",
+   "minutes": 0.3
+  },
+  {
+   "t": "20:31:18",
+   "msg": "upload",
+   "rc": 0
+  },
+  {
+   "t": "20:31:54",
+   "msg": "remote run",
+   "rc": 0,
+   "stdout": "4\nDocker version 29.9.2, build a82e528\nbuild_s=23\nimage_id=sha256:881bff2f13ea43710b6336dc6b5a61608ea98cd8581f91b09fab979394e26edb size=271308586\n[MODEL OUTPUT \u00b7 assumptions shown \u00b7 not a forecast] county=21 scenario=baseline %<=42d from referral baseline 33.3333 (14.2857-57.8207), delta 0.0 (0.0-0.0) pp -> /results/baseline/21.json [2.216s]\njob_baseline_ms=3742\n[MODEL OUTPUT \u00b7 assumptions shown \u00b7 not a forecast] county=21 scenario=zero_effect %<=42d from referral baseline 33.3333 (14.2857-57.8207), delta 0.0 (0.0-0.0) pp -> /results/zero_effect/21.json [2.195s]\njob_zero_effect_ms=3150\nhttp_container_exit=exited:0\n",
+   "stderr": ""
+  },
+  {
+   "t": "20:32:00",
+   "msg": "download",
+   "rc": 0
+  },
+  {
+   "t": "20:32:00",
+   "msg": "cleanup start",
+   "reason": "finally"
+  },
+  {
+   "t": "20:32:01",
+   "msg": "delete instance",
+   "status": 404,
+   "volumes": 2,
+   "body": "{\"code\":\"not_found\",\"message\":\"Volume ID doesn't exist\"}"
+  },
+  {
+   "t": "20:32:34",
+   "msg": "instance after delete",
+   "status": 200,
+   "inst_status": "discontinued"
+  },
+  {
+   "t": "20:32:34",
+   "msg": "delete ssh key",
+   "status": 200
+  },
+  {
+   "t": "20:32:35",
+   "msg": "final",
+   "leftover_check": {
+    "instances_not_discontinued": [],
+    "volumes": 1,
+    "volumes_in_trash": 0,
+    "ssh_keys": 0
+   },
+   "instance_type": "1V100.4V",
+   "life_min": 2.1,
+   "est_cost_usd_10min_rounded": 0.0208
+  }
+ ],
+ "leftover_check": {
+  "instances_not_discontinued": [],
+  "volumes": 1,
+  "volumes_in_trash": 0,
+  "ssh_keys": 0
+ },
+ "instance_type": "1V100.4V",
+ "life_min": 2.1,
+ "est_cost_usd_10min_rounded": 0.0208
+}

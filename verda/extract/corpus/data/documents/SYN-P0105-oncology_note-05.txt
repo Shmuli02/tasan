@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0105
+document_id: SYN-P0105-oncology_note-05
+document_type: oncology_note
+language: en
+note_date: 2026-04-17
+display_name: Karin Konstruerad SYN-P0105 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Invented University Hospital
+Note date 17.4.2026. Patient: Karin Konstruerad SYN-P0105 (SYN-P0105), DOB 17.11.1963.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Specialist referral received 23.3.2026.
+History: chest CT performed on 2/4.
+Biopsies were obtained during bronchoscopy on 6.4.
+PAD result available last Sunday (adenocarcinoma).
+Multidisciplinary meeting (MDT) on 15.4.2026: recommend proceeding to treatment.
+Treatment decision on 17.4: SBRT.
+PET-CT booked for 30.4.2026, still only planned.
+Laboratory tests have been ordered; results are not in this note.
+Date of birth 17.11.1963 confirmed from the population register.
+Cholecystectomy performed on 16.5.2022 (unrelated to the present work-up).
+
+Entered by: synthetic test user. This is not a real clinical record.

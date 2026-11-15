@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0020
+document_id: SYN-P0020-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-03-09
+display_name: Johan Testdata SYN-P0020 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 9.3.2026. Potilas: Johan Testdata SYN-P0020 (SYN-P0020), s. 2.10.1940.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 5.1.2026.
+Keuhko-TT tehty 21.1.2026.
+Biopsiat otettu bronkoskopiassa 28/1.
+Histologinen vastaus saapui 5.2.26 (levyepiteelikarsinooma).
+MDT 9.2.2026: hoitolinja vahvistettu.
+Esitiedot: hoitopäätös 12.2.26: solunsalpaaja.
+Solunsalpaajahoito käynnistetty 8.3.2026.
+PET-TT varattu 19.3.2026, tutkimus on vasta suunnitelmissa.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Lonkkaproteesi operoitu 6.5.2017.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

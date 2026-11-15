@@ -1,0 +1,256 @@
+[p2] start 2026-11-14T20:57:25+00:00 watchdog=150m
+[p2] remote halt pid 2404
+GPU 0: NVIDIA A100-SXM4-80GB (UUID: GPU-4ebb0130-c935-665b-f8c3-8fdc840b9ddf)
+[p2] sft rows 481
+[p2] docker pull vllm
+latest: Pulling from vllm/vllm-openai
+cf57d2112d89: Pulling fs layer
+0b3b5bd92824: Pulling fs layer
+99a00cee2151: Pulling fs layer
+9636b09d1a59: Pulling fs layer
+70f87b6ed43e: Pulling fs layer
+d292efec78f5: Pulling fs layer
+5e13f64f2d4f: Pulling fs layer
+da997ea44e13: Pulling fs layer
+c567a87f21d2: Pulling fs layer
+19353e27a4ae: Pulling fs layer
+a18aeda6fd65: Pulling fs layer
+51950bdd823b: Pulling fs layer
+65eb9ab6b83e: Pulling fs layer
+526d5438c009: Pulling fs layer
+c4be670c09dd: Pulling fs layer
+760365ae1fd7: Pulling fs layer
+705139a7bba5: Pulling fs layer
+754866424238: Pulling fs layer
+2b3dd3cad38a: Pulling fs layer
+ad87ef624ebe: Pulling fs layer
+82be7da05054: Pulling fs layer
+8fef9eee2025: Pulling fs layer
+fbde11398e22: Pulling fs layer
+70784373049e: Pulling fs layer
+482b22fb89c8: Pulling fs layer
+2b3dd3cad38a: Pulling fs layer
+f3e15822fd1a: Pulling fs layer
+6e948b165312: Pulling fs layer
+f66c5c7f4e11: Pulling fs layer
+f8ca4e3fe64a: Pulling fs layer
+b408371da416: Pulling fs layer
+804728a6b60a: Pulling fs layer
+473eaaab4960: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+ca1955c92045: Pulling fs layer
+89a788f7b2a3: Pulling fs layer
+4a00231f3b1f: Pulling fs layer
+1cf82107648e: Pulling fs layer
+35f8b6337d90: Pulling fs layer
+058206329b92: Pulling fs layer
+9636b09d1a59: Download complete
+70f87b6ed43e: Download complete
+da997ea44e13: Download complete
+cf57d2112d89: Download complete
+0b3b5bd92824: Download complete
+526d5438c009: Download complete
+5e13f64f2d4f: Download complete
+19353e27a4ae: Download complete
+c567a87f21d2: Download complete
+cf57d2112d89: Pull complete
+51950bdd823b: Download complete
+c4be670c09dd: Download complete
+c567a87f21d2: Pull complete
+ad87ef624ebe: Download complete
+705139a7bba5: Download complete
+82be7da05054: Download complete
+754866424238: Download complete
+fbde11398e22: Download complete
+99a00cee2151: Download complete
+8fef9eee2025: Download complete
+70f87b6ed43e: Pull complete
+0b3b5bd92824: Pull complete
+526d5438c009: Pull complete
+705139a7bba5: Pull complete
+65eb9ab6b83e: Download complete
+482b22fb89c8: Download complete
+70784373049e: Download complete
+2b3dd3cad38a: Download complete
+f3e15822fd1a: Download complete
+6e948b165312: Download complete
+f66c5c7f4e11: Download complete
+f66c5c7f4e11: Pull complete
+760365ae1fd7: Download complete
+f8ca4e3fe64a: Download complete
+b408371da416: Download complete
+804728a6b60a: Download complete
+473eaaab4960: Download complete
+89a788f7b2a3: Download complete
+ca1955c92045: Download complete
+4f4fb700ef54: Download complete
+058206329b92: Download complete
+d292efec78f5: Download complete
+f8ca4e3fe64a: Pull complete
+4a00231f3b1f: Download complete
+1cf82107648e: Download complete
+b408371da416: Pull complete
+d292efec78f5: Pull complete
+82be7da05054: Pull complete
+9636b09d1a59: Pull complete
+058206329b92: Pull complete
+5e13f64f2d4f: Pull complete
+99a00cee2151: Pull complete
+2b3dd3cad38a: Pull complete
+70784373049e: Pull complete
+6e948b165312: Pull complete
+a18aeda6fd65: Download complete
+35f8b6337d90: Download complete
+a18aeda6fd65: Pull complete
+35f8b6337d90: Pull complete
+804728a6b60a: Pull complete
+51950bdd823b: Pull complete
+da997ea44e13: Pull complete
+8fef9eee2025: Pull complete
+760365ae1fd7: Pull complete
+65eb9ab6b83e: Pull complete
+c4be670c09dd: Pull complete
+473eaaab4960: Pull complete
+4f4fb700ef54: Pull complete
+89a788f7b2a3: Pull complete
+ca1955c92045: Pull complete
+ad87ef624ebe: Pull complete
+754866424238: Pull complete
+4a00231f3b1f: Pull complete
+fbde11398e22: Pull complete
+f3e15822fd1a: Pull complete
+1cf82107648e: Pull complete
+19353e27a4ae: Pull complete
+482b22fb89c8: Pull complete
+Digest: sha256:d825baf9ce4b1b6bfc5ecc7b79880c7e6748c65a72d697ce3d47607aafa84c6e
+Status: Downloaded newer image for vllm/vllm-openai:latest
+docker.io/vllm/vllm-openai:latest
+[p2] train LoRA start 2026-11-14T20:59:47+00:00
++ python3 -c 'import torch; print("torch", torch.__version__, "cuda", torch.cuda.is_available())'
+torch 2.14.0+cu130 cuda True
++ ls -l /work/train_lora.py /work/data/train_sft_all.jsonl
+-rw-r--r-- 1 root   root   2062290 Nov 14 20:57 /work/data/train_sft_all.jsonl
+-rwxr-xr-x 1 ubuntu ubuntu    3974 Nov 14 20:55 /work/train_lora.py
++ python3 -c 'import peft, datasets'
++ python3 -m pip install --no-cache-dir --break-system-packages peft datasets
+Collecting peft
+  Downloading peft-0.21.3-py3-none-any.whl.metadata (15 kB)
+Collecting datasets
+  Downloading datasets-5.2.0-py3-none-any.whl.metadata (24 kB)
+Requirement already satisfied: numpy>=1.17 in /usr/local/lib/python3.12/dist-packages (from peft) (2.2.6)
+Requirement already satisfied: packaging>=20.0 in /usr/local/lib/python3.12/dist-packages (from peft) (26.3)
+Requirement already satisfied: psutil in /usr/local/lib/python3.12/dist-packages (from peft) (7.2.2)
+Requirement already satisfied: pyyaml in /usr/local/lib/python3.12/dist-packages (from peft) (6.0.3)
+Requirement already satisfied: torch>=1.13.0 in /usr/local/lib/python3.12/dist-packages (from peft) (2.14.0+cu130)
+Requirement already satisfied: transformers in /usr/local/lib/python3.12/dist-packages (from peft) (5.20.2)
+Requirement already satisfied: tqdm in /usr/local/lib/python3.12/dist-packages (from peft) (4.70.1)
+Requirement already satisfied: accelerate>=0.21.0 in /usr/local/lib/python3.12/dist-packages (from peft) (1.15.0)
+Requirement already satisfied: safetensors in /usr/local/lib/python3.12/dist-packages (from peft) (0.8.0)
+Requirement already satisfied: huggingface_hub>=0.25.0 in /usr/local/lib/python3.12/dist-packages (from peft) (2.4.0)
+Requirement already satisfied: filelock in /usr/local/lib/python3.12/dist-packages (from datasets) (4.2.6)
+Collecting pyarrow>=24.0.0 (from datasets)
+  Downloading pyarrow-26.0.1-cp312-cp312-manylinux_2_28_x86_64.whl.metadata (3.0 kB)
+Requirement already satisfied: dill<0.4.2,>=0.3.0 in /usr/local/lib/python3.12/dist-packages (from datasets) (0.4.1)
+Collecting pandas (from datasets)
+  Downloading pandas-3.1.1-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl.metadata (16 kB)
+Collecting xxhash (from datasets)
+  Downloading xxhash-4.1.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (18 kB)
+Collecting multiprocess<0.70.20 (from datasets)
+  Downloading multiprocess-0.70.19-py312-none-any.whl.metadata (7.5 kB)
+Requirement already satisfied: fsspec<=2026.9.0,>=2023.1.0 in /usr/local/lib/python3.12/dist-packages (from datasets) (2026.9.0)
+Requirement already satisfied: click<9.0.0,>=8.4.2 in /usr/local/lib/python3.12/dist-packages (from huggingface_hub>=0.25.0->peft) (8.5.0)
+Requirement already satisfied: hf-xet<2.0.0,>=1.6.0 in /usr/local/lib/python3.12/dist-packages (from huggingface_hub>=0.25.0->peft) (1.8.0)
+Requirement already satisfied: httpx2<3,>=2.0.0 in /usr/local/lib/python3.12/dist-packages (from huggingface_hub>=0.25.0->peft) (2.16.0)
+Requirement already satisfied: typing-extensions>=4.1.0 in /usr/local/lib/python3.12/dist-packages (from huggingface_hub>=0.25.0->peft) (4.16.0)
+Requirement already satisfied: anyio>=4.10 in /usr/local/lib/python3.12/dist-packages (from httpx2<3,>=2.0.0->huggingface_hub>=0.25.0->peft) (4.15.1)
+Requirement already satisfied: httpcore2==2.16.0 in /usr/local/lib/python3.12/dist-packages (from httpx2<3,>=2.0.0->huggingface_hub>=0.25.0->peft) (2.16.0)
+Requirement already satisfied: idna>=3.18 in /usr/local/lib/python3.12/dist-packages (from httpx2<3,>=2.0.0->huggingface_hub>=0.25.0->peft) (3.20)
+Requirement already satisfied: truststore>=0.10 in /usr/local/lib/python3.12/dist-packages (from httpx2<3,>=2.0.0->huggingface_hub>=0.25.0->peft) (0.10.5)
+Requirement already satisfied: h11>=0.16 in /usr/local/lib/python3.12/dist-packages (from httpcore2==2.16.0->httpx2<3,>=2.0.0->huggingface_hub>=0.25.0->peft) (0.16.0)
+Requirement already satisfied: setuptools>=77.0.3 in /usr/local/lib/python3.12/dist-packages (from torch>=1.13.0->peft) (80.10.2)
+Requirement already satisfied: sympy>=1.13.3 in /usr/local/lib/python3.12/dist-packages (from torch>=1.13.0->peft) (1.14.0)
+Requirement already satisfied: networkx>=2.5.1 in /usr/local/lib/python3.12/dist-packages (from torch>=1.13.0->peft) (3.7)
+Requirement already satisfied: jinja2 in /usr/local/lib/python3.12/dist-packages (from torch>=1.13.0->peft) (3.1.6)
+Requirement already satisfied: cuda-toolkit==13.0.3 in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (13.0.3.0)
+Requirement already satisfied: cuda-bindings<14,>=13.0.3 in /usr/local/lib/python3.12/dist-packages (from torch>=1.13.0->peft) (13.4.4)
+Requirement already satisfied: nvidia-cudnn-cu13==9.24.0.43 in /usr/local/lib/python3.12/dist-packages (from torch>=1.13.0->peft) (9.24.0.43)
+Requirement already satisfied: nvidia-cusparselt-cu13==0.8.1 in /usr/local/lib/python3.12/dist-packages (from torch>=1.13.0->peft) (0.8.1)
+Collecting nvidia-nccl-cu13==2.30.7 (from torch>=1.13.0->peft)
+  Downloading nvidia_nccl_cu13-2.30.7-py3-none-manylinux_2_18_x86_64.whl.metadata (2.1 kB)
+Requirement already satisfied: nvidia-nvshmem-cu13==3.4.5 in /usr/local/lib/python3.12/dist-packages (from torch>=1.13.0->peft) (3.4.5)
+Requirement already satisfied: triton~=3.8.0 in /usr/local/lib/python3.12/dist-packages (from torch>=1.13.0->peft) (3.8.0)
+Requirement already satisfied: nvidia-cublas==13.1.1.3.* in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (13.1.1.3)
+Requirement already satisfied: nvidia-cuda-nvrtc==13.0.88.* in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (13.0.88)
+Requirement already satisfied: nvidia-cuda-runtime==13.0.96.* in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (13.0.96)
+Requirement already satisfied: nvidia-cufft==12.0.0.61.* in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (12.0.0.61)
+Requirement already satisfied: nvidia-nvjitlink<14,>=13.0.88 in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (13.4.92)
+Requirement already satisfied: nvidia-cufile==1.15.1.6.* in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (1.15.1.6)
+Requirement already satisfied: nvidia-cuda-cupti==13.0.85.* in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (13.0.85)
+Requirement already satisfied: nvidia-curand==10.4.0.35.* in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (10.4.0.35)
+Requirement already satisfied: nvidia-cusolver==12.0.4.66.* in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (12.0.4.66)
+Requirement already satisfied: nvidia-cusparse==12.6.3.3.* in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (12.6.3.3)
+Requirement already satisfied: nvidia-nvtx==13.0.85.* in /usr/local/lib/python3.12/dist-packages (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == "Linux"->torch>=1.13.0->peft) (13.0.85)
+Requirement already satisfied: cuda-pathfinder>=1.4.2 in /usr/local/lib/python3.12/dist-packages (from cuda-bindings<14,>=13.0.3->torch>=1.13.0->peft) (1.8.5)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in /usr/local/lib/python3.12/dist-packages (from sympy>=1.13.3->torch>=1.13.0->peft) (1.3.0)
+Requirement already satisfied: MarkupSafe>=2.0 in /usr/local/lib/python3.12/dist-packages (from jinja2->torch>=1.13.0->peft) (3.0.4)
+Requirement already satisfied: python-dateutil>=2.9.0 in /usr/local/lib/python3.12/dist-packages (from pandas->datasets) (2.9.0.post0)
+Requirement already satisfied: six>=1.5 in /usr/local/lib/python3.12/dist-packages (from python-dateutil>=2.9.0->pandas->datasets) (1.17.0)
+Requirement already satisfied: regex>=2025.10.22 in /usr/local/lib/python3.12/dist-packages (from transformers->peft) (2026.9.29)
+Requirement already satisfied: tokenizers<0.24.0,>=0.23.1 in /usr/local/lib/python3.12/dist-packages (from transformers->peft) (0.23.3)
+Requirement already satisfied: typer in /usr/local/lib/python3.12/dist-packages (from transformers->peft) (0.27.3)
+Requirement already satisfied: shellingham>=1.3.0 in /usr/local/lib/python3.12/dist-packages (from typer->transformers->peft) (1.5.4)
+Requirement already satisfied: rich>=13.8.0 in /usr/local/lib/python3.12/dist-packages (from typer->transformers->peft) (15.0.0)
+Requirement already satisfied: annotated-doc>=0.0.2 in /usr/local/lib/python3.12/dist-packages (from typer->transformers->peft) (0.0.5)
+Requirement already satisfied: markdown-it-py>=2.2.0 in /usr/local/lib/python3.12/dist-packages (from rich>=13.8.0->typer->transformers->peft) (4.2.0)
+Requirement already satisfied: pygments<3.0.0,>=2.13.0 in /usr/local/lib/python3.12/dist-packages (from rich>=13.8.0->typer->transformers->peft) (2.21.0)
+Requirement already satisfied: mdurl~=0.1 in /usr/local/lib/python3.12/dist-packages (from markdown-it-py>=2.2.0->rich>=13.8.0->typer->transformers->peft) (0.1.2)
+Downloading peft-0.21.3-py3-none-any.whl (835 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 835.4/835.4 kB 62.6 MB/s  0:00:00
+Downloading datasets-5.2.0-py3-none-any.whl (608 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 608.3/608.3 kB 383.6 MB/s  0:00:00
+Downloading multiprocess-0.70.19-py312-none-any.whl (150 kB)
+Downloading pyarrow-26.0.1-cp312-cp312-manylinux_2_28_x86_64.whl (55.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 55.0/55.0 MB 179.1 MB/s  0:00:00
+Downloading nvidia_nccl_cu13-2.30.7-py3-none-manylinux_2_18_x86_64.whl (216.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 216.0/216.0 MB 175.6 MB/s  0:00:01
+Downloading pandas-3.1.1-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl (12.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.0/12.0 MB 153.6 MB/s  0:00:00
+Downloading xxhash-4.1.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (472 kB)
+Installing collected packages: xxhash, pyarrow, nvidia-nccl-cu13, multiprocess, pandas, datasets, peft
+  Attempting uninstall: nvidia-nccl-cu13
+    Found existing installation: nvidia-nccl-cu13 2.31.2
+    Uninstalling nvidia-nccl-cu13-2.31.2:
+      Successfully uninstalled nvidia-nccl-cu13-2.31.2
+
+Successfully installed datasets-5.2.0 multiprocess-0.70.19 nvidia-nccl-cu13-2.30.7 pandas-3.1.1 peft-0.21.3 pyarrow-26.0.1 xxhash-4.1.0
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+
+[notice] A new release of pip is available: 26.2.2 -> 26.3
+[notice] To update, run: python3 -m pip install --upgrade pip
++ python3 -c 'import peft, datasets; print("peft ok")'
+peft ok
++ python3 /work/train_lora.py
+loading 481 SYNTHETIC sft rows from /work/data/train_sft_all.jsonl
+cuda=True ndev=1 name=NVIDIA A100-SXM4-80GB
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Map:   0%|          | 0/481 [00:00<?, ? examples/s]Map: 100%|██████████| 481/481 [00:00<00:00, 4874.26 examples/s]
+Map:   0%|          | 0/481 [00:00<?, ? examples/s]Map: 100%|██████████| 481/481 [00:00<00:00, 1543.01 examples/s]Map: 100%|██████████| 481/481 [00:00<00:00, 1518.83 examples/s]
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files:  20%|██        | 1/5 [00:48<03:12, 48.11s/it]Fetching 5 files:  40%|████      | 2/5 [00:53<01:09, 23.12s/it]Fetching 5 files:  60%|██████    | 3/5 [00:58<00:29, 14.62s/it]Fetching 5 files:  80%|████████  | 4/5 [01:02<00:10, 10.40s/it]Fetching 5 files: 100%|██████████| 5/5 [01:02<00:00,  6.76s/it]Fetching 5 files: 100%|██████████| 5/5 [01:02<00:00, 12.50s/it]
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights:   0%|          | 1/399 [00:00<01:44,  3.80it/s]Loading weights:   4%|▍         | 17/399 [00:00<00:06, 58.29it/s]Loading weights:  10%|▉         | 38/399 [00:00<00:03, 105.45it/s]Loading weights:  13%|█▎        | 52/399 [00:00<00:02, 116.26it/s]Loading weights:  18%|█▊        | 70/399 [00:00<00:02, 135.04it/s]Loading weights:  22%|██▏       | 86/399 [00:00<00:02, 141.66it/s]Loading weights:  26%|██▌       | 104/399 [00:00<00:01, 147.76it/s]Loading weights:  31%|███       | 122/399 [00:00<00:01, 155.58it/s]Loading weights:  35%|███▍      | 139/399 [00:01<00:01, 148.04it/s]Loading weights:  40%|███▉      | 158/399 [00:01<00:01, 154.74it/s]Loading weights:  44%|████▎     | 174/399 [00:01<00:01, 145.63it/s]Loading weights:  48%|████▊     | 191/399 [00:01<00:01, 147.09it/s]Loading weights:  52%|█████▏    | 207/399 [00:01<00:01, 150.42it/s]Loading weights:  56%|█████▋    | 225/399 [00:01<00:01, 149.59it/s]Loading weights:  60%|██████    | 241/399 [00:01<00:01, 148.58it/s]Loading weights:  65%|██████▍   | 258/399 [00:01<00:00, 146.90it/s]Loading weights:  68%|██████▊   | 273/399 [00:02<00:00, 143.93it/s]Loading weights:  73%|███████▎  | 290/399 [00:02<00:00, 143.32it/s]Loading weights:  76%|███████▋  | 305/399 [00:02<00:00, 135.13it/s]Loading weights:  81%|████████  | 323/399 [00:02<00:00, 138.62it/s]Loading weights:  84%|████████▍ | 337/399 [00:02<00:00, 127.46it/s]Loading weights:  88%|████████▊ | 351/399 [00:02<00:00, 129.83it/s]Loading weights:  91%|█████████▏| 365/399 [00:02<00:00, 131.63it/s]Loading weights:  95%|█████████▍| 379/399 [00:02<00:00, 120.97it/s]Loading weights:  98%|█████████▊| 392/399 [00:02<00:00, 118.31it/s]Loading weights: 100%|██████████| 399/399 [00:03<00:00, 132.17it/s]
+Traceback (most recent call last):
+  File "/work/train_lora.py", line 108, in <module>
+    main()
+  File "/work/train_lora.py", line 74, in main
+    args = TrainingArguments(
+           ^^^^^^^^^^^^^^^^^^
+TypeError: TrainingArguments.__init__() got an unexpected keyword argument 'warmup_ratio'
+Traceback (most recent call last):
+  File "/work/train_lora.py", line 108, in <module>
+trainable params: 43,646,976 || all params: 8,234,382,336 || trainable%: 0.5301
+    main()
+  File "/work/train_lora.py", line 74, in main
+    args = TrainingArguments(
+           ^^^^^^^^^^^^^^^^^^
+TypeError: TrainingArguments.__init__() got an unexpected keyword argument 'warmup_ratio'
+[p2] FAIL: lora train failed

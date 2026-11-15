@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,baseline,pct_le42_from_referral,26.9286,8.77,25.8621,49.2262,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,baseline,pct_le42_from_diagnosis,58.1551,44.6154,58.1954,71.7405,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,baseline,median_days_referral_to_treatment,62.452,43.0,62.0,84.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,baseline,median_days_diagnosis_to_treatment,36.7905,28.0,37.0,47.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,baseline,n_patients,118.261,97.0,118.5,140.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,baseline,n_active_treated,53.57,39.975,53.0,67.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,baseline,n_le42_from_referral,14.414,4.0,14.0,28.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,baseline,n_untreated_at_alert_day,46.989,33.0,47.0,62.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,scenario,pct_le42_from_referral,26.9286,8.77,25.8621,49.2262,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,scenario,median_days_referral_to_treatment,62.452,43.0,62.0,84.5,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,scenario,n_patients,118.261,97.0,118.5,140.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,scenario,n_active_treated,53.57,39.975,53.0,67.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,scenario,n_le42_from_referral,14.414,4.0,14.0,28.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,delta,pct_le42_from_referral,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,delta,median_days_referral_to_treatment,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,delta,n_patients,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,delta,n_active_treated,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast
+10,Kymenlaakso wellbeing services county,YTA-ETELA,zero_effect,delta,n_le42_from_referral,0.0,0.0,0.0,0.0,1,2000,MODEL OUTPUT · assumptions shown · not a forecast

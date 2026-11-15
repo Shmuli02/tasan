@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0054
+document_id: SYN-P0054-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-04-28
+display_name: Alan Invented SYN-P0054 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 28.4.2026. Potilas: Alan Invented SYN-P0054 (SYN-P0054), s. 22.2.1967.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 16.4.2026.
+Keuhko-TT tehty 28.4.2026. Kuvauksessa todettiin oikean ylälohkon 3,1 cm tuumori.
+Lonkkaproteesi operoitu 17.6.2018.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0119
+document_id: SYN2-P0119-mdt_minutes-03
+document_type: mdt_minutes
+language: en
+note_date: 2026-04-30
+display_name: Laura Loremten SYN2-P0119 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 30.4.2026. Patient: Laura Loremten SYN2-P0119 (SYN2-P0119), DOB 8.5.1962.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The team huddle was held on yesterday and the recommendation was written down.
+The document was marked as having reached the unit on in week 13 on Thursday (2026).
+Imaging is only a reserved slot o-n 04-05-2026 and has not been carried out.
+— excerpt frorn an older note dated 15.8.2021: date of birth 8.5.1962; c-holecystectomy 15.8.2021; u nrelated to the pre-sent lun g work-up. —
+Previous pneumonia treated on 8.4.2017.
+
+Entered by: sy-nthetic test user. This is not a real clinical record.

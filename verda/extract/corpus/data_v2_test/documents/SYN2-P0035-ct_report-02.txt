@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0035
+document_id: SYN2-P0035-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-05-04
+display_name: Laura Loremten SYN2-P0035 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 4.5.2026. Potilas: Laura Loremten SYN2-P0035 (SYN2-P0035), s. 6.9.1947.
+SYNTEETTINEN potilaskertomus, ei 0ikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteks ti).
+Pyyntö tuli perille viikolla 17 torstaina (2026).
+Kuvausaika merkittiin kalenteriin 24. hu-htikuuta 2026; itse tutkimus toteutettiin 02-05-2026.
+Kuvissa erottui vasemman ylälohkon 1,8 cm kyhmy ja välikarsinan imusolmukkeet.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoj-a.
+— ote vanh-as-ta kirjauksesta 28.5.2020: syntymäaika 6.9.1947; sappirakon poisto 28.5.2020; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Edellinen keuhkokuume hoidettu 1.8.2011.
+
+Kirjaaja: synteettine-n testikäyttäjä. Tämä ei ole oikea potilaskertomus.

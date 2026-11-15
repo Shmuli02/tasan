@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0049
+document_id: SYN-P0049-biopsy_note-02
+document_type: biopsy_note
+language: sv
+note_date: 2026-06-04
+display_name: Karin Konstruerad SYN-P0049 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 4.6.2026. Patient: Karin Konstruerad SYN-P0049 (SYN-P0049), f. 6.5.1941.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 14.5.2026.
+PET-DT utförd 25/5/2026. Bildfynd: en 1,8 cm knuta i vänster övre lob och mediastinala lymfkörtlar.
+Bronkoskopi och biopsi utförd 4.6.2026.
+Föregående pneumoni behandlad 8.7.2013.
+Födelsedatum 6.5.1941 kontrollerat i befolkningsuppgifterna.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

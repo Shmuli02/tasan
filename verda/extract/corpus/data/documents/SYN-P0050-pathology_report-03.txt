@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0050
+document_id: SYN-P0050-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-06-27
+display_name: Erik Exempelsson SYN-P0050 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 27.6.2026. Potilas: Erik Exempelsson SYN-P0050 (SYN-P0050), s. 24.10.1956.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 6.6.2026.
+Thoraxin TT tehty kaksi viikkoa sitten.
+Bronkoskopia ja biopsia tehty 20.6.26.
+Histologinen vastaus saapui 27.6 (levyepiteelikarsinooma).
+Sappirakon poisto tehty 2.1.2021 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

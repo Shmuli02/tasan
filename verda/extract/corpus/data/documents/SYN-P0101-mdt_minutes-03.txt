@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0101
+document_id: SYN-P0101-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-06-24
+display_name: Eva Påhittad SYN-P0101 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 24.6.2026. Ptilas: Eva Påhittad SYN-P0101 (SYN-P0101), s. 3.2.1959.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 4.6.2026.
+Esitiedot: tT-tutkimus tehty 15.6.
+Biopsiat otettu bronkoskopiassa viikko sitten.
+Patologin lausunto 21/6: adenokarsinooma.
+Moniammatillinen kokous (MDT) 24.6.2026: suositellaan etenemistä hoitoon.
+Bronkoskopiaa ei tehty tässää käynnissä.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0094
+document_id: SYN-P0094-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-08-23
+display_name: Olli Oletettu SYN-P0094 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Fiktiva välfärdsområdets centralsjukhus
+Anteckningsdatum 23.8.2026. Patient: Olli Oletettu SYN-P0094 (SYN-P0094), f. 9.3.1967.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remiss inkommen till lungkliniken 21.8.
+Behandling har inte påbörjats.
+DT planerad 4.9.2026 (ännu inte utförd).
+Födelsedatum 9.3.1967 kontrollerat i befolkningsuppgifterna.
+Föregående pneumoni behandlad 27.11.2015.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

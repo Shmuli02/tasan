@@ -1,0 +1,29 @@
+{
+ "_doc": "Every model input that is NOT a published number. Each is labelled ASSUMPTION (or DESIGN for Tasan design choices) and is shown next to the outputs.",
+ "items": [
+  {"id": "month_days", "label": "ASSUMPTION", "value": 30.4375, "unit": "days per month",
+   "why": "Taulukko 4.5 reports months after diagnosis; the report does not define a month in days. Average Gregorian month used."},
+  {"id": "ref_to_dx_median_days", "label": "ASSUMPTION", "range": [7, 35], "dist": "uniform per run", "unit": "days",
+   "why": "Referral arrival -> Cancer Registry diagnosis date is NOT published anywhere for Finland (data/TREATMENT_TARGETS.md section 3; data/DATA_GAPS.md). Range brackets THL Ohjaus 21/2016 section 4.1 step targets: imaging report <=1 wk, biopsy <=1 wk, pathology report <=1 wk (sum 21 d) - from one step (7 d) to 5 weeks. This leg dominates the referral-anchored output; the spread IS the finding."},
+  {"id": "ref_to_dx_sigma", "label": "ASSUMPTION", "range": [0.4, 0.9], "dist": "uniform per run", "unit": "log-sd",
+   "why": "Shape of the unpublished referral->diagnosis interval (lognormal). No source; swept."},
+  {"id": "ref_to_dx_independent", "label": "ASSUMPTION", "value": true,
+   "why": "Referral->diagnosis is drawn independently of diagnosis->treatment and of treatment type. For patients whose diagnosis date equals the treatment date (Q1 = 0 in 3 areas) the whole work-up actually sits in this leg; not modelled separately."},
+  {"id": "cohort_volume_poisson", "label": "ASSUMPTION", "value": "Poisson(annual_volume)",
+   "why": "Year-to-year variation in a county's number of new lung cancer patients. Mean annual volume = Taulukko 11 denominator / 5 (sourced)."},
+  {"id": "county_inherits_area_timing", "label": "ASSUMPTION", "value": true,
+   "why": "No county-level timing data is published; each county uses its collaborative area's calibrated timing and first-event mix. Counties differ only in volume. Taulukko 11 county categories (curative/life-prolonging/symptomatic, 12 months) cannot be mapped to first-treatment modality without inventing a mapping, so they are not used for the mix."},
+  {"id": "period_mismatch", "label": "ASSUMPTION", "value": "timing 1/2018-6/2022 applied to volumes 2019-2023",
+   "why": "Timing curves (2024 report) and county volumes (2026 report) cover different diagnosis years."},
+  {"id": "target_days", "label": "SOURCED", "value": 42, "unit": "days from referral arrival to first treatment",
+   "source": "THL Ohjaus 21/2016 section 4.1, PDF p.14 (data/TREATMENT_TARGETS.md). Document watermarked 'Vanhentunut' (outdated); no lung-specific limit."},
+  {"id": "alert_day", "label": "DESIGN", "value": 28, "unit": "days after referral arrival",
+   "source": "Tasan design choice, recs/top3.md T3 ('Day-28 ... Tasan design choices, not official targets')."},
+  {"id": "alert_floor", "label": "ASSUMPTION", "value": "treatment cannot move earlier than the alert day",
+   "why": "An alert at day 28 cannot speed up patients already treated before it; accelerated patients are floored at day 28."},
+  {"id": "effect_transfer", "label": "ASSUMPTION", "value": "study effect sizes transfer to a Finnish day-28 alert + navigator",
+   "why": "The cited studies (recs/top3.md) evaluated different interventions in other countries (rapid investigation clinic, one-stop clinic, reflex testing). Their day reductions are used only as low/mid/high what-if magnitudes. Navigation evidence is mixed (Battaglia 2016: no effect at 60/180 days), hence the zero-effect scenario."},
+  {"id": "crowding_extra_days", "label": "ASSUMPTION", "range": [0, 5], "dist": "uniform per run", "unit": "days added to non-alerted patients",
+   "why": "Olsson 2020 (recs/top3.md) reports that pathway prioritisation can lengthen other waits; it gives no magnitude for this setting. 0-5 days is our labelled what-if range."}
+ ]
+}

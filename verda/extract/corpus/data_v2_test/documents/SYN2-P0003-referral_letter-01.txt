@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0003
+document_id: SYN2-P0003-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-01-17
+display_name: Eeva Esimerkki SYN2-P0003 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Pahittade lungkli niken
+Anteckningsdatum 17.1.2026. Patient: Eeva Esimerkki SYN2-P0003 (SYN2-P0003), f. 12.3.1942.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk ovni-ngstext).
+Ko nsultationsbegäran skrevs januari den 12 år 2026, men registreardes som i nkommenn först den 17 januari 2026.
+— utdarg ur äldre ant-eckning 17.7.2021: födelsedatum 12.3.1942; galloperation 17.7.2021; hör inte till den aktu-ella lungutredningen. —
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklgi jou rnnal.

@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0092
+document_id: SYN2-P0092-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-07-09
+display_name: Hannu Harjoitus SYN2-P0092 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+K-e ksityn yliopistollinen sa-iraala
+Kirjauspäivä 9.7.2026. P-otilas: Hannu Harjoitus SYN2-P0092 (SYN2-P0092), s. 19.6.1952.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilö-ä.
+
+Dik toitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tutkimus käytiin kuvaamassa 22. kesäkuuta 2026.
+Laboratorio ilmoitti histologian 7. heinäkuuta 2026: levyepiteelikarsinooma.
+Lähete saapui toimistoon 15. kesäkuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Toimenpide varattiin kesäkuun 23. päivänä 2026, mutta näyte otettiin vasta 26-06-2026.
+Tiimikokousta ei järjestetty tällä käynnillä, se on siirretty.
+Tähystys p eruttiin viime hetkellä eikä näytettä saatu.
+— ote vanhasta kirjauksesta 7.11.2016: syntymäaika 19.6.1952; sappirakon poisto 7.11.2016; ei liity nykyiseen keuhkoselvittel-yyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0109
+document_id: SYN2-P0109-biopsy_note-01
+document_type: biopsy_note
+language: sv
+note_date: 2026-03-19
+display_name: Mary Fictitious SYN2-P0109 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets centrals j ukhus
+Anteckningsdatum 19.3.2026. Patient: Mary Fictitious SYN2-P0109 (SYN2-P0109), f. 17.6.1941.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredning-en (syntetisk övningstext).
+Bildtiden lades in i kalendern mars den 16 år 2026; själva undersökningen genomfördes den 18 mars 2026.
+Konsultationsbegäran skrevs februari den 26 år 2026, men registrerades som inkommen först vecka 10 på onsdagen (2026).
+På bilderna sågs en 3,1 cm tumör i höger övre lob.
+Spglingen ställdes in i sista stund och inget prov togs då.
+Bildtagni ngen är än så länge bara en bokad tid mars den 31 år 2026 och har inte genomfö rts.
+Aktiv behandling har inte kommit i ågng.
+
+Antecknat av: syntetisk testanv ändare. Detta ä r inte e n ver klig journa1.

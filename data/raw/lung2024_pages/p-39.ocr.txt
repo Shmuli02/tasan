@@ -1,0 +1,51 @@
+38 | SUOMEN SYOPAREKISTERI
+TAULUKKO 5.3: Keuhkosyopapotilaiden ikavakioitu yhden vuoden elossaolo-osuus primaarihoidon aloitta-
+misesta ja elossaolo-osuuksien 95 % luottamusvalit yhteistyoalueen ja sukupuolen mukaan. Lisaksi esitetaan
+kuolleisuuden alueittaiset riskisuhteet (RR) Etela-Suomeen verrattuna ja niiden yhtasuuruutta arvioiva p-arvo.
+ Sukupuoli | Ensivaiheen | Yhteistyoalue | Potilaiden | 1 vuoden | Elossaolo- | RR | p-arvo
+hoito | lukumaara | elossaolo- | osuuden
+6 kk kuluessa | osuus (%) | 95 %
+luottamusvali
+Etela-Suomi | 292 | 90,1 | 86,2 -93 | 0,233
+Ita-Suomi | 147 | 90,6 | 84,3-94,5 | 0,91
+Leikkaushoito | Lansi-Suomi | 118 | 90,2 | 83,5-94,3 | 1,02
+Pohjois-Suomi | 114 | 82,3 | 73,9-88,2 | 1,81
+Sisa-Suomi | 172 | 90,6 | 85,1-94,1 | 0,92
+Etela-Suomi | 604 | 37,3 | 33,5-41,2 | <0,001
+Muu kuin | Ita-Suomi | 197 | 35,1 | 28,3-41,9 | 1,11
+palliatiivinen | Lansi-Suomi | 215 | 52,6 | 45,7-59 | 0,68
+sadehoito | Pohjois-Suomi | 138 | 36,7 | 28,8-44,7 | 1,07
+Miehet
+Sisa-Suomi | 176 | 42,7 | 35,4-49,9 | 0,88
+Etela-Suomi | 329 | 46,1 | 40,6 - 51,4 | 0,089
+Ita-Suomi | 250 | 40,6 | 34,4-46,6 | 1,17
+Laakehoito | Lansi-Suomi | 200 | 47,3 | 40,3-54,1 | 0,96
+Pohjois-Suomi | 197 | 50,2 | 42,9-57 | 0,92
+Sisa-Suomi | 268 | 51,3 | 45,1 - 57,1 | 0,84
+Etela-Suomi | 310 | 11,4 | 8,1-15,2 | <0,001
+Palliatiivinen
+Ita-Suomi | 316 | 24,4 | 19,8-29,2 | 0,57
+hoito
+Sisa-Suomi | 210 | 16,6 | 12-21,9 | 0,75
+Etela-Suomi | 294 | 94,1 | 90,7-96,3 | 0,405
+Ita-Suomi | 94,2 | 87,4 - 97,4 | 1,06
+Leikkaushoito | Lansi-Suomi | 111 | 97,4 | 92,3-99,2 | 0,44
+Pohjois-Suomi | 82 | 95,1 | 87,6-98,1 | 0,83
+Sisa-Suomi | 139 | 97,3 | 92,9-99 | 0,46
+Etela-Suomi | 466 | 46,7 | 42,2 - 51,2 | 0,332
+Muu kuin | Ita-Suomi | 79 | 56,4 | 44,3-66,8 | 0,7
+palliatiivinen | Lansi-Suomi | 129 | 50,8 | 41,9-59 | 0,89
+sadehoito | Pohjois-Suomi | 78 | 45,7 | 0,91
+33,2 - 57,3
+Naiset
+Sisa-Suomi | 102 | 45,0 | 35,9 -53,8
+Etela-Suomi | 259 | 57,3 | 50,9 -63,2 | 0,406
+Ita-Suomi | 138 | 52,2 | 43,5-60,2 | 1,11
+Laakehoito | Lansi-Suomi | 80 | 47,9 | 36,8-58,2 | 1,33
+Pohjois-Suomi | 118 | 57,6 | 47,9-66,1 | 0,95
+Sisa-Suomi | 151 | 58,5 | 50,2 - 66 | 0,92
+Etela-Suomi | 211 | 10,0 | 6,4-14,6 | <0,001
+Palliatiivinen
+Ita-Suomi | 122 | 26,3 | 18,8-34,3 | O,52
+hoito
+Sisa-Suomi | 131 | 16,8 | 10,9-23,6 | 0,69

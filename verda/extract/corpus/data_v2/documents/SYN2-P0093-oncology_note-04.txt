@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0093
+document_id: SYN2-P0093-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-04-22
+display_name: Sari Sijaisnimi SYN2-P0093 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen k-eskussairaala
+Kirjauspäivä 22.4.2026. Potilsa: Sari Sijaisnimi SYN2-P0093 (SYN2-P0093), s. 26.6.1943.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Di-ktoitu merkintä keuhkoselvittel ystä (synteettin-en harjoitusteksti).
+Kli ininen valinta tehtiin huhtikuu 21. päivänä 2026: solunsalpaaja.
+Tä hystyksen yhteydessä punktionä yte 4. huhtikuuta 2026.
+Pyyntö tuli perille 09-03-2026.
+Mikroskooppinen lausunto valmistui viikolla 16 maanantaina (2026): ad enokarsinooma.
+Kerroskuvaus toteutettiin viikolla 13 maanantaina (2026).
+Tiimikokousta ei ärjestetty tällä käynnillä, se on siiirretty.
+Aktiivista hoitoa ei o-le aloitettu, vast a pohditaan vaihtoehtoja.
+Edellinen keeuhkokuume hoidettu 1.5.2011.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskert0mus.

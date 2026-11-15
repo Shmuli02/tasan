@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "updated": "2026-11-14",
+    "hero_from_file": true
+  },
+  "headline": "No county publishes whether lung-cancer patients start treatment within six weeks of referral. That missing Goal 3 clock is why Tasan exists — the centrepiece is the waiting-time tracker with a day-28 alert and nurse navigator.",
+  "gap": "Age-adjusted share of lung cancer patients with curative treatment within 12 months. Men: Lapland ~16.2% vs Vantaa-Kerava ~29.8%. Women: ~23.1% vs ~39.7%",
+  "where_in_pathway": "Goal 3 asks whether patients start treatment within target timeframes. Target per THL Ohjaus 21/2016 (marked outdated; no lung-specific limit; new cancer-specific targets due 2026-28, roadmap 3.1.2). Day-28 alert and 80% goal are Tasan design choices. No public county statistic reports 6-week compliance. The published times start at diagnosis, cover only five collaborative areas, and only patients who received that treatment within six months.",
+  "what_to_do": "Lead with T3: Tasan clock: county lung-cancer waiting-time tracker with a day-28 alert and a named nurse navigator who acts on it (pilot: Kymenlaakso and Lapland (one per collaborative area); scalable to all 22 areas). When the day-28 alert fires, the nurse navigator triggers T1 Close the missing step in Kymenlaakso's lung pathway: week-1 pathway map, then 3-day CT, reflex biomarkers and pre-agreed HUS surgery slots where missing (pilot: Kymenlaakso (Kymenhva; Etelä-Suomi collaborative area)) and T2 Every new Lapland lung cancer reviewed by the existing OYS lung-cancer MDT (by video), plus shared access to curative radiotherapy at OYS (RT referral, travel and accommodation, SBRT/chemoradiation slots) (pilot: Lapland (Lapin hyvinvointialue; Pohjois-Suomi collaborative area)).",
+  "primary_rec_id": "T3",
+  "tasan_clock_note": "Target per THL Ohjaus 21/2016 (marked outdated; no lung-specific limit; new cancer-specific targets due 2026-28, roadmap 3.1.2). Day-28 alert and 80% goal are Tasan design choices.",
+  "spotlight_stage": "treatment",
+  "spotlight_indicator_id": "lung_curative_share",
+  "source_ids": [
+    "src-lung-2024-yta",
+    "src-thl-2016",
+    "src-strategy-2026",
+    "src-thl-2017",
+    "src-lung-2026-t11",
+    "src-lung-2026-kuva16"
+  ]
+}

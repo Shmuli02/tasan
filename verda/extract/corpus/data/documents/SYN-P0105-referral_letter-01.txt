@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0105
+document_id: SYN-P0105-referral_letter-01
+document_type: referral_letter
+language: fi
+note_date: 2026-03-23
+display_name: Karin Konstruerad SYN-P0105 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikyän keuhkoklinikka
+Kirjauspäivä 23.3.2026. Potilas: Karin Konstruerad SYN-P0105 (SYN-P0105), s. 17.11.1963.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete sapaunut keuhkoklinikalle 23.3.2026.
+Biopsia peruttiin potilaan toiveesta.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Syntymäaika 17.11.1963 tarkistettu väestötiedoista.
+Potilas tupakkoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

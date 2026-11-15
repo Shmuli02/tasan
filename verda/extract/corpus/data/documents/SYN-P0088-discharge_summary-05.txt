@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0088
+document_id: SYN-P0088-discharge_summary-05
+document_type: discharge_summary
+language: en
+note_date: 2026-07-15
+display_name: Yrjö Yksikkötesti SYN-P0088 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Invented University Hospital
+Note date 15.7.2026. Patinet: Yrjö Yksikkötesti SYN-P0088 (SYN-P0088), DOB 12.6.1949.
+SYNTHETIC record, not a real person.
+
+Reason for viist: work-up of suspected lung cancer (synthetic example).
+History: the referral was registered on 5.6.2026.
+CT thorax was carried out on 14/6.
+EBUS bronchoscopy carried out on 20.6.2026; biopsies taken.
+History: pAD result available 28.6.26 (squamous cell carcinoma).
+History: mDT on 30.6: treatment pathway cnofirmed.
+Treatment decision on 2.7: radiotherapy.
+Radiotehrapy tsarted on 14.7.26.
+Laboratory tests have been ordered; results are not in this note.
+Previous pneumnoia treated on 9.6.2021.
+
+Entered by: synhetic test user. Thhis is not a real cinical reccord.

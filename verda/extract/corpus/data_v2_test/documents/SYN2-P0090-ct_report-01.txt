@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0090
+document_id: SYN2-P0090-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-04-08
+display_name: Pekka Paikkamerkki SYN2-P0090 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Invented Uinv ersity Hospital
+Note date 8.4.2026. Patieent: Pekka Paikkamerkkki SYN2-P0090 (SYN2-P0090), DOB 7.3.1949.
+SYNTHETIC reco ord, not a real person.
+
+Dictated enr-y from the ulng work-up (synthetc training text).
+Imaging was comp-leted on in wee 15 on Monday (2026).
+The consultation request was writte on 15 March 2026, but was only logged as haviing arrived on 21 March 2026.
+The pictures shoowed a 4.0 cm mass in the righ-t middle lobe.
+Imagi-ng is only a reserved slot on April the 15, 2026 and has not een carrie otu.
+— excerpt from an older note dated 1.4.2015: dtae of birth 7.3.1949; cholecystectomy 1.4.2015; unrelated to th-e present lung w0rkk-up. —
+Previously, sometime in early J-anuary, here was a follw-up visit; the exact day is not in this note.
+Previouss pneumonia treated on 7.2.2023.
+
+Entered by: synthetic tesst user. Thsi is not a real clinical record.

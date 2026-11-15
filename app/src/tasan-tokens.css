@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "Nunito";
+  src: url("./fonts/Nunito-VariableFont_wght.ttf") format("truetype");
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+/* Tasan design tokens v1 — JN Brand & Marketing, 2026-11-14
+   Drop-in: import once (e.g. in src/index.css). Works alongside Tailwind v4 @theme
+   (see UI_STYLE.md for the @theme mapping). */
+
+:root {
+  /* ---- Brand ---- */
+  --tz-navy: #16233F;        /* logo pill, headings, primary buttons */
+  --tz-navy-700: #22325A;
+  --tz-navy-500: #3B4C74;
+  --tz-teal: #3A9A9A;        /* logo dot, accent, active tab, links on dark */
+  --tz-teal-700: #2A7676;    /* teal text on light bg (AA on #FFF and #F4F1EA) */
+  --tz-teal-100: #DDEFEE;    /* teal tint fills, selected rows */
+  --tz-paper: #F4F1EA;       /* app background */
+  --tz-card: #FFFFFF;        /* cards on paper */
+  --tz-card-alt: #FBFAF6;
+
+  /* ---- Extended neutrals (warm-cool, Nordic) ---- */
+  --tz-ink: #141B2B;         /* body text */
+  --tz-ink-2: #3E4759;       /* secondary text */
+  --tz-ink-3: #6B7385;       /* labels, captions */
+  --tz-ink-4: #9AA1AF;       /* disabled, axis ticks */
+  --tz-line: #E4DFD4;        /* card borders on paper */
+  --tz-line-2: #EEEAE1;      /* grid lines, dividers */
+  --tz-sunk: #ECE8DE;        /* wells, track of bars */
+
+  /* ---- Semantic status (always pair with icon + word, never colour alone) ---- */
+  --tz-ok: #2A7F62;          --tz-ok-bg: #E2F1EA;      /* on track */
+  --tz-risk: #B38A00;        --tz-risk-bg: #FBF1CF;    /* watch / day 21-27 */
+  --tz-alert: #D9822B;       --tz-alert-bg: #FCE9D6;   /* day-28 alert (amber) */
+  --tz-critical: #C2412D;    --tz-critical-bg: #F8E0DA;/* breached 6 wk / critical */
+  --tz-info: #3A6EA5;        --tz-info-bg: #E2ECF6;
+  --tz-example: #7A5AA6;     --tz-example-bg: #EFE8F7; /* EXAMPLE / simulated data badge */
+
+  /* ---- Choropleth: sequential, colour-blind safe (monotonic lightness teal->navy)
+         LOW curative share = DARKEST (Lapland = step 6). No-data = hatch. ---- */
+  --tz-map-1: #E6F2EF;   /* highest share (best) */
+  --tz-map-2: #BCDCD6;
+  --tz-map-3: #86BFB9;
+  --tz-map-4: #4F9C9C;
+  --tz-map-5: #2D6B7D;
+  --tz-map-6: #16233F;   /* lowest share (largest gap) */
+  --tz-map-nodata: #D9D4C9;
+  --tz-map-stroke: #FFFFFF;
+  --tz-map-selected: #D9822B; /* 2.5px outline on selected county */
+
+  /* ---- Charts ---- */
+  --tz-chart-primary: #16233F;   /* focus county bar / line */
+  --tz-chart-compare: #3A9A9A;   /* comparison county */
+  --tz-chart-muted: #C9C3B6;     /* other counties */
+  --tz-chart-national: #D9822B;  /* national reference line (dashed) */
+  --tz-chart-target: #2A7F62;    /* target line (e.g. 6 weeks) */
+  --tz-chart-grid: #EEEAE1;
+  --tz-chart-axis: #9AA1AF;
+  --tz-chart-ci: #3E4759;        /* CI whiskers */
+
+  /* ---- Dark console (Tasan Live) ---- */
+  --tz-console-bg: #0E1628;
+  --tz-console-surface: #16233F;
+  --tz-console-raised: #1D2D4F;
+  --tz-console-line: #2A3B60;
+  --tz-console-text: #E7ECF5;
+  --tz-console-text-2: #A9B4C8;
+  --tz-console-text-3: #6F7D97;
+  --tz-console-ok: #4CC2A4;
+  --tz-console-teal: #5CC4C4;
+  --tz-console-alert: #F2A65A;
+  --tz-console-critical: #FF6B5A;
+
+  /* ---- Type ---- */
+  --tz-font-display: "Nunito", "Inter", ui-sans-serif, system-ui, sans-serif; /* logo, H1, big KPI numbers */
+  --tz-font-ui: "Inter", ui-sans-serif, system-ui, sans-serif;               /* everything else */
+  --tz-font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace; /* console, ids */
+  --tz-num: tabular-nums lining-nums;   /* font-variant-numeric for all numbers */
+
+  --tz-fs-kpi-xl: 72px;  /* hero number (~65) */
+  --tz-fs-kpi: 44px;     /* KPI tile number */
+  --tz-fs-h1: 32px;      /* screen title */
+  --tz-fs-h2: 22px;      /* card title */
+  --tz-fs-h3: 17px;      /* sub-card title */
+  --tz-fs-body: 15px;
+  --tz-fs-label: 13px;   /* KPI labels, axis labels */
+  --tz-fs-micro: 11.5px; /* source chips, badges (uppercase +0.06em) */
+
+  /* ---- Space (4px base) ---- */
+  --tz-s1: 4px; --tz-s2: 8px; --tz-s3: 12px; --tz-s4: 16px;
+  --tz-s5: 20px; --tz-s6: 24px; --tz-s8: 32px; --tz-s10: 40px; --tz-s12: 48px;
+
+  /* ---- Radius ---- */
+  --tz-r-sm: 6px;    /* chips inner, inputs */
+  --tz-r-md: 10px;   /* buttons, rows */
+  --tz-r-lg: 16px;   /* cards */
+  --tz-r-xl: 22px;   /* hero panels, map frame */
+  --tz-r-pill: 999px;/* chips, badges, tabs (echoes logo pill) */
+
+  /* ---- Shadows (soft, low) ---- */
+  --tz-sh-1: 0 1px 2px rgba(22,35,63,.06), 0 1px 1px rgba(22,35,63,.04);
+  --tz-sh-2: 0 4px 14px rgba(22,35,63,.07), 0 1px 3px rgba(22,35,63,.05);
+  --tz-sh-3: 0 14px 40px rgba(22,35,63,.12), 0 3px 8px rgba(22,35,63,.06);
+  --tz-sh-console: 0 0 0 1px #2A3B60, 0 18px 50px rgba(5,10,22,.45);
+  --tz-ring-focus: 0 0 0 3px rgba(58,154,154,.45);
+
+  /* ---- Layout ---- */
+  --tz-topbar-h: 64px;
+  --tz-panel-w: 380px;       /* Ask Tasan side panel @1920 */
+  --tz-panel-w-md: 340px;    /* @1440 */
+  --tz-gutter: 24px;
+  --tz-page-pad: 32px;
+  --tz-ease: cubic-bezier(.2,.7,.2,1);
+}
+
+/* ---- Core primitives (copy-paste) ---- */
+.tz-num { font-variant-numeric: tabular-nums lining-nums; font-feature-settings: "tnum" 1, "lnum" 1; }
+
+.tz-card { background: var(--tz-card); border: 1px solid var(--tz-line); border-radius: var(--tz-r-lg);
+  box-shadow: var(--tz-sh-1); padding: var(--tz-s5) var(--tz-s6); }
+
+.tz-kpi { display: flex; flex-direction: column; gap: 6px; position: relative;
+  background: var(--tz-card); border: 1px solid var(--tz-line); border-radius: var(--tz-r-lg); box-shadow: var(--tz-sh-1); padding: 20px 22px; }
+.tz-kpi__label { font: 600 var(--tz-fs-label)/1.3 var(--tz-font-ui); color: var(--tz-ink-3); letter-spacing: .02em; }
+.tz-kpi__value { font: 800 var(--tz-fs-kpi)/1 var(--tz-font-display); color: var(--tz-navy);
+  font-variant-numeric: tabular-nums lining-nums; letter-spacing: -.01em; }
+.tz-kpi__value small { font: 700 18px/1 var(--tz-font-ui); color: var(--tz-ink-3); margin-left: 4px; }
+.tz-kpi__delta { font: 600 13px/1.2 var(--tz-font-ui); color: var(--tz-critical); }
+.tz-kpi__foot { display: flex; justify-content: space-between; align-items: center; margin-top: auto; }
+
+.tz-chip-src { display: inline-flex; align-items: center; gap: 5px; height: 22px; padding: 0 9px;
+  border-radius: var(--tz-r-pill); background: var(--tz-sunk); color: var(--tz-ink-2);
+  font: 600 var(--tz-fs-micro)/1 var(--tz-font-ui); border: 0; cursor: pointer; }
+.tz-chip-src::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--tz-teal); }
+.tz-chip-src:hover { background: var(--tz-teal-100); color: var(--tz-teal-700); }
+
+.tz-badge { display: inline-flex; align-items: center; gap: 6px; height: 22px; padding: 0 10px;
+  border-radius: var(--tz-r-pill); font: 700 var(--tz-fs-micro)/1 var(--tz-font-ui);
+  letter-spacing: .06em; text-transform: uppercase; }
+.tz-badge--example { background: var(--tz-example-bg); color: var(--tz-example); border: 1px dashed var(--tz-example); }
+.tz-badge--estimate { background: var(--tz-sunk); color: var(--tz-ink-2); }
+.tz-badge--verda { background: var(--tz-navy); color: #fff; text-transform: none; letter-spacing: .01em; }
+.tz-badge--verda::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--tz-teal); }
+.tz-badge--ok { background: var(--tz-ok-bg); color: var(--tz-ok); }
+.tz-badge--risk { background: var(--tz-risk-bg); color: var(--tz-risk); }
+.tz-badge--alert { background: var(--tz-alert-bg); color: #A75A12; }
+.tz-badge--critical { background: var(--tz-critical-bg); color: var(--tz-critical); }
+
+/* Live pulse dot */
+.tz-pulse { width: 9px; height: 9px; border-radius: 50%; background: var(--tz-console-ok); position: relative; display: inline-block; }
+.tz-pulse::after { content: ""; position: absolute; inset: 0; border-radius: 50%; background: inherit; animation: tz-pulse 1.8s var(--tz-ease) infinite; }
+@keyframes tz-pulse { 0% { transform: scale(1); opacity: .7 } 100% { transform: scale(3); opacity: 0 } }
+@media (prefers-reduced-motion: reduce) { .tz-pulse::after { animation: none; } }

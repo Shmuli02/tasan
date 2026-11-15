@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0005
+document_id: SYN2-P0005-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-01-23
+display_name: Kirsi Keksitty SYN2-P0005 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Ke ksityn yliopistol1inen sa-iraala
+Kirjauspäivä 23.1.2026. Potilas: Kirsi Keksitty SYN2-P0005 (SYN2-P0005), s. 28.3.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettine n harj oitusteksti).
+Leikekuvaus on suoritettu tammikuun 18. päivänä 2026.
+Konsultaatiopyyntö kirjattiin saapuneeksi 5. tammikuuta 2026.
+Näyte otettiin tähystyksessä ta mmikuun 22. päivänä 2026.
+
+Kirjaaj-a: synteettinen testikäyttäjä. Tama ei ole oikea potilaskertomus.

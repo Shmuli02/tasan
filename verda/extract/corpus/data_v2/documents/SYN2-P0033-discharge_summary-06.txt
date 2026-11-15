@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0033
+document_id: SYN2-P0033-discharge_summary-06
+document_type: discharge_summary
+language: sv
+note_date: 2026-06-03
+display_name: Kirsi Keksitty SYN2-P0033 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 3.6.2026. Patient: Kirsi Keksitty SYN2-P0033 (SYN2-P0033), f. 26.7.1953.
+SY-NTETIS K patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Handlingen antecknades som mottagen på enheten vecka 14 på söndagen (2026).
+Åtgärden genomfördes 2026-06-02 (cellgi fter).
+Bildtagningen utfördes den 20 april 2026 (tiden var bokad tidigare).
+— utdrag ur äldre anteckning 13.8.2022: födel-sedatum 26.7.1953; galloperation 13.8.2022; hör inte till den ak-tuella lungutredningen. —
+
+An-tecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

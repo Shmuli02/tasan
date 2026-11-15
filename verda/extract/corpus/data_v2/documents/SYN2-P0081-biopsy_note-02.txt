@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0081
+document_id: SYN2-P0081-biopsy_note-02
+document_type: biopsy_note
+language: sv
+note_date: 2026-05-22
+display_name: Mary Fictitious SYN2-P0081 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Testdata universitetssjukhus
+Ante-ckningsdatum 22.5.2026. Paatient: Mary Fictitious SYN2-P0081 (SYN2-P0081), f. 22.7.1955.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Bildtagningen utfördes den 12 maj 2026 (tide var bokad tidigare).
+Åtgärden bokades på lördagen, men provet togs först vecka 21 på fredagen (2026).
+
+Antecknat av: syntetisk t estanvändare. Detta är inte en verklig journal.

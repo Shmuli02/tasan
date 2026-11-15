@@ -1,0 +1,2536 @@
+{
+  "corpus_id": "tasan-extract-synthetic-train",
+  "synthetic": true,
+  "seed": 20261190,
+  "documents": [
+    {
+      "document_id": "SYNTR-P0001-referral_letter-01",
+      "patient_id": "SYNTR-P0001",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-01-27",
+      "path": "documents/SYNTR-P0001-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0001-ct_report-02",
+      "patient_id": "SYNTR-P0001",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-02-04",
+      "path": "documents/SYNTR-P0001-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0002-referral_letter-01",
+      "patient_id": "SYNTR-P0002",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-06-06",
+      "path": "documents/SYNTR-P0002-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0002-ct_report-02",
+      "patient_id": "SYNTR-P0002",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-13",
+      "path": "documents/SYNTR-P0002-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0002-biopsy_note-03",
+      "patient_id": "SYNTR-P0002",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-16",
+      "path": "documents/SYNTR-P0002-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0002-pathology_report-04",
+      "patient_id": "SYNTR-P0002",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-27",
+      "path": "documents/SYNTR-P0002-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0002-mdt_minutes-05",
+      "patient_id": "SYNTR-P0002",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-07-03",
+      "path": "documents/SYNTR-P0002-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0003-referral_letter-01",
+      "patient_id": "SYNTR-P0003",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-04-01",
+      "path": "documents/SYNTR-P0003-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0003-ct_report-02",
+      "patient_id": "SYNTR-P0003",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-04-05",
+      "path": "documents/SYNTR-P0003-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0003-biopsy_note-03",
+      "patient_id": "SYNTR-P0003",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-12",
+      "path": "documents/SYNTR-P0003-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0003-pathology_report-04",
+      "patient_id": "SYNTR-P0003",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-28",
+      "path": "documents/SYNTR-P0003-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0003-mdt_minutes-05",
+      "patient_id": "SYNTR-P0003",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-05-17",
+      "path": "documents/SYNTR-P0003-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0004-referral_letter-01",
+      "patient_id": "SYNTR-P0004",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-03-20",
+      "path": "documents/SYNTR-P0004-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0004-ct_report-02",
+      "patient_id": "SYNTR-P0004",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-26",
+      "path": "documents/SYNTR-P0004-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0004-biopsy_note-03",
+      "patient_id": "SYNTR-P0004",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-01",
+      "path": "documents/SYNTR-P0004-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0004-pathology_report-04",
+      "patient_id": "SYNTR-P0004",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-02",
+      "path": "documents/SYNTR-P0004-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0005-referral_letter-01",
+      "patient_id": "SYNTR-P0005",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-06-21",
+      "path": "documents/SYNTR-P0005-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0005-ct_report-02",
+      "patient_id": "SYNTR-P0005",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-09",
+      "path": "documents/SYNTR-P0005-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0005-biopsy_note-03",
+      "patient_id": "SYNTR-P0005",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-20",
+      "path": "documents/SYNTR-P0005-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0005-pathology_report-04",
+      "patient_id": "SYNTR-P0005",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-07-21",
+      "path": "documents/SYNTR-P0005-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0006-referral_letter-01",
+      "patient_id": "SYNTR-P0006",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-07-15",
+      "path": "documents/SYNTR-P0006-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0006-ct_report-02",
+      "patient_id": "SYNTR-P0006",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-16",
+      "path": "documents/SYNTR-P0006-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0007-referral_letter-01",
+      "patient_id": "SYNTR-P0007",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-10",
+      "path": "documents/SYNTR-P0007-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0007-ct_report-02",
+      "patient_id": "SYNTR-P0007",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-18",
+      "path": "documents/SYNTR-P0007-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0008-referral_letter-01",
+      "patient_id": "SYNTR-P0008",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-04-21",
+      "path": "documents/SYNTR-P0008-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0008-ct_report-02",
+      "patient_id": "SYNTR-P0008",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-04-26",
+      "path": "documents/SYNTR-P0008-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0008-biopsy_note-03",
+      "patient_id": "SYNTR-P0008",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-04-28",
+      "path": "documents/SYNTR-P0008-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0008-pathology_report-04",
+      "patient_id": "SYNTR-P0008",
+      "document_type": "pathology_report",
+      "lang": "sv",
+      "note_date": "2026-05-05",
+      "path": "documents/SYNTR-P0008-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0009-referral_letter-01",
+      "patient_id": "SYNTR-P0009",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-09",
+      "path": "documents/SYNTR-P0009-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0009-ct_report-02",
+      "patient_id": "SYNTR-P0009",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-18",
+      "path": "documents/SYNTR-P0009-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0010-referral_letter-01",
+      "patient_id": "SYNTR-P0010",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-04-09",
+      "path": "documents/SYNTR-P0010-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0010-ct_report-02",
+      "patient_id": "SYNTR-P0010",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-04-19",
+      "path": "documents/SYNTR-P0010-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0011-referral_letter-01",
+      "patient_id": "SYNTR-P0011",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-08",
+      "path": "documents/SYNTR-P0011-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0011-ct_report-02",
+      "patient_id": "SYNTR-P0011",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-09",
+      "path": "documents/SYNTR-P0011-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0011-biopsy_note-03",
+      "patient_id": "SYNTR-P0011",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-18",
+      "path": "documents/SYNTR-P0011-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0012-referral_letter-01",
+      "patient_id": "SYNTR-P0012",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-07",
+      "path": "documents/SYNTR-P0012-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0012-ct_report-02",
+      "patient_id": "SYNTR-P0012",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-10",
+      "path": "documents/SYNTR-P0012-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0012-biopsy_note-03",
+      "patient_id": "SYNTR-P0012",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-20",
+      "path": "documents/SYNTR-P0012-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0012-pathology_report-04",
+      "patient_id": "SYNTR-P0012",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-23",
+      "path": "documents/SYNTR-P0012-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0013-referral_letter-01",
+      "patient_id": "SYNTR-P0013",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-31",
+      "path": "documents/SYNTR-P0013-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0013-ct_report-02",
+      "patient_id": "SYNTR-P0013",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-13",
+      "path": "documents/SYNTR-P0013-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0013-biopsy_note-03",
+      "patient_id": "SYNTR-P0013",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-18",
+      "path": "documents/SYNTR-P0013-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0014-referral_letter-01",
+      "patient_id": "SYNTR-P0014",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-01-13",
+      "path": "documents/SYNTR-P0014-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0014-ct_report-02",
+      "patient_id": "SYNTR-P0014",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-01-27",
+      "path": "documents/SYNTR-P0014-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0014-biopsy_note-03",
+      "patient_id": "SYNTR-P0014",
+      "document_type": "biopsy_note",
+      "lang": "en",
+      "note_date": "2026-02-08",
+      "path": "documents/SYNTR-P0014-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0014-pathology_report-04",
+      "patient_id": "SYNTR-P0014",
+      "document_type": "pathology_report",
+      "lang": "en",
+      "note_date": "2026-02-13",
+      "path": "documents/SYNTR-P0014-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0015-referral_letter-01",
+      "patient_id": "SYNTR-P0015",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-03-09",
+      "path": "documents/SYNTR-P0015-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0015-ct_report-02",
+      "patient_id": "SYNTR-P0015",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-18",
+      "path": "documents/SYNTR-P0015-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0016-referral_letter-01",
+      "patient_id": "SYNTR-P0016",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-06-17",
+      "path": "documents/SYNTR-P0016-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0016-ct_report-02",
+      "patient_id": "SYNTR-P0016",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-10",
+      "path": "documents/SYNTR-P0016-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0016-biopsy_note-03",
+      "patient_id": "SYNTR-P0016",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-07-27",
+      "path": "documents/SYNTR-P0016-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0017-referral_letter-01",
+      "patient_id": "SYNTR-P0017",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-28",
+      "path": "documents/SYNTR-P0017-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0017-ct_report-02",
+      "patient_id": "SYNTR-P0017",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-13",
+      "path": "documents/SYNTR-P0017-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0017-biopsy_note-03",
+      "patient_id": "SYNTR-P0017",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-15",
+      "path": "documents/SYNTR-P0017-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0018-referral_letter-01",
+      "patient_id": "SYNTR-P0018",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-08-01",
+      "path": "documents/SYNTR-P0018-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0018-ct_report-02",
+      "patient_id": "SYNTR-P0018",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-07",
+      "path": "documents/SYNTR-P0018-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0018-biopsy_note-03",
+      "patient_id": "SYNTR-P0018",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-17",
+      "path": "documents/SYNTR-P0018-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0018-pathology_report-04",
+      "patient_id": "SYNTR-P0018",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-19",
+      "path": "documents/SYNTR-P0018-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0019-referral_letter-01",
+      "patient_id": "SYNTR-P0019",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-05",
+      "path": "documents/SYNTR-P0019-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0019-ct_report-02",
+      "patient_id": "SYNTR-P0019",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-15",
+      "path": "documents/SYNTR-P0019-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0019-biopsy_note-03",
+      "patient_id": "SYNTR-P0019",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-19",
+      "path": "documents/SYNTR-P0019-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0020-referral_letter-01",
+      "patient_id": "SYNTR-P0020",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-06-06",
+      "path": "documents/SYNTR-P0020-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0020-ct_report-02",
+      "patient_id": "SYNTR-P0020",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-10",
+      "path": "documents/SYNTR-P0020-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0021-referral_letter-01",
+      "patient_id": "SYNTR-P0021",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-04-10",
+      "path": "documents/SYNTR-P0021-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0021-ct_report-02",
+      "patient_id": "SYNTR-P0021",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-04-27",
+      "path": "documents/SYNTR-P0021-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0021-biopsy_note-03",
+      "patient_id": "SYNTR-P0021",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-07",
+      "path": "documents/SYNTR-P0021-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0021-pathology_report-04",
+      "patient_id": "SYNTR-P0021",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-14",
+      "path": "documents/SYNTR-P0021-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0022-referral_letter-01",
+      "patient_id": "SYNTR-P0022",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-04-05",
+      "path": "documents/SYNTR-P0022-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0022-ct_report-02",
+      "patient_id": "SYNTR-P0022",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-04-14",
+      "path": "documents/SYNTR-P0022-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0022-biopsy_note-03",
+      "patient_id": "SYNTR-P0022",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-23",
+      "path": "documents/SYNTR-P0022-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0022-pathology_report-04",
+      "patient_id": "SYNTR-P0022",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-30",
+      "path": "documents/SYNTR-P0022-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0023-referral_letter-01",
+      "patient_id": "SYNTR-P0023",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-01-14",
+      "path": "documents/SYNTR-P0023-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0023-ct_report-02",
+      "patient_id": "SYNTR-P0023",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-01-25",
+      "path": "documents/SYNTR-P0023-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0023-biopsy_note-03",
+      "patient_id": "SYNTR-P0023",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-01-28",
+      "path": "documents/SYNTR-P0023-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0023-pathology_report-04",
+      "patient_id": "SYNTR-P0023",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-02-03",
+      "path": "documents/SYNTR-P0023-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0023-mdt_minutes-05",
+      "patient_id": "SYNTR-P0023",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-02-07",
+      "path": "documents/SYNTR-P0023-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0024-referral_letter-01",
+      "patient_id": "SYNTR-P0024",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-02-06",
+      "path": "documents/SYNTR-P0024-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0024-ct_report-02",
+      "patient_id": "SYNTR-P0024",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-02-11",
+      "path": "documents/SYNTR-P0024-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0024-biopsy_note-03",
+      "patient_id": "SYNTR-P0024",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-02-28",
+      "path": "documents/SYNTR-P0024-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0024-pathology_report-04",
+      "patient_id": "SYNTR-P0024",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-03-06",
+      "path": "documents/SYNTR-P0024-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0025-referral_letter-01",
+      "patient_id": "SYNTR-P0025",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-01-21",
+      "path": "documents/SYNTR-P0025-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0025-ct_report-02",
+      "patient_id": "SYNTR-P0025",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-02-14",
+      "path": "documents/SYNTR-P0025-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0025-biopsy_note-03",
+      "patient_id": "SYNTR-P0025",
+      "document_type": "biopsy_note",
+      "lang": "en",
+      "note_date": "2026-02-22",
+      "path": "documents/SYNTR-P0025-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0026-referral_letter-01",
+      "patient_id": "SYNTR-P0026",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-03-03",
+      "path": "documents/SYNTR-P0026-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0026-ct_report-02",
+      "patient_id": "SYNTR-P0026",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-28",
+      "path": "documents/SYNTR-P0026-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0026-biopsy_note-03",
+      "patient_id": "SYNTR-P0026",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-03-30",
+      "path": "documents/SYNTR-P0026-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0027-referral_letter-01",
+      "patient_id": "SYNTR-P0027",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-07",
+      "path": "documents/SYNTR-P0027-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0027-ct_report-02",
+      "patient_id": "SYNTR-P0027",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-17",
+      "path": "documents/SYNTR-P0027-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0027-biopsy_note-03",
+      "patient_id": "SYNTR-P0027",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-18",
+      "path": "documents/SYNTR-P0027-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0027-pathology_report-04",
+      "patient_id": "SYNTR-P0027",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-26",
+      "path": "documents/SYNTR-P0027-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0028-referral_letter-01",
+      "patient_id": "SYNTR-P0028",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-03-09",
+      "path": "documents/SYNTR-P0028-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0028-ct_report-02",
+      "patient_id": "SYNTR-P0028",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-03-18",
+      "path": "documents/SYNTR-P0028-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0028-biopsy_note-03",
+      "patient_id": "SYNTR-P0028",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-03-25",
+      "path": "documents/SYNTR-P0028-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0029-referral_letter-01",
+      "patient_id": "SYNTR-P0029",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-13",
+      "path": "documents/SYNTR-P0029-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0029-ct_report-02",
+      "patient_id": "SYNTR-P0029",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-29",
+      "path": "documents/SYNTR-P0029-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0029-biopsy_note-03",
+      "patient_id": "SYNTR-P0029",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-03",
+      "path": "documents/SYNTR-P0029-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0029-pathology_report-04",
+      "patient_id": "SYNTR-P0029",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-03",
+      "path": "documents/SYNTR-P0029-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0029-mdt_minutes-05",
+      "patient_id": "SYNTR-P0029",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-08-16",
+      "path": "documents/SYNTR-P0029-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0030-referral_letter-01",
+      "patient_id": "SYNTR-P0030",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-02-08",
+      "path": "documents/SYNTR-P0030-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0030-ct_report-02",
+      "patient_id": "SYNTR-P0030",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-02-22",
+      "path": "documents/SYNTR-P0030-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0030-biopsy_note-03",
+      "patient_id": "SYNTR-P0030",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-02-27",
+      "path": "documents/SYNTR-P0030-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0030-pathology_report-04",
+      "patient_id": "SYNTR-P0030",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-03-08",
+      "path": "documents/SYNTR-P0030-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0030-mdt_minutes-05",
+      "patient_id": "SYNTR-P0030",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-03-08",
+      "path": "documents/SYNTR-P0030-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0031-referral_letter-01",
+      "patient_id": "SYNTR-P0031",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-03-31",
+      "path": "documents/SYNTR-P0031-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0031-ct_report-02",
+      "patient_id": "SYNTR-P0031",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-04-10",
+      "path": "documents/SYNTR-P0031-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0031-biopsy_note-03",
+      "patient_id": "SYNTR-P0031",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-20",
+      "path": "documents/SYNTR-P0031-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0032-referral_letter-01",
+      "patient_id": "SYNTR-P0032",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-06-06",
+      "path": "documents/SYNTR-P0032-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0032-ct_report-02",
+      "patient_id": "SYNTR-P0032",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-23",
+      "path": "documents/SYNTR-P0032-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0032-biopsy_note-03",
+      "patient_id": "SYNTR-P0032",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-09",
+      "path": "documents/SYNTR-P0032-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0033-referral_letter-01",
+      "patient_id": "SYNTR-P0033",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-03-28",
+      "path": "documents/SYNTR-P0033-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0033-ct_report-02",
+      "patient_id": "SYNTR-P0033",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-04-03",
+      "path": "documents/SYNTR-P0033-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0033-biopsy_note-03",
+      "patient_id": "SYNTR-P0033",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-09",
+      "path": "documents/SYNTR-P0033-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0034-referral_letter-01",
+      "patient_id": "SYNTR-P0034",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-06-02",
+      "path": "documents/SYNTR-P0034-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0034-ct_report-02",
+      "patient_id": "SYNTR-P0034",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-04",
+      "path": "documents/SYNTR-P0034-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0034-biopsy_note-03",
+      "patient_id": "SYNTR-P0034",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-14",
+      "path": "documents/SYNTR-P0034-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0035-referral_letter-01",
+      "patient_id": "SYNTR-P0035",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-06-05",
+      "path": "documents/SYNTR-P0035-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0035-ct_report-02",
+      "patient_id": "SYNTR-P0035",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-06-11",
+      "path": "documents/SYNTR-P0035-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0035-biopsy_note-03",
+      "patient_id": "SYNTR-P0035",
+      "document_type": "biopsy_note",
+      "lang": "en",
+      "note_date": "2026-06-14",
+      "path": "documents/SYNTR-P0035-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0035-pathology_report-04",
+      "patient_id": "SYNTR-P0035",
+      "document_type": "pathology_report",
+      "lang": "en",
+      "note_date": "2026-06-23",
+      "path": "documents/SYNTR-P0035-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0036-referral_letter-01",
+      "patient_id": "SYNTR-P0036",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-10",
+      "path": "documents/SYNTR-P0036-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0036-ct_report-02",
+      "patient_id": "SYNTR-P0036",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-15",
+      "path": "documents/SYNTR-P0036-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0036-biopsy_note-03",
+      "patient_id": "SYNTR-P0036",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-19",
+      "path": "documents/SYNTR-P0036-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0036-pathology_report-04",
+      "patient_id": "SYNTR-P0036",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-27",
+      "path": "documents/SYNTR-P0036-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0037-referral_letter-01",
+      "patient_id": "SYNTR-P0037",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-18",
+      "path": "documents/SYNTR-P0037-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0037-ct_report-02",
+      "patient_id": "SYNTR-P0037",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-22",
+      "path": "documents/SYNTR-P0037-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0037-biopsy_note-03",
+      "patient_id": "SYNTR-P0037",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-08",
+      "path": "documents/SYNTR-P0037-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0038-referral_letter-01",
+      "patient_id": "SYNTR-P0038",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-22",
+      "path": "documents/SYNTR-P0038-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0038-ct_report-02",
+      "patient_id": "SYNTR-P0038",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-29",
+      "path": "documents/SYNTR-P0038-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0038-biopsy_note-03",
+      "patient_id": "SYNTR-P0038",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-09",
+      "path": "documents/SYNTR-P0038-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0038-pathology_report-04",
+      "patient_id": "SYNTR-P0038",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-13",
+      "path": "documents/SYNTR-P0038-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0039-referral_letter-01",
+      "patient_id": "SYNTR-P0039",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-05-31",
+      "path": "documents/SYNTR-P0039-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0039-ct_report-02",
+      "patient_id": "SYNTR-P0039",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-06-15",
+      "path": "documents/SYNTR-P0039-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0039-biopsy_note-03",
+      "patient_id": "SYNTR-P0039",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-07-02",
+      "path": "documents/SYNTR-P0039-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0039-pathology_report-04",
+      "patient_id": "SYNTR-P0039",
+      "document_type": "pathology_report",
+      "lang": "sv",
+      "note_date": "2026-07-04",
+      "path": "documents/SYNTR-P0039-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0039-mdt_minutes-05",
+      "patient_id": "SYNTR-P0039",
+      "document_type": "mdt_minutes",
+      "lang": "sv",
+      "note_date": "2026-07-10",
+      "path": "documents/SYNTR-P0039-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0040-referral_letter-01",
+      "patient_id": "SYNTR-P0040",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-17",
+      "path": "documents/SYNTR-P0040-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0040-ct_report-02",
+      "patient_id": "SYNTR-P0040",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-26",
+      "path": "documents/SYNTR-P0040-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0040-biopsy_note-03",
+      "patient_id": "SYNTR-P0040",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-31",
+      "path": "documents/SYNTR-P0040-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0041-referral_letter-01",
+      "patient_id": "SYNTR-P0041",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-27",
+      "path": "documents/SYNTR-P0041-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0041-ct_report-02",
+      "patient_id": "SYNTR-P0041",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-30",
+      "path": "documents/SYNTR-P0041-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0041-biopsy_note-03",
+      "patient_id": "SYNTR-P0041",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-04",
+      "path": "documents/SYNTR-P0041-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0041-pathology_report-04",
+      "patient_id": "SYNTR-P0041",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-13",
+      "path": "documents/SYNTR-P0041-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0041-mdt_minutes-05",
+      "patient_id": "SYNTR-P0041",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-06-22",
+      "path": "documents/SYNTR-P0041-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0042-referral_letter-01",
+      "patient_id": "SYNTR-P0042",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-07-01",
+      "path": "documents/SYNTR-P0042-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0042-ct_report-02",
+      "patient_id": "SYNTR-P0042",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-10",
+      "path": "documents/SYNTR-P0042-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0043-referral_letter-01",
+      "patient_id": "SYNTR-P0043",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-04-15",
+      "path": "documents/SYNTR-P0043-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0043-ct_report-02",
+      "patient_id": "SYNTR-P0043",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-07",
+      "path": "documents/SYNTR-P0043-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0043-biopsy_note-03",
+      "patient_id": "SYNTR-P0043",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-08",
+      "path": "documents/SYNTR-P0043-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0044-referral_letter-01",
+      "patient_id": "SYNTR-P0044",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-02-23",
+      "path": "documents/SYNTR-P0044-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0044-ct_report-02",
+      "patient_id": "SYNTR-P0044",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-04",
+      "path": "documents/SYNTR-P0044-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0044-biopsy_note-03",
+      "patient_id": "SYNTR-P0044",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-01",
+      "path": "documents/SYNTR-P0044-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0045-referral_letter-01",
+      "patient_id": "SYNTR-P0045",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-03-06",
+      "path": "documents/SYNTR-P0045-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0045-ct_report-02",
+      "patient_id": "SYNTR-P0045",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-03-31",
+      "path": "documents/SYNTR-P0045-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0045-biopsy_note-03",
+      "patient_id": "SYNTR-P0045",
+      "document_type": "biopsy_note",
+      "lang": "en",
+      "note_date": "2026-03-30",
+      "path": "documents/SYNTR-P0045-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0045-pathology_report-04",
+      "patient_id": "SYNTR-P0045",
+      "document_type": "pathology_report",
+      "lang": "en",
+      "note_date": "2026-04-11",
+      "path": "documents/SYNTR-P0045-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0046-referral_letter-01",
+      "patient_id": "SYNTR-P0046",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-06-16",
+      "path": "documents/SYNTR-P0046-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0046-ct_report-02",
+      "patient_id": "SYNTR-P0046",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-08",
+      "path": "documents/SYNTR-P0046-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0046-biopsy_note-03",
+      "patient_id": "SYNTR-P0046",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-07-11",
+      "path": "documents/SYNTR-P0046-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0046-pathology_report-04",
+      "patient_id": "SYNTR-P0046",
+      "document_type": "pathology_report",
+      "lang": "sv",
+      "note_date": "2026-07-09",
+      "path": "documents/SYNTR-P0046-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0046-mdt_minutes-05",
+      "patient_id": "SYNTR-P0046",
+      "document_type": "mdt_minutes",
+      "lang": "sv",
+      "note_date": "2026-07-28",
+      "path": "documents/SYNTR-P0046-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0047-referral_letter-01",
+      "patient_id": "SYNTR-P0047",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-30",
+      "path": "documents/SYNTR-P0047-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0047-ct_report-02",
+      "patient_id": "SYNTR-P0047",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-16",
+      "path": "documents/SYNTR-P0047-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0047-biopsy_note-03",
+      "patient_id": "SYNTR-P0047",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-30",
+      "path": "documents/SYNTR-P0047-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0048-referral_letter-01",
+      "patient_id": "SYNTR-P0048",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-02-19",
+      "path": "documents/SYNTR-P0048-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0048-ct_report-02",
+      "patient_id": "SYNTR-P0048",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-03-01",
+      "path": "documents/SYNTR-P0048-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0048-biopsy_note-03",
+      "patient_id": "SYNTR-P0048",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-03-10",
+      "path": "documents/SYNTR-P0048-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0048-pathology_report-04",
+      "patient_id": "SYNTR-P0048",
+      "document_type": "pathology_report",
+      "lang": "sv",
+      "note_date": "2026-03-17",
+      "path": "documents/SYNTR-P0048-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0049-referral_letter-01",
+      "patient_id": "SYNTR-P0049",
+      "document_type": "referral_letter",
+      "lang": "en",
+      "note_date": "2026-03-08",
+      "path": "documents/SYNTR-P0049-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0049-ct_report-02",
+      "patient_id": "SYNTR-P0049",
+      "document_type": "ct_report",
+      "lang": "en",
+      "note_date": "2026-03-15",
+      "path": "documents/SYNTR-P0049-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0049-biopsy_note-03",
+      "patient_id": "SYNTR-P0049",
+      "document_type": "biopsy_note",
+      "lang": "en",
+      "note_date": "2026-03-23",
+      "path": "documents/SYNTR-P0049-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0050-referral_letter-01",
+      "patient_id": "SYNTR-P0050",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-06-16",
+      "path": "documents/SYNTR-P0050-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0050-ct_report-02",
+      "patient_id": "SYNTR-P0050",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-27",
+      "path": "documents/SYNTR-P0050-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0050-biopsy_note-03",
+      "patient_id": "SYNTR-P0050",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-01",
+      "path": "documents/SYNTR-P0050-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0050-pathology_report-04",
+      "patient_id": "SYNTR-P0050",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-07-11",
+      "path": "documents/SYNTR-P0050-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0050-mdt_minutes-05",
+      "patient_id": "SYNTR-P0050",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-07-17",
+      "path": "documents/SYNTR-P0050-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0051-referral_letter-01",
+      "patient_id": "SYNTR-P0051",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-01-26",
+      "path": "documents/SYNTR-P0051-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0051-ct_report-02",
+      "patient_id": "SYNTR-P0051",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-01-30",
+      "path": "documents/SYNTR-P0051-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0051-biopsy_note-03",
+      "patient_id": "SYNTR-P0051",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-02-03",
+      "path": "documents/SYNTR-P0051-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0051-pathology_report-04",
+      "patient_id": "SYNTR-P0051",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-02-12",
+      "path": "documents/SYNTR-P0051-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0052-referral_letter-01",
+      "patient_id": "SYNTR-P0052",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-04",
+      "path": "documents/SYNTR-P0052-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0052-ct_report-02",
+      "patient_id": "SYNTR-P0052",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-11",
+      "path": "documents/SYNTR-P0052-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0053-referral_letter-01",
+      "patient_id": "SYNTR-P0053",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-03-13",
+      "path": "documents/SYNTR-P0053-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0053-ct_report-02",
+      "patient_id": "SYNTR-P0053",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-22",
+      "path": "documents/SYNTR-P0053-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0053-biopsy_note-03",
+      "patient_id": "SYNTR-P0053",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-03-31",
+      "path": "documents/SYNTR-P0053-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0054-referral_letter-01",
+      "patient_id": "SYNTR-P0054",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-01-31",
+      "path": "documents/SYNTR-P0054-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0054-ct_report-02",
+      "patient_id": "SYNTR-P0054",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-02-03",
+      "path": "documents/SYNTR-P0054-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0054-biopsy_note-03",
+      "patient_id": "SYNTR-P0054",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-02-13",
+      "path": "documents/SYNTR-P0054-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0055-referral_letter-01",
+      "patient_id": "SYNTR-P0055",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-21",
+      "path": "documents/SYNTR-P0055-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0055-ct_report-02",
+      "patient_id": "SYNTR-P0055",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-26",
+      "path": "documents/SYNTR-P0055-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0055-biopsy_note-03",
+      "patient_id": "SYNTR-P0055",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-19",
+      "path": "documents/SYNTR-P0055-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0055-pathology_report-04",
+      "patient_id": "SYNTR-P0055",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-19",
+      "path": "documents/SYNTR-P0055-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0056-referral_letter-01",
+      "patient_id": "SYNTR-P0056",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-18",
+      "path": "documents/SYNTR-P0056-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0056-ct_report-02",
+      "patient_id": "SYNTR-P0056",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-26",
+      "path": "documents/SYNTR-P0056-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0057-referral_letter-01",
+      "patient_id": "SYNTR-P0057",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-06-21",
+      "path": "documents/SYNTR-P0057-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0057-ct_report-02",
+      "patient_id": "SYNTR-P0057",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-02",
+      "path": "documents/SYNTR-P0057-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0057-biopsy_note-03",
+      "patient_id": "SYNTR-P0057",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-06",
+      "path": "documents/SYNTR-P0057-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0057-pathology_report-04",
+      "patient_id": "SYNTR-P0057",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-07-13",
+      "path": "documents/SYNTR-P0057-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0058-referral_letter-01",
+      "patient_id": "SYNTR-P0058",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-06-13",
+      "path": "documents/SYNTR-P0058-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0058-ct_report-02",
+      "patient_id": "SYNTR-P0058",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-06-19",
+      "path": "documents/SYNTR-P0058-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0058-biopsy_note-03",
+      "patient_id": "SYNTR-P0058",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-07-01",
+      "path": "documents/SYNTR-P0058-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0058-pathology_report-04",
+      "patient_id": "SYNTR-P0058",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-07-20",
+      "path": "documents/SYNTR-P0058-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0059-referral_letter-01",
+      "patient_id": "SYNTR-P0059",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-03-01",
+      "path": "documents/SYNTR-P0059-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0059-ct_report-02",
+      "patient_id": "SYNTR-P0059",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-03-12",
+      "path": "documents/SYNTR-P0059-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0060-referral_letter-01",
+      "patient_id": "SYNTR-P0060",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-03-16",
+      "path": "documents/SYNTR-P0060-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0060-ct_report-02",
+      "patient_id": "SYNTR-P0060",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-20",
+      "path": "documents/SYNTR-P0060-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0060-biopsy_note-03",
+      "patient_id": "SYNTR-P0060",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-03-27",
+      "path": "documents/SYNTR-P0060-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0060-pathology_report-04",
+      "patient_id": "SYNTR-P0060",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-04-04",
+      "path": "documents/SYNTR-P0060-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0061-referral_letter-01",
+      "patient_id": "SYNTR-P0061",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-01-15",
+      "path": "documents/SYNTR-P0061-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0061-ct_report-02",
+      "patient_id": "SYNTR-P0061",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-01-22",
+      "path": "documents/SYNTR-P0061-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0061-biopsy_note-03",
+      "patient_id": "SYNTR-P0061",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-01-31",
+      "path": "documents/SYNTR-P0061-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0061-pathology_report-04",
+      "patient_id": "SYNTR-P0061",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-02-06",
+      "path": "documents/SYNTR-P0061-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0061-mdt_minutes-05",
+      "patient_id": "SYNTR-P0061",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-02-12",
+      "path": "documents/SYNTR-P0061-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0062-referral_letter-01",
+      "patient_id": "SYNTR-P0062",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-04-14",
+      "path": "documents/SYNTR-P0062-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0062-ct_report-02",
+      "patient_id": "SYNTR-P0062",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-04-21",
+      "path": "documents/SYNTR-P0062-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0062-biopsy_note-03",
+      "patient_id": "SYNTR-P0062",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-04-24",
+      "path": "documents/SYNTR-P0062-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0063-referral_letter-01",
+      "patient_id": "SYNTR-P0063",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-04-13",
+      "path": "documents/SYNTR-P0063-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0063-ct_report-02",
+      "patient_id": "SYNTR-P0063",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-04-22",
+      "path": "documents/SYNTR-P0063-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0063-biopsy_note-03",
+      "patient_id": "SYNTR-P0063",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-02",
+      "path": "documents/SYNTR-P0063-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0063-pathology_report-04",
+      "patient_id": "SYNTR-P0063",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-08",
+      "path": "documents/SYNTR-P0063-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0064-referral_letter-01",
+      "patient_id": "SYNTR-P0064",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-06",
+      "path": "documents/SYNTR-P0064-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0064-ct_report-02",
+      "patient_id": "SYNTR-P0064",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-10",
+      "path": "documents/SYNTR-P0064-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0064-biopsy_note-03",
+      "patient_id": "SYNTR-P0064",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-22",
+      "path": "documents/SYNTR-P0064-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0064-pathology_report-04",
+      "patient_id": "SYNTR-P0064",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-28",
+      "path": "documents/SYNTR-P0064-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0065-referral_letter-01",
+      "patient_id": "SYNTR-P0065",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-03-24",
+      "path": "documents/SYNTR-P0065-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0065-ct_report-02",
+      "patient_id": "SYNTR-P0065",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-30",
+      "path": "documents/SYNTR-P0065-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0065-biopsy_note-03",
+      "patient_id": "SYNTR-P0065",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-06",
+      "path": "documents/SYNTR-P0065-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0066-referral_letter-01",
+      "patient_id": "SYNTR-P0066",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-07-17",
+      "path": "documents/SYNTR-P0066-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0066-ct_report-02",
+      "patient_id": "SYNTR-P0066",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-31",
+      "path": "documents/SYNTR-P0066-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0066-biopsy_note-03",
+      "patient_id": "SYNTR-P0066",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-08-03",
+      "path": "documents/SYNTR-P0066-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0067-referral_letter-01",
+      "patient_id": "SYNTR-P0067",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-02-18",
+      "path": "documents/SYNTR-P0067-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0067-ct_report-02",
+      "patient_id": "SYNTR-P0067",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-02-27",
+      "path": "documents/SYNTR-P0067-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0067-biopsy_note-03",
+      "patient_id": "SYNTR-P0067",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-03-06",
+      "path": "documents/SYNTR-P0067-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0067-pathology_report-04",
+      "patient_id": "SYNTR-P0067",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-03-15",
+      "path": "documents/SYNTR-P0067-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0067-mdt_minutes-05",
+      "patient_id": "SYNTR-P0067",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-03-16",
+      "path": "documents/SYNTR-P0067-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0068-referral_letter-01",
+      "patient_id": "SYNTR-P0068",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-07",
+      "path": "documents/SYNTR-P0068-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0068-ct_report-02",
+      "patient_id": "SYNTR-P0068",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-17",
+      "path": "documents/SYNTR-P0068-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0068-biopsy_note-03",
+      "patient_id": "SYNTR-P0068",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-03",
+      "path": "documents/SYNTR-P0068-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0068-pathology_report-04",
+      "patient_id": "SYNTR-P0068",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-06-06",
+      "path": "documents/SYNTR-P0068-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0069-referral_letter-01",
+      "patient_id": "SYNTR-P0069",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-06-28",
+      "path": "documents/SYNTR-P0069-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0069-ct_report-02",
+      "patient_id": "SYNTR-P0069",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-06",
+      "path": "documents/SYNTR-P0069-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0069-biopsy_note-03",
+      "patient_id": "SYNTR-P0069",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-07-10",
+      "path": "documents/SYNTR-P0069-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0069-pathology_report-04",
+      "patient_id": "SYNTR-P0069",
+      "document_type": "pathology_report",
+      "lang": "sv",
+      "note_date": "2026-07-17",
+      "path": "documents/SYNTR-P0069-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0070-referral_letter-01",
+      "patient_id": "SYNTR-P0070",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-06-26",
+      "path": "documents/SYNTR-P0070-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0070-ct_report-02",
+      "patient_id": "SYNTR-P0070",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-07-05",
+      "path": "documents/SYNTR-P0070-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0071-referral_letter-01",
+      "patient_id": "SYNTR-P0071",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-02-17",
+      "path": "documents/SYNTR-P0071-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0071-ct_report-02",
+      "patient_id": "SYNTR-P0071",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-03-01",
+      "path": "documents/SYNTR-P0071-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0072-referral_letter-01",
+      "patient_id": "SYNTR-P0072",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-04-18",
+      "path": "documents/SYNTR-P0072-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0072-ct_report-02",
+      "patient_id": "SYNTR-P0072",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-04-29",
+      "path": "documents/SYNTR-P0072-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0072-biopsy_note-03",
+      "patient_id": "SYNTR-P0072",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-05-14",
+      "path": "documents/SYNTR-P0072-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0072-pathology_report-04",
+      "patient_id": "SYNTR-P0072",
+      "document_type": "pathology_report",
+      "lang": "sv",
+      "note_date": "2026-05-15",
+      "path": "documents/SYNTR-P0072-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0072-mdt_minutes-05",
+      "patient_id": "SYNTR-P0072",
+      "document_type": "mdt_minutes",
+      "lang": "sv",
+      "note_date": "2026-05-26",
+      "path": "documents/SYNTR-P0072-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0073-referral_letter-01",
+      "patient_id": "SYNTR-P0073",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-09",
+      "path": "documents/SYNTR-P0073-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0073-ct_report-02",
+      "patient_id": "SYNTR-P0073",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-19",
+      "path": "documents/SYNTR-P0073-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0073-biopsy_note-03",
+      "patient_id": "SYNTR-P0073",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-06-07",
+      "path": "documents/SYNTR-P0073-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0074-referral_letter-01",
+      "patient_id": "SYNTR-P0074",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-05-16",
+      "path": "documents/SYNTR-P0074-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0074-ct_report-02",
+      "patient_id": "SYNTR-P0074",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-23",
+      "path": "documents/SYNTR-P0074-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0074-biopsy_note-03",
+      "patient_id": "SYNTR-P0074",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-26",
+      "path": "documents/SYNTR-P0074-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0075-referral_letter-01",
+      "patient_id": "SYNTR-P0075",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-01-12",
+      "path": "documents/SYNTR-P0075-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0075-ct_report-02",
+      "patient_id": "SYNTR-P0075",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-01-19",
+      "path": "documents/SYNTR-P0075-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0075-biopsy_note-03",
+      "patient_id": "SYNTR-P0075",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-01-26",
+      "path": "documents/SYNTR-P0075-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0075-pathology_report-04",
+      "patient_id": "SYNTR-P0075",
+      "document_type": "pathology_report",
+      "lang": "sv",
+      "note_date": "2026-02-10",
+      "path": "documents/SYNTR-P0075-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0076-referral_letter-01",
+      "patient_id": "SYNTR-P0076",
+      "document_type": "referral_letter",
+      "lang": "sv",
+      "note_date": "2026-07-08",
+      "path": "documents/SYNTR-P0076-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0076-ct_report-02",
+      "patient_id": "SYNTR-P0076",
+      "document_type": "ct_report",
+      "lang": "sv",
+      "note_date": "2026-07-18",
+      "path": "documents/SYNTR-P0076-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0076-biopsy_note-03",
+      "patient_id": "SYNTR-P0076",
+      "document_type": "biopsy_note",
+      "lang": "sv",
+      "note_date": "2026-07-28",
+      "path": "documents/SYNTR-P0076-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0076-pathology_report-04",
+      "patient_id": "SYNTR-P0076",
+      "document_type": "pathology_report",
+      "lang": "sv",
+      "note_date": "2026-08-01",
+      "path": "documents/SYNTR-P0076-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0077-referral_letter-01",
+      "patient_id": "SYNTR-P0077",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-07-24",
+      "path": "documents/SYNTR-P0077-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0077-ct_report-02",
+      "patient_id": "SYNTR-P0077",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-08-03",
+      "path": "documents/SYNTR-P0077-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0077-biopsy_note-03",
+      "patient_id": "SYNTR-P0077",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-08-08",
+      "path": "documents/SYNTR-P0077-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0077-pathology_report-04",
+      "patient_id": "SYNTR-P0077",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-08-17",
+      "path": "documents/SYNTR-P0077-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0078-referral_letter-01",
+      "patient_id": "SYNTR-P0078",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-04-11",
+      "path": "documents/SYNTR-P0078-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0078-ct_report-02",
+      "patient_id": "SYNTR-P0078",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-04-18",
+      "path": "documents/SYNTR-P0078-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0078-biopsy_note-03",
+      "patient_id": "SYNTR-P0078",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-04-28",
+      "path": "documents/SYNTR-P0078-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0078-pathology_report-04",
+      "patient_id": "SYNTR-P0078",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-05-05",
+      "path": "documents/SYNTR-P0078-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0078-mdt_minutes-05",
+      "patient_id": "SYNTR-P0078",
+      "document_type": "mdt_minutes",
+      "lang": "fi",
+      "note_date": "2026-05-23",
+      "path": "documents/SYNTR-P0078-mdt_minutes-05.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0079-referral_letter-01",
+      "patient_id": "SYNTR-P0079",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-01-24",
+      "path": "documents/SYNTR-P0079-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0079-ct_report-02",
+      "patient_id": "SYNTR-P0079",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-02-10",
+      "path": "documents/SYNTR-P0079-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0079-biopsy_note-03",
+      "patient_id": "SYNTR-P0079",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-02-14",
+      "path": "documents/SYNTR-P0079-biopsy_note-03.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0079-pathology_report-04",
+      "patient_id": "SYNTR-P0079",
+      "document_type": "pathology_report",
+      "lang": "fi",
+      "note_date": "2026-02-16",
+      "path": "documents/SYNTR-P0079-pathology_report-04.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0080-referral_letter-01",
+      "patient_id": "SYNTR-P0080",
+      "document_type": "referral_letter",
+      "lang": "fi",
+      "note_date": "2026-04-29",
+      "path": "documents/SYNTR-P0080-referral_letter-01.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0080-ct_report-02",
+      "patient_id": "SYNTR-P0080",
+      "document_type": "ct_report",
+      "lang": "fi",
+      "note_date": "2026-05-11",
+      "path": "documents/SYNTR-P0080-ct_report-02.txt",
+      "split": "train"
+    },
+    {
+      "document_id": "SYNTR-P0080-biopsy_note-03",
+      "patient_id": "SYNTR-P0080",
+      "document_type": "biopsy_note",
+      "lang": "fi",
+      "note_date": "2026-05-15",
+      "path": "documents/SYNTR-P0080-biopsy_note-03.txt",
+      "split": "train"
+    }
+  ]
+}

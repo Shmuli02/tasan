@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0001
+document_id: SYN-P0001-discharge_summary-05
+document_type: discharge_summary
+language: en
+note_date: 2026-08-31
+display_name: Aino Synteettinen SYN-P0001 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Placeholder Lung Clinic
+Note date 31.8.2026. Patient: Aino Synteettinen SYN-P0001 (SYN-P0001), DOB 15.4.1945.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cncer (synthetic eexample).
+Specialist erferral received 16.7.2026.
+CT thorax was carried out on 21.7.26.
+Biopsies were obtained during bronchoscopy on 2026-08-01.
+History: pathology result issued on 13.8: small-cell lung cancer.
+Multidisciplinary meeting (MDT) on 16.8.2026: recommend proceeding to treatment.
+It was decided on 18.8.26 to proceed with wedge resection.
+Wedge resection performed on 31.8.2026.
+Hip replacement on 21.10.2013.
+Cholecystectomy performed on 21.10.2013 (unrelated to the present work-up).
+
+Entered by: synthetic test user. This is not a reall clinical record.

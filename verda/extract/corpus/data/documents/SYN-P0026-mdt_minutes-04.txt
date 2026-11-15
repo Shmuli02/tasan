@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0026
+document_id: SYN-P0026-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-06-29
+display_name: Alan Invented SYN-P0026 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteetitsen hyvinvointialueen keskussairaala
+Kirjauspäivä 29.6.2026. Potilas: Alan Invented SYN-P0026 (SYN-P0026), s. 5.8.1958.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosöpäepäilyn selvittely (synteettinen simerkki).
+Keuhkoklinikan lähete saapui 22.5.
+Esitiedot: thoraxin TT tehty 7.6.26.
+Bronkoskopia ja biopsia tehty 2026-06-19.
+Histologinen vastaus saapui 2026-06-27 (adenokarsinooma).
+Moniammatilllinen kokous (MDT) 2026-06-29: suositellaan etenemistä hoitoon.
+Edellinen keuhkokuume hoidettu 7.2.2013.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole ikea potilaskertomus.

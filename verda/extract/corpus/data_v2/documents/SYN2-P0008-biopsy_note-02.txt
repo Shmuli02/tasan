@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0008
+document_id: SYN2-P0008-biopsy_note-02
+document_type: biopsy_note
+language: en
+note_date: 2026-04-29
+display_name: Hannu Harjoitus SYN2-P0008 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 29.4.2026. Patient: Hannu Harjoitus SYN2-P0008 (SYN2-P0008), DOB 11.11.1958.
+SYNTHETIC record, not a real person.
+
+D ictated entry from the lung work-up (synthetic training text).
+Cross-sectional imaging was carried out on in week 17 on Saturday (2026).
+The procedure was booked on 21-04-2026, but sampling only took place on in week 18 on Tuesday (2026).
+The consultation request was logged as having arrived on 19 April 2026.
+— excerpt from an older note dated 3.7.2015: date of birth 11.11.1958; cholecystectomy 3.7.2015; unrelated to the present lung work-up. —
+Previously, sometime in early January, there was a follow-up visit; the exact day is not in this note.
+Cholecystectomy performed on 10.5.2024 (unrelated to the present work-up).
+
+Entered by: synthetic test user. This is not a real clinical record.

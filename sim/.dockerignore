@@ -1,0 +1,6 @@
+results/
+build/validation_report.json
+build/posterior_curve_only.json
+deploy/
+**/__pycache__
+*.md

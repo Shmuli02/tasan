@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0075
+document_id: SYN-P0075-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-04-05
+display_name: Ingrid Inventerad SYN-P0075 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 5.4.2026. Patient: Ingrid Inventerad SYN-P0075 (SYN-P0075), f. 14.1.1942.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Remissen mottogs 4.4.2026.
+MDK flyttas till nästa vecka; ingen konferens hölls idag.
+Föregående pneumoni behandlad 26.6.2013.
+Kontrollprov har beställts; svaren finns inte i denna anteckning.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0023
+document_id: SYN2-P0023-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-03-07
+display_name: Jane Synthetic SYN2-P0023 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikyl-än keuhkoklinikka
+Kirjauspäivä 7.3.2026. Potilas: Jane Syn thetic SYN2-P0023 (SYN2-P0023), s. 3.2.1953.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 12. helmikuuta 2026.
+Leikekuvaus on suoritettu 17. helmikuuta 2026.
+Morforloginen tulos tuli toissapäivänä (NSCLC, ei tarkemmin luokiteltu).
+— ote vanhasta kirjauksesta 25.7.2017: sy ntymäaika 3.2.1953; sappirakon poisto 25.7.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+Lonkkaproteesi operoitu 13.11.2022.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

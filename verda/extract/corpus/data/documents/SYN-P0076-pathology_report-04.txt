@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0076
+document_id: SYN-P0076-pathology_report-04
+document_type: pathology_report
+language: fi
+note_date: 2026-08-12
+display_name: Johan Testdata SYN-P0076 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 12.8.2026. Potilas: Johan Testdata SYN-P0076 (SYN-P0076), s. 8.4.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: keuhkoklinikan lähete saapui 17.7.2026.
+Esitiedot: tietokonetomografia (TT) suoritettiin 30.7.2026.
+Esitiedot: eBUS-bronkoskopia suoritettu 6.8; biopsiat otettu.
+Histologinen vastaus saapui 12.8.2026 (adenokarsinooma).
+Biopsia peruttiin potilaan toiveesta.
+Sappirakon poisto tehty 7.5.2024 (ei liity nykyiseen selvittelyyn).
+Syntymäaika 8.4.1938 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

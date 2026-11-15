@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0072
+document_id: SYN-P0072-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-08-25
+display_name: Nils Fiktiv SYN-P0072 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 25.8.2026. Potilas: Nils Fiktiv SYN-P0072 (SYN-P0072), s. 3.6.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: eSH-lähete vastaanotettu 28.6.
+Keuhko-TT tehty 11/7/2026.
+Solunsalpaajahoito käynnistetty 2026-08-23.
+Lonkkaproteesi operoitu 25.1.2020.
+Sappirakon poisto tehty 25.1.2020 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

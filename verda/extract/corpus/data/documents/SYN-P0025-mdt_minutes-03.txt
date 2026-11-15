@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0025
+document_id: SYN-P0025-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-10
+display_name: Mary Fictitious SYN-P0025 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 10.5.2026. Potilas: Mary Fictitious SYN-P0025 (SYN-P0025), s. 12.8.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 6/4/2026.
+Tietokonetomografia (TT) suoritettiin 12/4.
+Biopsiat otettu bronkoskopiassa 22.4.2026.
+Patologin lausunto 4.5.2026: levyepiteelikarsinooma.
+Hoitokokous 9/5/2026: moniammatillinen suositus kirjattu.
+TT suunniteltu 13.5.2026 (ei vielä tehty).
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Edellinen keuhkokuume hoidettu 14.12.2010.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

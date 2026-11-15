@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0031
+document_id: SYN-P0031-discharge_summary-06
+document_type: discharge_summary
+language: fi
+note_date: 2026-03-30
+display_name: Eeva Esimerkki SYN-P0031 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keeksityn yliopistollinen sairaala
+Kirjauspäivä 30.3.2026. Potilas: Eeva Esimerkki SYN-P0031 (SYN-P0031), s. 28.8.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyopaepailyn selivttely (synteettinen esimerkki).
+Keuhkoklinikan lähete ssaapui 1/2/2026.
+Esitiedot: pET-TT tehty 2026-02-15.
+EBUUS-bronkoskopia suoritettu 26.2.2026; biopsiat otettu.
+Esitiedot: patologin lausunto 5.3.2026: adenokarsinooma.
+Hoitokokous 2026-03-09: moniammatillinen suositus kirjattu.
+Esitiedot: hoitopäätös 12.3.26: kuratiivinen lobektomia.
+Leikkaus (lobektomia) tehty 2026-03-29.
+Biopsia peruttiin potilaan tioveesta.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+Syntymäaika 28.8.1954 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0119
+document_id: SYN2-P0119-discharge_summary-05
+document_type: discharge_summary
+language: en
+note_date: 2026-05-16
+display_name: Laura Loremten SYN2-P0119 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Invented University Hospital
+Note date 16.5.2026. Patient: Laura Loremten SYN2-P0119 (SYN2-P0119), DOB 8.5.1962.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+Sampling was carried out at the procedure on in week 15 on Friday (2026).
+The microscopic report was issued on 21-04-2026: adenocarcinoma.
+An agreement on the modality was reached on April the 29, 2026 (wedge resection).
+The consultation request was logged as having arrived on 26 March 2026.
+Active therapy go t under way on 15 May 2026.
+Cross-sectional imaging was carried 0ut on 4 April 2026.
+The team huddle was held on in week 18 on Wednesday (2026) and the recommendation was written down.
+— excerpt from an older note dated 25.9.2018: date of birth 8.5.1962; cholecystectomy 25.9.2018; unrelated to the present lung work-up. —
+Previously, sometime in early January, there was a follow-up visit; the exact day is not in this note.
+
+Entered by: synthetic test user. This is not a real clinical record.

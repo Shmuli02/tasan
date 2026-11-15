@@ -1,0 +1,947 @@
+                       Maarit Sillanpää
+                       Liisa Pylkkänen
+                       Heidi Ryynänen
+                       Nea Malila
+                       Pirjo Häkkinen
+
+
+
+
+                       Hoitoonpääsyn seuranta syövän hoidossa
+TYÖPAPERI
+
+
+
+
+                       Kehittämishankkeen loppuraportti
+
+
+
+
+            3 | 2017
+                        TYÖPAPERI 3/2017
+
+
+
+Maarit Sillanpää, Liisa Pylkkänen, Heidi Ryynänen, Nea Malila ja Pirjo Häkkinen
+
+
+         Hoitoonpääsyn seuranta
+             syövän hoidossa
+        Kehittämishankkeen loppuraportti
+© Kirjoittajat ja Terveyden ja hyvinvoinnin laitos
+
+
+
+
+ISBN 978-952-302-813-5(verkkojulkaisu)
+ISSN 2323-363X (verkkojulkaisu)
+http://urn.fi/URN:ISBN:978-952-302-813-5
+
+
+
+
+Helsinki, 2017
+Lukijalle
+
+
+Syöpään sairastuneiden hoitoonpääsyn seurantaan soveltuvia syövän diagnosointia ja hoitojen järjestämistä
+koskevia maksimiaikoja on julkaistu jo aiemmin vuonna 2010 Sosiaali- ja terveysministeriön (STM) aset-
+teman työryhmän loppuraportissa ’Syövän hoidon kehittäminen vuosina 2010−2020’ (STM Selvityksiä
+6/2010). Näiden aikarajojen käyttöönottoa ehdotettiin ohjeellisina. Viiveiden seuraamisen vastuutahoksi
+esitettiin sairaanhoitopiirejä.
+
+Käytännössä syöpäpotilaiden hoitoonpääsyn seurantaa on toteutettu vaihtelevin tavoin. Esimerkiksi HUS:n
+verkkosivuilla julkaistaan kuukausittain tieto rintasyöpä-, eturauhassyöpä- ja suolistosyöpäpotilaiden hoi-
+don keskimääräisestä hoitoonpääsyn ajasta lähetteen saapumisesta Syöpätautien klinikalle.
+
+Kansallinen seuranta syöpään sairastuneiden hoitoonpääsystä on puuttunut. STM käynnisti vuonna 2014
+Syövän hoidon hoitoonpääsyn seurannan kehittämishankkeen, jonka tehtävänä oli laatia opas hoitoon-
+pääsyn seurannasta, kehittää seurantajärjestelmä tiedonkeruuta varten ja kehittää kansallinen raportointijär-
+jestelmä. Hankkeessa yhteistyötahoina olivat STM, THL ja Suomen Syöpäyhdistys ry.
+
+Tässä loppuraportissa kuvataan Syövän hoidon hoitoonpääsyn seurannan kehittämishankkeen työn tuloksia.
+Eräs tärkeimmistä saavutuksista oli, että saatiin määriteltyä syövän hoidon seurantaan soveltuvat keskeiset
+aikapisteet ja seurattavat aikavälit. Nämä on kuvattu Hoitoonpääsyn seuranta syövän hoidossa -ooppaassa,
+jonka tavoitteena on yhdenmukaistaa syöpään sairastuneiden hoidon ja diagnoosien kirjaamista. Syöpää
+sairastavien hoitoonpääsyn seuranta ja raportointi toteutetaan hoitoilmoitusrekisteriin (Hilmo) tulevien
+tietojen perusteella. Hoitoilmoitustiedot voi toimittaa THL:ään vuoden 2017 alusta kuukausittain, mikä
+mahdollistaa myös ajantasaisen raportoinnin. Tiedot tullaan julkaisemaan THL:n sivuilla tietokantaraport-
+teina, jotka kuvaavat eri syöpien hoitoonpääsytietoja sekä palveluntuottajittain että potilaan asuinpaikan
+mukaan.
+
+Lisäksi loppuraportissa esitellään taustatietona syövän hoidon seurannan erilaisia toteutusmalleja ja rapor-
+tointia eri maissa.
+
+Lopuksi esitellään seurantajärjestelmän laajentamisen mahdollisuuksia ja seurannan jatkokehittämisen
+tarpeita tulevaisuudessa.
+
+
+
+
+                                                                          Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                              3
+                                                                                 Kehittämishankkeen loppuraportti
+ Sisällys
+
+Lukijalle ......................................................................................................................................................... 3
+
+1 Syövän hoidon hoitoonpääsyn seurannan kehittämishanke ................................................................... 5
+   1.1 Ohjausryhmän työskentely................................................................................................................... 6
+   1.2 Syövän hoidon seuranta eräissä maissa ............................................................................................... 7
+      1.2.1 Tanska ......................................................................................................................................... 7
+      1.2.2 Ruotsi........................................................................................................................................... 9
+      1.2.3 Norja .......................................................................................................................................... 10
+      1.2.4 Englanti...................................................................................................................................... 11
+
+2 Hankkeen tavoite ja tehtävät................................................................................................................... 12
+
+3 Hankkeen tuotokset.................................................................................................................................. 12
+   3.1 Hoitoonpääsyn seuranta syövän hoidossa -opas ................................................................................ 12
+   3.2 Seurantajärjestelmän kehittäminen syövän hoidon hoitoonpääsyn tiedonkeruusta ........................... 15
+   3.3 Syövän hoidon hoitoonpääsyn kansallisen raportointijärjestelmän kehittäminen.............................. 15
+   3.4 Syöpäpotilaiden tietojen kattavuuden vertailu Syöpärekisterin ja Hilmon osalta .............................. 16
+
+4 Tulevaisuuden näkymät ........................................................................................................................... 18
+   4.1 Hoitoonpääsyn seurantajärjestelmän kehittäminen ............................................................................ 18
+   4.2 Hoitoonpääsyn seurannan jatkokehittämisen tarpeita ........................................................................ 19
+
+5. Yhteenveto ............................................................................................................................................... 20
+
+
+
+
+                                                                                                                Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                                                        4
+                                                                                                                       Kehittämishankkeen loppuraportti
+                           1 Syövän hoidon hoitoonpääsyn seurannan kehittämishanke
+
+
+
+
+1 Syövän hoidon hoitoonpääsyn seuran-
+nan kehittämishanke
+Sosiaali- ja terveysministeriön käynnistämä ja rahoittama Syövän hoidon hoitoonpääsyn seurannan kehit-
+tämishanke toteutettiin yhteistyöhankkeena STM:n, Terveyden ja hyvinvoinnin laitoksen sekä Suomen
+Syöpäyhdistys ry:n kanssa vuosina 2014–2016. Hankkeen alkuperäinen määräaika oli 15.11.2014–
+31.12.2015, mutta sitä jatkettiin 1.12.2016 asti. THL vastasi työn toteuttamisesta, mukaan lukien tarvittava
+koordinointi. Tehtävien toteuttamisessa THL teki yhteistyötä yhteistyösopimuksella Suomen Syöpäyhdistys
+ry:n kanssa.
+
+THL:n pääjohtaja asetti hankkeelle 11.3.2015 ohjausryhmän, jonka tehtävänä oli:
+   1. ohjata ja seurata syövän hoidon hoitoonpääsyn seurannan kehittämishankkeen etenemistä ta-
+       voitteiden mukaisesti
+   2. hyväksyä kehittämishankkeen hankesuunnitelma
+   3. hyväksyä osaltaan syövän hoidon hoitoonpääsyn seurannan opas
+   4. ohjata syövän hoidon hoitoonpääsyn seurannan raportointiin liittyvien mittareiden ja dimensi-
+       oiden määrittelytyötä
+   5. toimia asiantuntijana syövän hoitoa koskevissa asioissa sekä osallistua hoitoonpääsyn seuran-
+       nassa käytettävien mittauspisteiden, jonoryhmien (leikkaukset, lääkehoidot ja sädehoidot)
+       määrittelytyöhön
+   6. tehdä esitys koodistopalvelun johtoryhmälle syöpätautien hoidon hoitoonpääsyn seurannan jo-
+       noryhmistä ym. muista mahdollisista luokituksista.
+
+Ohjausryhmän puheenjohtajana toimi Suomen Syöpärekisterin johtaja Nea Malila Suomen Syöpäyhdistyk-
+sestä ja varapuheenjohtajana lääkintöneuvos Timo Keistinen Sosiaali- ja terveysministeriöstä. Ohjausryh-
+mään kuului lääkäriasiantuntijoita kaikista yliopistosairaaloista, Hyvinkään sairaalasta ja Vaasan keskussai-
+raalasta. Lisäksi ohjausryhmään kuului Valviran, Suomen Syöpäyhdistys ry:n ja THL:n asiantuntijoita:
+
+   -   toimialajohtaja Petri Bono, HYKS/HUS (varalla ylilääkäri Mauri Kouri)
+   -   professori, ylilääkäri Antti Jekunen; Turun yliopisto; Vaasan keskussairaala/VSHP (varalla osas-
+       tonylilääkäri Heidi Bengts)
+   -   toimialuejohtaja Sirkku Jyrkkiö, TYKS/VSSHP (varalla erikoislääkäri Outi Lahdenperä)
+   -   tulosyksikön johtaja Ulla Keränen, Hyvinkään sairaala/HUS (jäsen vuonna 2015) (varalla toimi-
+       aluejohtaja Juhani Sand TAYS/PPSHP)
+   -   syöpätautien ja hematologian vastuualueen johtaja Katariina Klintrup, OYS/PPSHP (varalla syöpä-
+       tautien ja sädehoidon erikoislääkäri Merja Korpela)
+   -   ylilääkäri, syövänhoidon vastuualuejohtaja Tuula Lehtinen, TAYS/PSHP (varalla apulaisylilääkäri
+       Maarit Bärlund)
+   -   osastonylilääkäri Anna Lepistö, HYKS/HUS (jäsen vuonna 2016)
+   -   vastaava ylilääkäri, palveluyksikön johtaja Kristiina Tyynelä-Korhonen, KYS/PSSHP (varalla yli-
+       lääkäri Päivi Auvinen)
+   -   erikoislääkäri Aino Lepäntalo, HYKS/HUS
+   -   lakimies Kirsi Liukkonen, Valvira (varalla lakimies Leena-Maija Vitie)
+   -   ylilääkäri Liisa Pylkkänen, Suomen Syöpäyhdistys ry
+   -   kehittämispäällikkö Pirjo Häkkinen, THL
+   -   kehittämispäällikkö Aleksi Yrttiaho, THL (varalla erityisasiantuntija Jaason Haapakoski, THL)
+   -   projektipäällikkö Maarit Sillanpää, THL
+
+
+
+
+                                                                             Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                              5
+                                                                                    Kehittämishankkeen loppuraportti
+                           1 Syövän hoidon hoitoonpääsyn seurannan kehittämishanke
+
+
+
+
+Lisäksi ohjausryhmän kokouksiin osallistui vuonna 2016 tilastotieteilijä Heidi Ryynänen Suomen Syö-
+päyhdistyksestä sekä ylilääkäri Jutta Järvelin ja suunnittelija Satu Vuorio THL:sta.
+
+
+1.1 Ohjausryhmän työskentely
+
+Ohjausryhmä kokoontui neljä kertaa vuoden 2015 aikana ja viisi kertaa vuoden 2016 aikana keskustele-
+maan ja tekemään linjauksia siitä, mitä syövän hoidon ja hoitoonpääsyn osalta on tarpeen seurata ja miten
+hoitoonpääsy ja sen ajankohta on tarkoituksenmukaista kirjata. Näiden päätösten pohjalta valmisteltiin opas
+Hoitoonpääsyn seuranta syövän hoidossa. Ohjausryhmän määrittelemien seurantapisteiden pohjalta valmis-
+teltiin alustavasti syöpäpätautien hoitoonpääsyn seurannan sähköisiä tietokantaraportteja (kuutiot ja tiivis-
+teet). Näiltä osin kehitystyö jatkuu vielä vuonna 2017.
+
+Oppaan valmistelutyöhön pyydettiin mukaan myös ylilääkäri Juho Lehto (Palliatiivinen yksikkö, Syövän
+hoidon vastuualue, TAYS ja Tampereen yliopisto) ja lisäksi erilaisten syöpäkohtaisten leikkausten määrit-
+telyssä käännyttiin alla mainittujen asiantuntijalääkärien puoleen:
+
+   -   urologian ylilääkäri Peter Boström, TYKS/VSSHP (rakko- ja virtsatiesyöpä)
+   -   vastuualuejohtaja Sakari Hietanen, TYKS/VSSHP (kohdunrunko- ja munasarjasyöpä)
+   -   toimialuejohtaja Sirkku Jyrkkiö, TYKS, Operatiivinen toiminta ja syöpätaudit/VSSHP (lymfoomat)
+   -   ylilääkäri Petri Koivunen, OYS/PPSHP (pään ja kaulan alueen syöpä)
+   -   hallinnollinen apulaisylilääkäri Aki Laakso, HYKS/HUS (aivo- ja keskushermostosyöpä)
+   -   osastonylilääkäri Marjut Leidenius, HYKS/HUS (rintasyöpä)
+   -   osastonylilääkäri Anna Lepistö, HYKS/HUS (paksu- ja peräsuolisyöpä)
+   -   ylilääkäri Mika Matikainen, HYKS/HUS (eturauhas- ja kivessyöpä)
+   -   osastonlääkäri Harry Nisén, HYKS/HUS (munuaissyöpä)
+   -   toimialueen johtaja, ylilääkäri Juhani Sand, TAYS/PPSHP (haima- ja mahasyöpä)
+   -   ylilääkäri Eero Sihvo, Keski-Suomen keskussairaala/KSSHP (keuhko- ja henkitorvisyöpä)
+   -   ylilääkäri Meri-Sisko Vuoristo, Pirkanmaan Syöpäyhdistys ry (ihomelanooma)
+
+Sairaaloiden lyhenteet: HYKS Helsingin yliopistollinen keskussairaala, KYS Kuopion yliopistollinen sai-
+raala, OYS Oulun yliopistollinen sairaala, TAYS Tampereen yliopistollinen sairaala ja TYKS Turun yli-
+opistollinen keskussairaala. TY Turun yliopisto.
+
+Sairaanhoitopiirien lyhenteet: HUS Helsingin ja Uudenmaan shp; KSSHP Keski-Suomen shp, PPSHP Poh-
+jois-Pohjanmaan shp, PSHP Pirkanmaan shp, PSSHP Pohjois-Savon shp, VSHP Vaasan shp ja VSSHP
+Varsinais-Suomen shp.
+
+
+
+
+                                                                             Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                              6
+                                                                                    Kehittämishankkeen loppuraportti
+                             1 Syövän hoidon hoitoonpääsyn seurannan kehittämishanke
+
+
+
+
+1.2 Syövän hoidon seuranta eräissä maissa
+
+Eri maissa syövän hoidon hoitoonpääsyn seurannan aikarajat vaihtelevat huomattavasti ja myös seurattavis-
+sa aikapisteissä on vaihtelua. Osassa maista syövän hoidon hoitoonpääsyn aikarajat on kirjattu lakiin, osas-
+sa maista ne ovat suosituksia. Eräissä maissa, kuten Tanskassa ja Englannissa, on huomioitu myös syöpä-
+epäilystä kuluva aika syövän diagnostiikkaan ja hoitoon. Useimmissa maissa tämä ei ole mahdollista poti-
+lastietojärjestelmien yhteensopimattomuuden takia.
+
+Eri malleissa luodut aikaraamit ovat myös varsin vaihtelevat. Toisissa seurantamalleissa on huomioitu erik-
+seen eri syöpätyypit ja kiireellistä hoitoa vaativat syövät, kun sen sijaan joissain maissa on otettu käyttöön
+geneeriset, kaikkia syöpiä koskevat seuranta-aikarajat.
+
+
+1.2.1 Tanska
+
+Tanskan syövän hoidon seurantajärjestelmän kuvaus on päivitetty lokakuussa 2016 ja se löytyy Sundhedss-
+tyrelsenin julkaisemasta määrittelystä1. Seurantajärjestelmän kuvaus on esitetty kuviossa 1.
+
+Tanskan syövän hoidon seuranta kattaa 33 erilaista syöpää tai syöpäryhmää, joista yksi on lasten syövät
+yhtenä kokonaisuutena. Jokaiselle syöpäryhmälle on laadittu tarkempi kuvaus, jossa kerrotaan mm. kunkin
+syövän esiintyvyydestä, erilaisista hoitopoluista ja maksimaalisista odotusajoista (kuvio 1 ja taulukko 1)
+syöpälähetteestä tutkimusten aloitukseen (OF1), tutkimusten aloituksesta diagnoosiin (OF2) ja hoitopäätök-
+sestä hoitoon (OF3)2. Pääsääntöisesti raportoidaan syöpälähetteestä ensimmäiseen hoitotoimenpiteeseen
+kuluvaa kokonaisaodotusaikaa (kuvio 1, OF4). Erikseen voi olla myös suositukset maksimaaliselle koko-
+naisodotusajalle syöpälähetteestä kirurgiseen hoitoon (OF4A), lääkehoitoon (OF4B) ja sädehoitoon
+(OF4C). Lisäksi on käytössä syöpäryhmäkohtaisia odotusaikoja diagnoosin varmistumisesta leikkaukseen
+(OF3A), lääkehoitoon (OF3B) ja sädehoitoon (OF3C).
+
+Näiden maksimaalisten suositusaikojen toteutumista seurataan Tanskassa neljännesvuosittain alueittain
+viidellä eri alueella ja koko maan tasolla. Raportoinnissa seurataan mm. kuinka monta prosenttia potilaista
+on saanut hoidon suositellussa ajassa3. Lisäksi seurataan lähetteiden lukumääriä eri syöpien kohdalla alueit-
+tain.
+
+
+
+
+1 https://www.sst.dk/da/sygdom-gbehandling/kraeft/pakkeforloeb/~/media/028409D2A0F94772B19868ABEF06B626.ashx
+2 https://www.sst.dk/da/sygdom-og-behandling/kraeft/pakkeforloeb/beskrivelser
+3 https://www.sst.dk/da/sygdom-og-behandling/kraeft/pakkeforloeb/monitorering
+
+
+
+
+                                                                               Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                                 7
+                                                                                      Kehittämishankkeen loppuraportti
+                              1 Syövän hoidon hoitoonpääsyn seurannan kehittämishanke
+
+
+
+
+                                                        Toiminta                 Odotusaika
+
+ Syöpälähete
+
+                                                                                    OF1
+                                                                                    Syöpälähete –
+                                                                                    tutkimusten
+                                                                                    aloitus
+ Tutkimukset alkavat,
+ ensimmäinen käynti
+
+                                                                                    OF2                     OF4
+                                                                                    Tutkimusten             Kokonais-
+                                                                                    aloitus -               odotusaika
+                                                              OA1                   diagnoosi
+  Hoitopäätös                               Diagnoosi         Diagnoosi
+                                            varmistuu         hylätään
+
+                                                                                    OF3
+                                                                                    Hoitopää-
+                                                                                    töksestä
+ Hoito alkaa                                                                        hoitoon
+
+
+
+Kuvio 1. Syövän hoidon seurantajärjestelmän aikapisteet Tanskassa. Kaavio pohjautuu vuonna 2015 jul-
+   kaistuun kuvaukseen seurannan aikapisteistä.
+
+
+
+
+Taulukko 1. Esimerkkejä Tanskassa käytössä olevista maksimaalisista syöpäkohtaisista odotusajoista (vrk) syövän
+hoidon seurannan eri vaiheille. OF3 ja OF4 vaiheiden osalta kirjaimet A, B ja C tarkentavat erityyppisten hoitojen odo-
+tusaikoja: A kuvaa odotusaikaa kirurgiseen hoitoon, B lääkehoitoon ja C sädehoitoon
+
+
+                          OF1       OF2A      OF2B        OF3A       OF3B       OF3C          OF4A       OF4B       OF4C
+Rintasyöpä                6         8         8           13         -          -             27         -          -
+Eturauhassyöpä            8         32        32          10         -          15            50         -          55
+Paksu- ja perä-           9         18        18          10         10         14            37         37         41
+suolisyöpä
+Pään ja kaulan alu-       6         15        15          7          11         11            28         32         32
+een syöpä
+Maksasyöpä                6         31        31          10         11         -             47         48         -
+
+
+
+
+                                                                                    Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                                   8
+                                                                                           Kehittämishankkeen loppuraportti
+                                1 Syövän hoidon hoitoonpääsyn seurannan kehittämishanke
+
+
+
+
+1.2.2 Ruotsi
+
+Ruotsissa Socialstyrelsen on laatinut mallin (kuvio 2) syövän hoidon seurantaan vuonna 2010 ja siihen
+pohjautuen on julkaistu viisi vuosiraporttia, joista viimeisin kuvaa vuoden 2015 tilannetta4. Seurattaviin
+syöpiin kuuluu tällä hetkellä 11 syöpää. Yleensä seurataan aikaa lähetteen laatimisesta hoidon alkuun, mut-
+ta myös muita aikapisteitä käytetään riippuen syöpätyypistä. Tiedot saadaan kunkin syövän omasta kansal-
+lisesta laaturekisteristä.
+
+Ruotsissa seurataan aikaa lähetteen laatimisesta ensimmäiseen hoitoon virtsarakko-, munuais-, paksusuoli-,
+eturauhas- ja peräsuolisyövän osalta4. Pään ja kaulan alueen syöpien, keuhkosyövän, mahalaukun ja ruoka-
+torven syöpien osalta seurataan aikaa lähetteen saapumisesta ensimmäiseen hoitoon, rintasyövän osalta
+ensimmäisestä erikoislääkärikäynnistä hoitoon ja melanooman osalta ensimmäisestä erikoislääkärin vas-
+taanotosta tietoon diagnoosista. Hoitoonpääsyä eri syöpien osalta raportoidaan maakunnittain ja sairaaloit-
+tain sekä koko maan tasolla vuosittain Socialstryrelsenin sivuilla5. Raportoinnissa mittareina on käytetty
+odotusajan mediaania ja kvartiileja sekä potilaiden lukumäärää kussakin sairaalassa.
+
+Socialstryrelsen on julkaissut syövän hoidon seurannasta ja erilaisista indikaattoreista myös raportin ’Öpp-
+nä jämförelser 2014, Cancersjukvård Jämförelser mellan landsting’6. Raportissa on mukana kymmenen
+syövän osalta yksityiskohtaisempaa tietoa. Esimerkiksi kuinka kansallisen rintakirurgiyhdistyksen suositte-
+lemat hoitoonpääsyn tavoitetasot lopullisesta rintasyöpädiagnoosista ennen syöpäleikkausta (yli 90 %) ovat
+toteutuneet Ruotsin eri maakunnissa, tai miten rintasyöpäpotilaiden tavoitetaso uusintaleikkaukseen joutu-
+misesta kasvaimen takia (alle 15 %) on toteutunut.
+
+
+
+
+                                                                                 4. Hoitosuunnitelman
+ Potilasnäkökulma
+                                                                                 laatiminen potilaan
+                                                                                 kanssa
+                              Ensimmäinen
+                              kontakti
+                              terveydenhuoltoon                   3. Tieto
+              Ensimmäinen oire                                    diagnoosista                       5. Hoito alkaa
+
+
+
+                                                                                                                      aika
+
+                                                                                            hoitopäätös
+  Terveydenhuollon
+  näkökulma                            1. Lähetteen           2. Ensimmäinen
+                                       teon pvm               käynti erikois-
+                                                              lääkärillä
+
+
+
+Kuvio 2. Ruotsissa seurattavia mittauspisteitä syövän hoidossa. Kaikkia mittauspisteitä ei seurata jokai-
+   sen seurattavan syövän osalta. Kuva pohjautuu vuosiraportissa 2014 esitettyyn kaavioon.
+
+
+
+
+4 http://www.socialstyrelsen.se/publikationer2015/2015-12-2
+5 http://www.socialstyrelsen.se/sjukdomar/cancer
+6 http://www.socialstyrelsen.se/publikationer2014/2014-12-2
+
+
+                                                                                       Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                                       9
+                                                                                              Kehittämishankkeen loppuraportti
+                                 1 Syövän hoidon hoitoonpääsyn seurannan kehittämishanke
+
+
+
+
+1.2.3 Norja
+
+Norjassa käytössä oleva seurantamalli on pitkälti samankaltainen Tanskan mallin kanssa. Norjan mallissa
+on kuvattu syöpäryhmäkohtaiset suositukset tutkimuksiin ja hoitoonpääsyyn kuluvista ajoista. Näitä syöpä-
+ryhmäkohtaisia ohjeistuksia on laadittu vuonna 2015. Lisätietoa seuranta-ajoista löytyy Helsediretoratetin
+sivuilta7, mistä löytyy myös Norjan kansallinen syöpästrategia vuosille 2013 - 20178 ja kansallinen toimin-
+tasuunnitelma vuosille 2015–2017 9.
+
+Syöpäryhmäkohtaisesti laaditut suositellut aikarajat ovat Norjassa varsin tiukat, kuten alla olevista esimer-
+keistä näkyy:
+
+Rintasyövän suositusajat aikarajoiksi:
+1)           Lähetteen saapumisesta tutkimusten alkuun saa kulua korkeintaan 7 kalenteripäivää
+2)           Tutkimusten aloituksesta tutkimusten tulee olla valmiit ja hoitopäätös tehty 7 kalenteripäi-
+             vässä
+3)           Kirurginen hoito tulee aloittaa 13 päivän kuluessa hoitopäätöksestä
+4)           Lääkehoito tulee aloittaa 10 päivän kuluessa hoitopäätöksestä.
+
+Eturauhassyövän suositusajat aikarajoiksi:
+1)           Lähetteen saapumisesta tutkimusten alkuun saa kulua korkeintaan 10 kalenteripäivää
+2)           Tutkimusten aloituksesta tutkimusten tulee olla valmiit ja hoitopäätös tehty 24 kalenteripäi-
+             vässä
+3)           Hoitopäätöksestä kirurgiseen hoitoon saa kulua korkeintaan 32 päivää
+4)           Hoitopäätöksestä lääkehoitoon saa kulua korkeintaan 3 päivää
+5)           Hoitopäätöksestä sädehoitoon saa kulua korkeintaan 32 päivää
+
+
+
+
+7 https://helsedirektoratet.no/kreft
+8 https://helsedirektoratet.no/publikasjoner/nasjonal-handlingsplan-for-kreft-2015-2017
+9 https://www.regjeringen.no/no/dokumenter/sammen---mot-kreft/id728818/
+
+
+
+
+                                                                                          Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                                        10
+                                                                                                 Kehittämishankkeen loppuraportti
+                                 1 Syövän hoidon hoitoonpääsyn seurannan kehittämishanke
+
+
+
+
+1.2.4 Englanti
+
+Englannissa National Health Service (NHS)10 julkaisee syöpää sairastavien hoitoonpääsyä ja hoitoa koske-
+via odotusaikojen suosituksia ja tilastokatsauksia siitä, miten hoito on toteutunut. Syöpästrategiassa vuonna
+2011 arvioitiin uudelleen aiemmin suositeltuja odotusaikoja syövän hoidossa ja niiden suositeltiin säilyvän
+ennallaan11.
+
+Nämä odotusaikojen tavoitetasot todetun syövän tai syöpäepäilyn osalta on julkaistu osana laajempaa ku-
+vausta terveydenhuollon tavoitesuunnitelmista potilaille12. Englannin hoitoonpääsyn ja hoidon seurantamal-
+li perustuu aikasuosituksiin enimmäisodotusajoista, joita sovelletaan kaikkien syöpien hoidossa. Jokaiselle
+aikasuositukselle on määritelty tavoitetaso, joka kertoo kuinka suuren osuuden (prosentin) potilaista tulisi
+saada hoito määritellyssä ajassa. Tavoitetason määrittelyssä on huomioitu, että aina on potilaita, joiden
+kohdalla suositusajat eivät voi toteutua. Tämä voi johtua potilaan omasta valinnasta, potilaan fyysisestä
+kunnosta tai tilanteesta, jossa potilaan hoidon toteutus suositusajassa ei ole tarkoituksenmukaista.
+
+Odotusajat ja niille asetetut tavoitetasot (%) todetun syövän ja syöpäepäilyn yhteydessä ovat:
+    korkeintaan kahden viikon odotus yleislääkärin syöpäepäilyn vuoksi tehdystä kiireellisestä lä-
+       hetteestä ensimmäiseen erikoislääkärin vastaanottoon (tavoitetaso 93 %)
+    korkeintaan kahden viikon odotus oireilevan rintasyöpäpotilaan pääsyyn erikoislääkärille, kun
+       syöpää ei alun perin epäilty (tavoitetaso 93 %)
+    korkeintaan kuukauden (31 päivää) odotus syöpädiagnoosista ensimmäiseen hoitoon kaikkien
+       syöpien osalta (tavoitetaso 96 %)
+    korkeintaan kuukauden (31 päivää) odotus toisen tai seuraavan hoidon aloitukseen edellisestä
+       hoidosta kun kyseessä on lääkehoito (tavoitetaso 96 %)
+    korkeintaan kuukauden (31 päivää) odotus toisen tai seuraavan hoidon aloitukseen edellisestä
+       hoidosta kun kyseessä on leikkaus tai sädehoito (tavoitetaso 94 %)
+    korkeintaan 2 kuukauden (62 päivää) odotus ensimmäisen hoidon alkuun yleislääkärin kiireel-
+       lisen lähetteen jälkeen kaikkien syöpien osalta (tavoitetaso 85 %)
+    korkeintaan 2 kuukauden (62 päivää) odotus ensimmäiseen hoitoon syöpäseulonnasta (NHS)
+       kaikkien syöpien osalta (tavoitetaso 90 %)
+    korkeintaan 2 kuukauden (62 päivää) odotus ensimmäiseen hoitoon kun lähettävä lääkäri uu-
+       delleen arvioi hoidon käynnistämisen alkuperäistä kiireellisemmäksi.
+
+Näitä tietoja raportoidaan vuosittain tuottajakohtaisissa tilastoissa13. Kahden viikon odotusajan tarkaste-
+lussa ensimmäiseen erikoislääkärikäyntiin, kun yleislääkäri on tehnyt kiireellisen lähetteen syöpäepäilyn
+vuoksi, kuvataan syöpäryhmäkohtaista tietoa esimerkiksi akuutin leukemian, aivo- ja keskushermoston
+kasvainten, rintasyövän, lasten syöpien, keuhkosyövän, pään ja kaulan alueen syöpien, kivessyöpien ja
+gynekologisten syöpien osalta. Vuodesta 2015 alkaen on julkaistu myös kuukausiraportteja14.
+
+Tilastoissa kuvataan potilaiden määrä ja osuus potilaista, jotka ovat päässeet lääkäriin tai saaneet hoidon
+annetussa suositusajassa.
+
+
+
+10 https://www.england.nhs.uk/cancer
+11 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/213785/dh_123394.pdf
+12 https://www.england.nhs.uk/wp-content/uploads/2013/12/5yr-strat-plann-guid-wa.pdf
+13 https://www.england.nhs.uk/statistics/statistical-work-areas/cancer-waiting-times/cwt-annual-reports/
+14 https://www.england.nhs.uk/statistics/statistical-work-areas/cancer-waiting-times/monthly-prov-cwt/
+
+
+
+
+                                                                                         Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                                        11
+                                                                                                Kehittämishankkeen loppuraportti
+                                              2 Hankkeen tavoite ja tehtävät
+
+
+
+
+2 Hankkeen tavoite ja tehtävät
+Syövän hoidon hoitoonpääsyn seurannan kehittämishankkeen tavoitteena oli kehittää valtakunnallinen
+syövän hoidon hoitoonpääsyn seurantajärjestelmä.
+
+Hankkeen tehtävänä oli:
+  1) oppaan laatiminen hoitoonpääsyn seurannasta
+  2) seurantajärjestelmän kehittäminen syövän hoidon hoitoonpääsyn tiedonkeruusta
+  3) kansallisen syövän hoidon hoitoonpääsyn raportointijärjestelmän kehittäminen.
+
+
+
+
+3 Hankkeen tuotokset
+3.1 Hoitoonpääsyn seuranta syövän hoidossa -opas
+
+Hoitoonpääsyn seuranta syövän hoidossa -opas15 julkaistiin verkkoversiona joulukuussa 2016. Oppaasta
+tehdään myös ruotsin- ja englanninkieliset käännökset ja ne julkaistaan alkuvuodesta 2017 julkarissa16.
+
+Hoitoonpääsyn seuranta syövän hoidossa -oppaan tavoitteena on yhdenmukaistaa syöpään sairastuneiden
+hoidon ja diagnoosien kirjaamista. Tällöin syöpää sairastavien hoitoonpääsyä voidaan seurata luotetta-
+vammin hoitoilmoitusrekisteriin (Hilmo) tulevien tietojen perusteella ja raportoida kuinka hoitoonpääsy
+toteutuu Suomessa. Oppaassa määriteltiin myös syövän hoidon seurantaan soveltuvat keskeiset aikapisteet
+ja seurattavat aikavälit.
+
+
+
+
+15 http://urn.fi/URN:ISBN:978-952-302-782-4
+16 http://julkari.fi/
+
+
+
+
+                                                                               Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                                    12
+                                                                                      Kehittämishankkeen loppuraportti
+                                            3 Hankkeen tuotokset
+
+
+
+
+Hoitoonpääsyn seuranta syövän hoidossa toteutetaan aluksi 16 syövän osalta (taulukko 2), jotka kattavat
+lähes kolme neljäsosaa uusista vuosittaisista syöpätapauksista17.
+
+
+Taulukko 2. Hoitoonpääsyn seurannassa mukana olevat syövät ICD-10 koodeineen
+Syöpä                              ICD-10-koodit
+
+rintasyöpä                         C50 ja D05.1
+eturauhassyöpä                     C61
+paksusuolisyöpä                    C18-19
+peräsuolisyöpä                     C20
+pään ja kaulan alueen syöpä        C00-C14 ja C30-C32
+mahasyöpä                          C16
+haimasyöpä                         C25
+keuhko- ja henkitorvisyöpä         C33-34
+ihomelanooma                       C43
+kohdunrungon syöpä                 C54
+munasarjasyöpä                     C56, C57.0-4
+kivessyöpä                         C62
+munuaissyöpä                       C64
+rakko- ja virtsatiesyöpä           C65-68
+aivo- ja keskushermostosyöpä       C70-72+C75.1-3
+lymfoomat                          C81-85
+
+
+
+
+17 www.syoparekisteri.fi
+
+
+
+
+                                                                      Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                             13
+                                                                             Kehittämishankkeen loppuraportti
+                                          3 Hankkeen tuotokset
+
+
+
+
+Kaikkien seurattavien syöpien osalta seurannassa otetaan huomioon lähetteen saapumispäivä erikoissai-
+raanhoitoon, ensimmäinen lääkärikäynti (tai sitä korvaava hoitopuhelu tai vastaava) lähetteen saapumisen
+jälkeen, hoitojonoon asettamispäivä ja ensimmäinen toteutunut syöpähoito (kuvio 3). Näiden aikapisteiden
+päivämäärätietojen avulla voidaan mitata, miten kauan lähetteen saapumisesta kuluu aikaa ensimmäiseen
+lääkärikäyntiin ja ensimmäiseen hoitoon. Lisäksi syöpään sairastuneiden osalta seurataan hoitojonoon aset-
+tamisesta ensimmäiseen hoitoon kuluvaa aikaa.
+
+
+
+                                          lähetteen saapumispäivä
+                                                                                      2.
+
+                                      ensimmäinen lääkärikäynti, pvm
+
+       1. kokonais-
+       odotusaika                       hoitojonoon asettamispäivä
+
+
+
+                                       ensimmäinen syöpähoito, pvm
+                                                                                               3.
+                             •    Leikkaus: syöpäkohtainen luettelo
+                             •    Lääkehoito: WBWE -alkuiset
+                             •    Sädehoito: HA0-, WA0-, WF0- ja XX7-
+                                  alkuiset sekä AX099 ja QX099
+                             •    Muu syövän hoito: kasvaimen tai
+                                  kudosmuutoksen paikallishoidot
+                             •    Todetun syöpäsairauden aktiivinen
+                                  seuranta XZZ00
+                             •    Syövän oireenmukainen eli palliatiivinen
+                                  hoito Z51.5
+
+
+Kuvio 3. Syöpään sairastuneiden hoitoonpääsyssä seurattavat aikapisteet ja aikavälit.
+
+
+
+
+Ensimmäisenä hoitona huomioidaan syöpään sairastuneilla leikkaus, lääkehoito, sädehoito, muu hoito,
+syövän aktiivinen seuranta ja syövän oireenmukainen eli palliatiivinen hoito. Näitä eri hoitovaihtoehtoja
+voidaan seurata diagnoosi- ja toimenpidekoodien avulla. Syövän hoidon seurannassa ja raportoinnissa
+huomioitavat erityyppiset hoidot ja niiden toimenpidekoodit on esitetty Hoitoonpääsyn seuranta syövän
+hoidossa -oppaassa
+
+Hoitoonpääsyn seuranta syövän hoidossa -oppaassa on kuvattu esimerkkien avulla kuinka lääkehoito ja
+sädehoito kirjataan yhteneväisesti syövän hoidossa. Näiden ohjeistusten valmistelussa olivat mukana lääke-
+hoidon ja sädehoidon asiantuntijalääkärit. Seurattavien syöpäleikkausten kirjaamisen osalta käännyttiin
+kunkin syövän asiantuntijalääkärin puoleen.
+
+
+
+
+                                                                        Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                           14
+                                                                               Kehittämishankkeen loppuraportti
+                                              3 Hankkeen tuotokset
+
+
+
+
+Lisäksi Hoitoonpääsyn seuranta syövän hoidossa -oppaassa määritellään suositellut enimmäisajat rinta-,
+eturauhas- ja suolistosyöpien erilaisille hoitopoluille ja niiden vaiheille hoitojonoon asettamisesta lähtien.
+Nämä kolme syöpää valittiin niiden yleisyyden vuoksi. Suositellut enimmäisajat perustuvat ohjausryhmän
+asiantuntija-arvioihin, joissa on otettu huomioon eri syöpätyyppien biologiset ominaisuudet ja käytettävissä
+oleva lääketieteellinen tieto. Jatkossa suositeltuja enimmäisaikoja voidaan tarkentaa ja laajentaa koskemaan
+myös muita syöpätauteja.
+
+
+3.2 Seurantajärjestelmän kehittäminen syövän hoidon hoitoonpääsyn tiedonke-
+ruusta
+
+Syövän hoidon hoitoonpääsyn seurannan kehittämishankkeen ohjausryhmä on määritellyt syövän hoidon ja
+hoitoonpääsyn seurantaan soveltuvat aikavälit ja minkälaisia aikapisteitä mitataan. Näihin aikapisteisiin
+liittyen on määritelty mm. se mitä toimenpiteitä seurataan ensimmäisenä syöpähoitona.
+
+Ohjausryhmä päätyi siihen, että odotusaikatietoa kerätään seurantaa varten vain toteutuneista syöpähoidois-
+ta. Hoitoa odottavien potilaiden odotusaikatietojen kerääminen on syöpäsairauksien hoidon osalta liian
+haasteellista toteuttaa nykyisten potilastietojärjestelmien kautta.
+
+Syövän hoidon kirjaamisen yhdenmukaistaminen Hoitoonpääsyn seuranta syövän hoidossa -oppaan avulla
+lisää raportoitavien tietojen luotettavuutta ja vertailukelpoisuutta.
+
+Erillistä tiedonkeruuta syöpään sairastuneiden hoidosta ja hoitoonpääsystä ei tarvita, koska hoitotiedot ovat
+osa Hilmo-tiedonkeruuta ja ne toimitetaan Hilmo-ohjeistuksen18 mukaisesti. Hilmo-tiedot voidaan toimittaa
+THL:een kerran kuukaudessa vuoden 2017 alusta alkaen.
+
+
+3.3 Syövän hoidon hoitoonpääsyn kansallisen raportointijärjestelmän kehittä-
+minen
+
+Raportointi perustuu Hoitoonpääsyn seuranta syövän hoidossa -oppaassa esitettyihin aikapisteisiin ja aika-
+väleihin, seurattaviin syöpiin ja niiden hoidossa seurattaviin erityyppisiin toimenpiteisiin (kuvio 3).
+
+Kaikkien syöpien osalta seurataan lähetteen saapumispäivää erikoissairaanhoitoon, ensimmäistä lääkäri-
+käyntiä (tai sitä korvaavaa hoitopuhelua tai vastaavaa) lähetteen saapumisen jälkeen, hoitojonoon asetta-
+mispäivää sekä ensimmäistä toteutunutta syöpähoitoa. Näiden aikapisteiden päivämäärätietojen avulla mi-
+tataan, kuinka kauan lähetteen saapumisesta kuluu aikaa ensimmäiseen lääkärikäyntiin ja ensimmäiseen
+hoitoon. Lisäksi seurataan hoitojonoon asettamispäivästä ensimmäiseen syöpähoitoon kuluvaa aikaa.
+
+Ensimmäisenä syöpähoitona huomioidaan leikkaus, lääkehoito, sädehoito, muu hoito (esim. syövän erilai-
+set paikallishoidot), syövän aktiivinen seuranta ja syövän oireenmukainen eli palliatiivinen hoito. Näitä eri
+hoitovaihtoehtoja voidaan seurata diagnoosi- ja toimenpidekoodien avulla.
+
+
+
+
+18 http://urn.fi/URN:ISBN:978-952-302-690-2
+
+
+
+
+                                                                          Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                               15
+                                                                                 Kehittämishankkeen loppuraportti
+                                            3 Hankkeen tuotokset
+
+
+
+
+Kaikkien seurattavien syöpien osalta raportoidaan odotusajan mediaani ja kvartiilit lähetteen saapumisesta
+ensimmäiseen lääkärikäyntiin ja ensimmäiseen syöpähoitoon sekä hoitojonoon asettamispäivästä ensim-
+mäiseen syöpähoitoon. Lisäksi suunniteltuihin mittareihin kuuluu näiden aikavälien osalta montako potilas-
+ta ja montako prosenttia potilaista alle 2 viikossa, 2 – 4 viikossa, enintään 4:ssä mutta alle 6 viikossa, yli
+6:ssa ja enintään 8 viikossa ja yli 8:ssa ja enintään 12 viikossa. Huomioitavaa on, että nämä ajat eivät ole
+suositusaikoja, vaan ne palvelevat vain vertailua.
+
+Lisäksi rinta-, eturauhas- ja suolistosyöville tehdään omat kuutiot, joissa raportoidaan tarkemmin erilaisten
+hoitopolkujen ja niille sovittujen suositeltujen enimmäisaikojen toteutuminen toteutuneiden hoitojen perus-
+teella. Näiden syöpien kohdalla mittareissa käytetyt ajat ovat suositeltuja enimmäisaikoja, missä ajassa
+hoidon tulisi toteutua (Hoitoonpääsyn seuranta syövän hoidossa opas, kuviot 2−5).
+
+Kaikkien seurannassa mukana olevien syöpien osalta hoitoonpääsytietoja löytyy sekä palveluntuottajittain
+että potilaan asuinpaikan mukaan.
+
+Siinä vaiheessa kun sairaalat pystyvät toimittamaan Hilmo-tiedot kuukausittain, päivittyvät raportit auto-
+maattisesti kuukausittain. Hoitoonpääsyn odotusajanjakso määräytyy toteutuneen hoidon mukaan, jolloin
+haetaan takautuvasti tieto, milloin kyseisen syöpäpotilaan hoitoon liittyvä lähete on saapunut, hän on käy-
+nyt lääkärissä ja milloin hänet on asetettu hoitojonoon.
+
+
+3.4 Syöpäpotilaiden tietojen kattavuuden vertailu Syöpärekisterin ja Hilmon
+osalta
+
+Osana syövän hoidon hoitoonpääsyn seurannan hanketta tutkittiin, miten rinta-, eturauhas- ja suolistosyöpi-
+en mahdollisia viiveitä erikoissairaanhoidossa voidaan selvittää käyttämällä syöpärekisteritietoa uusien
+potilaiden identifioimiseen ja linkittämällä identifioidut potilaat sitten hoitoilmoitustietoihin (Hilmo). Ta-
+voitteena oli selvittää, kuinka hyvin ja laadukkaasti hoitoon pääsyä voidaan seurata nykyisen Hilmo -
+kirjaamisen perusteella ja miten kirjaamista on tarpeen kehittää. Aineistoon poimittiin vuoden 2013 rin-
+tasyövät, eturauhassyövät ja suolistosyövät syöpärekisteristä ja linkitys tehtiin hoitoilmoituksiin vuosilta
+2012–2014.
+
+Selvityksen tarkoituksena oli laskea kolmenlaisia aikaeroja: kauanko aikaa kuluu lähetteen saapumispäiväs-
+tä ensimmäiseen käyntiin, lähetteen saapumispäivästä ensimmäiseen hoitokertaan ja hoitojonoon asetta-
+mispäivästä ensimmäiseen hoitokertaan. Tämän selvityksen tulokset on tarkoitus raportoida erikseen.
+
+Koska tapauksia voi puuttua Hilmosta (esim. virheellinen diagnoosi tai potilasta ei ole hoidettu erikoissai-
+raanhoidossa), selvitettiin ensin, kuinka suuri osa tapauksista löytyi molemmista tietolähteistä em. rajauk-
+sin. Yhteisiä tapauksia käytettiin sitten viiveiden laskemiseen.
+
+Rintasyövissä (N=4791) Hilmosta puuttui 77 (1,6 %) henkilöä rintasyöpädiagnoosilla ja neljällätoista (0,3
+%) ei ollut mitään tietoja. Eturauhassyövissä (N=5122) Hilmosta puuttui 339 (6,6 %) henkilöä eturauhas-
+syöpädiagnoosilla ja 59:llä (1,2 %) ei ollut mitään tietoja. Miesten ja naisten suolistosyövissä (N=3052)
+Hilmosta puuttui 305 (10,0 %) henkilöä tällä diagnoosilla ja 68:lla (2,2 %) ei ollut mitään tietoja.
+
+
+
+
+                                                                          Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                             16
+                                                                                 Kehittämishankkeen loppuraportti
+                                                       3 Hankkeen tuotokset
+
+
+
+
+Hilmo-tiedoista puuttui paljon päivämääriä kuten lähetteen saapumispäiviä, hoitojonoon asettamispäiviä ja
+toimenpidepäiviä. Lisäksi havaittiin tapauksia, joissa tulopäivä tai ensimmäinen toimenpidepäivä oli aiem-
+min kuin lähetteen saapumispäivä. Myös toimenpidepäivä saattoi olla ennen hoitojonoon asettamispäivää.
+Muita havaintoja olivat toimenpidekoodin puuttuminen ja monella myös merkintä jonottamisen syystä19 oli
+puuttuva.
+
+Analyyseihin otettiin vain sellaiset henkilöt, joilla oli toimenpidepäivä ja -koodi. Analyyseista karsittiin
+pois myös sellaiset henkilöt, joilta puuttui lähetteen saapumispäivä, hoitojonoon asettamispäivä tai joilla
+lähetteen saapumispäivä oli myöhemmin kuin toimenpidepäivä tai hoitojonoon asettamispäivä. Kaikissa
+syövissä aineistoa jouduttiin karsimaan eniten silloin, kun jonottamisen syytä ei ollut merkitty. Laskettaessa
+aikaa hoitojonoon asettamisesta ensimmäiseen hoitokertaan aineistoa jouduttiin karsimaan eniten.
+
+Rintasyöpäpotilaista suuri osa (54–70 % riippuen jonottamisen syystä) pääsee ensimmäiselle käynnille
+kolmessa viikossa lähetteen saapumispäivästä. Jos jonottamisen syy on merkitty, noin kolmasosa pääsee
+hoitoon kolmessa viikossa lähetteen saapumispäivästä. Kun jonottamisen syytä ei ole merkitty, hoitoon
+pääsee kolmessa viikossa noin puolet. Suuri osa rintasyöpäpotilaista (46–76 % riippuen jonottamisen syys-
+tä) pääsee ensimmäiseen hoitoon kolmessa viikossa hoitojonoon asettamispäivästä.
+
+Eturauhassyöpäpotilaista vain pieni osa (8–17 % riippuen jonottamisen syystä) pääsee kolmessa viikossa
+ensimmäiselle käynnille lähetteen saapumispäivästä lukien. Moni eturauhassyöpäpotilas (44–57 % riippuen
+jonottamisen syystä) joutuu odottamaan ensimmäiselle käynnille pääsyä yli 10 viikkoa. Moni eturauhas-
+syöpäpotilas (54–77 % riippuen jonottamisen syystä) odottaa myös ensimmäiseen hoitoon pääsyä yli 10
+viikkoa lähetteen saapumispäivästä. Eturauhassyövässä viivettä hoitojonoon asettamisesta ensimmäiseen
+hoitoon ei voitu laskea, jos jonottamisen syytä ei ole merkitty. Jos jonottamisen syy on sairaalasta johtuva,
+vajaa viidennes potilaista pääsee ensimmäiseen hoitoon kolmessa viikossa hoitojonoon asettamispäivästä.
+Tässä analyysissä ei ollut mahdollista arvioida sitä, ovatko pitkät odotusajat suunniteltuja (esim. potilaalle
+on aloitettu ennen lähetteen saapumista hormonaalinen hoito, jolloin sädehoidon on suunniteltu alkavan
+vasta noin 3 kk kuluttua lähetteestä).
+
+Suolistosyöpää sairastavien naisten ja miesten välillä ei ollut eroja siinä, kuinka pitkään he joutuivat odot-
+tamaan ensimmäiselle käynnille pääsyä tai ensimmäistä hoitoa. Noin 90 % äkillisen hoidon tarpeen vuoksi
+sairaalaan tulleista suolistosyöpäpotilaista (ei varattua aikaa) pääsee ensimmäiselle käynnille kolmessa
+viikossa ja 80 % ensimmäiseen hoitoon kolmessa viikossa. Kaikista suolistosyöpäpotilaista yli puolet pää-
+see ensimmäiselle käynnille neljässä viikossa lähetteen saapumispäivästä ja ensimmäiseen hoitoon kolmes-
+sa viikossa, kun aika lasketaan hoitojonoon asettamispäivästä.
+
+Jonottamisen syiden kirjaamisessa havaittiin suuria eroja erityisvastuualueiden välillä. Tästä syystä on vai-
+kea tehdä päätelmiä hoitoon pääsystä eri alueiden välillä. Kirjaamiserot ja puutteet tiedoissa tulee saada
+kuntoon ennen kuin Hilmo-tiedon perusteella voidaan päätellä mahdollisten viiveiden olemassaolo.
+
+
+
+
+19 Jonottamisen syy kuvaa potilaiden hoitoon odottamisen syitä: 0 sairaalan resurssit (kuuluu hoitotakuun piiriin), A hoidon tarpeen
+    arviointi (kuuluu hoitotakuun piiriin), 2 potilaan päätös, 3 lääketieteelliset syyt, 5 toistuva hoito tai seuranta, 6 muu syy, 7 päi-
+    vystys, 8 kiireellinen hoito
+
+
+
+                                                                                             Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                                          17
+                                                                                                    Kehittämishankkeen loppuraportti
+                                              4 Tulevaisuuden näkymät
+
+
+
+
+4 Tulevaisuuden näkymät
+4.1 Hoitoonpääsyn seurantajärjestelmän kehittäminen
+
+Hoitoonpääsytietojen raportointi syövän hoidossa alkaa vuonna 2017, mikäli sairaalat pystyvät tuottamaan
+Hilmo-tiedot kuukausittain. Näin ollen tietojen kattavuus alkuvaiheessa voi olla hyvinkin vaihtelevaa. Tä-
+män vuoksi sähköiset raportit (tiivisteet ja kuutiot) ovat aluksi vain testikäytössä. Mikäli sairaalat tuottavat
+edelleen Hilmo-tiedot vuositasolla, niin vuoden 2017 syövän hoitoonpääsytiedot voidaan raportoida vasta
+vuoden 2018 syksyllä.
+
+Syöpäsairauksien kirjaamiskäytäntöjen yhdenmukaistuessa tietojen vertailukelpoisuus paranee. Raportoin-
+nin ajantasaistuessa Hilmo-tietoja voidaan korjata taannehtivasti vuoden alusta alkaen, jolloin myös rapor-
+toitavan tiedon laatu todennäköisesti myös paranee. Raportoinnin tavoitteena on tietojen päivittäminen
+kerran kuukaudessa.
+
+Hilmo-ohjeistuksen20 määrittelyiden mukaan jokaisesta syöpälääkehoidosta on ilmoitettava toimenpide-
+koodi hoitoilmoitusrekisteriin. Vuoden 2017 alusta THL tulee seuraamaan syövän hoitoonpääsyä näiden
+toimenpidekirjausten perusteella. Syöpälääkehoidon toteutukseen suunniteltujen ohjelmistojen tulee jatkos-
+sa sisältää rakenteisena syöpälääkehoidon toimenpidekoodin kirjaaminen. Syöpälääkehoidon toimenpide-
+koodien kirjaamisen ohjeistuksen mukaan, joka on kuvattu Hoitoonpääsyn seuranta syövän hoidossa -
+oppaassa21, lääkäri määrittää toimenpidekoodin syöpälääkehoitoa määrätessä ja syöpälääkehoidon toimen-
+pidekoodi kirjataan jokaiselta hoitopäivältä ja joiltakin päiviltä voidaan kirjata useampiakin toimenpide-
+koodeja.
+
+Ohjelmistojen toiminnallisuuden tavoitteena tulee mahdollistaa ohjelmistoissa suoritettavan syöpälääkehoi-
+don antokirjauksella toimenpidekoodin kirjautuminen rakenteisena Hilmo-ilmoitukseen. Tällä tavalla välte-
+tään syöpälääkehoidon toimenpidekoodin manuaalisesta kopioinnista ja kirjaamisesta aiheutuvat virheet ja
+eliminoidaan pakollisten toimenpidekoodien kirjaamisen unohtaminen.
+
+Hoitoonpääsyn seuranta syövän hoidossa -opas julkaistaan verkkoversiona, jonka päivittäminen onnistuu
+tarvittaessa. Tietosisällön ylläpitäminen, tietojen laadun arviointi ja raportoinnin kehittäminen vaatii tuek-
+seen syöpälääkäreistä ja muista asiantuntijoista koostuvan asiantuntijaryhmän.
+
+Yksittäisten uusien käyttöönotettavien lääkkeiden päivittyminen seurantajärjestelmään ei vaadi uutta toi-
+menpidekoodia, jos uudet lääkkeet sijoittuvat jo olemassa oleviin toimenpidekoodeihin. Esimerkiksi uudet
+hormonihoitolääkkeet voidaan kirjata edelleen hormonihoidon toimenpidekoodeilla. Lääkehoidon seuran-
+taa voidaan laajentaa koskemaan kaikkia syöpälääkehoidon toimenpidekoodeja, jolloin myös uudet lääke-
+hoitoa kuvaavat toimenpidekoodit tulevat mukaan syövän hoidon seurantaan. Samoin leikkaustekniikoiden
+kehittyminen eli uudella tavalla toteutettavat leikkaukset saattavat sisältyä jo olemassa oleviin leikkauskoo-
+deihin, kun kysymyksessä on esimerkiksi tietyn elimen osan poisto. Näitä leikkauksia kuvaavia uusia koo-
+deja voidaan myös lisätä seurantaan tarvittaessa.
+
+
+
+
+20 http://urn.fi/URN:ISBN:978-952-302-690-2
+21 http://urn.fi/URN:ISBN:978-952-302-782-4
+
+
+
+
+                                                                            Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                                 18
+                                                                                   Kehittämishankkeen loppuraportti
+                                           4 Tulevaisuuden näkymät
+
+
+
+
+4.2 Hoitoonpääsyn seurannan jatkokehittämisen tarpeita
+
+Tulevaisuudessa eräs jatkokehittämisen kohde on metastaasien hoidon seuranta. Levinnyttä syöpää sairas-
+tavien potilaiden hoitoonpääsyä voidaan raportoida erikseen ja sopia niihin soveltuvat seuranta-aikapisteet.
+Nykyisen ohjeistuksen mukaan levinnyttä ja metastasoitunutta syöpää sairastavien potilaiden hoitoon-
+pääsyä seurataan samojen periaatteiden mukaisesti kuin paikallista primaarisyöpää sairastavien potilaiden.
+Lisäksi syövästä aiheutuvien hankalien oireiden, kuten kivun, uhkaavan pareesin tai verisuoni- tai muun
+tukosoireen hoidon tulee olla kaikissa hoitoyksiköissä saatavilla joustavasti ja viiveettä.
+
+Toinen tärkeä jatkokehittämisen kohde on erityisen kiireellistä hoitoa edellyttävien syöpien hoitoonpääsyn
+seuranta ja siihen liittyvän ohjeistuksen laatiminen. Osa syöpäsairauksista on kiireellistä hoitoa edellyttävää,
+vaikka niiden kohdalla välittömän hoidon kriteerit eivät toteudukaan. Kiireellisellä hoidon aloittamisella
+on merkitystä monen syöpätaudin ennusteen kannalta. Näitä ovat esim. monet malignit lymfoomat ja nope-
+asti etenevät pään ja kaulan alueen syövät. Näissä tapauksissa hoitoonpääsyn suositeltavien maksimiaikojen
+tulisi olla vain joitakin vuorokausia, mutta korkeintaan 2−3 viikkoa diagnoosista. Näiden kiireellistä hoitoa
+edellyttävien syöpien kriteereitä ja hoitoonpääsyn aikarajoja tulee tarkastella vielä jatkossa erikseen.
+
+Myös tämän hankkeen aikana usein esille noussut syöpäepäilyn ajankohdan kirjaaminen ja hoitoonpääsyn
+seuranta syöpäepäilystä lähtien sekä tähän liittyvä ohjeistus on eräs tulevaisuuden haasteista. Tällä hetkellä
+tietoa ei saada niistä mahdollista viiveistä, joita potilaan hoitopolulla on ollut ennen lähetteen tekemistä
+erikoissairaanhoitoon. Hilmon ja Avohilmon tietosisältöjä tulee kehittää jatkossa siten, että em. tietoja voi-
+daan saada poimittua syövän hoitoonpääsyn seurantaa varten. Myös Hilmo- ja Avohilmo-tietojen keruun
+laajentaminen yksityissektorille parantaa tämän tiedon saamisen todennäköisyyttä.
+
+Jatkossa voidaan määritellä suositellut enimmäisodotusajat myös muille syöville kuin rinta-, eturauhas- ja
+suolistosyövän hoidon osalta. Tärkeää on huomioida, että jo nykyisellään seurantajärjestelmä mahdollistaa
+minkä tahansa syöpätaudin hoitoonpääsyn seurannan.
+
+Raportoinnin perusteella saadaan käsitys hoitoonpääsyn viiveistä eri puolilla Suomea ja eri sairaanhoitopii-
+rien alueella sekä jatkossa myös maakunnissa. Koska nykyisiin säädöksiin ei sisälly syöpätautien hoitoon-
+pääsyyn liittyviä aikarajoja, niin valvonta on palveluja tuottavien ja järjestävien organisaatioiden omalla
+vastuulla. Potilaalla on oikeus hakea hoitoa nykyisten säädösten mukaan myös muista julkista hoitoa anta-
+vista yksiköistä. Potilaan valinnan vapauden laajentuessa edelleen, potilaat voivat valintaa tehdessään hyö-
+dyntää syövän hoidon hoitoonpääsyn seurannan tietoja, jotka ovat kaikkien kansalaisten käytettävissä. Hy-
+vin monessa maassa, esim. Norjassa ja Yhdistyneissä Kansakunnissa, hoidon aikarajat on kirjoitettu lakiin
+tai säädöksiin ja ne ovat myös juridisesti sitovia. Säädöstarpeiden tarvetta voidaan arvioida jatkossa myös
+Suomessa, kun saadaan kokemusta ja tietoa syöpäpotilaiden hoitoonpääsyn toteutumisesta maassamme.
+
+
+
+
+                                                                           Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                              19
+                                                                                  Kehittämishankkeen loppuraportti
+                                               5. Yhteenveto
+
+
+
+
+5. Yhteenveto
+Tämän kehittämishankkeen työn tuloksena julkaistiin Hoitoonpääsyn seuranta syövän hoidossa -opas, joka
+toimii lähtökohtana syövän hoidon seurannalle. Tämän oppaan mukainen syövän hoitotoimenpiteiden kir-
+jaaminen otetaan käyttöön vuoden 2017 alusta alkaen.
+
+Suunniteltu kansallinen seurantajärjestelmä mahdollistaa raportoinnin siitä, miten nopeasti syöpään sairas-
+tuneiden hoito on toteutunut. Raportointi on vielä tällä hetkellä testaus- ja kehitysvaiheessa. Tiedot rapor-
+toidaan myöhemmässä vaiheessa THL:n verkkosivuilla tietokantaraportteina, kun raportoitavien tietojen
+laatu on varmistettu. Tietokantaraportit kuvaavat eri syöpien hoitoonpääsytietoja sekä palveluntuottajittain
+että potilaan asuinpaikan mukaan.
+
+Kansallisen syövän hoidon hoitoonpääsyn seurantajärjestelmän ylläpitoa ja kehittämistä varten perustetaan
+asiantuntijaryhmä THL:ään.
+
+
+
+
+                                                                          Hoitoonpääsyn seuranta syövän hoidossa
+ THL – Työpaperi 3/2017                             20
+                                                                                 Kehittämishankkeen loppuraportti
+

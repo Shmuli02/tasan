@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0023
+document_id: SYN-P0023-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-06-09
+display_name: Jane Synthetic SYN-P0023 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 9.6.2026. Potilas: Jane Synthetic SYN-P0023 (SYN-P0023), s. 11.3.1940.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Lähete saapunut keuhkoklinikalle 28.5.
+Thoraxin TT tehty 9.6.2026. Kuvauksessa todettiin oikean ylälohkon 3,1 cm tuumori.
+PET-TT varattu 12.6.2026, tutkimus on vasta suunnitelmissa.
+Sappirakon poisto tehty 27.3.2017 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

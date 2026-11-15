@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0046
+document_id: SYN2-P0046-mdt_minutes-03
+document_type: mdt_minutes
+language: fi
+note_date: 2026-07-16
+display_name: Lars Låtsas SYN2-P0046 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 16.7.2026. Potilas: Lars Låtsas SYN2-P0046 (SYN2-P0046), s. 23.5.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä ke uhkoselvitte-lystä (synteettinen harjoitusteksti).
+Kokoontuminen 16. heinäkuuta 2026: eri erikoisaloj-en yhteinen kanta merkitty.
+Tutkimus käytiin kuvaamassa 19. kesäkuuta 2026.
+Lähete saapui toimistoon viikolla 24 lauantaina (2026) (kirjoituspäivä on eri, ks. alla).
+Tähystyksen yhteydessä punktionäyte 27-06-2026.
+Mikroskooppinen lausunto valmistui viikolla 28 torstaina (2026): levyepiteelikarsinooma.
+Kuvantaminen on vasta ajanvaraus 22. heinäkuuta 2026, sitä ei ole toteutettu.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potila skertomus.

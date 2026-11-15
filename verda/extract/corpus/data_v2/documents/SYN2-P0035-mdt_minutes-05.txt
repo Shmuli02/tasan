@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0035
+document_id: SYN2-P0035-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-05-23
+display_name: Laura Loremten SYN2-P0035 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 23.5.2026. Potilas: Laura Loremten SYN2-P0035 (SYN2-P0035), s. 6.9.1947.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitus-teksti).
+Morforloginen tulos tuli keskiviikkona (adenokarsinooma).
+Tiimikokous pidettiin 23. toukokuuta 2026 ja suositus kirjattiin.
+Kudosnäytteet haettiin toimenpiteessä 08-05-2026.
+Konsultaatiopyyntö kirjatti-in saapuneeksi viikolla 17 torstai-na (2026).
+Kuvantaminen tehtiin 2. toukokuuta 2026 (varaus oli aiemmin).
+— ote vanhasta kirjauksesta 12.2.2019: syntymäaika 6.9.1947; sappirakon poisto 12.2.2019; ei li ity nykyiseen keuhkoselvittelyy n. —
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: sy nteettinen test ikäyttäjä. Tämä ei ole oikea potilaskertomus.

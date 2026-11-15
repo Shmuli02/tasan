@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0010
+document_id: SYN2-P0010-oncology_note-04
+document_type: oncology_note
+language: fi
+note_date: 2026-05-12
+display_name: Olli Oletettu SYN2-P0010 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 12.5.2026. Potilas: Olli Oletettu SYN2-P0010 (SYN2-P0010), s. 19.5.1960.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Mikroskooppinen lausunto valmistui 04-05-2026: pienisoluinen keuhkosyöpä.
+Kokoontuminen 8. toukokuuta 2026: eri erikoisalojen yhteinen kanta merkitty.
+Pyyntö tuli perille 14. huhtikuuta 2026.
+Tutkimus käytiin kuvaamassa huhtikuun 20. päivänä 2026.
+Valittiin etenemistapa 10-05-2026: solunsalpaaja.
+Tähystyksen yhteydessä punktionäyte huhtikuun 26. päivänä 2026.
+Aktiivista hoitoa ei ole aloitettu, va sta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 8.7.2015: syn-tymäaika 19.5.1960; sappirak0n poisto 8.7.2015; ei liit y nykyiseen keuhkoselvittelyyn. —
+A iemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Kontroll ilaboratoriokokee-t tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

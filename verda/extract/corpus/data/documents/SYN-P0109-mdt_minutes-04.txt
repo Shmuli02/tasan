@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0109
+document_id: SYN-P0109-mdt_minutes-04
+document_type: mdt_minutes
+language: fi
+note_date: 2026-06-04
+display_name: Mary Fictitious SYN-P0109 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 4.6.2026. Potilas: Mary Fictitious SYN-P0109 (SYN-P0109), s. 14.4.1949.
+SYNTEETTINEN potilaskertomus, ei oiekaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen eismerkki).
+Esitiedot: lähete kirjattu 2026-04-25.
+Esitiedot: kkeuhko-TT tehty 11.5.
+Bronkoskopia ja biopsia tehty 21.5.26.
+PAD-vastaus valmistui 30/5: pienisoluinen keuhkosyöpä.
+Hoitopäätös 3.6.2026: SBRT.
+Moniammatillinen kokous (MDT) 3.6: suositellaan etenemistä hoitoon.
+Lonkkaproteesi operoitu 28.2.2017.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilakertomus.

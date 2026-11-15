@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0026
+document_id: SYN2-P0026-discharge_summary-05
+document_type: discharge_summary
+language: en
+note_date: 2026-04-24
+display_name: Alan Invented SYN2-P0026 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Invented University Hospital
+Note date 24.4.2026. Patient: Alan Invented SYN2-P0026 (SYN2-P0026), DOB 26.11.1955.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The procedure went ahead on 23 April 2026 (chemotherapy).
+Tissue was obtained during the endoscopy on March the 28, 2026.
+The team huddle was held on 02-04-2026 and the recommendation was written down.
+The way forward was chosen on 5 April 2026: chemotherapy.
+The consultation request was logged as having arrived on 2 March 2026.
+The microscopic report was issued on in week 14 on Tuesday (2026): adenocarcinoma.
+The scan it-self took place on 18 March 2026 (the slot had been booked earlier).
+Date of birth 26.11.1955 con-firmed from the population register.
+
+Entered by: synthetic test user. This is not a r eal clinical record.

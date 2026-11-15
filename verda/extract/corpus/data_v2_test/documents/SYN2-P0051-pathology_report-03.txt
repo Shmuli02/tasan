@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0051
+document_id: SYN2-P0051-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-04-02
+display_name: Jane Synthetic SYN2-P0051 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 2.4.2026. Potilas: Jane Synthetic SYN2-P0051 (SYN2-P0051), s. 10.1.1964.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Ditkoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Lähete saapui toimistoon 4. maaliskuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Mikrosk-ooppinen lausunto valmistui 31. maaliskuuta 2026: NSCLC, ei tarkemmin luokiteltu.
+— ote vanhas-ta kirjauksesta 13.10.2021: syntymäaika 10.1.1964; sappriakon poisto 13.10.2021; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteett inen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

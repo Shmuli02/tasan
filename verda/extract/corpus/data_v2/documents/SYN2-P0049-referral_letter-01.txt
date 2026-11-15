@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0049
+document_id: SYN2-P0049-referral_letter-01
+document_type: referral_letter
+language: en
+note_date: 2026-06-25
+display_name: Karin Konstruerad SYN2-P0049 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Invented University Hospital
+Note date 25.6.2026. Patient: Karin Konstruerad SYN2-P0049 (S-YN2-P0049), DOB 25.12.1968.
+SYNTHETIC record, not a real person.
+
+Dictated en-try from the lung work-up (synthetic training text).
+The consultation request was written on June the 20, 2026, but was only logged as having arrived on 25-06-2026.
+— excerpt from an older note dated 28.10.2022: date of birth 25.12.1968; cholecystectomy 28.10.2022; unrelated to the present lung work-up. —
+
+Entered by: sy-nthetic test user. This is not a re al clinical record.

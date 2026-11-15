@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0021
+document_id: SYN2-P0021-mdt_minutes-03
+document_type: mdt_minutes
+language: en
+note_date: 2026-02-19
+display_name: Karin Konstruerad SYN2-P0021 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synthetic Wellbe ing County Hospital
+Note date 19.2.2026. Patient: Karin Konstrue rad SYN2-P0021 (SYN2-P0021), DOB 28.9.1940.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The tea m huddle was held on 18 February 2026 and the recommendation was written down.
+The scan itself took place on 25 January 2026 (the slot had been booked earlier).
+The document was marked as having reached the unit on in week 4 on Monday (2026).
+The microscopic report was issued on February the 13, 2026: squamous cell carcinoma.
+Tissue was obtained during the endoscopy on February the 1, 2026.
+Active therapy has not got u-nder way; options are still being weighed.
+— excerpt from an older note dated 16.9.2017: date of birth 28.9.1940; cholecystectomy 16.9.2017; unrelated to the present lung work-up. —
+Previously, sometime in early January, there was a follow-up visit; the exact day is not in this note.
+Laboratory tests have been ordered; r esults are not in this note.
+
+Entered by: synthetic test user. This is not a real clinical re-cord.

@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0029
+document_id: SYN2-P0029-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-03
+display_name: Aino Synteettinen SYN2-P0029 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keu hkoklinikka
+Kirjauspäivä 3.7.2026. Potilas: Aino Synteettinen SYN2-P0029 (SYN2-P0029), s. 21.5.1946.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synte-ettinen harjoitusteksti).
+Kudosnäytteet haettiin toimenpiteessä kesäkuun 6. päivänä 2026.
+Mikroskooppinen lausunto valmistui 10. kesäkuuta 2026: adenokarsinooma.
+Kokoontuminen 17. kesäkuuta 2026: eri erikoisalojen yhteinen kanta merkitty.
+Kerroskuvaus toteutettiin 1. kesäkuuta 2026.
+Kliininen valinta tehtiin 18. kesäkuuta 2026: kiilaresektio.
+Konsultaatiopyyntö kirjattiin saapuneeksi 26. toukokuuta 2026.
+Toimenpide toteutui heinäkuun 2. päivänä 2026 (kiilaresektio).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

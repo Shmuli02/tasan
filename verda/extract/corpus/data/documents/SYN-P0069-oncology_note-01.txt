@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0069
+document_id: SYN-P0069-oncology_note-01
+document_type: oncology_note
+language: sv
+note_date: 2026-04-25
+display_name: Ritva Rakennettu SYN-P0069 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Testdata universitetssjukhus
+Anteckningsdatum 25.4.2026. Patient: Ritva Rakennettu SYN-P0069 (SYN-P0069), f. 11.10.1944.
+SYNTETISK patientjournal, ingen verklig person.
+
+Besöksorsak: utredning av misstänkt lungcancer (syntetiskt exempel).
+Specialistremiss registrerad 14.4.2026.
+Behandlingsbeslut 24.4.26: cytostatika.
+Fodelsedatum 11.10.1944 kontrollerat i befolkningsuppgifterna.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verkliig journal.

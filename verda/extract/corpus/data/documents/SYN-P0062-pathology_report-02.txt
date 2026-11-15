@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0062
+document_id: SYN-P0062-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-03-26
+display_name: Pekka Paikkamerkki SYN-P0062 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 26.3.2026. Potilas: Pekka Paikkamerkki SYN-P0062 (SYN-P0062), s. 23.10.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 28/2.
+TT-tutkimus tehty 8.3.
+Esitiedot: biopsiat otettu bronkoskopiassa 14.3.2026.
+Patologin lausunto 25.3.26: NSCLC, ei tarkemmin luokiteltu.
+Sappirakon poisto tehty 24.4.2013 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

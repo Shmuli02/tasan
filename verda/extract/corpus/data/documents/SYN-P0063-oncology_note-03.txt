@@ -1,0 +1,21 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0063
+document_id: SYN-P0063-oncology_note-03
+document_type: oncology_note
+language: fi
+note_date: 2026-02-05
+display_name: Laura Loremten SYN-P0063 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 5.2.2026. Potilas: Laura Loremten SYN-P0063 (SYN-P0063), s. 8.5.1951.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete kirjattu 24.1.2026.
+Hoitopäätös 3.2.2026: sädehoito.
+Sappirakon poisto tehty 20.5.2021 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

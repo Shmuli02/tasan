@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0059
+document_id: SYN2-P0059-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-06-13
+display_name: Eeva Esimerkki SYN2-P0059 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvoin tialueen keskussairaal a
+Kir-jauspäivä 13.6.2026. P0tilas: Eeva Esimerkki SYN2-P0059 (S-YN2-P0059), s. 18.7.1948.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuh koselvittelystä (synteettinen harjoitustekst i).
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön toukokuun 13. päivänä 2026.
+Morforloginen tulos tuli 13. kesäkuuta 2026 (levyepiteelikarsinooma).
+Kerroskuvaus toteutettiin viikolla 21 sunnunta ina (2026).
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+
+Kirjaaja: synteettinen test ikäyttäjä. Tämä ei ole oikea potilaskertomus.

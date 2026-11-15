@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0024
+document_id: SYN2-P0024-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-10-04
+display_name: John Placeholder SYN2-P0024 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 4.10.2026. Potilas: John Placeholder SYN2-P0024 (SYN2-P0024), s. 19.2.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Toimenpide toteutui lokakuun 4. päivänä 2026 (kiilaresektio).
+Kliininen valinta tehtiin viikolla 37 torstaina (2026): kiilaresektio.
+Leikekuvaus on suorite ttu 19. eloku-uta 2026.
+Asiakirja merkitti in saapuneeksi keuhkoyksikköön 06-08-2026.
+K-udosnäytteet haettiin toimenpiteessä 29. elokuuta 2026.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Syntymäaika 19.2.1954 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

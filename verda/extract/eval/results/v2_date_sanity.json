@@ -1,0 +1,285 @@
+{
+  "synthetic": true,
+  "n_documents": 600,
+  "n_events": 2146,
+  "span_not_in_text": 0,
+  "gold_dates_recoverable_by_careful_parser": 1879,
+  "gold_dates_unrecoverable": 267,
+  "recoverable_rate": 0.8756,
+  "notes_with_any_literal_date_string_full_file": 600,
+  "notes_with_any_literal_date_string_body": 600,
+  "notes_where_a_gold_span_has_literal_or_week_or_spelled_date": 580,
+  "notes_with_v1_regex_numeric_date_in_body": 600,
+  "gold_events_with_literal_or_week_or_spelled": 1788,
+  "surface_kinds": {
+    "spelled_fi": 535,
+    "numeric_dmy_dash": 337,
+    "iso_week_fi": 320,
+    "spelled_gen_fi": 237,
+    "unparsed": 233,
+    "spelled_sv": 52,
+    "bare_weekday_fi": 49,
+    "spelled_en": 45,
+    "relative_yesterday": 33,
+    "numeric_iso": 31,
+    "relative_2days": 24,
+    "spelled_gen_sv": 22,
+    "iso_week_en": 22,
+    "iso_week_sv": 17,
+    "spelled_gen_en": 17,
+    "mixed:iso_week_fi,spelled_fi": 16,
+    "mixed:numeric_dmy_dash,spelled_fi": 14,
+    "mixed:spelled_gen_sv,spelled_sv": 12,
+    "mixed:spelled_fi,spelled_gen_fi": 12,
+    "mixed:numeric_iso,spelled_gen_sv": 10,
+    "mixed:spelled_en,spelled_sv": 10,
+    "mixed:numeric_iso,spelled_sv": 9,
+    "mixed:spelled_en,spelled_gen_en": 9,
+    "mixed:iso_week_sv,numeric_iso": 9,
+    "mixed:iso_week_sv,spelled_sv": 8,
+    "mixed:iso_week_en,spelled_en": 6,
+    "mixed:iso_week_fi,spelled_gen_fi": 6,
+    "mixed:numeric_dmy_dash,spelled_en": 5,
+    "mixed:iso_week_fi,numeric_dmy_dash": 5,
+    "mixed:numeric_dmy_dash,spelled_gen_fi": 5,
+    "mixed:iso_week_en,numeric_dmy_dash": 3,
+    "mixed:iso_week_sv,spelled_gen_sv": 3,
+    "mixed:numeric_dmy_dash,spelled_gen_en": 3,
+    "mixed:relative_2days,spelled_gen_sv": 2,
+    "mixed:iso_week_sv,spelled_en,spelled_sv": 2,
+    "mixed:iso_week_en,spelled_gen_en": 2,
+    "mixed:iso_week_en,relative_yesterday": 2,
+    "mixed:relative_2days,spelled_gen_fi": 2,
+    "mixed:relative_yesterday,spelled_sv": 2,
+    "mixed:numeric_dmy_dash,relative_yesterday": 2,
+    "mixed:spelled_en,spelled_gen_sv,spelled_sv": 1,
+    "mixed:iso_week_sv,relative_yesterday": 1,
+    "mixed:numeric_iso,spelled_en,spelled_sv": 1,
+    "mixed:iso_week_fi,relative_yesterday": 1,
+    "mixed:relative_2days,relative_yesterday": 1,
+    "mixed:relative_2days,spelled_sv": 1,
+    "mixed:relative_yesterday,spelled_en": 1,
+    "mixed:relative_2days,relative_yesterday,spelled_gen_en": 1,
+    "mixed:relative_2days,relative_yesterday,spelled_en": 1,
+    "mixed:relative_2days,spelled_fi": 1,
+    "mixed:numeric_iso,relative_yesterday": 1,
+    "mixed:numeric_dmy_dash,relative_2days": 1,
+    "mixed:relative_yesterday,spelled_gen_fi": 1
+  },
+  "v1_keyword_hits_on_v2_body_by_type": {
+    "referral_received": 87
+  },
+  "official_regex_predicted_events": 1,
+  "official_regex_exact_tp": 0,
+  "unrecoverable_examples": [
+    {
+      "document_id": "SYN2-P0001-biopsy_note-02",
+      "type": "biopsy_done",
+      "gold": "2026-02-02",
+      "kind": "spelled_fi",
+      "parsed": [
+        "2026-01-27"
+      ],
+      "span": "Toimenpide varattiin 27. tammikuuta 2026, mutta näyte otettiin vasta toissap-äivänä."
+    },
+    {
+      "document_id": "SYN2-P0002-oncology_note-03",
+      "type": "biopsy_done",
+      "gold": "2026-07-04",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Tähystyksen yhteydessä punktionäyte 4. heinäkuuta 2026."
+    },
+    {
+      "document_id": "SYN2-P0002-oncology_note-03",
+      "type": "pathology_result",
+      "gold": "2026-07-16",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Laboratorio ilmoitti histo logian 16. heinäkuuta 2026: adenokarsinooma."
+    },
+    {
+      "document_id": "SYN2-P0002-oncology_note-03",
+      "type": "treatment_decision",
+      "gold": "2026-07-18",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Sovittiin hoitomuodosta heinäkuun 18. päivänä 2026 (sytostaatti)."
+    },
+    {
+      "document_id": "SYN2-P0002-mdt_minutes-04",
+      "type": "pathology_result",
+      "gold": "2026-07-16",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Laboratorio ilmoitti histologian 16. heinäkuuta 2026: levyepiteelikarsinooma."
+    },
+    {
+      "document_id": "SYN2-P0002-mdt_minutes-04",
+      "type": "mdt_decision",
+      "gold": "2026-07-18",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Tiimikokous pidettiin 18. heinäkuuta 2026 ja suositus kirjattiin."
+    },
+    {
+      "document_id": "SYN2-P0002-mdt_minutes-04",
+      "type": "biopsy_done",
+      "gold": "2026-07-04",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Kudosnäytteet haettiin toimenpiteessä 4. heinäkuuta 2026."
+    },
+    {
+      "document_id": "SYN2-P0002-discharge_summary-05",
+      "type": "referral_received",
+      "gold": "2026-06-15",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Asiakirja merkittiin saapuneeksi keuhkoyksikköön 15. kesä-kuuta 2026."
+    },
+    {
+      "document_id": "SYN2-P0004-ct_report-01",
+      "type": "referral_received",
+      "gold": "2026-06-20",
+      "kind": "spelled_gen_sv",
+      "parsed": [
+        "2026-06-15"
+      ],
+      "span": "Konsultationsbegäran skrevs juni den 15 år 2026, men registrerades som inkommen först på lördagen."
+    },
+    {
+      "document_id": "SYN2-P0004-oncology_note-04",
+      "type": "treatment_decision",
+      "gold": "2026-07-21",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Valittiin etenemistapa heinäkuun 21. päivänä 2026: sytostaatti."
+    },
+    {
+      "document_id": "SYN2-P0004-oncology_note-04",
+      "type": "biopsy_done",
+      "gold": "2026-07-03",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Tähystyksen yhteydessä punktionäyte heinäkuun 3. päivänä 2026."
+    },
+    {
+      "document_id": "SYN2-P0004-oncology_note-04",
+      "type": "mdt_decision",
+      "gold": "2026-07-20",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Yhteispalaveri järjestettiin 20. heinäkuuta 2026; linja muodostettiin siellä."
+    },
+    {
+      "document_id": "SYN2-P0004-discharge_summary-05",
+      "type": "biopsy_done",
+      "gold": "2026-07-03",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Kudosnäytteet haettiin toimenpiteessä 3. heinäkuuta 2026."
+    },
+    {
+      "document_id": "SYN2-P0005-biopsy_note-02",
+      "type": "biopsy_done",
+      "gold": "2026-01-22",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Näyte otettiin tähystyksessä ta mmikuun 22. päivänä 2026."
+    },
+    {
+      "document_id": "SYN2-P0005-mdt_minutes-03",
+      "type": "referral_received",
+      "gold": "2026-01-05",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Begäran nådde kliniken den 5 ja nuari 2026."
+    },
+    {
+      "document_id": "SYN2-P0005-oncology_note-04",
+      "type": "referral_received",
+      "gold": "2026-01-05",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Konsultationsbegäran registrerades som inkomemn vecka 2 på m åndagen (2026)."
+    },
+    {
+      "document_id": "SYN2-P0005-oncology_note-04",
+      "type": "biopsy_done",
+      "gold": "2026-01-22",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Vävnadsprover hämtades vi-d åtgärden jnuari den 22 år 2026."
+    },
+    {
+      "document_id": "SYN2-P0005-discharge_summary-05",
+      "type": "referral_received",
+      "gold": "2026-01-05",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Konsultaatiopyyntö kirjattiin saapuneeksi viik0lla 2 maanantain a (2026)."
+    },
+    {
+      "document_id": "SYN2-P0006-pathology_report-02",
+      "type": "ct_done",
+      "gold": "2026-07-28",
+      "kind": "numeric_dmy_dash",
+      "parsed": [
+        "2026-07-25"
+      ],
+      "span": "Kuvausaika merkittiin kalenteriin 25-07-2026; itse tutkimus toteutettiin 28. heinäkuuta 2026."
+    },
+    {
+      "document_id": "SYN2-P0006-pathology_report-02",
+      "type": "referral_received",
+      "gold": "2026-07-18",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Py yntö tuli perille heinäkuun 18. päivänä 2026."
+    },
+    {
+      "document_id": "SYN2-P0006-discharge_summary-05",
+      "type": "referral_received",
+      "gold": "2026-07-18",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Pyyntö tuli perille 18. heinäkuuta 2026."
+    },
+    {
+      "document_id": "SYN2-P0006-discharge_summary-05",
+      "type": "ct_done",
+      "gold": "2026-07-28",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Kerroskuvaus toteutettiin heinäkuun 28. päivänä 2026."
+    },
+    {
+      "document_id": "SYN2-P0007-biopsy_note-02",
+      "type": "ct_done",
+      "gold": "2026-02-22",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Kerroskuvaus toteutettiin viikolla 8 sunnu ntaina (2026)."
+    },
+    {
+      "document_id": "SYN2-P0009-discharge_summary-05",
+      "type": "referral_received",
+      "gold": "2026-05-21",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Lähete saapui toimistoon touko kuun 21. päiväänä 2026 (kirjoituspäivä on eri, ks. alla)."
+    },
+    {
+      "document_id": "SYN2-P0009-discharge_summary-05",
+      "type": "treatment_start",
+      "gold": "2026-07-05",
+      "kind": "unparsed",
+      "parsed": [],
+      "span": "Toimenpide toteutui 5. heiäkuuta 2026 (SBRT)."
+    }
+  ],
+  "ocr_tolerant_recoverable": 1086,
+  "ocr_tolerant_rate": 0.5061,
+  "ocr_tolerant_failing_notes": 491
+}

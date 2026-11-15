@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0023
+document_id: SYN2-P0023-ct_report-01
+document_type: ct_report
+language: en
+note_date: 2026-02-19
+display_name: Jane Synthetic SYN2-P0023 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Placeholder Lung Clinic
+Note date 19.2.2026. Patient: Jane Synthetic SYN2-P0023 (SYN2-P0023), DOB 3.2.1953.
+SYNTHETIC record, not a real person.
+
+Dictated entry from the lung work-up (synthetic training text).
+The sca-n slot was put in the calendar on February the 9, 2026; the examination itself was carried out on 17-02-2026.
+The consultation request was written on 9 February 2026, but was only logged as having arri-ved on February the 12, 2026.
+The pictures showed a 1.8 cm nodule in the left upper lobe with mediastinal nod es.
+No team huddle was arranged at this visit; it was deferred.
+— excerpt from an older note dated 16.9.2018: date of birth 3.2.1953; cholecystectomy 16.9.2018; unrelated to the present lung work-up. —
+
+Entered by: synthetic test user. This is not a real clinical record.

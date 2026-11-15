@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0076
+document_id: SYN-P0076-biopsy_note-03
+document_type: biopsy_note
+language: fi
+note_date: 2026-08-07
+display_name: Johan Testdata SYN-P0076 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 7.8.2026. Potilas: Johan Testdata SYN-P0076 (SYN-P0076), s. 8.4.1938.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitideot: lähete kirjattu 17.7.26.
+TT-tutkimus tehty viikko sitten.
+Bronkoskopia eilen, näytteet otettu.
+Edellinen keuhkokuume hoiddettu 20.11.2010.
+
+Kirjaaja: synteettinn testikäyttäjä. Tämä ei ole oikea potilaskertomus.

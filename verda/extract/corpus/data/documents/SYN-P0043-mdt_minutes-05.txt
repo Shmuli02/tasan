@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0043
+document_id: SYN-P0043-mdt_minutes-05
+document_type: mdt_minutes
+language: fi
+note_date: 2026-02-06
+display_name: Anna Anonyymi SYN-P0043 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 6.2.2026. Potilas: Anna Anonyymi SYN-P0043 (SYN-P0043), s. 5.1.1963.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Keuhkoklinikan lähete saapui 4.1.2026.
+Esitiedot: pET-TT tehty 16/1.
+Esitiedot: eBUS-bronkoskopia suoritettu 21.1.2026; biopsiat otettu.
+Esitiedot: patologin lausunto 29.1.26: levyepiteelikarsinooma.
+MDT toissapäivänä: hoitolinja vahvistettu.
+Lonkkaproteesi operoitu 18.1.2024.
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjauksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

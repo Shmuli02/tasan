@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0037
+document_id: SYN2-P0037-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-06-24
+display_name: Sari Sijaisnimi SYN2-P0037 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaa-la
+Kirjauspäivä 24.6.2026. Potilas: Sari Sijaisnimi SYN2-P0037 (SYN2-P0037), s. 13.10.1949.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Mikroskooppinen lausunto valmistui viikolla 26 maanantaina (2026): pienisoluinen keuhkosyöpä.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 28. toukokuuta 2026.
+Kerroskuvaus toteutetti-in 9. kesäkuuta 2026.
+Näyte otettiin tähystyksessä kesäkuun 15. päivänä 2026.
+— ote vanhasta kirjauksesta 23.12.2023: syntymäai-ka 13.10.1949; sappirakon poisto 23.12.2023; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+
+K-irjaaja: synteettinen te stik äyttäjä. Tämä ei ole oikea potilaskertomus.

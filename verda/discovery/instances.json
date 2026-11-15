@@ -1,0 +1,63 @@
+{
+  "http_status": 200,
+  "fetched_at_eet": "2026-11-14 20:42:22 EET",
+  "body": [
+    {
+      "id": "d01e730d-3269-4f7d-80be-477f6ce2d586",
+      "ip": "<redacted>",
+      "private_ip": null,
+      "private_network_id": null,
+      "subnet_id": null,
+      "status": "running",
+      "created_at": "2026-11-14T18:37:09.895Z",
+      "created_by_user_id": "83d23065-8fbf-4354-927f-23b34d46af9c",
+      "cpu": {
+        "description": "4 CPU (INTEL XEON)",
+        "number_of_cores": 4,
+        "model": "INTEL XEON"
+      },
+      "gpu": {
+        "description": "1x Tesla V100 16GB",
+        "number_of_gpus": 1
+      },
+      "gpu_memory": {
+        "description": "16GB GPU RAM",
+        "size_in_gigabytes": 16
+      },
+      "memory": {
+        "description": "18GB RAM",
+        "size_in_gigabytes": 18
+      },
+      "storage": {
+        "description": "dynamic"
+      },
+      "hostname": "tasan-full",
+      "description": "Tasan Twin smoke test - auto-deleted",
+      "tags": [
+        {
+          "id": "tag_034xaUVg5Xlj7rRbs6YJVN",
+          "key": "project",
+          "value": "tasan-full"
+        }
+      ],
+      "location": "FIN-01",
+      "price_per_hour": 0.122,
+      "is_spot": true,
+      "instance_type": "1V100.4V",
+      "image": "24.04.cuda12.9-v100.docker",
+      "os_name": "tasan-full-os",
+      "startup_script_id": null,
+      "ssh_key_ids": [
+        "<id-redacted>"
+      ],
+      "os_volume_id": "<id-redacted>",
+      "jupyter_token": null,
+      "contract": "SPOT",
+      "pricing": "FIXED_PRICE",
+      "volume_ids": [
+        "<id-redacted>"
+      ],
+      "id_prefix": "d01e730d…"
+    }
+  ]
+}

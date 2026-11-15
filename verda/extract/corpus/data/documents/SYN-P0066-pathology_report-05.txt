@@ -1,0 +1,27 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0066
+document_id: SYN-P0066-pathology_report-05
+document_type: pathology_report
+language: fi
+note_date: 2026-07-31
+display_name: Olli Oletettu SYN-P0066 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 31.7.2026. Potilas: Olli Oletettu SYN-P0066 (SYN-P0066), s. 18.8.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+ESH-lähete vastaanotettu 4.7.2026.
+Esitiedot: keuhko-TT tehty 15.7.2026.
+Esitiedot: bronkoskopia 20.7.2026, näytteet otettu.
+Esitiedot: mDT 14.7.26: hoitolinja vahvistettu.
+Päätettiin 14.7.26 aloittaa kiilaresektio.
+Kiilaresektio suoritettu 22.7.26.
+PAD-vastaus valmistui 30.7.2026: levyepiteelikarsinooma.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Syntymäaika 18.8.1945 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

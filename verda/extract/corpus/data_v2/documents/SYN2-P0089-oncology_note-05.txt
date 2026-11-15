@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0089
+document_id: SYN2-P0089-oncology_note-05
+document_type: oncology_note
+language: fi
+note_date: 2026-04-15
+display_name: Kirsi Keksitty SYN2-P0089 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synt-eettisen hyvinvointialueen keskus sai raala
+Kirjauspäivä 15.4.2026. Potilas: Kirsi Keksitty SYN2-P0089 (SYN2-P0089), s. 11.9.1944.
+SYNTEETTI NEN potilas kertomus, ei oikeaa henkilöä.
+
+Diiktoitu merkintä keuhkoselvi ttelystä (syneettinen harjoitusteksti).
+Kliininen valinta tehtiin 14. huhtikuuta 2026: sy tostaati.
+Asiakirja merkittiin saapuneeksi keuhkoyksikköön 22-03-2026.
+L-eik ekuvuas on suoritettu maaliskuun 26. päivännä 2026.
+— ote vanhasta kirjauuksesta 26.8.2017: syntymäaika 11.9.1944; sappirakon po-i-sto 26.8.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+Aiemmin j0ssain tammiku-un alussa oli käyny-t k-ontrollissa; tarkka a päivää ei ole tssä.
+
+Kirjaaja: syn-teettinen testik ä yttäjä. ämä ei ole oikea potilask ertomus.

@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,baseline,pct_le42_from_referral,26.8982,8.3333,25.5814,51.065,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,baseline,pct_le42_from_diagnosis,58.1148,42.8571,58.1395,72.973,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,baseline,median_days_referral_to_treatment,62.4188,42.0,62.0,86.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,baseline,median_days_diagnosis_to_treatment,36.7965,27.0,36.5,48.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,baseline,n_patients,96.2635,77.0,96.0,116.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,baseline,n_active_treated,43.6442,31.0,43.0,57.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,baseline,n_le42_from_referral,11.7596,3.0,11.0,24.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,baseline,n_untreated_at_alert_day,38.2358,26.0,38.0,52.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,scenario,pct_le42_from_referral,54.461,27.2727,54.5455,80.9524,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,scenario,median_days_referral_to_treatment,39.8971,28.0,38.0555,64.0549,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,scenario,n_patients,96.2635,77.0,96.0,116.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,scenario,n_active_treated,43.6442,31.0,43.0,57.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,scenario,n_le42_from_referral,23.7855,11.0,23.0,39.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,delta,pct_le42_from_referral,27.5628,10.0,27.2727,46.9418,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,delta,median_days_referral_to_treatment,-22.5217,-33.6353,-22.5,-11.1436,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,delta,n_patients,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,delta,n_active_treated,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+02,Central Uusimaa wellbeing services county,YTA-ETELA,high,delta,n_le42_from_referral,12.0259,4.0,12.0,22.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast

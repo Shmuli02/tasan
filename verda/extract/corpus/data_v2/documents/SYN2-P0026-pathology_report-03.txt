@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0026
+document_id: SYN2-P0026-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-04-02
+display_name: Alan Invented SYN2-P0026 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvoint-ialueen keskussairaala
+Kirjauspäivä 2.4.2026. Potilas: Alan Invented SYN2-P0026 (SYN2-P0026), s. 26.11.1955.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (sy-nteettinen harjoitusteksti).
+Morforloginen tulos tuli 31. maaliskuuta 2026 (pienisoluinen keuhkosyöpä).
+Pyyntö tuli perille 02-03-2026.
+Tutkimus kä ytiin kuvaamassa maaliskuun 18. päivänä 2026.
+— ote vanhasta kirjauksest-a 18.5.2016: syntymäaika 26.11.1955; sappirakon poisto 18.5.2016; ei liity nykyiseen keuhkoselvittelyyn. —
+A iemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Sappirakon poisto tehty 15.5.2019 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

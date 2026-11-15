@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0109
+document_id: SYN2-P0109-discharge_summary-04
+document_type: discharge_summary
+language: fi
+note_date: 2026-04-14
+display_name: Mary Fictitious SYN2-P0109 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 14.4.2026. Potilas: Mary Fictitious SYN2-P0109 (SYN2-P0109), s. 17.6.1941.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkose l vittelystä (synteettinen harjoitusteksti).
+Tähystyksen yhteydessä punktionäyte 24. maaliskuuta 2026.
+Kliininen valinta tehtiin viikolla 14 sunnuntaina (2026): sädehoi-to.
+Ensimmäinen hoitokerta oli 14. huhtikuuta 2026.
+Mikroskooppinen lausunto valmistui maaliskuun 29. päivänä 2026: pienisoluinen keuhkosyöpä.
+Tutkimus käytiin kuvaamassa 18. maaliskuuta 2026.
+Pyyntö tuli perille viikolla 10 keskiviikkona (2026).
+Tiimikokous pidettiin viikolla 14 torstaina (2026) ja suositus kirjattiin.
+Kuvantaminen on vasta ajanvaraus 27. huhtikuuta 2026, sitä ei ole toteutettu.
+— ote vanhasta kirjauksesta 27.6.2017: syntymäaika 17.6.1941; s appirakon poisto 27.6.2017; ei liity nykyiseen keuhkoselvittelyyn. —
+Kontrollilaboratoriokokeet tilattu, vastaukset eivät ole tässä kirjau-ksessa.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

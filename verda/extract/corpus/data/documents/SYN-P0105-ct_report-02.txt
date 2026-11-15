@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0105
+document_id: SYN-P0105-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-04-04
+display_name: Karin Konstruerad SYN-P0105 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 4.4.2026. Potilas: Kain Konstruerad SYN-P0105 (SYN-P0105), s. 17.11.1963.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimrekki).
+Esitiedot: lähete kirjattu 23.3.26.
+Keuhko-TT tehty 2.4.2026. Kuvauksessa todettiin oikean yylälohkon 3,1 cm tuumori.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+Lonkkaproteesi operoitu 2.3.2014.
+Sappirakon poisto tehty 2.3.2014 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

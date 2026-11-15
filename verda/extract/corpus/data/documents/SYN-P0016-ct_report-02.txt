@@ -1,0 +1,22 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0016
+document_id: SYN-P0016-ct_report-02
+document_type: ct_report
+language: fi
+note_date: 2026-01-09
+display_name: Nils Fiktiv SYN-P0016 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 9.1.2026. Potilas: Nils Fiktiv SYN-P0016 (SYN-P0016), s. 10.9.1963.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esimerkki).
+Esitiedot: lähete saapunut keuhkoklinikalle 3.1.26.
+TT-tutkimus tehty 8.1.2026. Kuvauuksessa todettiin oikean keskilohohon 4,0 cm massa.
+MDT siirtyy ensi viikkoon, kkousta ei pidetty tänään.
+Edellinen keuhkokuume hoidettu 2.6.2012.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

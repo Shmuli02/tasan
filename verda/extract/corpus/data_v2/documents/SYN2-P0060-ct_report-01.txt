@@ -1,0 +1,25 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0060
+document_id: SYN2-P0060-ct_report-01
+document_type: ct_report
+language: sv
+note_date: 2026-03-19
+display_name: Yrjö Yksikkötesti SYN2-P0060 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Fiktiva välfärdsområdets c-entralsjukhus
+Anteckningsdatum 19.3.2026. Patient: Yrjö Yksikkötesti SYN2-P0060 (SYN2-P0060), f. 6.5.1960.
+SYNTETISK pat ientjournal, i-ngen v-erklig person.
+
+Dikterad anteckning från lungutredningen (s-yntetisk övningstext).
+Konsultationsbegäran skrevs 2026-03-06, men registrerades som inkommen först den 10 mars 2026.
+Bildtiden lades in i kalendern den 10 mars 2026; själva undersökningen genomfördes igår.
+På bilderna sågs en 2,4 cm förändring i vänster nedre lob.
+Speglinge-n ställdes in i sista stun-d och inget prov togs.
+— utdrag ur äldre anteckning 9.10.2021: födelsedatum 6.5.1960; galloperation 9.10.2021; hör inte till den aktuella lungutredningen. —
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag saknas här.
+Föregående pneumoni behandlad 14.7.2016.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.

@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0025
+document_id: SYN2-P0025-pathology_report-02
+document_type: pathology_report
+language: fi
+note_date: 2026-05-03
+display_name: Mary Fictitious SYN2-P0025 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 3.5.2026. Potilas: Mary Fictitious SYN2-P0025 (SYN2-P0025), s. 26.4.1940.
+SY NTEETTINEN potilaskertomus, ei oikeaa he nkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Lähete saapui toimistoon viikollla 13 lauantaina (2026) (kirjoituspäivä on eri, ks. alla).
+Toimenpide varattiin 14. huhtikuuta 2026, mutta näyte oetttiin vasta 20-04-2026.
+Kuvausaika merkittiin kalenteriin viikolla 15 tiisstaina (2026); itse tutkimus toteutettiin viikolla 15 perjantaina (2026).
+Mikroskooppinen lausunto valmisstui 1. toukokuuta 2026: levyepiteelikarsinooma.
+Kuvissa erottui oikean ylälohkon 3,1 cm tuumori.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoehtoja.
+— ote vanhasta kirjauksesta 11.11.2018: s yntymäaika 26.4.1940; sappirakon poisto 11.11.2018; ei liity nykyiseen keuhkoselvittelyyn. —
+Syntymäaika 26.4.1940 tarkistettu väestötiedoista.
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilasertomus.

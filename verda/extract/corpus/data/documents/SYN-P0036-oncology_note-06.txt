@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0036
+document_id: SYN-P0036-oncology_note-06
+document_type: oncology_note
+language: en
+note_date: 2026-01-30
+display_name: Hannu Harjoitus SYN-P0036 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Invented University Hospital
+Note date 30.1.2026. Patient: Hannu Harjoitus SYN-P0036 (SYN-P0036), DOB 25.4.1943.
+SYNTHETIC record, not a real person.
+
+Reason for visit: work-up of suspected lung cancer (synthetic example).
+Specialist referral received 3.1.2026.
+Treatment decision on 30.1.26: SBRT.
+The biopsy was cancelled at the patient's request.
+Cholecystectomy performed on 15.6.2023 (unrelated to the present work-up).
+Date of birth 25.4.1943 confirmed from the population register.
+
+Entered by: synthetic test user. This is not a real clinical record.

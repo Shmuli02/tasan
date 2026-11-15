@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0065
+document_id: SYN2-P0065-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-08-29
+display_name: Sari Sijaisnimi SYN2-P0065 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+K-irjauspäivä 29.8.2026. Potilas: Sari Sijaisnimi SYN2-P0065 (SYN2-P0065), s. 21.2.1954.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (syn teetti-nen harjoitusteksti).
+Pyyntö tuli perille viikolla 33 maanantaina (2026).
+Näyte otettiin tähystyksessä elokuun 19. päivänä 2026.
+Laboratorio ilmoitti histologian viikolla 35 maanantaina (2026): adenokarsinooma.
+Kliininen valinta tehtiin 20. elokuuta 2026: kiilaresektio.
+Ensimmäine n hoitokerta oli viikolla 35 perjantaina (2026).
+Kerroskuvaus toteutettiin 13. elokuuta 2026.
+Kokoontumin en viikolla 34 torstaina (2026): eri erikoisalojen yhteinen kanta merkitty.
+Aktiivista hoitoa ei ole aloitettu, vasta pohditaan vaihtoeh toja.
+Aiemmin jossain tammikuun alussa oli käy-nyt kontrollissa; tarkkaa päivää ei ole täss-ä.
+Sappirakon poisto tehty 12.8.2024 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tä mä ei ole oikea potilaskert0mus.

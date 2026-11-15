@@ -1,0 +1,19 @@
+county,county_name,area,scenario,arm,metric,mean,p2_5,median,p97_5,seed,n_runs,chip
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,baseline,pct_le42_from_referral,27.1613,9.5238,25.8621,50.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,baseline,pct_le42_from_diagnosis,58.2927,45.3125,58.3333,70.8333,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,baseline,median_days_referral_to_treatment,62.1331,42.5,62.0,84.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,baseline,median_days_diagnosis_to_treatment,36.6157,28.0,36.5,46.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,baseline,n_patients,131.9127,110.0,132.0,155.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,baseline,n_active_treated,59.8554,45.0,60.0,76.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,baseline,n_le42_from_referral,16.26,5.0,15.0,31.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,baseline,n_untreated_at_alert_day,52.3449,37.0,52.0,69.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,scenario,pct_le42_from_referral,54.6417,28.5714,54.6875,80.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,scenario,median_days_referral_to_treatment,39.5835,28.0,37.843,62.8521,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,scenario,n_patients,131.9127,110.0,132.0,155.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,scenario,n_active_treated,59.8554,45.0,60.0,76.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,scenario,n_le42_from_referral,32.7127,16.0,32.0,52.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,delta,pct_le42_from_referral,27.4805,10.9091,27.1429,45.283,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,delta,median_days_referral_to_treatment,-22.5496,-33.829,-22.4997,-11.8553,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,delta,n_patients,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,delta,n_active_treated,0.0,0.0,0.0,0.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast
+09,Päijät-Häme wellbeing services county,YTA-ETELA,high,delta,n_le42_from_referral,16.4528,6.0,16.0,28.0,1,20000,MODEL OUTPUT · assumptions shown · not a forecast

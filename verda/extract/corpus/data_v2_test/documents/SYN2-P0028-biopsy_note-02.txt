@@ -1,0 +1,23 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0028
+document_id: SYN2-P0028-biopsy_note-02
+document_type: biopsy_note
+language: fi
+note_date: 2026-09-03
+display_name: Peter Samplecase SYN2-P0028 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 3.9.2026. Potilas: Peter Samplecase SYN2-P0028 (SYN2-P0028), s. 25.1.1968.
+SYNTEETTINEN poti1ask ertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tähystyksen yhteydessä punktionäyte 3. syyskuuta 2026.
+Lähet-e saapui toimistoon 26. elokuuta 2026 (kirjoituspäivä on eri, ks. alla).
+Kerroskuvaus toteutettiin 30-08-2026.
+Kuva ntaminen on vasta ajanvaraus viikolla 37 maanantaina (2026), sitä ei ole t0teutettu.
+— ote vanhasta kirjauksesta 18.4.2023: syntymäaika 25.1.1968; sappirakon poisto 18.4.2023; ei liity nykyiseen keuhkoselvittelyyn. —
+
+Kirjaaja: synteettinen testikäyttäjä. T ämä ei ole oikea potilaskertomus.

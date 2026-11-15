@@ -1,0 +1,26 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0106
+document_id: SYN2-P0106-discharge_summary-04
+document_type: discharge_summary
+language: fi
+note_date: 2026-08-26
+display_name: Erik Exempelsson SYN2-P0106 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Mallikylän keuhkoklinikka
+Kirjauspäivä 26.8.2026. Potilas: Er-ik Exempelsson SYN2-P0106 (SYN2-P0106), s. 20.9.1955.
+SY NTEETTINEN potilaskert omus, ei 0ikeaa henkilöä.
+
+Tiimikokous pidettiin elokuun 8. päivänä 2026 ja suositus kirjattiin.
+Kudosnäytteet haettiin toimenpiteessä 3. elokuuta 2026.
+Sovittiin hoitomuodosta 8. elokuuta 2026 (kiilaresektio).
+Toimenpide toteutui viikolla 35 keskiviikkona (2026) (kiilaresektio).
+Laboratorio ilmoitti histologian viikolla 32 torstaina (2026): adenokarsinooma.
+Kuvantam-inen tehtiin 24. heinäkuuta 2026 (varaus oli aiemmin).
+Pyyntö tuli perille 12-07-2026.
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Potilas tupako inut aiemmin; vieroitusohjaus annettu.
+
+(Synteettinen lyhyt dikt oit u merkintä.)

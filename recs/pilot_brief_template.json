@@ -1,0 +1,424 @@
+{
+  "schema": {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "tasan/pilot_brief_template.json",
+    "title": "Tasan one-page county pilot brief",
+    "description": "Template the Tasan app's AI fills for any wellbeing services county. Rules: roles only, no personal names (bilingual role labels, e.g. 'Johtajaylilääkäri / Chief Medical Officer, <county> wellbeing services county (<Finnish name>)'; keep 'role holder verified on <url>, <date>' notes without the name); every number needs a source URL that was actually opened; unverifiable values are stated as 'not verified', never invented; status is always 'draft' until a human signs; never claim an existing AstraZeneca–county pilot in Finland; unverified partner names go to the appendix, not the one-pager. Render with recs/scripts/render_pilot_brief.py <file.json> --pdf and check pdfinfo shows Pages: 1.",
+    "type": "object",
+    "required": [
+      "template_version",
+      "status",
+      "status_label",
+      "title",
+      "date_prepared",
+      "county",
+      "signer",
+      "problem",
+      "action",
+      "owners",
+      "cost_range",
+      "kpis",
+      "kpi_caveat",
+      "stop_go",
+      "az_role",
+      "precedents",
+      "caveats",
+      "rules"
+    ],
+    "properties": {
+      "template_version": {
+        "const": "1.0"
+      },
+      "status": {
+        "const": "draft",
+        "description": "Always 'draft'; the renderer refuses anything else"
+      },
+      "status_label": {
+        "type": "string",
+        "default": "DRAFT – not signed. Not discussed with the county."
+      },
+      "project": {
+        "type": "string",
+        "default": "Tasan"
+      },
+      "title": {
+        "type": "string",
+        "description": "e.g. 'Tasan 90-day pilot – <county>'"
+      },
+      "date_prepared": {
+        "type": "string",
+        "format": "date"
+      },
+      "county": {
+        "type": "string",
+        "description": "Official county name, e.g. 'Lapin hyvinvointialue (Lapland)'"
+      },
+      "signer": {
+        "type": "object",
+        "required": [
+          "role",
+          "source",
+          "verified"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "role": {
+            "type": "string",
+            "description": "Bilingual role label only; NO personal name"
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "URL where the role holder was verified"
+          },
+          "verified": {
+            "type": "string",
+            "description": "e.g. 'role holder verified on the county website, 14 Nov 2026'"
+          }
+        }
+      },
+      "problem": {
+        "type": "object",
+        "required": [
+          "line",
+          "metric",
+          "source",
+          "caveat"
+        ],
+        "properties": {
+          "line": {
+            "type": "string",
+            "description": "One plain sentence, county vs best peer"
+          },
+          "metric": {
+            "type": "string",
+            "description": "Exact metric, period, values with 95% CI"
+          },
+          "source": {
+            "type": "string",
+            "description": "Report name, table/figure, URL"
+          },
+          "caveat": {
+            "type": "string",
+            "description": "e.g. chart-digitised ±1 pp"
+          },
+          "people_estimate": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Optional, labelled as Tasan arithmetic with the formula"
+          }
+        }
+      },
+      "action": {
+        "type": "object",
+        "required": [
+          "summary"
+        ],
+        "properties": {
+          "summary": {
+            "type": "string",
+            "description": "One sentence"
+          },
+          "components": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "maxItems": 5
+          }
+        }
+      },
+      "owners": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "role",
+            "source",
+            "verified"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "role": {
+              "type": "string",
+              "description": "'<function>: <bilingual role label>'; NO personal name"
+            },
+            "source": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "verified": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "cost_range": {
+        "type": "object",
+        "required": [
+          "low_eur",
+          "high_eur",
+          "period",
+          "basis",
+          "sources"
+        ],
+        "properties": {
+          "low_eur": {
+            "type": "number"
+          },
+          "high_eur": {
+            "type": "number"
+          },
+          "period": {
+            "type": "string"
+          },
+          "basis": {
+            "type": "string",
+            "description": "FTE × monthly pay (low = task-based, high = total earnings) × months × employer contribution factor"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1
+          },
+          "excludes": {
+            "type": "string",
+            "description": "What is not costed and why"
+          }
+        }
+      },
+      "kpis": {
+        "type": "array",
+        "maxItems": 5,
+        "items": {
+          "type": "object",
+          "required": [
+            "name",
+            "baseline_method",
+            "target",
+            "design_choice"
+          ],
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "baseline_method": {
+              "type": "string",
+              "description": "How the county's own baseline is measured (days 1–30)"
+            },
+            "target": {
+              "type": "string"
+            },
+            "design_choice": {
+              "type": "boolean",
+              "description": "true if the threshold is a Tasan design choice rather than an official target"
+            }
+          }
+        }
+      },
+      "kpi_caveat": {
+        "type": "string",
+        "description": "Short THL 21/2016 caveat: outdated, no lung-specific limit, cancer-specific targets due 2026–2028"
+      },
+      "timeline": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "maxItems": 3
+      },
+      "stop_go": {
+        "type": "object",
+        "required": [
+          "go",
+          "stop",
+          "decider"
+        ],
+        "properties": {
+          "go": {
+            "type": "string"
+          },
+          "stop": {
+            "type": "string"
+          },
+          "decider": {
+            "type": "string"
+          }
+        }
+      },
+      "az_role": {
+        "type": "object",
+        "required": [
+          "summary",
+          "compliance_framework",
+          "compliance_source"
+        ],
+        "properties": {
+          "summary": {
+            "type": "string",
+            "description": "Non-promotional: e.g. co-funding the independent evaluation or registry-completeness work; no patient steering, no product, no patient-level data to AZ"
+          },
+          "compliance_framework": {
+            "type": "string",
+            "description": "Cite the article(s) actually read"
+          },
+          "compliance_source": {
+            "type": "string",
+            "description": "URL"
+          },
+          "note": {
+            "type": "string"
+          }
+        }
+      },
+      "precedents": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "name",
+            "description",
+            "source",
+            "date"
+          ],
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            },
+            "source": {
+              "type": "string",
+              "description": "Reliable public URL, opened"
+            },
+            "date": {
+              "type": "string",
+              "format": "date"
+            },
+            "extra_sources": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      },
+      "caveats": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "appendix": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Relative path to the conditional appendix, if any"
+      },
+      "rules": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Must include 'Roles only, no personal names.'"
+      }
+    }
+  },
+  "template": {
+    "template_version": "1.0",
+    "status": "draft",
+    "status_label": "DRAFT – not signed. Not discussed with the county.",
+    "project": "Tasan",
+    "title": "Tasan 90-day pilot – <county>",
+    "date_prepared": "<YYYY-MM-DD>",
+    "county": "<county>",
+    "signer": {
+      "role": "Johtajaylilääkäri / Chief Medical Officer, <county> wellbeing services county (<Finnish name>)",
+      "source": null,
+      "verified": "role holder verified on <url>, <date> | not verified"
+    },
+    "problem": {
+      "line": "",
+      "metric": "",
+      "source": "",
+      "caveat": "",
+      "people_estimate": null
+    },
+    "action": {
+      "summary": "T3 pathway clock + day-28 alert + named nurse navigator",
+      "components": []
+    },
+    "owners": [
+      {
+        "role": "Signer / sponsor: <bilingual role>",
+        "source": null,
+        "verified": ""
+      },
+      {
+        "role": "Navigator line manager: <bilingual role>",
+        "source": null,
+        "verified": ""
+      },
+      {
+        "role": "Data / clock: county analytics unit (to be assigned)",
+        "source": null,
+        "verified": "role holder not verified"
+      }
+    ],
+    "cost_range": {
+      "low_eur": 20339,
+      "high_eur": 23988,
+      "period": "90 days",
+      "basis": "1.0 FTE sairaanhoitaja (€3,174–4,048/month) + 0.5 FTE analyytikko (€4,663–4,891/month) × 3 months × 1.2314",
+      "sources": [
+        "https://www.kt.fi/tilastot-ja-julkaisut/hyvinvointialan-palkat",
+        "https://www.kt.fi/tilastot-ja-julkaisut/henkilostokulut"
+      ],
+      "excludes": "No IT, physician time or capacity costed. No euro saving claimed."
+    },
+    "kpis": [
+      {
+        "name": "",
+        "baseline_method": "",
+        "target": "",
+        "design_choice": true
+      }
+    ],
+    "kpi_caveat": "",
+    "timeline": [],
+    "stop_go": {
+      "go": "",
+      "stop": "",
+      "decider": "Johtajaylilääkäri"
+    },
+    "az_role": {
+      "summary": "",
+      "compliance_framework": "Pharma Industry Finland Code of Ethics 2026, §35 and §124–125",
+      "compliance_source": "https://www.pif.fi/media/julkaisut/esitteita-ja-raportteja/pif_code-of-ethics_2026.pdf",
+      "note": "Any funding model needs AZ's own compliance review."
+    },
+    "precedents": [],
+    "caveats": [
+      "No existing AstraZeneca–wellbeing-county pilot in Finland is claimed."
+    ],
+    "appendix": null,
+    "rules": [
+      "Roles only, no personal names."
+    ]
+  },
+  "example": "pilot_brief_lapland.json",
+  "rules": [
+    "Roles only, no personal names."
+  ]
+}

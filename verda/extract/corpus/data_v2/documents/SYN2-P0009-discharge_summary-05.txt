@@ -1,0 +1,28 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0009
+document_id: SYN2-P0009-discharge_summary-05
+document_type: discharge_summary
+language: fi
+note_date: 2026-07-05
+display_name: Sari Sijaisnimi SYN2-P0009 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Synteeettisen hyvinvointialueen keskussairaala
+Kirjauspäivä 5.7.2026. Potilas: Sari Sijaisnimi SYN2-P0009 (SYN2-P0009), s. 8.10.1951.
+SYNTEETTINEN pottilaskertomus, ei oikeaa henkilöä.
+
+Diktoitu merkintä keuhkoselvittelystä (synteettinen harjoitusteksti).
+Tiimikokous pidettiin viikolla 25 perjantaina (2026) ja suositus kirjattiin.
+Lähete saapui toimistoon touko kuun 21. päiväänä 2026 (kirjoituspäivä on eri, ks. alla).
+Mikroskooppinen lausunto valmistui 14. kesäkuuta 2026: NCLC, ei tarkemmin luokiteltu.
+Tähystyksen yht-eydessä punktionäyte 5. kesäkuuta 2026.
+Toimenpide toteutui 5. heiäkuuta 2026 (SBRT).
+Leikekuvaus o-n suoitettu 24. toukokuuta 2026.
+Kliininen valinta tehtiin 20. kesäkuuta 2026: SBRT.
+— ot-e vanhasta kirjauksesta 23.11.2018: syntymäaika 8.10.1951; sappirakon poisto 23.11.2018; ei lii-ty nykyiseen keuhkoselvittelyyn. —
+Aiemmin jossain tammikuun alussa oli käynyt kontrollissa; tarkkaa päivää ei ole tässä.
+Sappi-rakon poisto tehty 21.6.2023 (ei liity nykyiseen selvittelyyn).
+
+Kirjaaja: synteettinen testikäyttäjä. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,24 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v1
+patient_id: SYN-P0001
+document_id: SYN-P0001-pathology_report-03
+document_type: pathology_report
+language: fi
+note_date: 2026-08-13
+display_name: Aino Synteettinen SYN-P0001 (invented)
+DO NOT treat this text as a clinical record.
+==============================================================================
+Keksityn yliopistollinen sairaala
+Kirjauspäivä 13.8.2026. Potilas: Aino Synteettinen SYN-P0001 (SYN-P0001), s. 15.4.1945.
+SYNTEETTINEN potilaskertomus, ei oikeaa henkilöä.
+
+Käynnin syy: keuhkosyöpäepäilyn selvittely (synteettinen esiimerkki).
+Esitiedot: eSH-lähete vastaaotettu 2026-07-16.
+Esitiedot: tT-tutkimus tehty 21.7.2026.
+Biopsiat otettu bronkoskopiassa 1.8.2026.
+Histologinen vastaus saapui 13/8/2026 (levyepiteelikarsinooma).
+Syntymäaika 15.4.1945 tarkistettu väestötiedoista.
+Potilas tupakoinut aiemmin; vieroitusohjaus annettu.
+
+Kirjaaja: synteettinen testikäyttäjää. Tämä ei ole oikea potilaskertomus.

@@ -1,0 +1,20 @@
+==============================================================================
+SYNTHETIC DOCUMENT — NOT A REAL PATIENT — Tasan Extract eval corpus. No real personal data. All names, dates and findings are invented.
+corpus_id: tasan-extract-synthetic-v2
+patient_id: SYN2-P0082
+document_id: SYN2-P0082-referral_letter-01
+document_type: referral_letter
+language: sv
+note_date: 2026-08-28
+display_name: Alan Invented SYN2-P0082 (invented)
+DO NOT treat this text as a clinical record. Corpus v2, held-out phrasing.
+==============================================================================
+Påhittade lungkliniken
+Anteckningsdatum 28.8.2026. Patient: Alan Invented SYN2-P0082 (SYN2-P0082), f. 3.8.1955.
+SYNTETISK patientjournal, ingen verklig person.
+
+Dikterad anteckning från lungutredningen (syntetisk övningstext).
+Konsultationsbegäran skrevs augusti den 25 år 2026, men registrerades som inkommen först den 26 augusti 2026.
+Tidigare, någon gång i början av januari, hade hen ett kontrollbesök; exakt dag saknas här.
+
+Antecknat av: syntetisk testanvändare. Detta är inte en verklig journal.
