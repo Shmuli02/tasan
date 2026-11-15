@@ -220,15 +220,15 @@ mark.hl {
   background: linear-gradient(180deg, #FFFCF7 0%, var(--tz-sheet) 42%, #F2EDE3 100%);
   box-shadow: var(--tz-sh-sheet-open);
 }
-.hwb-page.state-fan .sheet.open .file-head,
-.hwb-page.state-fan .sheet.open .body mark.hl { display: none; }
+.hwb-page.state-fan .sheet.open .file-head { display: none; }
 .hwb-page.state-fan .sheet.open .body {
   font: 400 10.5px/1.55 var(--tz-font-mono);
   color: var(--tz-ink-2);
   padding: 0;
-  mask-image: linear-gradient(180deg, #000 62%, transparent 96%);
-  -webkit-mask-image: linear-gradient(180deg, #000 62%, transparent 96%);
+  mask-image: linear-gradient(180deg, #000 78%, transparent 98%);
+  -webkit-mask-image: linear-gradient(180deg, #000 78%, transparent 98%);
 }
+.hwb-page.state-fan .sheet.open .body mark.hl { font-weight: 600; }
 .hwb-page.state-open .sheet:not(.open) .stamp {
   top: 40px;
   left: 8px;
@@ -489,3 +489,27 @@ mark.hl {
   .hwb-page.state-fan .hero { flex: none; min-height: 340px; }
   .hwb-page.state-fan .stage { min-height: 340px; flex: none; }
 }
+
+/* Fan view: what the model extracted from the featured note */
+.hwb-page.state-fan .hero { grid-template-rows: minmax(0, 1fr) auto; row-gap: 10px; }
+.xstrip {
+  display: flex; align-items: center; gap: 10px 18px; flex-wrap: wrap;
+  background: #fff; border: 1px solid var(--tz-line); border-radius: 14px;
+  padding: 10px 14px; box-shadow: var(--tz-sh-1);
+}
+.xstrip-hd { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.xstrip-hd b { font: 700 13px/1.2 var(--tz-font-ui); color: var(--tz-navy); }
+.xstrip-hd span { font: 500 11px/1.3 var(--tz-font-mono); color: var(--tz-ink-3); }
+.xchips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 6px; flex: 1 1 360px; }
+.xchips li {
+  display: inline-flex; flex-direction: column; gap: 2px;
+  padding: 6px 10px; border-radius: 8px; background: var(--c, var(--tz-sunk)); color: var(--f, var(--tz-ink));
+  position: relative;
+}
+.xchips li:not(:last-child) { margin-right: 14px; }
+.xchips li:not(:last-child)::after {
+  content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%);
+  font: 700 12px/1 var(--tz-font-ui); color: var(--tz-ink-4);
+}
+.xchips .k { font: 700 11.5px/1.1 var(--tz-font-ui); }
+.xchips .d { font: 600 11px/1 var(--tz-font-mono); opacity: .85; font-variant-numeric: tabular-nums; }

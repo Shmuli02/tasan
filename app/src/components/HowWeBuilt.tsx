@@ -60,6 +60,16 @@ const HL: Record<string, { bg: string; fg: string }> = {
   treatment_start: { bg: "#E8C5D8", fg: "#6A2450" },
 };
 
+const EV_LABEL: Record<string, { en: string; fi: string }> = {
+  referral_received: { en: "Referral received", fi: "Lähete saapui" },
+  ct_done: { en: "CT / imaging", fi: "TT / kuvantaminen" },
+  biopsy_done: { en: "Biopsy", fi: "Biopsia" },
+  pathology_result: { en: "Pathology result", fi: "Patologian tulos" },
+  mdt_decision: { en: "MDT decision", fi: "MDT-päätös" },
+  treatment_decision: { en: "Treatment decision", fi: "Hoitopäätös" },
+  treatment_start: { en: "Treatment start", fi: "Hoito alkoi" },
+};
+
 function extractedEvents(note: Note): Ev[] {
   if (note.model_events && note.model_events.length) return note.model_events;
   return note.gold_events ?? note.events ?? [];
@@ -466,7 +476,7 @@ export function HowWeBuilt({ lang }: { lang: Lang }) {
                     </span>
                     {isV2(note) ? <span className="v2">v2</span> : null}
                   </div>
-                  <div className="body">{body}</div>
+                  {isOpenish ? <HighlightedBody text={text} events={events} from={from} /> : <div className="body">{body}</div>}
                   <Stamp />
                   <div className="nid">{note.note_id}</div>
                 </article>
@@ -514,6 +524,25 @@ export function HowWeBuilt({ lang }: { lang: Lang }) {
             ) : null}
           </div>
         </div>
+
+        {mode === "fan" && events.length ? (
+          <div className="xstrip" aria-label={fi ? "Poimitut tapahtumat" : "Extracted events"}>
+            <div className="xstrip-hd">
+              <b>{fi ? "Mallin poimimat tapahtumat" : "What the model pulled out"}</b>
+              <span>
+                {modelShort} · {open.note_id} · {fi ? "klikkaa muistiota nähdäksesi kaikki" : "click the note for offsets"}
+              </span>
+            </div>
+            <ol className="xchips">
+              {[...events].sort((a, b) => String(a.date ?? "").localeCompare(String(b.date ?? ""))).map((e) => (
+                <li key={`${e.type}-${e.date}-${e.start}`} style={{ ["--c" as string]: HL[e.type]?.bg, ["--f" as string]: HL[e.type]?.fg }}>
+                  <span className="k">{EV_LABEL[e.type]?.[fi ? "fi" : "en"] ?? e.type}</span>
+                  <span className="d">{e.date}</span>
+                </li>
+              ))}
+            </ol>
+          </div>
+        ) : null}
 
         {mode === "open" ? (
           <aside className="rail">
